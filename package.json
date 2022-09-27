@@ -1,0 +1,50 @@
+{
+  "name": "baraka-commun-vue",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "storybook": "start-storybook -p 6006",
+    "build-storybook": "build-storybook",
+    "tokens": "node installTokensStorybook.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://gitlab.loto-quebec.com/gouvernance_frontend/design-system-exp/baraka-commun-vue.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.18.5",
+    "@glidejs/glide": "^3.5.2",
+    "@storybook/addon-a11y": "^6.5.8",
+    "@storybook/addon-actions": "^6.5.8",
+    "@storybook/addon-essentials": "^6.5.8",
+    "@storybook/addon-interactions": "^6.5.8",
+    "@storybook/addon-links": "^6.5.8",
+    "@storybook/builder-webpack5": "^6.5.0-rc.1",
+    "@storybook/manager-webpack5": "^6.5.0-rc.1",
+    "@storybook/testing-library": "^0.0.12",
+    "@storybook/vue3": "^6.5.8",
+    "@vue/cli": "^5.0.4",
+    "@vue/cli-plugin-babel": "^5.0.4",
+    "@vue/cli-plugin-eslint": "^5.0.4",
+    "@vue/cli-service": "^5.0.4",
+    "babel-loader": "^8.2.5",
+    "brk-figma-mvp1": "^0.1.0-alpha.19",
+    "brk-tokens-mvp1": "^1.0.0",
+    "copyfiles": "^2.4.1",
+    "css-loader": "^6.7.1",
+    "replace-in-file": "^6.3.5",
+    "sass": "^1.53.0",
+    "sass-loader": "^13.0.2",
+    "storybook-addon-themes": "^6.1.0",
+    "style-loader": "^3.3.1",
+    "test-tokens-npm-3": "^0.1.0-alpha.9",
+    "vue-loader": "^16.8.3",
+    "vue-template-compiler": "^2.7.7",
+    "webpack": "^5.73.0"
+  }
+}

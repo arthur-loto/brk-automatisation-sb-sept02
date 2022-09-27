@@ -1,0 +1,29 @@
+/* Normal */
+@font-face {
+    font-family: 'Graphik';
+    font-style: normal;
+    font-weight: Regular;
+    font-display: swap;
+    src: url(../assets/Graphik-Regular.woff2) format('woff2');
+  
+  }
+
+/* Medium */
+@font-face {
+    font-family: 'Graphik';
+    font-style: normal;
+    font-weight: medium;
+    font-display: swap;
+    src: url(../assets/Graphik-Medium.woff2) format('woff2');
+  }
+
+
+  /* Bold */
+  @font-face {
+    font-family: 'Graphik';
+    font-style: normal;
+    font-weight: bold;
+    font-display: swap;
+    src: url(../assets/Graphik-Bold.woff2) format('woff2');
+  }
+  

@@ -1,0 +1,7 @@
+:root {
+    --brk-custom-color: lightblue;
+}
+
+.inverted {
+    --brk-custom-color: blue;
+}
