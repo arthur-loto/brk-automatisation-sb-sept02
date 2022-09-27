@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Tue, 27 Sep 2022 20:27:26 GMT
+// Generated on Tue, 27 Sep 2022 20:36:40 GMT
 
 
 #import <Foundation/Foundation.h>
@@ -408,10 +408,10 @@
 #define BrkPromoPrimaryXlContainerWidth 312
 #define BrkPromoPrimaryXlPaddingHorizontal 24
 #define BrkPromoPrimaryXlPaddingVertical 24
-#define BrkPromoPrimaryXlContentGap 8
+#define BrkPromoPrimaryXlContentGap 24
 #define BrkPromoPrimaryXlPretitleFontFamily Arial
 #define BrkPromoPrimaryXlPretitleFontWeight Bold
-#define BrkPromoPrimaryXlPretitleLineHeight 15
+#define BrkPromoPrimaryXlPretitleLineHeight 110%
 #define BrkPromoPrimaryXlPretitleFontSize 15
 #define BrkPromoPrimaryXlPretitleLetterSpacing -2%
 #define BrkPromoPrimaryXlPretitleParagraphSpacing 0
@@ -441,8 +441,8 @@
 #define BrkPromoPrimaryMdContentGap 8
 #define BrkPromoPrimaryMdPretitleFontFamily Arial
 #define BrkPromoPrimaryMdPretitleFontWeight Bold
-#define BrkPromoPrimaryMdPretitleLineHeight 12
-#define BrkPromoPrimaryMdPretitleFontSize 12
+#define BrkPromoPrimaryMdPretitleLineHeight 110%
+#define BrkPromoPrimaryMdPretitleFontSize 16
 #define BrkPromoPrimaryMdPretitleLetterSpacing -2%
 #define BrkPromoPrimaryMdPretitleParagraphSpacing 0
 #define BrkPromoPrimaryMdPretitleTextDecoration none
@@ -450,7 +450,7 @@
 #define BrkPromoPrimaryMdHeadingFontFamily Graphik
 #define BrkPromoPrimaryMdHeadingFontWeight Super
 #define BrkPromoPrimaryMdHeadingLineHeight 110%
-#define BrkPromoPrimaryMdHeadingFontSize 28
+#define BrkPromoPrimaryMdHeadingFontSize 32
 #define BrkPromoPrimaryMdHeadingLetterSpacing -2%
 #define BrkPromoPrimaryMdHeadingParagraphSpacing 0
 #define BrkPromoPrimaryMdHeadingTextCase none
@@ -458,7 +458,7 @@
 #define BrkPromoPrimaryMdBodyFontFamily Arial
 #define BrkPromoPrimaryMdBodyFontWeight Regular
 #define BrkPromoPrimaryMdBodyLineHeight 100%
-#define BrkPromoPrimaryMdBodyFontSize 13
+#define BrkPromoPrimaryMdBodyFontSize 18
 #define BrkPromoPrimaryMdBodyLetterSpacing 2%
 #define BrkPromoPrimaryMdBodyParagraphSpacing 0
 #define BrkPromoPrimaryMdBodyTextDecoration none
@@ -470,7 +470,7 @@
 #define BrkPromoPrimaryLgContentGap 8
 #define BrkPromoPrimaryLgPretitleFontFamily Arial
 #define BrkPromoPrimaryLgPretitleFontWeight Bold
-#define BrkPromoPrimaryLgPretitleLineHeight 15
+#define BrkPromoPrimaryLgPretitleLineHeight 110%
 #define BrkPromoPrimaryLgPretitleFontSize 15
 #define BrkPromoPrimaryLgPretitleLetterSpacing -2%
 #define BrkPromoPrimaryLgPretitleParagraphSpacing 0
