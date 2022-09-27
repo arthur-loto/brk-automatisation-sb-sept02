@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Tue, 27 Sep 2022 22:54:31 GMT
+// Generated on Tue, 27 Sep 2022 22:58:54 GMT
 
 
 #import <Foundation/Foundation.h>
@@ -365,7 +365,7 @@
 #define BrkPromoSecondaryLgPaddingHorizontal 24
 #define BrkPromoSecondaryLgPaddingVertical 24
 #define BrkPromoSecondaryLgContentGap 8
-#define BrkPromoSecondaryLgContentMarginBottom 16
+#define BrkPromoSecondaryLgContentMarginBottom 10
 #define BrkPromoSecondaryLgImageHeight 300
 #define BrkPromoSecondaryLgPretitleFontFamily Graphik
 #define BrkPromoSecondaryLgPretitleFontWeight Bold
@@ -386,7 +386,7 @@
 #define BrkPromoSecondaryXlPaddingHorizontal 24
 #define BrkPromoSecondaryXlPaddingVertical 24
 #define BrkPromoSecondaryXlContentGap 30
-#define BrkPromoSecondaryXlContentMarginBottom 24
+#define BrkPromoSecondaryXlContentMarginBottom 12
 #define BrkPromoSecondaryXlImageHeight 568
 #define BrkPromoSecondaryXlPretitleFontFamily Graphik
 #define BrkPromoSecondaryXlPretitleFontWeight Bold
@@ -632,7 +632,8 @@
 #define BrkPromoPrimaryLgPaddingHorizontal 24
 #define BrkPromoPrimaryLgPaddingVertical 24
 #define BrkPromoPrimaryLgContentGap 8
-#define BrkPromoPrimaryLgContentMarginBottom 16
+#define BrkPromoPrimaryLgPretitleMarginBottom 10
+#define BrkPromoPrimaryLgBodyMarginTop 16
 #define BrkPromoPrimaryLgImageHeight 300
 #define BrkPromoPrimaryLgPretitleFontFamily Graphik
 #define BrkPromoPrimaryLgPretitleFontWeight Bold
@@ -661,7 +662,8 @@
 #define BrkPromoPrimaryXlPaddingHorizontal 24
 #define BrkPromoPrimaryXlPaddingVertical 24
 #define BrkPromoPrimaryXlContentGap 30
-#define BrkPromoPrimaryXlContentMarginBottom 24
+#define BrkPromoPrimaryXlPretitleMarginBottom 12
+#define BrkPromoPrimaryXlBodyMarginTop 20
 #define BrkPromoPrimaryXlImageHeight 568
 #define BrkPromoPrimaryXlPretitleFontFamily Graphik
 #define BrkPromoPrimaryXlPretitleFontWeight Bold
