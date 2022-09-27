@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Tue, 27 Sep 2022 23:23:04 GMT
+// Generated on Tue, 27 Sep 2022 23:37:42 GMT
 
 
 #import <Foundation/Foundation.h>
@@ -285,54 +285,15 @@
 #define BrkPromoSecondarySmHeadingParagraphSpacing 0
 #define BrkPromoSecondarySmHeadingTextCase none
 #define BrkPromoSecondarySmHeadingTextDecoration none
-#define BrkPromoSecondarySmBodyFontFamily Arial
-#define BrkPromoSecondarySmBodyFontWeight Regular
-#define BrkPromoSecondarySmBodyLineHeight 120%
-#define BrkPromoSecondarySmBodyFontSize 16
-#define BrkPromoSecondarySmBodyLetterSpacing 2%
-#define BrkPromoSecondarySmBodyParagraphSpacing 0
-#define BrkPromoSecondarySmBodyTextDecoration none
-#define BrkPromoSecondarySmBodyTextCase none
 #define BrkPromoSecondarySmPaddingHorizontal 16
 #define BrkPromoSecondarySmPaddingVertical 15
 #define BrkPromoSecondarySmContentGap 16
 #define BrkPromoSecondarySmPretitleMarginBottom 4
-#define BrkPromoSecondaryXlPretitleFontFamily Arial
-#define BrkPromoSecondaryXlPretitleFontWeight Bold
-#define BrkPromoSecondaryXlPretitleLineHeight 15
-#define BrkPromoSecondaryXlPretitleFontSize 15
-#define BrkPromoSecondaryXlPretitleLetterSpacing -2%
-#define BrkPromoSecondaryXlPretitleParagraphSpacing 0
-#define BrkPromoSecondaryXlPretitleTextDecoration none
-#define BrkPromoSecondaryXlPretitleTextCase none
-#define BrkPromoSecondaryXlHeadingFontFamily Graphik
-#define BrkPromoSecondaryXlHeadingFontWeight Super
-#define BrkPromoSecondaryXlHeadingLineHeight 110%
-#define BrkPromoSecondaryXlHeadingFontSize 32
-#define BrkPromoSecondaryXlHeadingLetterSpacing -2%
-#define BrkPromoSecondaryXlHeadingParagraphSpacing 0
-#define BrkPromoSecondaryXlHeadingTextCase none
-#define BrkPromoSecondaryXlHeadingTextDecoration none
-#define BrkPromoSecondaryXlBodyFontFamily Arial
-#define BrkPromoSecondaryXlBodyFontWeight Regular
-#define BrkPromoSecondaryXlBodyLineHeight 110%
-#define BrkPromoSecondaryXlBodyFontSize 15
-#define BrkPromoSecondaryXlBodyLetterSpacing -2%
-#define BrkPromoSecondaryXlBodyParagraphSpacing 0
-#define BrkPromoSecondaryXlBodyTextDecoration none
-#define BrkPromoSecondaryXlBodyTextCase none
-#define BrkPromoSecondaryXlImageHeight 568
-#define BrkPromoSecondaryXlGradientHeight 142
-#define BrkPromoSecondaryXlContainerWidth 312
-#define BrkPromoSecondaryXlPaddingHorizontal 16
-#define BrkPromoSecondaryXlPaddingVertical 20
-#define BrkPromoSecondaryXlContentGap 32
-#define BrkPromoSecondaryXlPretitleMarginBottom 12
 #define BrkPromoSecondaryMdImageHeight 270
 #define BrkPromoSecondaryMdGradientHeight 67.5
 #define BrkPromoSecondaryMdPretitleFontFamily Arial
 #define BrkPromoSecondaryMdPretitleFontWeight Bold
-#define BrkPromoSecondaryMdPretitleLineHeight 12
+#define BrkPromoSecondaryMdPretitleLineHeight 110%
 #define BrkPromoSecondaryMdPretitleFontSize 12
 #define BrkPromoSecondaryMdPretitleLetterSpacing -2%
 #define BrkPromoSecondaryMdPretitleParagraphSpacing 0
@@ -346,14 +307,6 @@
 #define BrkPromoSecondaryMdHeadingParagraphSpacing 0
 #define BrkPromoSecondaryMdHeadingTextCase none
 #define BrkPromoSecondaryMdHeadingTextDecoration none
-#define BrkPromoSecondaryMdBodyFontFamily Arial
-#define BrkPromoSecondaryMdBodyFontWeight Regular
-#define BrkPromoSecondaryMdBodyLineHeight 100%
-#define BrkPromoSecondaryMdBodyFontSize 13
-#define BrkPromoSecondaryMdBodyLetterSpacing 2%
-#define BrkPromoSecondaryMdBodyParagraphSpacing 0
-#define BrkPromoSecondaryMdBodyTextDecoration none
-#define BrkPromoSecondaryMdBodyTextCase none
 #define BrkPromoSecondaryMdPaddingHorizontal 20
 #define BrkPromoSecondaryMdPaddingVertical 20
 #define BrkPromoSecondaryMdContentGap 32
@@ -362,7 +315,7 @@
 #define BrkPromoSecondaryLgGradientHeight 75
 #define BrkPromoSecondaryLgPretitleFontFamily Arial
 #define BrkPromoSecondaryLgPretitleFontWeight Bold
-#define BrkPromoSecondaryLgPretitleLineHeight 15
+#define BrkPromoSecondaryLgPretitleLineHeight 110%
 #define BrkPromoSecondaryLgPretitleFontSize 15
 #define BrkPromoSecondaryLgPretitleLetterSpacing -2%
 #define BrkPromoSecondaryLgPretitleParagraphSpacing 0
@@ -376,18 +329,33 @@
 #define BrkPromoSecondaryLgHeadingParagraphSpacing 0
 #define BrkPromoSecondaryLgHeadingTextCase none
 #define BrkPromoSecondaryLgHeadingTextDecoration none
-#define BrkPromoSecondaryLgBodyFontFamily Arial
-#define BrkPromoSecondaryLgBodyFontWeight Regular
-#define BrkPromoSecondaryLgBodyLineHeight 100%
-#define BrkPromoSecondaryLgBodyFontSize 16
-#define BrkPromoSecondaryLgBodyLetterSpacing 2%
-#define BrkPromoSecondaryLgBodyParagraphSpacing 0
-#define BrkPromoSecondaryLgBodyTextDecoration none
-#define BrkPromoSecondaryLgBodyTextCase none
 #define BrkPromoSecondaryLgPaddingHorizontal 16
 #define BrkPromoSecondaryLgPaddingVertical 20
 #define BrkPromoSecondaryLgContentGap 32
 #define BrkPromoSecondaryLgPretitleMarginBottom 10
+#define BrkPromoSecondaryXlImageHeight 568
+#define BrkPromoSecondaryXlGradientHeight 142
+#define BrkPromoSecondaryXlContainerWidth 312
+#define BrkPromoSecondaryXlPaddingHorizontal 16
+#define BrkPromoSecondaryXlPaddingVertical 20
+#define BrkPromoSecondaryXlContentGap 32
+#define BrkPromoSecondaryXlPretitleMarginBottom 12
+#define BrkPromoSecondaryXlPretitleFontFamily Arial
+#define BrkPromoSecondaryXlPretitleFontWeight Bold
+#define BrkPromoSecondaryXlPretitleLineHeight 110%
+#define BrkPromoSecondaryXlPretitleFontSize 20
+#define BrkPromoSecondaryXlPretitleLetterSpacing -2%
+#define BrkPromoSecondaryXlPretitleParagraphSpacing 0
+#define BrkPromoSecondaryXlPretitleTextDecoration none
+#define BrkPromoSecondaryXlPretitleTextCase none
+#define BrkPromoSecondaryXlHeadingFontFamily Graphik
+#define BrkPromoSecondaryXlHeadingFontWeight Super
+#define BrkPromoSecondaryXlHeadingLineHeight 110%
+#define BrkPromoSecondaryXlHeadingFontSize 42
+#define BrkPromoSecondaryXlHeadingLetterSpacing -2%
+#define BrkPromoSecondaryXlHeadingParagraphSpacing 0
+#define BrkPromoSecondaryXlHeadingTextCase none
+#define BrkPromoSecondaryXlHeadingTextDecoration none
 #define BrkPromoPrimarySmImageHeight 172
 #define BrkPromoPrimarySmGradientHeight 43
 #define BrkPromoPrimarySmPaddingHorizontal 16
