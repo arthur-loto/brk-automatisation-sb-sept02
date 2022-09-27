@@ -6,7 +6,7 @@ name: Workflow automatique livraison Tokens
 # or API.
 on:
   push:
-    branches: [ dev ]
+    branches: [ demo-sln ]
     
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
