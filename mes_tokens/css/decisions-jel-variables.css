@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Tue, 27 Sep 2022 23:37:42 GMT
+ * Generated on Tue, 27 Sep 2022 23:49:45 GMT
  */
 
 :root {
@@ -719,12 +719,29 @@
   --brk-promo-tertiary-inverted-gradient-color: linear-gradient(180deg, #00000000 0%, #000000 100%);
   --brk-promo-tertiary-inverted-heading-font-color: #000000;
   --brk-promo-tertiary-inverted-pretitle-font-color: #000000;
+  --brk-promo-tertiary-lg-body-margin-top: 20px;
+  --brk-promo-tertiary-lg-content-gap: 32px;
   --brk-promo-tertiary-lg-gradient-height: 75px;
   --brk-promo-tertiary-lg-image-height: 300px;
+  --brk-promo-tertiary-lg-padding-horizontal: 16px;
+  --brk-promo-tertiary-lg-padding-vertical: 20px;
+  --brk-promo-tertiary-lg-pretitle-margin-bottom: 10px;
+  --brk-promo-tertiary-md-body-margin-top: 16px;
+  --brk-promo-tertiary-md-content-gap: 32px;
   --brk-promo-tertiary-md-gradient-height: 67.5px;
   --brk-promo-tertiary-md-image-height: 270px;
+  --brk-promo-tertiary-md-padding-horizontal: 20px;
+  --brk-promo-tertiary-md-padding-vertical: 20px;
+  --brk-promo-tertiary-md-pretitle-margin-bottom: 8px;
+  --brk-promo-tertiary-sm-body-margin-top: 8px;
+  --brk-promo-tertiary-sm-content-gap: 16px;
+  --brk-promo-tertiary-sm-frame-padding-horizontal: 10px;
+  --brk-promo-tertiary-sm-frame-padding-vertical: 10px;
   --brk-promo-tertiary-sm-gradient-height: 43px;
   --brk-promo-tertiary-sm-image-height: 172px;
+  --brk-promo-tertiary-sm-padding-horizontal: 16px;
+  --brk-promo-tertiary-sm-padding-vertical: 15px;
+  --brk-promo-tertiary-sm-pretitle-margin-bottom: 4px;
   --brk-promo-tertiary-standard-background-color: #ffffff;
   --brk-promo-tertiary-standard-body-font-color: #ffffff;
   --brk-promo-tertiary-standard-border-color: #e6e6e6;
@@ -732,7 +749,12 @@
   --brk-promo-tertiary-standard-gradient-color: linear-gradient(180deg, #ffffff00 0%, #ffffff 100%);
   --brk-promo-tertiary-standard-heading-font-color: #ffffff;
   --brk-promo-tertiary-standard-pretitle-font-color: #ffffff;
+  --brk-promo-tertiary-xl-body-margin-top: 24px;
   --brk-promo-tertiary-xl-container-width: 312px;
+  --brk-promo-tertiary-xl-content-gap: 32px;
   --brk-promo-tertiary-xl-gradient-height: 142px;
   --brk-promo-tertiary-xl-image-height: 568px;
+  --brk-promo-tertiary-xl-padding-horizontal: 16px;
+  --brk-promo-tertiary-xl-padding-vertical: 20px;
+  --brk-promo-tertiary-xl-pretitle-margin-bottom: 12px;
 }
