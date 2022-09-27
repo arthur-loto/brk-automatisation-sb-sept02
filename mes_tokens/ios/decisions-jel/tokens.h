@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Tue, 27 Sep 2022 22:58:54 GMT
+// Generated on Tue, 27 Sep 2022 23:08:53 GMT
 
 
 #import <Foundation/Foundation.h>
@@ -293,6 +293,10 @@
 #define BrkPromoSecondarySmBodyParagraphSpacing 0
 #define BrkPromoSecondarySmBodyTextDecoration none
 #define BrkPromoSecondarySmBodyTextCase none
+#define BrkPromoSecondarySmPaddingHorizontal 16
+#define BrkPromoSecondarySmPaddingVertical 15
+#define BrkPromoSecondarySmContentGap 16
+#define BrkPromoSecondarySmPretitleMarginBottom 4
 #define BrkPromoSecondaryXlImageHeight 568
 #define BrkPromoSecondaryXlGradientHeight 142
 #define BrkPromoSecondaryXlContainerWidth 312
@@ -320,6 +324,10 @@
 #define BrkPromoSecondaryXlBodyParagraphSpacing 0
 #define BrkPromoSecondaryXlBodyTextDecoration none
 #define BrkPromoSecondaryXlBodyTextCase none
+#define BrkPromoSecondaryXlPaddingHorizontal 16
+#define BrkPromoSecondaryXlPaddingVertical 20
+#define BrkPromoSecondaryXlContentGap 32
+#define BrkPromoSecondaryXlPretitleMarginBottom 12
 #define BrkPromoSecondaryMdImageHeight 270
 #define BrkPromoSecondaryMdGradientHeight 67.5
 #define BrkPromoSecondaryMdPretitleFontFamily Arial
@@ -346,6 +354,10 @@
 #define BrkPromoSecondaryMdBodyParagraphSpacing 0
 #define BrkPromoSecondaryMdBodyTextDecoration none
 #define BrkPromoSecondaryMdBodyTextCase none
+#define BrkPromoSecondaryMdPaddingHorizontal 20
+#define BrkPromoSecondaryMdPaddingVertical 20
+#define BrkPromoSecondaryMdContentGap 32
+#define BrkPromoSecondaryMdPretitleMarginBottom 8
 #define BrkPromoSecondaryLgImageHeight 300
 #define BrkPromoSecondaryLgGradientHeight 75
 #define BrkPromoSecondaryLgPretitleFontFamily Arial
@@ -372,6 +384,10 @@
 #define BrkPromoSecondaryLgBodyParagraphSpacing 0
 #define BrkPromoSecondaryLgBodyTextDecoration none
 #define BrkPromoSecondaryLgBodyTextCase none
+#define BrkPromoSecondaryLgPaddingHorizontal 16
+#define BrkPromoSecondaryLgPaddingVertical 20
+#define BrkPromoSecondaryLgContentGap 32
+#define BrkPromoSecondaryLgPretitleMarginBottom 10
 #define BrkPromoPrimarySmImageHeight 172
 #define BrkPromoPrimarySmGradientHeight 43
 #define BrkPromoPrimarySmPaddingHorizontal 16
