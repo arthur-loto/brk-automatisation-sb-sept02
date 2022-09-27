@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Tue, 27 Sep 2022 22:45:13 GMT
+// Generated on Tue, 27 Sep 2022 22:54:31 GMT
 
 
 #import <Foundation/Foundation.h>
@@ -321,8 +321,8 @@
 #define BrkPromoTertiaryFrameBorderRadius 4
 #define BrkPromoSecondarySmPaddingHorizontal 10
 #define BrkPromoSecondarySmPaddingVertical 16
-#define BrkPromoSecondarySmContentGap 4
-#define BrkPromoSecondarySmContentMarginBottom 8
+#define BrkPromoSecondarySmContentGap 16
+#define BrkPromoSecondarySmContentMarginBottom 4
 #define BrkPromoSecondarySmImageHeight 172
 #define BrkPromoSecondarySmPretitleFontFamily Graphik
 #define BrkPromoSecondarySmPretitleFontWeight Bold
@@ -344,7 +344,7 @@
 #define BrkPromoSecondaryMdPaddingHorizontal 16
 #define BrkPromoSecondaryMdPaddingVertical 16
 #define BrkPromoSecondaryMdContentGap 8
-#define BrkPromoSecondaryMdContentMarginBottom 16
+#define BrkPromoSecondaryMdContentMarginBottom 8
 #define BrkPromoSecondaryMdImageHeight 270
 #define BrkPromoSecondaryMdPretitleFontFamily Graphik
 #define BrkPromoSecondaryMdPretitleFontWeight Bold
@@ -571,8 +571,9 @@
 #define BrkButtonPrimaryStandardSmBoxShadowFocus [object Object]
 #define BrkPromoPrimarySmPaddingHorizontal 10
 #define BrkPromoPrimarySmPaddingVertical 16
-#define BrkPromoPrimarySmContentGap 4
-#define BrkPromoPrimarySmContentMarginBottom 8
+#define BrkPromoPrimarySmContentGap 16
+#define BrkPromoPrimarySmPretitleMarginBottom 4
+#define BrkPromoPrimarySmBodyMarginTop 8
 #define BrkPromoPrimarySmImageHeight 172
 #define BrkPromoPrimarySmPretitleFontFamily Graphik
 #define BrkPromoPrimarySmPretitleFontWeight Bold
@@ -601,7 +602,8 @@
 #define BrkPromoPrimaryMdPaddingHorizontal 16
 #define BrkPromoPrimaryMdPaddingVertical 16
 #define BrkPromoPrimaryMdContentGap 8
-#define BrkPromoPrimaryMdContentMarginBottom 16
+#define BrkPromoPrimaryMdPretitleMarginBottom 8
+#define BrkPromoPrimaryMdBodyMarginTop 12
 #define BrkPromoPrimaryMdImageHeight 270
 #define BrkPromoPrimaryMdPretitleFontFamily Graphik
 #define BrkPromoPrimaryMdPretitleFontWeight Bold

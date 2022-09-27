@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Tue, 27 Sep 2022 22:45:13 GMT
+ * Generated on Tue, 27 Sep 2022 22:54:31 GMT
  */
 
 :root {
@@ -499,11 +499,11 @@
   --brk-promo-primary-md-body-font-weight: Regular;
   --brk-promo-primary-md-body-letter-spacing: 2%;
   --brk-promo-primary-md-body-line-height: 85%;
+  --brk-promo-primary-md-body-margin-top: 12px;
   --brk-promo-primary-md-body-paragraph-spacing: 0;
   --brk-promo-primary-md-body-text-case: none;
   --brk-promo-primary-md-body-text-decoration: none;
   --brk-promo-primary-md-content-gap: 8px;
-  --brk-promo-primary-md-content-margin-bottom: 16px;
   --brk-promo-primary-md-heading-font-family: Arial;
   --brk-promo-primary-md-heading-font-size: 28px;
   --brk-promo-primary-md-heading-font-weight: Regular;
@@ -520,6 +520,7 @@
   --brk-promo-primary-md-pretitle-font-weight: Bold;
   --brk-promo-primary-md-pretitle-letter-spacing: -2%;
   --brk-promo-primary-md-pretitle-line-height: 14px;
+  --brk-promo-primary-md-pretitle-margin-bottom: 8px;
   --brk-promo-primary-md-pretitle-paragraph-spacing: 0;
   --brk-promo-primary-md-pretitle-text-case: uppercase;
   --brk-promo-primary-md-pretitle-text-decoration: none;
@@ -528,11 +529,11 @@
   --brk-promo-primary-sm-body-font-weight: Regular;
   --brk-promo-primary-sm-body-letter-spacing: 2%;
   --brk-promo-primary-sm-body-line-height: 85%;
+  --brk-promo-primary-sm-body-margin-top: 8px;
   --brk-promo-primary-sm-body-paragraph-spacing: 0;
   --brk-promo-primary-sm-body-text-case: none;
   --brk-promo-primary-sm-body-text-decoration: none;
-  --brk-promo-primary-sm-content-gap: 4px;
-  --brk-promo-primary-sm-content-margin-bottom: 8px;
+  --brk-promo-primary-sm-content-gap: 16px;
   --brk-promo-primary-sm-heading-font-family: Arial;
   --brk-promo-primary-sm-heading-font-size: 18px;
   --brk-promo-primary-sm-heading-font-weight: Regular;
@@ -549,6 +550,7 @@
   --brk-promo-primary-sm-pretitle-font-weight: Bold;
   --brk-promo-primary-sm-pretitle-letter-spacing: -2%;
   --brk-promo-primary-sm-pretitle-line-height: 8px;
+  --brk-promo-primary-sm-pretitle-margin-bottom: 4px;
   --brk-promo-primary-sm-pretitle-paragraph-spacing: 0;
   --brk-promo-primary-sm-pretitle-text-case: uppercase;
   --brk-promo-primary-sm-pretitle-text-decoration: none;
@@ -618,7 +620,7 @@
   --brk-promo-secondary-lg-pretitle-text-case: uppercase;
   --brk-promo-secondary-lg-pretitle-text-decoration: none;
   --brk-promo-secondary-md-content-gap: 8px;
-  --brk-promo-secondary-md-content-margin-bottom: 16px;
+  --brk-promo-secondary-md-content-margin-bottom: 8px;
   --brk-promo-secondary-md-heading-font-family: Arial;
   --brk-promo-secondary-md-heading-font-size: 28px;
   --brk-promo-secondary-md-heading-font-weight: Regular;
@@ -638,8 +640,8 @@
   --brk-promo-secondary-md-pretitle-paragraph-spacing: 0;
   --brk-promo-secondary-md-pretitle-text-case: uppercase;
   --brk-promo-secondary-md-pretitle-text-decoration: none;
-  --brk-promo-secondary-sm-content-gap: 4px;
-  --brk-promo-secondary-sm-content-margin-bottom: 8px;
+  --brk-promo-secondary-sm-content-gap: 16px;
+  --brk-promo-secondary-sm-content-margin-bottom: 4px;
   --brk-promo-secondary-sm-gradient-height: 43px;
   --brk-promo-secondary-sm-heading-font-family: Arial;
   --brk-promo-secondary-sm-heading-font-size: 18px;
