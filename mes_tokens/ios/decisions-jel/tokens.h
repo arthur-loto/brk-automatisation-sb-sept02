@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Tue, 27 Sep 2022 15:37:03 GMT
+// Generated on Tue, 27 Sep 2022 20:27:26 GMT
 
 
 #import <Foundation/Foundation.h>
@@ -267,16 +267,12 @@
 #define BrkPromoPrimaryBorderWidth 1
 #define BrkPromoSecondaryBorderWidth 1
 #define BrkPromoTertiaryBorderWidth 1
-#define BrkPromoSecondarySmPaddingHorizontal 16
-#define BrkPromoSecondarySmPaddingVertical 15
-#define BrkPromoSecondarySmContentGap 4
 #define BrkPromoSecondarySmImageHeight 172
-#define BrkPromoSecondarySmContentMarginBottom 12
 #define BrkPromoSecondarySmGradientHeight 43
 #define BrkPromoSecondarySmPretitleFontFamily Arial
 #define BrkPromoSecondarySmPretitleFontWeight Bold
 #define BrkPromoSecondarySmPretitleLineHeight 115%
-#define BrkPromoSecondarySmPretitleFontSize 13
+#define BrkPromoSecondarySmPretitleFontSize 9
 #define BrkPromoSecondarySmPretitleLetterSpacing 0%
 #define BrkPromoSecondarySmPretitleParagraphSpacing 0
 #define BrkPromoSecondarySmPretitleTextDecoration none
@@ -284,7 +280,7 @@
 #define BrkPromoSecondarySmHeadingFontFamily Graphik
 #define BrkPromoSecondarySmHeadingFontWeight Super
 #define BrkPromoSecondarySmHeadingLineHeight 110%
-#define BrkPromoSecondarySmHeadingFontSize 40
+#define BrkPromoSecondarySmHeadingFontSize 16
 #define BrkPromoSecondarySmHeadingLetterSpacing -2%
 #define BrkPromoSecondarySmHeadingParagraphSpacing 0
 #define BrkPromoSecondarySmHeadingTextCase none
@@ -299,10 +295,6 @@
 #define BrkPromoSecondarySmBodyTextCase none
 #define BrkPromoSecondaryXlImageHeight 568
 #define BrkPromoSecondaryXlGradientHeight 142
-#define BrkPromoSecondaryXlPaddingHorizontal 24
-#define BrkPromoSecondaryXlPaddingVertical 24
-#define BrkPromoSecondaryXlContentGap 24
-#define BrkPromoSecondaryXlContentMarginBottom 16
 #define BrkPromoSecondaryXlContainerWidth 312
 #define BrkPromoSecondaryXlPretitleFontFamily Arial
 #define BrkPromoSecondaryXlPretitleFontWeight Bold
@@ -328,10 +320,6 @@
 #define BrkPromoSecondaryXlBodyParagraphSpacing 0
 #define BrkPromoSecondaryXlBodyTextDecoration none
 #define BrkPromoSecondaryXlBodyTextCase none
-#define BrkPromoSecondaryMdPaddingHorizontal 16
-#define BrkPromoSecondaryMdPaddingVertical 20
-#define BrkPromoSecondaryMdContentGap 8
-#define BrkPromoSecondaryMdContentMarginBottom 16
 #define BrkPromoSecondaryMdImageHeight 270
 #define BrkPromoSecondaryMdGradientHeight 67.5
 #define BrkPromoSecondaryMdPretitleFontFamily Arial
@@ -360,10 +348,6 @@
 #define BrkPromoSecondaryMdBodyTextCase none
 #define BrkPromoSecondaryLgImageHeight 300
 #define BrkPromoSecondaryLgGradientHeight 75
-#define BrkPromoSecondaryLgPaddingHorizontal 24
-#define BrkPromoSecondaryLgPaddingVertical 24
-#define BrkPromoSecondaryLgContentGap 16
-#define BrkPromoSecondaryLgContentMarginBottom 16
 #define BrkPromoSecondaryLgPretitleFontFamily Arial
 #define BrkPromoSecondaryLgPretitleFontWeight Bold
 #define BrkPromoSecondaryLgPretitleLineHeight 15
@@ -392,7 +376,7 @@
 #define BrkPromoPrimarySmGradientHeight 43
 #define BrkPromoPrimarySmPaddingHorizontal 16
 #define BrkPromoPrimarySmPaddingVertical 15
-#define BrkPromoPrimarySmContentGap 4
+#define BrkPromoPrimarySmContentGap 16
 #define BrkPromoPrimarySmPretitleFontFamily Arial
 #define BrkPromoPrimarySmPretitleFontWeight Bold
 #define BrkPromoPrimarySmPretitleLineHeight 115%
@@ -401,8 +385,8 @@
 #define BrkPromoPrimarySmPretitleParagraphSpacing 0
 #define BrkPromoPrimarySmPretitleTextDecoration none
 #define BrkPromoPrimarySmPretitleTextCase none
-#define BrkPromoPrimarySmTitlePaddingBottom 8
-#define BrkPromoPrimarySmContentMarginBottom 12
+#define BrkPromoPrimarySmPretitleMarginBottom 4
+#define BrkPromoPrimarySmBodyMarginTop 8
 #define BrkPromoPrimarySmHeadingFontFamily Graphik
 #define BrkPromoPrimarySmHeadingFontWeight Super
 #define BrkPromoPrimarySmHeadingLineHeight 110%
@@ -425,7 +409,6 @@
 #define BrkPromoPrimaryXlPaddingHorizontal 24
 #define BrkPromoPrimaryXlPaddingVertical 24
 #define BrkPromoPrimaryXlContentGap 8
-#define BrkPromoPrimaryXlContentMarginBottom 16
 #define BrkPromoPrimaryXlPretitleFontFamily Arial
 #define BrkPromoPrimaryXlPretitleFontWeight Bold
 #define BrkPromoPrimaryXlPretitleLineHeight 15
@@ -454,8 +437,8 @@
 #define BrkPromoPrimaryMdGradientHeight 67.5
 #define BrkPromoPrimaryMdPaddingHorizontal 16
 #define BrkPromoPrimaryMdPaddingVertical 20
+#define BrkPromoPrimaryMdHeadingMarginTop 4
 #define BrkPromoPrimaryMdContentGap 8
-#define BrkPromoPrimaryMdContentMarginBottom 16
 #define BrkPromoPrimaryMdPretitleFontFamily Arial
 #define BrkPromoPrimaryMdPretitleFontWeight Bold
 #define BrkPromoPrimaryMdPretitleLineHeight 12
@@ -485,7 +468,6 @@
 #define BrkPromoPrimaryLgPaddingHorizontal 24
 #define BrkPromoPrimaryLgPaddingVertical 24
 #define BrkPromoPrimaryLgContentGap 8
-#define BrkPromoPrimaryLgContentMarginBottom 16
 #define BrkPromoPrimaryLgPretitleFontFamily Arial
 #define BrkPromoPrimaryLgPretitleFontWeight Bold
 #define BrkPromoPrimaryLgPretitleLineHeight 15
@@ -763,29 +745,11 @@
 #define BrkPromoTertiaryStandardFrameColor #000000
 #define BrkPromoTertiarySmImageHeight 172
 #define BrkPromoTertiarySmGradientHeight 43
-#define BrkPromoTertiarySmPaddingHorizontal 16
-#define BrkPromoTertiarySmPaddingVertical 15
-#define BrkPromoTertiarySmContentGap 4
-#define BrkPromoTertiarySmContentMarginBottom 12
-#define BrkPromoTertiarySmFramePaddingHorizontal 10
-#define BrkPromoTertiarySmFramePaddingVertical 10
 #define BrkPromoTertiaryXlImageHeight 568
 #define BrkPromoTertiaryXlGradientHeight 142
 #define BrkPromoTertiaryXlContainerWidth 312
-#define BrkPromoTertiaryXlPaddingHorizontal 24
-#define BrkPromoTertiaryXlPaddingVertical 24
-#define BrkPromoTertiaryXlContentGap 24
-#define BrkPromoTertiaryXlContentMarginBottom 16
 #define BrkPromoTertiaryMdImageHeight 270
 #define BrkPromoTertiaryMdGradientHeight 67.5
-#define BrkPromoTertiaryMdPaddingHorizontal 16
-#define BrkPromoTertiaryMdPaddingVertical 20
-#define BrkPromoTertiaryMdContentGap 8
-#define BrkPromoTertiaryMdContentMarginBottom 16
 #define BrkPromoTertiaryLgImageHeight 300
 #define BrkPromoTertiaryLgGradientHeight 75
-#define BrkPromoTertiaryLgPaddingHorizontal 24
-#define BrkPromoTertiaryLgPaddingVertical 24
-#define BrkPromoTertiaryLgContentGap 16
-#define BrkPromoTertiaryLgContentMarginBottom 16
 
