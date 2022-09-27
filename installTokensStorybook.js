@@ -7,7 +7,7 @@ function copyModuleFile(){
 	var copyfiles = require('copyfiles');
 	
 	var options = {"up":3};
-	copyfiles(["node_modules/brk-tokens-mvp1/mes_tokens/css/*",destinationModule], options, function(){
+	copyfiles(["node_modules/brk-figma-demo-sln/mes_tokens/css/*",destinationModule], options, function(){
 		console.log('Copie des styles réussie');
 		console.log(destinationModule);
 		console.log('Current directory: ' + process.cwd());
