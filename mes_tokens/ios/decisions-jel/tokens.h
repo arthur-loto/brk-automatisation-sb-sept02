@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Wed, 28 Sep 2022 15:54:35 GMT
+// Generated on Wed, 28 Sep 2022 16:49:06 GMT
 
 
 #import <Foundation/Foundation.h>
@@ -389,9 +389,9 @@
 #define BrkPromoPrimarySmBodyTextCase none
 #define BrkPromoPrimaryMdPaddingHorizontal 20
 #define BrkPromoPrimaryMdPaddingVertical 20
-#define BrkPromoPrimaryMdContentGap 32
+#define BrkPromoPrimaryMdContentGap 16
 #define BrkPromoPrimaryMdPretitleMarginBottom 8
-#define BrkPromoPrimaryMdBodyMarginTop 16
+#define BrkPromoPrimaryMdBodyMarginTop 12
 #define BrkPromoPrimaryMdImageHeight 270
 #define BrkPromoPrimaryMdGradientHeight 67.5
 #define BrkPromoPrimaryMdPretitleFontFamily Arial
@@ -412,9 +412,9 @@
 #define BrkPromoPrimaryMdHeadingTextDecoration none
 #define BrkPromoPrimaryMdBodyFontFamily Arial
 #define BrkPromoPrimaryMdBodyFontWeight Regular
-#define BrkPromoPrimaryMdBodyLineHeight 100%
+#define BrkPromoPrimaryMdBodyLineHeight 120%
 #define BrkPromoPrimaryMdBodyFontSize 18
-#define BrkPromoPrimaryMdBodyLetterSpacing 2%
+#define BrkPromoPrimaryMdBodyLetterSpacing 0%
 #define BrkPromoPrimaryMdBodyParagraphSpacing 0
 #define BrkPromoPrimaryMdBodyTextDecoration none
 #define BrkPromoPrimaryMdBodyTextCase none
