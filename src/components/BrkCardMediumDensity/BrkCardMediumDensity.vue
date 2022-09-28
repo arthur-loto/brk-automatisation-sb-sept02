@@ -80,7 +80,7 @@ const hasSecondaryInfo = computed(() => {
   --font-family: graphik_medium, Arial, Helvetica, sans-serif;
   --image-border-radius: 28.09%;
   --image-padding-bottom: 0.5rem;
-  --outline: var(--brk-interactive-outline-width) solid var(--brk-interactive-outline-color-focus-standard);
+  --outline: var(--brk-interactive-outline-width) solid var(--brk-interactive-standard-outline-color-focus);
   --outline-offset: var(--brk-interactive-outline-offset);
   --price-padding-bottom: 0.5rem;
   --price-text-color: rgb(97, 95, 95);

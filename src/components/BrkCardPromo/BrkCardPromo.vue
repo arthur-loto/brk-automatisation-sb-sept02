@@ -102,7 +102,7 @@ onMounted(() => {
   --max-height: 50%;
   --min-width: 200px;
   --outline: var(--brk-card-hero-border-width) solid
-    var(--brk-card-hero-border-color-standard); /* Ne se trouvent pas dans les tokens */
+    var(--brk-card-hero-standard-border-color); /* Ne se trouvent pas dans les tokens */
   --outline-offset: 0px; /* Ne se trouvent pas dans les tokens */
   --pre-title-font-size: 16px;
   --pre-title-line-height: 20px;

@@ -58,32 +58,32 @@ const element = computed(() => {
 .brk-button {
   /* tokens généraux */
   --outline: var(--brk-interactive-outline-width) solid transparent;
-  --outline-color-focus: var(--brk-interactive-outline-color-focus-standard);
+  --outline-color-focus: var(--brk-interactive-standard-outline-color-focus);
   --outline-offset: var(--brk-interactive-outline-offset);
   --padding: var(--brk-button-padding-top) var(--brk-button-padding-right) var(--brk-button-padding-bottom) var(--brk-button-padding-left);
 
   &.inverted {
-    --outline-color-focus: var(--brk-button-outline-color-focus-inverted);
+    --outline-color-focus: var(--brk-button-inverted-outline-color-focus);
   }
 }
 
 @mixin variantTokens($variant) {
-  --background-color: var(--brk-button-#{$variant}-background-color-default-standard);
-  --background-color-active: var(--brk-button-#{$variant}-background-color-active-standard);
-  --background-color-focus: var(--brk-button-#{$variant}-background-color-focus-standard);
-  --background-color-hover: var(--brk-button-#{$variant}-background-color-hover-standard);
-  --border: var(--brk-button-#{$variant}-border-width) solid var(--brk-button-#{$variant}-border-color-default-standard);
-  --border-color-active: var(--brk-button-#{$variant}-border-color-active-standard);
-  --border-color-focus: var(--brk-button-#{$variant}-border-color-focus-standard);
-  --border-color-hover: var(--brk-button-#{$variant}-border-color-hover-standard);
+  --background-color: var(--brk-button-#{$variant}-standard-background-color-default);
+  --background-color-active: var(--brk-button-#{$variant}-standard-background-color-active);
+  --background-color-focus: var(--brk-button-#{$variant}-standard-background-color-focus);
+  --background-color-hover: var(--brk-button-#{$variant}-standard-background-color-hover);
+  --border: var(--brk-button-#{$variant}-border-width) solid var(--brk-button-#{$variant}-standard-border-color-default);
+  --border-color-active: var(--brk-button-#{$variant}-standard-border-color-active);
+  --border-color-focus: var(--brk-button-#{$variant}-standard-border-color-focus);
+  --border-color-hover: var(--brk-button-#{$variant}-standard-border-color-hover);
   --border-radius: var(--brk-button-#{$variant}-sm-border-radius);
-  --box-shadow: var(--brk-button-#{$variant}-box-shadow-default-standard);
-  --box-shadow-focus: var(--brk-button-#{$variant}-box-shadow-focus-standard);
-  --box-shadow-hover: var(--brk-button-#{$variant}-box-shadow-hover-standard);
-  --color: var(--brk-button-#{$variant}-font-color-default-standard);
-  --color-active: var(--brk-button-#{$variant}-font-color-active-standard);
-  --color-focus: var(--brk-button-#{$variant}-font-color-focus-standard);
-  --color-hover: var(--brk-button-#{$variant}-font-color-hover-standard);
+  --box-shadow: var(--brk-button-#{$variant}-standard-box-shadow-default);
+  --box-shadow-focus: var(--brk-button-#{$variant}-standard-box-shadow-focus);
+  --box-shadow-hover: var(--brk-button-#{$variant}-standard-box-shadow-hover);
+  --color: var(--brk-button-#{$variant}-standard-font-color-default);
+  --color-active: var(--brk-button-#{$variant}-standard-font-color-active);
+  --color-focus: var(--brk-button-#{$variant}-standard-font-color-focus);
+  --color-hover: var(--brk-button-#{$variant}-standard-font-color-hover);
   --font-family: var(--brk-button-#{$variant}-sm-label-font-family);
   --font-size: var(--brk-button-#{$variant}-sm-label-font-size);
   --font-weight: var(--brk-button-#{$variant}-sm-label-font-weight);
@@ -94,22 +94,22 @@ const element = computed(() => {
   --text-transform: var(--brk-button-#{$variant}-sm-label-text-case);
   --padding: 0 var(--brk-button-#{$variant}-sm-padding-horizontal);
   &.inverted {
-    --background-color: var(--brk-button-#{$variant}-background-color-default-inverted);
-    --background-color-active: var(--brk-button-#{$variant}-background-color-active-inverted);
-    --background-color-focus: var(--brk-button-#{$variant}-background-color-focus-inverted);
-    --background-color-hover: var(--brk-button-#{$variant}-background-color-hover-inverted);
-    --border: var(--brk-button-#{$variant}-border-width) solid var(--brk-button-#{$variant}-border-color-default-inverted);
-    --border-color-active: var(--brk-button-#{$variant}-border-color-active-inverted);
-    --border-color-focus: var(--brk-button-#{$variant}-border-color-focus-inverted);
-    --border-color-hover: var(--brk-button-#{$variant}-border-color-hover-inverted);
-    --box-shadow: var(--brk-button-#{$variant}-box-shadow-default-inverted);
-    --box-shadow-focus: var(--brk-button-#{$variant}-box-shadow-focus-inverted);
-    --box-shadow-hover: var(--brk-button-#{$variant}-box-shadow-hover-inverted);
-    --color: var(--brk-button-#{$variant}-font-color-default-inverted);
-    --color-active: var(--brk-button-#{$variant}-font-color-active-inverted);
-    --color-focus: var(--brk-button-#{$variant}-font-color-focus-inverted);
-    --color-hover: var(--brk-button-#{$variant}-font-color-hover-inverted);
-    --outline-color-focus: var(--brk-interactive-outline-color-focus-inverted);
+    --background-color: var(--brk-button-#{$variant}-inverted-background-color-default);
+    --background-color-active: var(--brk-button-#{$variant}-inverted-background-color-active);
+    --background-color-focus: var(--brk-button-#{$variant}-inverted-background-color-focus);
+    --background-color-hover: var(--brk-button-#{$variant}-inverted-background-color-hover);
+    --border: var(--brk-button-#{$variant}-border-width) solid var(--brk-button-#{$variant}-inverted-border-color-default);
+    --border-color-active: var(--brk-button-#{$variant}-inverted-border-color-active);
+    --border-color-focus: var(--brk-button-#{$variant}-inverted-border-color-focus);
+    --border-color-hover: var(--brk-button-#{$variant}-inverted-border-color-hover);
+    --box-shadow: var(--brk-button-#{$variant}-inverted-box-shadow-default);
+    --box-shadow-focus: var(--brk-button-#{$variant}-inverted-box-shadow-focus);
+    --box-shadow-hover: var(--brk-button-#{$variant}-inverted-box-shadow-hover);
+    --color: var(--brk-button-#{$variant}-inverted-font-color-default);
+    --color-active: var(--brk-button-#{$variant}-inverted-font-color-active);
+    --color-focus: var(--brk-button-#{$variant}-inverted-font-color-focus);
+    --color-hover: var(--brk-button-#{$variant}-inverted-font-color-hover);
+    --outline-color-focus: var(--brk-interactive-inverted-outline-color-focus);
   }
 
   $breakpoints: (md, lg, xl);

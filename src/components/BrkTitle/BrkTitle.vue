@@ -64,7 +64,7 @@ const classes = computed(() => {
 
 .title {
   --nbr-limited-lines: v-bind(nbrLimitedLines);
-  --title-color: var(--brk-card-hero-heading-font-color-standard);
+  --title-color: var(--brk-card-hero-standard-heading-font-color);
   --title-family: var(--brk-card-hero-lg-heading-font-family);
   --title-height: var(--brk-card-hero-lg-heading-line-height);
   --title-margin: 10px 0;
