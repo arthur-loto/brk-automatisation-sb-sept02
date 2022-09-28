@@ -4,14 +4,14 @@
 //
 
 // Do not edit directly
-// Generated on Wed, 28 Sep 2022 18:26:10 GMT
+// Generated on Wed, 28 Sep 2022 18:48:08 GMT
 
 
 #import <Foundation/Foundation.h>
 #import <UIKit/UIKit.h>
 
 #define BrkButtonPrimaryBorderWidth 2
-#define BrkButtonSecondaryBorderWidth 1
+#define BrkButtonSecondaryBorderWidth 2
 #define BrkButtonTertiaryBorderWidth 1
 #define BrkButtonIconBorderWidth 1
 #define BrkButtonOpacityDisabled 50%

@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Wed, 28 Sep 2022 18:26:10 GMT
+ * Generated on Wed, 28 Sep 2022 18:48:08 GMT
  */
 
 :root {
@@ -83,7 +83,7 @@
   --brk-button-primary-xl-label-text-case: uppercase;
   --brk-button-primary-xl-label-text-decoration: none;
   --brk-button-primary-xl-padding-horizontal: 40px;
-  --brk-button-secondary-border-width: 1px;
+  --brk-button-secondary-border-width: 2px;
   --brk-button-secondary-inverted-background-color-default: #000000;
   --brk-button-secondary-inverted-background-color-focus: #1a1a1a;
   --brk-button-secondary-inverted-background-color-hover: #0b5db7;
