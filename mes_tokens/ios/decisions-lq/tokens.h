@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Wed, 28 Sep 2022 14:26:19 GMT
+// Generated on Wed, 28 Sep 2022 14:31:04 GMT
 
 
 #import <Foundation/Foundation.h>
@@ -761,14 +761,6 @@
 #define BrkPromoTertiaryMdHeadingParagraphSpacing 0
 #define BrkPromoTertiaryMdHeadingTextCase none
 #define BrkPromoTertiaryMdHeadingTextDecoration none
-#define BrkPromoTertiaryMdBodyFontFamily Arial
-#define BrkPromoTertiaryMdBodyFontWeight Regular
-#define BrkPromoTertiaryMdBodyLineHeight 85%
-#define BrkPromoTertiaryMdBodyFontSize 13
-#define BrkPromoTertiaryMdBodyLetterSpacing 2%
-#define BrkPromoTertiaryMdBodyParagraphSpacing 0
-#define BrkPromoTertiaryMdBodyTextCase none
-#define BrkPromoTertiaryMdBodyTextDecoration none
 #define BrkPromoTertiaryMdContentGap 8
 #define BrkPromoTertiaryMdPretitleMarginBottom 8
 #define BrkPromoTertiaryMdBodyMarginTop 12
@@ -794,14 +786,6 @@
 #define BrkPromoTertiaryLgHeadingParagraphSpacing 0
 #define BrkPromoTertiaryLgHeadingTextCase none
 #define BrkPromoTertiaryLgHeadingTextDecoration none
-#define BrkPromoTertiaryLgBodyFontFamily Arial
-#define BrkPromoTertiaryLgBodyFontWeight Regular
-#define BrkPromoTertiaryLgBodyLineHeight 85%
-#define BrkPromoTertiaryLgBodyFontSize 14
-#define BrkPromoTertiaryLgBodyLetterSpacing 2%
-#define BrkPromoTertiaryLgBodyParagraphSpacing 0
-#define BrkPromoTertiaryLgBodyTextCase none
-#define BrkPromoTertiaryLgBodyTextDecoration none
 #define BrkPromoTertiaryLgContentGap 8
 #define BrkPromoTertiaryLgPretitleMarginBottom 10
 #define BrkPromoTertiaryLgBodyMarginTop 16
@@ -828,14 +812,6 @@
 #define BrkPromoTertiaryXlHeadingParagraphSpacing 0
 #define BrkPromoTertiaryXlHeadingTextCase none
 #define BrkPromoTertiaryXlHeadingTextDecoration none
-#define BrkPromoTertiaryXlBodyFontFamily Arial
-#define BrkPromoTertiaryXlBodyFontWeight Regular
-#define BrkPromoTertiaryXlBodyLineHeight 85%
-#define BrkPromoTertiaryXlBodyFontSize 18
-#define BrkPromoTertiaryXlBodyLetterSpacing 2%
-#define BrkPromoTertiaryXlBodyParagraphSpacing 0
-#define BrkPromoTertiaryXlBodyTextCase none
-#define BrkPromoTertiaryXlBodyTextDecoration none
 #define BrkPromoTertiaryXlContentGap 30
 #define BrkPromoTertiaryXlPretitleMarginBottom 12
 #define BrkPromoTertiaryXlBodyMarginTop 20

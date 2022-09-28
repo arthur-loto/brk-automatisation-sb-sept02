@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Wed, 28 Sep 2022 14:26:19 GMT
+// Generated on Wed, 28 Sep 2022 14:31:04 GMT
 
 
 #import <Foundation/Foundation.h>
@@ -757,14 +757,6 @@
 #define BrkPromoTertiarySmHeadingParagraphSpacing 0
 #define BrkPromoTertiarySmHeadingTextCase none
 #define BrkPromoTertiarySmHeadingTextDecoration none
-#define BrkPromoTertiarySmBodyFontFamily Arial
-#define BrkPromoTertiarySmBodyFontWeight Regular
-#define BrkPromoTertiarySmBodyLineHeight 120%
-#define BrkPromoTertiarySmBodyFontSize 16
-#define BrkPromoTertiarySmBodyLetterSpacing 2%
-#define BrkPromoTertiarySmBodyParagraphSpacing 0
-#define BrkPromoTertiarySmBodyTextDecoration none
-#define BrkPromoTertiarySmBodyTextCase none
 #define BrkPromoTertiaryMdImageHeight 270
 #define BrkPromoTertiaryMdGradientHeight 67.5
 #define BrkPromoTertiaryMdPaddingHorizontal 20
@@ -790,14 +782,6 @@
 #define BrkPromoTertiaryMdHeadingParagraphSpacing 0
 #define BrkPromoTertiaryMdHeadingTextCase none
 #define BrkPromoTertiaryMdHeadingTextDecoration none
-#define BrkPromoTertiaryMdBodyFontFamily Arial
-#define BrkPromoTertiaryMdBodyFontWeight Regular
-#define BrkPromoTertiaryMdBodyLineHeight 100%
-#define BrkPromoTertiaryMdBodyFontSize 18
-#define BrkPromoTertiaryMdBodyLetterSpacing 2%
-#define BrkPromoTertiaryMdBodyParagraphSpacing 0
-#define BrkPromoTertiaryMdBodyTextDecoration none
-#define BrkPromoTertiaryMdBodyTextCase none
 #define BrkPromoTertiaryLgImageHeight 300
 #define BrkPromoTertiaryLgGradientHeight 75
 #define BrkPromoTertiaryLgFrameWidth 378
@@ -824,14 +808,6 @@
 #define BrkPromoTertiaryLgHeadingParagraphSpacing 0
 #define BrkPromoTertiaryLgHeadingTextCase none
 #define BrkPromoTertiaryLgHeadingTextDecoration none
-#define BrkPromoTertiaryLgBodyFontFamily Arial
-#define BrkPromoTertiaryLgBodyFontWeight Regular
-#define BrkPromoTertiaryLgBodyLineHeight 100%
-#define BrkPromoTertiaryLgBodyFontSize 20
-#define BrkPromoTertiaryLgBodyLetterSpacing 2%
-#define BrkPromoTertiaryLgBodyParagraphSpacing 0
-#define BrkPromoTertiaryLgBodyTextDecoration none
-#define BrkPromoTertiaryLgBodyTextCase none
 #define BrkPromoTertiaryXlImageHeight 300
 #define BrkPromoTertiaryXlGradientHeight 75
 #define BrkPromoTertiaryXlFrameWidth 312
@@ -858,12 +834,4 @@
 #define BrkPromoTertiaryXlHeadingParagraphSpacing 0
 #define BrkPromoTertiaryXlHeadingTextCase none
 #define BrkPromoTertiaryXlHeadingTextDecoration none
-#define BrkPromoTertiaryXlBodyFontFamily Arial
-#define BrkPromoTertiaryXlBodyFontWeight Regular
-#define BrkPromoTertiaryXlBodyLineHeight 100%
-#define BrkPromoTertiaryXlBodyFontSize 24
-#define BrkPromoTertiaryXlBodyLetterSpacing 2%
-#define BrkPromoTertiaryXlBodyParagraphSpacing 0
-#define BrkPromoTertiaryXlBodyTextDecoration none
-#define BrkPromoTertiaryXlBodyTextCase none
 
