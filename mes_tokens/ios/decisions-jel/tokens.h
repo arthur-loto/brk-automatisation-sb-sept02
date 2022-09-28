@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Wed, 28 Sep 2022 17:19:19 GMT
+// Generated on Wed, 28 Sep 2022 17:30:39 GMT
 
 
 #import <Foundation/Foundation.h>
@@ -423,24 +423,24 @@
 #define BrkPromoPrimaryLgPretitleFontFamily Arial
 #define BrkPromoPrimaryLgPretitleFontWeight Bold
 #define BrkPromoPrimaryLgPretitleLineHeight 110%
-#define BrkPromoPrimaryLgPretitleFontSize 18
-#define BrkPromoPrimaryLgPretitleLetterSpacing -2%
+#define BrkPromoPrimaryLgPretitleFontSize 16
+#define BrkPromoPrimaryLgPretitleLetterSpacing 0%
 #define BrkPromoPrimaryLgPretitleParagraphSpacing 0
 #define BrkPromoPrimaryLgPretitleTextDecoration none
 #define BrkPromoPrimaryLgPretitleTextCase none
 #define BrkPromoPrimaryLgHeadingFontFamily Graphik
 #define BrkPromoPrimaryLgHeadingFontWeight Super
 #define BrkPromoPrimaryLgHeadingLineHeight 110%
-#define BrkPromoPrimaryLgHeadingFontSize 36
+#define BrkPromoPrimaryLgHeadingFontSize 32
 #define BrkPromoPrimaryLgHeadingLetterSpacing -2%
 #define BrkPromoPrimaryLgHeadingParagraphSpacing 0
 #define BrkPromoPrimaryLgHeadingTextCase none
 #define BrkPromoPrimaryLgHeadingTextDecoration none
 #define BrkPromoPrimaryLgBodyFontFamily Arial
 #define BrkPromoPrimaryLgBodyFontWeight Regular
-#define BrkPromoPrimaryLgBodyLineHeight 100%
+#define BrkPromoPrimaryLgBodyLineHeight 120%
 #define BrkPromoPrimaryLgBodyFontSize 20
-#define BrkPromoPrimaryLgBodyLetterSpacing 2%
+#define BrkPromoPrimaryLgBodyLetterSpacing -2%
 #define BrkPromoPrimaryLgBodyParagraphSpacing 0
 #define BrkPromoPrimaryLgBodyTextDecoration none
 #define BrkPromoPrimaryLgBodyTextCase none
@@ -448,7 +448,7 @@
 #define BrkPromoPrimaryLgPaddingVertical 20
 #define BrkPromoPrimaryLgContentGap 32
 #define BrkPromoPrimaryLgPretitleMarginBottom 10
-#define BrkPromoPrimaryLgBodyMarginTop 20
+#define BrkPromoPrimaryLgBodyMarginTop 16
 #define BrkPromoPrimaryXlPretitleFontFamily Arial
 #define BrkPromoPrimaryXlPretitleFontWeight Bold
 #define BrkPromoPrimaryXlPretitleLineHeight 110%
