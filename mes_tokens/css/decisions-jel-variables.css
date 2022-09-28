@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Tue, 27 Sep 2022 23:59:52 GMT
+ * Generated on Wed, 28 Sep 2022 00:08:10 GMT
  */
 
 :root {
@@ -728,6 +728,7 @@
   --brk-promo-tertiary-lg-body-paragraph-spacing: 0;
   --brk-promo-tertiary-lg-body-text-case: none;
   --brk-promo-tertiary-lg-body-text-decoration: none;
+  --brk-promo-tertiary-lg-container-width: 378px;
   --brk-promo-tertiary-lg-content-gap: 32px;
   --brk-promo-tertiary-lg-gradient-height: 75px;
   --brk-promo-tertiary-lg-heading-font-family: Graphik;
