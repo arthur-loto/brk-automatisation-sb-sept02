@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Wed, 28 Sep 2022 00:15:01 GMT
+ * Generated on Wed, 28 Sep 2022 14:26:19 GMT
  */
 
 :root {
@@ -728,10 +728,10 @@
   --brk-promo-tertiary-lg-body-paragraph-spacing: 0;
   --brk-promo-tertiary-lg-body-text-case: none;
   --brk-promo-tertiary-lg-body-text-decoration: none;
-  --brk-promo-tertiary-lg-container-width: 378px;
   --brk-promo-tertiary-lg-content-gap: 32px;
   --brk-promo-tertiary-lg-frame-padding-horizontal: 10px;
   --brk-promo-tertiary-lg-frame-padding-vertical: 10px;
+  --brk-promo-tertiary-lg-frame-width: 378px;
   --brk-promo-tertiary-lg-gradient-height: 75px;
   --brk-promo-tertiary-lg-heading-font-family: Graphik;
   --brk-promo-tertiary-lg-heading-font-size: 36px;
@@ -835,10 +835,10 @@
   --brk-promo-tertiary-xl-body-paragraph-spacing: 0;
   --brk-promo-tertiary-xl-body-text-case: none;
   --brk-promo-tertiary-xl-body-text-decoration: none;
-  --brk-promo-tertiary-xl-container-width: 312px;
   --brk-promo-tertiary-xl-content-gap: 32px;
   --brk-promo-tertiary-xl-frame-padding-horizontal: 10px;
   --brk-promo-tertiary-xl-frame-padding-vertical: 10px;
+  --brk-promo-tertiary-xl-frame-width: 312px;
   --brk-promo-tertiary-xl-gradient-height: 75px;
   --brk-promo-tertiary-xl-heading-font-family: Graphik;
   --brk-promo-tertiary-xl-heading-font-size: 42px;
