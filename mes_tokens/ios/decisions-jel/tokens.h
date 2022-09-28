@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Tue, 27 Sep 2022 21:07:35 GMT
+// Generated on Wed, 28 Sep 2022 17:39:49 GMT
 
 
 #import <Foundation/Foundation.h>
@@ -19,7 +19,7 @@
 #define BrkButtonTertiaryStandardSmBoxShadowHover [object Object]
 #define BrkButtonTertiaryStandardSmBoxShadowFocus [object Object]
 #define BrkButtonTertiaryStandardFontColorDefault #535353
-#define BrkButtonTertiaryStandardBackgroundColorDefault #a6ecff
+#define BrkButtonTertiaryStandardBackgroundColorDefault #fdfe8b
 #define BrkButtonTertiaryStandardBorderColorDefault #e6e6e6
 #define BrkButtonTertiaryStandardFontColorHover #1a1a1a
 #define BrkButtonTertiaryStandardBackgroundColorHover #ffffff
