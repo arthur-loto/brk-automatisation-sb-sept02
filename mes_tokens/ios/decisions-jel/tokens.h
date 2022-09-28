@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Wed, 28 Sep 2022 20:49:52 GMT
+// Generated on Wed, 28 Sep 2022 20:57:46 GMT
 
 
 #import <Foundation/Foundation.h>
@@ -742,7 +742,7 @@
 #define BrkPromoTertiarySmPretitleMarginBottom 4
 #define BrkPromoTertiarySmPretitleFontFamily Arial
 #define BrkPromoTertiarySmPretitleFontWeight Bold
-#define BrkPromoTertiarySmPretitleLineHeight 115%
+#define BrkPromoTertiarySmPretitleLineHeight 110%
 #define BrkPromoTertiarySmPretitleFontSize 13
 #define BrkPromoTertiarySmPretitleLetterSpacing 0%
 #define BrkPromoTertiarySmPretitleParagraphSpacing 0
