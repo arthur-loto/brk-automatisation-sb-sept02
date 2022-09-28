@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Wed, 28 Sep 2022 20:33:16 GMT
+// Generated on Wed, 28 Sep 2022 20:49:52 GMT
 
 
 #import <Foundation/Foundation.h>
@@ -736,8 +736,8 @@
 #define BrkPromoTertiarySmGradientHeight 43
 #define BrkPromoTertiarySmPaddingHorizontal 16
 #define BrkPromoTertiarySmPaddingVertical 15
-#define BrkPromoTertiarySmFramePaddingHorizontal 10
-#define BrkPromoTertiarySmFramePaddingVertical 10
+#define BrkPromoTertiarySmFramePaddingHorizontal 16
+#define BrkPromoTertiarySmFramePaddingVertical 16
 #define BrkPromoTertiarySmContentGap 16
 #define BrkPromoTertiarySmPretitleMarginBottom 4
 #define BrkPromoTertiarySmPretitleFontFamily Arial
