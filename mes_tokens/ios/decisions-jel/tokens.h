@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Wed, 28 Sep 2022 17:30:39 GMT
+// Generated on Wed, 28 Sep 2022 18:26:10 GMT
 
 
 #import <Foundation/Foundation.h>
@@ -444,16 +444,16 @@
 #define BrkPromoPrimaryLgBodyParagraphSpacing 0
 #define BrkPromoPrimaryLgBodyTextDecoration none
 #define BrkPromoPrimaryLgBodyTextCase none
-#define BrkPromoPrimaryLgPaddingHorizontal 16
-#define BrkPromoPrimaryLgPaddingVertical 20
-#define BrkPromoPrimaryLgContentGap 32
-#define BrkPromoPrimaryLgPretitleMarginBottom 10
-#define BrkPromoPrimaryLgBodyMarginTop 16
+#define BrkPromoPrimaryLgPaddingHorizontal 24
+#define BrkPromoPrimaryLgPaddingVertical 24
+#define BrkPromoPrimaryLgContentGap 24
+#define BrkPromoPrimaryLgPretitleMarginBottom 6
+#define BrkPromoPrimaryLgBodyMarginTop 12
 #define BrkPromoPrimaryXlPretitleFontFamily Arial
 #define BrkPromoPrimaryXlPretitleFontWeight Bold
 #define BrkPromoPrimaryXlPretitleLineHeight 110%
-#define BrkPromoPrimaryXlPretitleFontSize 20
-#define BrkPromoPrimaryXlPretitleLetterSpacing -2%
+#define BrkPromoPrimaryXlPretitleFontSize 16
+#define BrkPromoPrimaryXlPretitleLetterSpacing 0%
 #define BrkPromoPrimaryXlPretitleParagraphSpacing 0
 #define BrkPromoPrimaryXlPretitleTextDecoration none
 #define BrkPromoPrimaryXlPretitleTextCase none
@@ -467,17 +467,17 @@
 #define BrkPromoPrimaryXlHeadingTextDecoration none
 #define BrkPromoPrimaryXlBodyFontFamily Arial
 #define BrkPromoPrimaryXlBodyFontWeight Regular
-#define BrkPromoPrimaryXlBodyLineHeight 100%
-#define BrkPromoPrimaryXlBodyFontSize 24
-#define BrkPromoPrimaryXlBodyLetterSpacing 2%
+#define BrkPromoPrimaryXlBodyLineHeight 120%
+#define BrkPromoPrimaryXlBodyFontSize 20
+#define BrkPromoPrimaryXlBodyLetterSpacing -2%
 #define BrkPromoPrimaryXlBodyParagraphSpacing 0
 #define BrkPromoPrimaryXlBodyTextDecoration none
 #define BrkPromoPrimaryXlBodyTextCase none
-#define BrkPromoPrimaryXlPaddingHorizontal 16
-#define BrkPromoPrimaryXlPaddingVertical 20
-#define BrkPromoPrimaryXlContentGap 32
-#define BrkPromoPrimaryXlPretitleMarginBottom 12
-#define BrkPromoPrimaryXlBodyMarginTop 24
+#define BrkPromoPrimaryXlPaddingHorizontal 32
+#define BrkPromoPrimaryXlPaddingVertical 32
+#define BrkPromoPrimaryXlContentGap 16
+#define BrkPromoPrimaryXlPretitleMarginBottom 8
+#define BrkPromoPrimaryXlBodyMarginTop 16
 #define BrkPromoPrimaryXlImageHeight 568
 #define BrkPromoPrimaryXlGradientHeight 142
 #define BrkPromoPrimaryXlContainerWidth 312
