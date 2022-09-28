@@ -111,7 +111,7 @@ const amountStructure = computed(() => {
 <style lang="scss" scoped>
 .brk-card-jackpot {
   /* box */
-  --background-color: var(--brk-jackpot-hero-background-color-standard);
+  --background-color: var(--brk-jackpot-hero-standard-background-color);
   /* --border-width: var(--brk-jackpot-hero-body-box-border-width);
       Il n'y a pas de token pour le border-width de la boite 
       Alternative temporaire : */
@@ -120,11 +120,9 @@ const amountStructure = computed(() => {
   --height: var(--brk-jackpot-hero-sm-height);
 
   /* digit */
-  --digit-background-color: var(--brk-jackpot-hero-body-box-background-color-standard);
+  --digit-background-color: var(--brk-jackpot-hero-standard-body-box-background-color);
   --digit-border-radius: var(--brk-jackpot-hero-amount-digit-border-radius);
-  --digit-color: var(--brk-jackpot-hero-body-font-color-standard);
-  --digit-font-color: var(--brk-jackpot-hero-body-font-color-standard);
-  --digit-font-color-inverted: var(--brk-jackpot-hero-body-font-color-inverted);
+  --digit-color: var(--brk-jackpot-hero-standard-body-font-color);
   --digit-font-family: var(--brk-jackpot-hero-sm-body-font-family);
   --digit-font-size: var(--brk-jackpot-hero-sm-body-font-size);
   --digit-font-weight: var(--brk-jackpot-hero-sm-body-font-weight);
@@ -133,11 +131,13 @@ const amountStructure = computed(() => {
   --digit-height: var(--brk-jackpot-hero-sm-amount-digit-height);
   --digit-width: var(--brk-jackpot-hero-sm-amount-digit-width);
 
+  --symbol-font-color: var(--brk-jackpot-hero-standard-symbol-font-color);
+
   /* box */
   --padding: 0 var(--brk-jackpot-hero-sm-padding-horizontal);
 
   /* title */
-  --title-color: var(--brk-jackpot-hero-heading-font-color-standard);
+  --title-color: var(--brk-jackpot-hero-standard-heading-font-color);
   --title-font-family: var(--brk-jackpot-hero-sm-heading-font-family);
   --title-font-size: var(--brk-jackpot-hero-sm-heading-font-size);
   --title-font-weight: var(--brk-jackpot-hero-sm-heading-font-weight);
@@ -215,11 +215,11 @@ const amountStructure = computed(() => {
     }
 
     .dollar {
-      color: var(--digit-font-color-inverted);
+      color: var(--symbol-font-color);
     }
 
     .separator {
-      color: var(--digit-font-color-inverted);
+      color: var(--symbol-font-color);
       text-align: center;
       width: var(--digit-group-gap);
     }

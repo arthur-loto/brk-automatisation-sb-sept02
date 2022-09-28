@@ -15,7 +15,7 @@ const props = defineProps({
 <style lang="scss" scoped>
 .text {
   --bold-weight: bold;
-  --color: var(--brk-card-hero-body-font-color-standard);
+  --color: var(--brk-card-hero-standard-body-font-color);
   --font-family: var(--brk-card-hero-lg-body-font-family);
   --height: var(--brk-card-hero-lg-body-line-height);
   --italic-style: italic;

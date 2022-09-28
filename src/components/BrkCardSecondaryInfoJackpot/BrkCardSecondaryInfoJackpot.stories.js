@@ -44,7 +44,7 @@ const Template = (args) => ({
   setup() {
     return { args }
   },
-  template: '<brk-card-jackpot v-bind="args" />',
+  template: '<BrkCardSecondaryInfoJackpot v-bind="args" />',
 })
 
 /**

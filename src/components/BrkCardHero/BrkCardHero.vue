@@ -164,30 +164,30 @@ onMounted(() => {
   }
 
   /* Définition des variables selon les tokens */
-  --background-color: var(--brk-card-hero-background-color-standard);
+  --background-color: var(--brk-card-hero-standard-background-color);
   --border: var(--brk-card-hero-border-width) solid
-    var(--brk-card-hero-border-color-standard);
+    var(--brk-card-hero-standard-border-color);
   --border-radius: var(--brk-card-hero-border-radius);
-  --box-shadow: var(--brk-card-hero-box-shadow-default-standard);
+  --box-shadow: var(--brk-card-hero-standard-box-shadow-default);
   --box-shadow-hover: var(--brk-card-hero-box-shadow-default-hover);
   --btn-wrapper-margin: var(--pre-title-line-height) 0 0 var(--content-gap);
   
-  --outline: var(--brk-interactive-outline-width) solid var(--brk-interactive-outline-color-focus-standard);
+  --outline: var(--brk-interactive-outline-width) solid var(--brk-interactive-standard-outline-color-focus);
   --outline-offset: var(--brk-interactive-outline-offset);
 
-  --post-title-font-color: var(--brk-card-hero-body-font-color-standard);
+  --post-title-font-color: var(--brk-card-hero-standard-body-font-color);
   --post-title-font-family: var(--brk-card-hero-sm-body-font-family);
   --post-title-font-weight: var(--brk-card-hero-sm-body-font-weight);
   --post-title-text-case: var(--brk-card-hero-sm-body-text-case);
   --post-title-text-decoration: var(--brk-card-hero-sm-body-text-decoration);
 
-  --pre-title-font-color: var(--brk-card-hero-pretitle-font-color-standard);
+  --pre-title-font-color: var(--brk-card-hero-standard-pretitle-font-color);
   --pre-title-font-family: var(--brk-card-hero-sm-pretitle-font-family);
   --pre-title-font-weight: var(--brk-card-hero-sm-pretitle-font-weight);
   --pre-title-text-case: var(--brk-card-hero-sm-pretitle-text-case);
   --pre-title-text-decoration: var(--brk-card-hero-lg-pretitle-text-decoration);
 
-  --title-color: var(--brk-card-hero-heading-font-color-standard);
+  --title-color: var(--brk-card-hero-standard-heading-font-color);
   --title-font-family: var(--brk-card-hero-sm-heading-font-family);
   --title-font-weight: var(--brk-card-hero-sm-heading-font-weight);
   --title-text-case: var(--brk-card-hero-sm-heading-text-case);
@@ -211,6 +211,7 @@ onMounted(() => {
     border: var(--border);
     border-radius: var(--border-radius);
     box-shadow: var(--box-shadow);
+    box-sizing: border-box;
     height: 100%;
     overflow: hidden;
     &:hover {
