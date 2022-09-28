@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Wed, 28 Sep 2022 16:49:06 GMT
+// Generated on Wed, 28 Sep 2022 17:06:10 GMT
 
 
 #import <Foundation/Foundation.h>
@@ -363,7 +363,7 @@
 #define BrkPromoPrimarySmContentGap 16
 #define BrkPromoPrimarySmPretitleFontFamily Arial
 #define BrkPromoPrimarySmPretitleFontWeight Bold
-#define BrkPromoPrimarySmPretitleLineHeight 115%
+#define BrkPromoPrimarySmPretitleLineHeight 110%
 #define BrkPromoPrimarySmPretitleFontSize 13
 #define BrkPromoPrimarySmPretitleLetterSpacing 0%
 #define BrkPromoPrimarySmPretitleParagraphSpacing 0
@@ -383,7 +383,7 @@
 #define BrkPromoPrimarySmBodyFontWeight Regular
 #define BrkPromoPrimarySmBodyLineHeight 120%
 #define BrkPromoPrimarySmBodyFontSize 16
-#define BrkPromoPrimarySmBodyLetterSpacing 2%
+#define BrkPromoPrimarySmBodyLetterSpacing -2%
 #define BrkPromoPrimarySmBodyParagraphSpacing 0
 #define BrkPromoPrimarySmBodyTextDecoration none
 #define BrkPromoPrimarySmBodyTextCase none
@@ -397,15 +397,15 @@
 #define BrkPromoPrimaryMdPretitleFontFamily Arial
 #define BrkPromoPrimaryMdPretitleFontWeight Bold
 #define BrkPromoPrimaryMdPretitleLineHeight 110%
-#define BrkPromoPrimaryMdPretitleFontSize 15
-#define BrkPromoPrimaryMdPretitleLetterSpacing -2%
+#define BrkPromoPrimaryMdPretitleFontSize 14
+#define BrkPromoPrimaryMdPretitleLetterSpacing 0%
 #define BrkPromoPrimaryMdPretitleParagraphSpacing 0
 #define BrkPromoPrimaryMdPretitleTextDecoration none
 #define BrkPromoPrimaryMdPretitleTextCase none
 #define BrkPromoPrimaryMdHeadingFontFamily Graphik
 #define BrkPromoPrimaryMdHeadingFontWeight Super
 #define BrkPromoPrimaryMdHeadingLineHeight 110%
-#define BrkPromoPrimaryMdHeadingFontSize 32
+#define BrkPromoPrimaryMdHeadingFontSize 28
 #define BrkPromoPrimaryMdHeadingLetterSpacing -2%
 #define BrkPromoPrimaryMdHeadingParagraphSpacing 0
 #define BrkPromoPrimaryMdHeadingTextCase none
@@ -414,7 +414,7 @@
 #define BrkPromoPrimaryMdBodyFontWeight Regular
 #define BrkPromoPrimaryMdBodyLineHeight 120%
 #define BrkPromoPrimaryMdBodyFontSize 18
-#define BrkPromoPrimaryMdBodyLetterSpacing 0%
+#define BrkPromoPrimaryMdBodyLetterSpacing -2%
 #define BrkPromoPrimaryMdBodyParagraphSpacing 0
 #define BrkPromoPrimaryMdBodyTextDecoration none
 #define BrkPromoPrimaryMdBodyTextCase none
