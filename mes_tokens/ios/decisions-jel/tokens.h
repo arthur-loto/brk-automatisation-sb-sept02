@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Wed, 28 Sep 2022 14:37:05 GMT
+// Generated on Wed, 28 Sep 2022 14:46:58 GMT
 
 
 #import <Foundation/Foundation.h>
@@ -738,9 +738,8 @@
 #define BrkPromoTertiarySmPaddingVertical 15
 #define BrkPromoTertiarySmFramePaddingHorizontal 10
 #define BrkPromoTertiarySmFramePaddingVertical 10
-#define BrkPromoTertiarySmContentGap 16
+#define BrkPromoTertiarySmContentGap 32
 #define BrkPromoTertiarySmPretitleMarginBottom 4
-#define BrkPromoTertiarySmBodyMarginTop 8
 #define BrkPromoTertiarySmPretitleFontFamily Arial
 #define BrkPromoTertiarySmPretitleFontWeight Bold
 #define BrkPromoTertiarySmPretitleLineHeight 115%
@@ -765,7 +764,6 @@
 #define BrkPromoTertiaryMdFramePaddingVertical 10
 #define BrkPromoTertiaryMdContentGap 32
 #define BrkPromoTertiaryMdPretitleMarginBottom 8
-#define BrkPromoTertiaryMdBodyMarginTop 16
 #define BrkPromoTertiaryMdPretitleFontFamily Arial
 #define BrkPromoTertiaryMdPretitleFontWeight Bold
 #define BrkPromoTertiaryMdPretitleLineHeight 110%
@@ -791,7 +789,6 @@
 #define BrkPromoTertiaryLgFramePaddingVertical 10
 #define BrkPromoTertiaryLgContentGap 32
 #define BrkPromoTertiaryLgPretitleMarginBottom 10
-#define BrkPromoTertiaryLgBodyMarginTop 20
 #define BrkPromoTertiaryLgPretitleFontFamily Arial
 #define BrkPromoTertiaryLgPretitleFontWeight Bold
 #define BrkPromoTertiaryLgPretitleLineHeight 110%
@@ -817,7 +814,6 @@
 #define BrkPromoTertiaryXlFramePaddingVertical 10
 #define BrkPromoTertiaryXlContentGap 32
 #define BrkPromoTertiaryXlPretitleMarginBottom 12
-#define BrkPromoTertiaryXlBodyMarginTop 24
 #define BrkPromoTertiaryXlPretitleFontFamily Arial
 #define BrkPromoTertiaryXlPretitleFontWeight Bold
 #define BrkPromoTertiaryXlPretitleLineHeight 110%
