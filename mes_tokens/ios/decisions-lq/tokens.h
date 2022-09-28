@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Wed, 28 Sep 2022 14:31:04 GMT
+// Generated on Wed, 28 Sep 2022 14:37:05 GMT
 
 
 #import <Foundation/Foundation.h>
@@ -738,7 +738,6 @@
 #define BrkPromoTertiarySmFramePaddingVertical 10
 #define BrkPromoTertiarySmContentGap 16
 #define BrkPromoTertiarySmPretitleMarginBottom 4
-#define BrkPromoTertiarySmBodyMarginTop 8
 #define BrkPromoTertiarySmImageHeight 172
 #define BrkPromoTertiarySmGradientHeight 43
 #define BrkPromoTertiaryMdPaddingHorizontal 16
@@ -763,7 +762,6 @@
 #define BrkPromoTertiaryMdHeadingTextDecoration none
 #define BrkPromoTertiaryMdContentGap 8
 #define BrkPromoTertiaryMdPretitleMarginBottom 8
-#define BrkPromoTertiaryMdBodyMarginTop 12
 #define BrkPromoTertiaryMdImageHeight 270
 #define BrkPromoTertiaryMdGradientHeight 67.5
 #define BrkPromoTertiaryLgPaddingHorizontal 24
@@ -788,7 +786,6 @@
 #define BrkPromoTertiaryLgHeadingTextDecoration none
 #define BrkPromoTertiaryLgContentGap 8
 #define BrkPromoTertiaryLgPretitleMarginBottom 10
-#define BrkPromoTertiaryLgBodyMarginTop 16
 #define BrkPromoTertiaryLgImageHeight 300
 #define BrkPromoTertiaryLgGradientHeight 75
 #define BrkPromoTertiaryLgFrameWidth 378
@@ -814,7 +811,6 @@
 #define BrkPromoTertiaryXlHeadingTextDecoration none
 #define BrkPromoTertiaryXlContentGap 30
 #define BrkPromoTertiaryXlPretitleMarginBottom 12
-#define BrkPromoTertiaryXlBodyMarginTop 20
 #define BrkPromoTertiaryXlGradientHeight 142
 #define BrkPromoTertiaryXlImageHeight 568
 #define BrkPromoTertiaryXlFrameWidth 312
