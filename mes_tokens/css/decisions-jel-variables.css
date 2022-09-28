@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Wed, 28 Sep 2022 21:25:40 GMT
+ * Generated on Wed, 28 Sep 2022 21:59:06 GMT
  */
 
 :root {
@@ -719,7 +719,7 @@
   --brk-promo-tertiary-inverted-gradient-color: linear-gradient(180deg, #00000000 0%, #000000 100%);
   --brk-promo-tertiary-inverted-heading-font-color: #000000;
   --brk-promo-tertiary-inverted-pretitle-font-color: #000000;
-  --brk-promo-tertiary-lg-content-gap: 24px;
+  --brk-promo-tertiary-lg-content-gap: 16px;
   --brk-promo-tertiary-lg-frame-padding-horizontal: 20px;
   --brk-promo-tertiary-lg-frame-padding-vertical: 20px;
   --brk-promo-tertiary-lg-frame-width: 378px;
