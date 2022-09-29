@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Thu, 29 Sep 2022 15:19:33 GMT
+// Generated on Thu, 29 Sep 2022 15:28:15 GMT
 
 
 #import <Foundation/Foundation.h>
@@ -586,7 +586,7 @@
 #define BrkJackpotHeroStandardBodyFontColor #090f2a
 #define BrkJackpotHeroStandardBodyBoxBackgroundColor #ffffff
 #define BrkJackpotHeroStandardBodyBoxBorderColor transparent
-#define BrkJackpotHeroStandardBackgroundColor #a6ecff
+#define BrkJackpotHeroStandardBackgroundColor #060606
 #define BrkJackpotHeroStandardSymbolFontColor #ffffff
 #define BrkButtonPrimarySmPaddingHorizontal 15
 #define BrkButtonPrimarySmHeight 30
