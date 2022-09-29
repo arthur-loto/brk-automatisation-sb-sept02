@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Wed, 28 Sep 2022 22:18:41 GMT
+// Generated on Thu, 29 Sep 2022 12:47:20 GMT
 
 
 #import <Foundation/Foundation.h>
@@ -805,8 +805,8 @@
 #define BrkPromoTertiaryLgHeadingParagraphSpacing 0
 #define BrkPromoTertiaryLgHeadingTextCase none
 #define BrkPromoTertiaryLgHeadingTextDecoration none
-#define BrkPromoTertiaryXlImageHeight 300
-#define BrkPromoTertiaryXlGradientHeight 75
+#define BrkPromoTertiaryXlImageHeight 568
+#define BrkPromoTertiaryXlGradientHeight 142
 #define BrkPromoTertiaryXlFrameWidth 312
 #define BrkPromoTertiaryXlPaddingHorizontal 16
 #define BrkPromoTertiaryXlPaddingVertical 20
