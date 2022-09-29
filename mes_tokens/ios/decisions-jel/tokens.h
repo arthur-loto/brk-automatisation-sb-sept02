@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Thu, 29 Sep 2022 12:47:20 GMT
+// Generated on Thu, 29 Sep 2022 13:40:58 GMT
 
 
 #import <Foundation/Foundation.h>
@@ -343,8 +343,8 @@
 #define BrkPromoSecondaryXlPretitleFontFamily Arial
 #define BrkPromoSecondaryXlPretitleFontWeight Bold
 #define BrkPromoSecondaryXlPretitleLineHeight 110%
-#define BrkPromoSecondaryXlPretitleFontSize 20
-#define BrkPromoSecondaryXlPretitleLetterSpacing -2%
+#define BrkPromoSecondaryXlPretitleFontSize 16
+#define BrkPromoSecondaryXlPretitleLetterSpacing 0%
 #define BrkPromoSecondaryXlPretitleParagraphSpacing 0
 #define BrkPromoSecondaryXlPretitleTextDecoration none
 #define BrkPromoSecondaryXlPretitleTextCase none
@@ -817,8 +817,8 @@
 #define BrkPromoTertiaryXlPretitleFontFamily Arial
 #define BrkPromoTertiaryXlPretitleFontWeight Bold
 #define BrkPromoTertiaryXlPretitleLineHeight 110%
-#define BrkPromoTertiaryXlPretitleFontSize 20
-#define BrkPromoTertiaryXlPretitleLetterSpacing -2%
+#define BrkPromoTertiaryXlPretitleFontSize 16
+#define BrkPromoTertiaryXlPretitleLetterSpacing 0%
 #define BrkPromoTertiaryXlPretitleParagraphSpacing 0
 #define BrkPromoTertiaryXlPretitleTextDecoration none
 #define BrkPromoTertiaryXlPretitleTextCase none
