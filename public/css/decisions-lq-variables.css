@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Fri, 30 Sep 2022 13:35:27 GMT
+ * Generated on Fri, 30 Sep 2022 13:57:56 GMT
  */
 
 :root {
@@ -16,6 +16,9 @@
   --brk-button-primary-inverted-font-color-default: #ffffff;
   --brk-button-primary-inverted-font-color-focus: #ffffff;
   --brk-button-primary-inverted-font-color-hover: #ffffff;
+  --brk-button-primary-inverted-md-box-shadow-default: 0px 0px 0px 0px #000000;
+  --brk-button-primary-inverted-md-box-shadow-focus: 0px 0px 0px 0px #000000;
+  --brk-button-primary-inverted-md-box-shadow-hover: 0px 0px 0px 0px #000000;
   --brk-button-primary-inverted-sm-box-shadow-default: 0px 0px 0px 0px #000000;
   --brk-button-primary-inverted-sm-box-shadow-focus: 0px 0px 0px 0px #000000;
   --brk-button-primary-inverted-sm-box-shadow-hover: 0px 0px 0px 0px #000000;
@@ -58,6 +61,9 @@
   --brk-button-primary-sm-label-text-case: uppercase;
   --brk-button-primary-sm-label-text-decoration: none;
   --brk-button-primary-sm-padding-horizontal: 15px;
+  --brk-button-primary-standard-md-box-shadow-default: 0px 0px 0px 0px #000000;
+  --brk-button-primary-standard-md-box-shadow-focus: 0px 0px 0px 0px #000000;
+  --brk-button-primary-standard-md-box-shadow-hover: 0px 0px 0px 0px #000000;
   --brk-button-primary-standard-sm-box-shadow-default: 0px 0px 0px 0px #000000;
   --brk-button-primary-standard-sm-box-shadow-focus: 0px 0px 0px 0px #000000;
   --brk-button-primary-standard-sm-box-shadow-hover: 0px 0px 0px 0px #000000;
@@ -84,6 +90,9 @@
   --brk-button-secondary-inverted-font-color-default: #ffffff;
   --brk-button-secondary-inverted-font-color-focus: #ffffff;
   --brk-button-secondary-inverted-font-color-hover: #ffffff;
+  --brk-button-secondary-inverted-md-box-shadow-default: 0px 0px 0px 0px #000000;
+  --brk-button-secondary-inverted-md-box-shadow-focus: 0px 0px 0px 0px #000000;
+  --brk-button-secondary-inverted-md-box-shadow-hover: 0px 0px 0px 0px #000000;
   --brk-button-secondary-inverted-sm-box-shadow-default: 0px 0px 0px 0px #000000;
   --brk-button-secondary-inverted-sm-box-shadow-focus: 0px 0px 0px 0px #000000;
   --brk-button-secondary-inverted-sm-box-shadow-hover: 0px 0px 0px 0px #000000;
@@ -135,6 +144,9 @@
   --brk-button-secondary-standard-font-color-default: #192872;
   --brk-button-secondary-standard-font-color-focus: #ffffff;
   --brk-button-secondary-standard-font-color-hover: #ffffff;
+  --brk-button-secondary-standard-md-box-shadow-default: 0px 0px 0px 0px #000000;
+  --brk-button-secondary-standard-md-box-shadow-focus: 0px 0px 0px 0px #000000;
+  --brk-button-secondary-standard-md-box-shadow-hover: 0px 0px 0px 0px #000000;
   --brk-button-secondary-standard-sm-box-shadow-default: 0px 0px 0px 0px #000000;
   --brk-button-secondary-standard-sm-box-shadow-focus: 0px 0px 0px 0px #000000;
   --brk-button-secondary-standard-sm-box-shadow-hover: 0px 0px 0px 0px #000000;
@@ -158,12 +170,12 @@
   --brk-button-tertiary-inverted-border-color-default: transparent;
   --brk-button-tertiary-inverted-border-color-focus: transparent;
   --brk-button-tertiary-inverted-border-color-hover: transparent;
+  --brk-button-tertiary-inverted-box-shadow-default: 0px 0px 0px 0px #000000;
+  --brk-button-tertiary-inverted-box-shadow-focus: 0px 0px 0px 0px #000000;
+  --brk-button-tertiary-inverted-box-shadow-hover: 0px 0px 0px 0px #000000;
   --brk-button-tertiary-inverted-font-color-default: #ffffff;
   --brk-button-tertiary-inverted-font-color-focus: #ffffff;
   --brk-button-tertiary-inverted-font-color-hover: #ffffff;
-  --brk-button-tertiary-inverted-sm-box-shadow-default: 0px 0px 0px 0px #000000;
-  --brk-button-tertiary-inverted-sm-box-shadow-focus: 0px 0px 0px 0px #000000;
-  --brk-button-tertiary-inverted-sm-box-shadow-hover: 0px 0px 0px 0px #000000;
   --brk-button-tertiary-lg-border-radius: 8px;
   --brk-button-tertiary-lg-height: 50px;
   --brk-button-tertiary-lg-icon-gap: 8px;
@@ -209,12 +221,12 @@
   --brk-button-tertiary-standard-border-color-default: transparent;
   --brk-button-tertiary-standard-border-color-focus: transparent;
   --brk-button-tertiary-standard-border-color-hover: transparent;
+  --brk-button-tertiary-standard-box-shadow-default: 0px 0px 0px 0px #000000;
+  --brk-button-tertiary-standard-box-shadow-focus: 0px 0px 0px 0px #000000;
+  --brk-button-tertiary-standard-box-shadow-hover: 0px 0px 0px 0px #000000;
   --brk-button-tertiary-standard-font-color-default: #253aa7;
   --brk-button-tertiary-standard-font-color-focus: #ffffff;
   --brk-button-tertiary-standard-font-color-hover: #ffffff;
-  --brk-button-tertiary-standard-sm-box-shadow-default: 0px 0px 0px 0px #000000;
-  --brk-button-tertiary-standard-sm-box-shadow-focus: 0px 0px 0px 0px #000000;
-  --brk-button-tertiary-standard-sm-box-shadow-hover: 0px 0px 0px 0px #000000;
   --brk-button-tertiary-xl-border-radius: 8px;
   --brk-button-tertiary-xl-height: 60px;
   --brk-button-tertiary-xl-icon-gap: 10px;
