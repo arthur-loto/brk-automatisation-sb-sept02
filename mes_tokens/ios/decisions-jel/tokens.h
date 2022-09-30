@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Thu, 29 Sep 2022 18:54:15 GMT
+// Generated on Fri, 30 Sep 2022 13:35:27 GMT
 
 
 #import <Foundation/Foundation.h>
@@ -15,9 +15,9 @@
 #define BrkButtonTertiaryBorderWidth 1
 #define BrkButtonIconBorderWidth 1
 #define BrkButtonOpacityDisabled 50%
-#define BrkButtonTertiaryStandardSmBoxShadowDefault [object Object]
-#define BrkButtonTertiaryStandardSmBoxShadowHover [object Object]
-#define BrkButtonTertiaryStandardSmBoxShadowFocus [object Object]
+#define BrkButtonTertiaryStandardBoxShadowDefault [object Object]
+#define BrkButtonTertiaryStandardBoxShadowHover [object Object]
+#define BrkButtonTertiaryStandardBoxShadowFocus [object Object]
 #define BrkButtonTertiaryStandardFontColorDefault #535353
 #define BrkButtonTertiaryStandardBackgroundColorDefault #ffffff
 #define BrkButtonTertiaryStandardBorderColorDefault #e6e6e6
@@ -27,9 +27,9 @@
 #define BrkButtonTertiaryStandardFontColorFocus #1a1a1a
 #define BrkButtonTertiaryStandardBackgroundColorFocus #ffffff
 #define BrkButtonTertiaryStandardBorderColorFocus #535353
-#define BrkButtonTertiaryInvertedSmBoxShadowDefault [object Object]
-#define BrkButtonTertiaryInvertedSmBoxShadowHover [object Object]
-#define BrkButtonTertiaryInvertedSmBoxShadowFocus [object Object]
+#define BrkButtonTertiaryInvertedBoxShadowDefault [object Object]
+#define BrkButtonTertiaryInvertedBoxShadowHover [object Object]
+#define BrkButtonTertiaryInvertedBoxShadowFocus [object Object]
 #define BrkButtonTertiaryInvertedFontColorDefault #e6e6e6
 #define BrkButtonTertiaryInvertedBackgroundColorDefault #1a1a1a
 #define BrkButtonTertiaryInvertedBorderColorDefault #535353
@@ -51,6 +51,9 @@
 #define BrkButtonPrimaryStandardFontColorFocus #1a1a1a
 #define BrkButtonPrimaryStandardBackgroundColorFocus #ffffff
 #define BrkButtonPrimaryStandardBorderColorFocus #535353
+#define BrkButtonPrimaryStandardMdBoxShadowDefault [object Object]
+#define BrkButtonPrimaryStandardMdBoxShadowHover [object Object]
+#define BrkButtonPrimaryStandardMdBoxShadowFocus [object Object]
 #define BrkButtonPrimaryInvertedSmBoxShadowDefault [object Object]
 #define BrkButtonPrimaryInvertedSmBoxShadowHover [object Object]
 #define BrkButtonPrimaryInvertedSmBoxShadowFocus [object Object]
@@ -63,6 +66,9 @@
 #define BrkButtonPrimaryInvertedFontColorFocus #ffffff
 #define BrkButtonPrimaryInvertedBackgroundColorFocus #1a1a1a
 #define BrkButtonPrimaryInvertedBorderColorFocus #ffffff
+#define BrkButtonPrimaryInvertedMdBoxShadowDefault [object Object]
+#define BrkButtonPrimaryInvertedMdBoxShadowHover [object Object]
+#define BrkButtonPrimaryInvertedMdBoxShadowFocus [object Object]
 #define BrkButtonSecondaryStandardSmBoxShadowDefault [object Object]
 #define BrkButtonSecondaryStandardSmBoxShadowHover [object Object]
 #define BrkButtonSecondaryStandardSmBoxShadowFocus [object Object]
@@ -75,6 +81,9 @@
 #define BrkButtonSecondaryStandardFontColorFocus #000000
 #define BrkButtonSecondaryStandardBackgroundColorFocus #ffffff
 #define BrkButtonSecondaryStandardBorderColorFocus #000000
+#define BrkButtonSecondaryStandardMdBoxShadowDefault [object Object]
+#define BrkButtonSecondaryStandardMdBoxShadowHover [object Object]
+#define BrkButtonSecondaryStandardMdBoxShadowFocus [object Object]
 #define BrkButtonSecondaryInvertedSmBoxShadowDefault [object Object]
 #define BrkButtonSecondaryInvertedSmBoxShadowHover [object Object]
 #define BrkButtonSecondaryInvertedSmBoxShadowFocus [object Object]
@@ -87,6 +96,9 @@
 #define BrkButtonSecondaryInvertedFontColorFocus #ffffff
 #define BrkButtonSecondaryInvertedBackgroundColorFocus #1a1a1a
 #define BrkButtonSecondaryInvertedBorderColorFocus #ffffff
+#define BrkButtonSecondaryInvertedMdBoxShadowDefault [object Object]
+#define BrkButtonSecondaryInvertedMdBoxShadowHover [object Object]
+#define BrkButtonSecondaryInvertedMdBoxShadowFocus [object Object]
 #define BrkButtonTertiarySmLabelFontFamily Graphik
 #define BrkButtonTertiarySmLabelFontWeight Bold
 #define BrkButtonTertiarySmLabelLineHeight 100%
