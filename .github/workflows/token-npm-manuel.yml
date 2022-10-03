@@ -1,0 +1,56 @@
+# This is a basic workflow that is manually triggered
+
+name: Workflow manuel livraison Tokens
+
+# Controls when the action will run. Workflow runs when manually triggered using the UI
+# or API.
+on:
+  workflow_dispatch:
+    # Inputs the workflow accepts.
+    inputs:
+      name:
+        # Friendly description to be shown in the UI instead of 'name'
+        description: 'Version des tokens npm'
+        # Default value if no value is explicitly provided
+        default: 'npm install brk-figma-mvp1@latest'
+        # Input has to be provided for the workflow to run
+        required: true
+
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+jobs:
+  # This workflow install test-tokens-npm in Storybook
+  install-test-tokens-npm:
+    # The type of runner that the job will run on
+    runs-on: ubuntu-latest
+
+    # Steps represent a sequence of tasks that will be executed as part of the job
+    steps:
+    # Runs a single command using the runners shell
+    - name: Vérification log Install Design Tokens
+      run: echo "Version installée ${{ github.event.inputs.name }}"
+    - uses: actions/checkout@v2
+    - uses: actions/setup-node@v3
+      with:
+        node-version: 16
+    - name: Install node modules
+      run: npm ci
+    - name: Install Design Tokens     
+      run: npm install ${{ github.event.inputs.name }} --save-dev
+    
+    # Pause for 20 seconds     
+    - run: echo "Pause de 20 secondes"    
+    - name: Sleep for 20 seconds
+      run: sleep 20s
+      shell: bash
+        
+    - name: Copie des CSS - Script InstallTokens     
+      run: npm run tokens  
+    
+    
+    
+    # Add files that were created during a run, e.g. created files from npm install test-tokens-npm.
+    - name: Commit
+      uses: stefanzweifel/git-auto-commit-action@v4.14.1
+      with:
+        commit_message: "[UPDATE DEPUIS TOKENS NPM]"
+        push_options: '--force'
