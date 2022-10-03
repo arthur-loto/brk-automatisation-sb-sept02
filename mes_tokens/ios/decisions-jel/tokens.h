@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Mon, 03 Oct 2022 17:34:23 GMT
+// Generated on Mon, 03 Oct 2022 17:50:11 GMT
 
 
 #import <Foundation/Foundation.h>
@@ -211,7 +211,7 @@
 #define BrkCardHeroMdBodyFontWeight Regular
 #define BrkCardHeroMdBodyLineHeight 100%
 #define BrkCardHeroMdBodyFontSize 13
-#define BrkCardHeroMdBodyLetterSpacing -2%
+#define BrkCardHeroMdBodyLetterSpacing 0%
 #define BrkCardHeroMdBodyParagraphSpacing 0
 #define BrkCardHeroMdBodyTextDecoration none
 #define BrkCardHeroMdBodyTextCase none
@@ -240,7 +240,7 @@
 #define BrkCardHeroLgBodyFontWeight Regular
 #define BrkCardHeroLgBodyLineHeight 100%
 #define BrkCardHeroLgBodyFontSize 16
-#define BrkCardHeroLgBodyLetterSpacing -2%
+#define BrkCardHeroLgBodyLetterSpacing 0%
 #define BrkCardHeroLgBodyParagraphSpacing 0
 #define BrkCardHeroLgBodyTextDecoration none
 #define BrkCardHeroLgBodyTextCase none
@@ -348,8 +348,8 @@
 #define BrkPromoSecondaryXlImageHeight 568
 #define BrkPromoSecondaryXlGradientHeight 142
 #define BrkPromoSecondaryXlContainerWidth 312
-#define BrkPromoSecondaryXlPaddingHorizontal 16
-#define BrkPromoSecondaryXlPaddingVertical 20
+#define BrkPromoSecondaryXlPaddingHorizontal 32
+#define BrkPromoSecondaryXlPaddingVertical 32
 #define BrkPromoSecondaryXlContentGap 32
 #define BrkPromoSecondaryXlPretitleMarginBottom 12
 #define BrkPromoSecondaryXlPretitleFontFamily Arial
@@ -488,7 +488,7 @@
 #define BrkPromoPrimaryXlPaddingHorizontal 32
 #define BrkPromoPrimaryXlPaddingVertical 32
 #define BrkPromoPrimaryXlContentGap 16
-#define BrkPromoPrimaryXlPretitleMarginBottom 8
+#define BrkPromoPrimaryXlPretitleMarginBottom 4
 #define BrkPromoPrimaryXlBodyMarginTop 16
 #define BrkPromoPrimaryXlImageHeight 568
 #define BrkPromoPrimaryXlGradientHeight 142
@@ -552,7 +552,7 @@
 #define BrkJackpotHeroLgContentGap 24
 #define BrkJackpotHeroLgHeadingFontFamily Graphik
 #define BrkJackpotHeroLgHeadingFontWeight Bold
-#define BrkJackpotHeroLgHeadingLineHeight 100%
+#define BrkJackpotHeroLgHeadingLineHeight 110%
 #define BrkJackpotHeroLgHeadingFontSize 20
 #define BrkJackpotHeroLgHeadingLetterSpacing -2%
 #define BrkJackpotHeroLgHeadingParagraphSpacing 0
