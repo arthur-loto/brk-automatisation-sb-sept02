@@ -28,7 +28,7 @@ jobs:
     - name: Install node modules
       run: npm ci
     - name: Install Design Tokens dernière version     
-      run: npm install brk-figma-demo-sln@latest --save-dev
+      run: npm install brk-figma-mvp1@latest --save-dev
       
    # Pause for 20 seconds     
     - run: echo "Pause de 20 secondes"    
