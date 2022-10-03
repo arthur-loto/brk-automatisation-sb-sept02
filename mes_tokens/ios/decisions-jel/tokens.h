@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Mon, 03 Oct 2022 17:50:11 GMT
+// Generated on Mon, 03 Oct 2022 17:58:27 GMT
 
 
 #import <Foundation/Foundation.h>
@@ -269,7 +269,7 @@
 #define BrkCardHeroXlBodyFontWeight Regular
 #define BrkCardHeroXlBodyLineHeight 110%
 #define BrkCardHeroXlBodyFontSize 20
-#define BrkCardHeroXlBodyLetterSpacing -2%
+#define BrkCardHeroXlBodyLetterSpacing 0%
 #define BrkCardHeroXlBodyParagraphSpacing 0
 #define BrkCardHeroXlBodyTextDecoration none
 #define BrkCardHeroXlBodyTextCase none
