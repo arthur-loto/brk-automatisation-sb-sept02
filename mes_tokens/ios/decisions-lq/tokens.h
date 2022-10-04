@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Tue, 04 Oct 2022 19:40:43 GMT
+// Generated on Tue, 04 Oct 2022 23:27:03 GMT
 
 
 #import <Foundation/Foundation.h>
@@ -345,7 +345,7 @@
 #define BrkPromoSecondaryMdGradientHeight 67.5
 #define BrkPromoSecondaryMdPaddingHorizontal 16
 #define BrkPromoSecondaryMdPaddingVertical 16
-#define BrkPromoSecondaryMdContentGap 8
+#define BrkPromoSecondaryMdContentGap 32
 #define BrkPromoSecondaryMdPretitleMarginBottom 10
 #define BrkPromoSecondaryMdPretitleFontFamily Graphik
 #define BrkPromoSecondaryMdPretitleFontWeight Bold
@@ -617,7 +617,7 @@
 #define BrkPromoPrimarySmGradientHeight 43
 #define BrkPromoPrimaryMdPaddingHorizontal 16
 #define BrkPromoPrimaryMdPaddingVertical 16
-#define BrkPromoPrimaryMdContentGap 8
+#define BrkPromoPrimaryMdContentGap 32
 #define BrkPromoPrimaryMdPretitleMarginBottom 8
 #define BrkPromoPrimaryMdBodyMarginTop 12
 #define BrkPromoPrimaryMdImageHeight 270
@@ -714,7 +714,7 @@
 #define BrkPromoPrimaryInvertedBodyFontColor #ffffff
 #define BrkPromoPrimaryInvertedBackgroundColor #121d54
 #define BrkPromoPrimaryInvertedBorderColor #eaedfa
-#define BrkPromoPrimaryInvertedGradientColor linear-gradient(180deg, #121d5400 0%, #121d54100%)
+#define BrkPromoPrimaryInvertedGradientColor linear-gradient(180deg, #121d5400 0%, #121d54 100%)
 #define BrkPromoPrimaryStandardHeadingFontColor #2e49d1
 #define BrkPromoPrimaryStandardPretitleFontColor #192872
 #define BrkPromoPrimaryStandardBodyFontColor #192872
