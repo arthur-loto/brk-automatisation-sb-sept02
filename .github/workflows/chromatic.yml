@@ -5,9 +5,9 @@ name: Installation auto de SB via Node.js CI
 
 on:
   push:
-    branches: [ demo-sln ]
+    branches: [ tokens-direct ]
   pull_request:
-    branches: [ demo-sln ]
+    branches: [ tokens-direct ]
 
 jobs:
   build:
