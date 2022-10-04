@@ -5,9 +5,9 @@ name: Installation auto de SB via Node.js CI
 
 on:
   push:
-    branches: [ demo-sln ]
+    branches: [ figma-plugin ]
   pull_request:
-    branches: [ demo-sln ]
+    branches: [ figma-plugin ]
 
 jobs:
   build:
