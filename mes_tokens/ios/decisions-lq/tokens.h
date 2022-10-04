@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Tue, 04 Oct 2022 17:58:53 GMT
+// Generated on Tue, 04 Oct 2022 19:40:43 GMT
 
 
 #import <Foundation/Foundation.h>
@@ -472,9 +472,9 @@
 #define BrkButtonSecondarySmHeight 32
 #define BrkButtonSecondarySmIconHeight 14
 #define BrkButtonSecondarySmIconGap 4
-#define BrkButtonSecondaryMdPaddingHorizontal 20
+#define BrkButtonSecondaryMdPaddingHorizontal 16
 #define BrkButtonSecondaryMdBorderRadius 6
-#define BrkButtonSecondaryMdHeight 48
+#define BrkButtonSecondaryMdHeight 36
 #define BrkButtonSecondaryMdIconHeight 22
 #define BrkButtonSecondaryMdIconGap 6
 #define BrkButtonSecondaryLgPaddingHorizontal 30
@@ -498,7 +498,7 @@
 #define BrkButtonSecondaryMdLabelFontFamily Arial
 #define BrkButtonSecondaryMdLabelFontWeight Bold
 #define BrkButtonSecondaryMdLabelLineHeight 85%
-#define BrkButtonSecondaryMdLabelFontSize 18
+#define BrkButtonSecondaryMdLabelFontSize 16
 #define BrkButtonSecondaryMdLabelLetterSpacing 2%
 #define BrkButtonSecondaryMdLabelParagraphSpacing 0
 #define BrkButtonSecondaryMdLabelTextCase none
@@ -601,15 +601,15 @@
 #define BrkPromoPrimarySmHeadingFontFamily Arial
 #define BrkPromoPrimarySmHeadingFontWeight Regular
 #define BrkPromoPrimarySmHeadingLineHeight 100%
-#define BrkPromoPrimarySmHeadingFontSize 18
+#define BrkPromoPrimarySmHeadingFontSize 26
 #define BrkPromoPrimarySmHeadingLetterSpacing -2%
 #define BrkPromoPrimarySmHeadingParagraphSpacing 0
 #define BrkPromoPrimarySmHeadingTextCase none
 #define BrkPromoPrimarySmHeadingTextDecoration none
 #define BrkPromoPrimarySmBodyFontFamily Arial
 #define BrkPromoPrimarySmBodyFontWeight Regular
-#define BrkPromoPrimarySmBodyLineHeight 85%
-#define BrkPromoPrimarySmBodyFontSize 9
+#define BrkPromoPrimarySmBodyLineHeight 115%
+#define BrkPromoPrimarySmBodyFontSize 14
 #define BrkPromoPrimarySmBodyLetterSpacing 2%
 #define BrkPromoPrimarySmBodyParagraphSpacing 0
 #define BrkPromoPrimarySmBodyTextCase none
