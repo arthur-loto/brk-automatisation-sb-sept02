@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Wed, 05 Oct 2022 20:29:30 GMT
+// Generated on Wed, 05 Oct 2022 22:40:09 GMT
 
 
 #import <Foundation/Foundation.h>
@@ -836,15 +836,19 @@
 #define BrkButtonIconSmSize 30
 #define BrkButtonIconSmIconHeight 8
 #define BrkButtonIconSmBorderRadius 4
+#define BrkButtonIconSmPadding 15
 #define BrkButtonIconMdSize 40
 #define BrkButtonIconMdIconHeight 22
 #define BrkButtonIconMdBorderRadius 6
+#define BrkButtonIconMdPadding 20
 #define BrkButtonIconLgSize 50
 #define BrkButtonIconLgIconHeight 26
 #define BrkButtonIconLgBorderRadius 8
+#define BrkButtonIconLgPadding 30
 #define BrkButtonIconXlSize 60
 #define BrkButtonIconXlIconHeight 30
 #define BrkButtonIconXlBorderRadius 8
+#define BrkButtonIconXlPadding 36
 #define BrkButtonIconStandardIconFillDefault #253aa7
 #define BrkButtonIconStandardBackgroundColorDefault #eaedfa
 #define BrkButtonIconStandardBorderColorDefault transparent
