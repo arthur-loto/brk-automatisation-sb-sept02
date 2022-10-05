@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Wed, 05 Oct 2022 14:45:19 GMT
+// Generated on Wed, 05 Oct 2022 14:57:33 GMT
 
 
 #import <Foundation/Foundation.h>
@@ -387,8 +387,8 @@
 #define BrkPromoSecondaryLgHeadingTextDecoration none
 #define BrkPromoSecondaryXlImageHeight 568
 #define BrkPromoSecondaryXlGradientHeight 142
-#define BrkPromoSecondaryXlPaddingHorizontal 24
-#define BrkPromoSecondaryXlPaddingVertical 24
+#define BrkPromoSecondaryXlPaddingHorizontal 32
+#define BrkPromoSecondaryXlPaddingVertical 32
 #define BrkPromoSecondaryXlContentGap 24
 #define BrkPromoSecondaryXlPretitleMarginBottom 16
 #define BrkPromoSecondaryXlPretitleFontFamily Graphik
@@ -677,8 +677,8 @@
 #define BrkPromoPrimaryLgBodyTextCase none
 #define BrkPromoPrimaryLgBodyTextDecoration none
 #define BrkPromoPrimaryLgGradientHeight 75
-#define BrkPromoPrimaryXlPaddingHorizontal 24
-#define BrkPromoPrimaryXlPaddingVertical 24
+#define BrkPromoPrimaryXlPaddingHorizontal 32
+#define BrkPromoPrimaryXlPaddingVertical 32
 #define BrkPromoPrimaryXlContentGap 24
 #define BrkPromoPrimaryXlPretitleMarginBottom 6
 #define BrkPromoPrimaryXlBodyMarginTop 12
@@ -708,7 +708,7 @@
 #define BrkPromoPrimaryXlBodyTextCase none
 #define BrkPromoPrimaryXlBodyTextDecoration none
 #define BrkPromoPrimaryXlGradientHeight 142
-#define BrkPromoPrimaryXlContainerWidth 312
+#define BrkPromoPrimaryXlContainerWidth 390
 #define BrkPromoPrimaryInvertedHeadingFontColor #ffffff
 #define BrkPromoPrimaryInvertedPretitleFontColor #a6ecff
 #define BrkPromoPrimaryInvertedBodyFontColor #ffffff
