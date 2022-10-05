@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Wed, 05 Oct 2022 18:55:51 GMT
+ * Generated on Wed, 05 Oct 2022 20:29:30 GMT
  */
 
 :root {
@@ -11,9 +11,9 @@
   --brk-button-icon-inverted-border-color-default: transparent;
   --brk-button-icon-inverted-border-color-focus: transparent;
   --brk-button-icon-inverted-border-color-hover: transparent;
-  --brk-button-icon-inverted-font-color-default: #000000;
-  --brk-button-icon-inverted-font-color-focus: #000000;
-  --brk-button-icon-inverted-font-color-hover: #000000;
+  --brk-button-icon-inverted-icon-fill-default: #000000;
+  --brk-button-icon-inverted-icon-fill-focus: #000000;
+  --brk-button-icon-inverted-icon-fill-hover: #000000;
   --brk-button-icon-lg-border-radius: 0px;
   --brk-button-icon-lg-size: 52px;
   --brk-button-icon-md-border-radius: 0px;
@@ -28,9 +28,9 @@
   --brk-button-icon-standard-border-color-default: transparent;
   --brk-button-icon-standard-border-color-focus: transparent;
   --brk-button-icon-standard-border-color-hover: transparent;
-  --brk-button-icon-standard-font-color-default: #000000;
-  --brk-button-icon-standard-font-color-focus: #000000;
-  --brk-button-icon-standard-font-color-hover: #000000;
+  --brk-button-icon-standard-icon-fill-default: #000000;
+  --brk-button-icon-standard-icon-fill-focus: #000000;
+  --brk-button-icon-standard-icon-fill-hover: #000000;
   --brk-button-icon-xd-size: 62px;
   --brk-button-icon-xl-border-radius: 0px;
   --brk-button-opacity-disabled: 50%;
