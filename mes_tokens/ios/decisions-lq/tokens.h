@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Wed, 05 Oct 2022 13:20:40 GMT
+// Generated on Wed, 05 Oct 2022 13:32:29 GMT
 
 
 #import <Foundation/Foundation.h>
@@ -367,7 +367,7 @@
 #define BrkPromoSecondaryLgGradientHeight 75
 #define BrkPromoSecondaryLgPaddingHorizontal 24
 #define BrkPromoSecondaryLgPaddingVertical 24
-#define BrkPromoSecondaryLgContentGap 16
+#define BrkPromoSecondaryLgContentGap 24
 #define BrkPromoSecondaryLgPretitleMarginBottom 12
 #define BrkPromoSecondaryLgPretitleFontFamily Graphik
 #define BrkPromoSecondaryLgPretitleFontWeight Bold
@@ -592,8 +592,8 @@
 #define BrkPromoPrimarySmImageHeight 172
 #define BrkPromoPrimarySmPretitleFontFamily Graphik
 #define BrkPromoPrimarySmPretitleFontWeight Bold
-#define BrkPromoPrimarySmPretitleLineHeight 8
-#define BrkPromoPrimarySmPretitleFontSize 8
+#define BrkPromoPrimarySmPretitleLineHeight 10
+#define BrkPromoPrimarySmPretitleFontSize 10
 #define BrkPromoPrimarySmPretitleLetterSpacing -2%
 #define BrkPromoPrimarySmPretitleParagraphSpacing 0
 #define BrkPromoPrimarySmPretitleTextCase uppercase
@@ -623,8 +623,8 @@
 #define BrkPromoPrimaryMdImageHeight 270
 #define BrkPromoPrimaryMdPretitleFontFamily Graphik
 #define BrkPromoPrimaryMdPretitleFontWeight Bold
-#define BrkPromoPrimaryMdPretitleLineHeight 14
-#define BrkPromoPrimaryMdPretitleFontSize 14
+#define BrkPromoPrimaryMdPretitleLineHeight 12
+#define BrkPromoPrimaryMdPretitleFontSize 12
 #define BrkPromoPrimaryMdPretitleLetterSpacing -2%
 #define BrkPromoPrimaryMdPretitleParagraphSpacing 0
 #define BrkPromoPrimaryMdPretitleTextCase uppercase
@@ -648,14 +648,14 @@
 #define BrkPromoPrimaryMdGradientHeight 67.5
 #define BrkPromoPrimaryLgPaddingHorizontal 24
 #define BrkPromoPrimaryLgPaddingVertical 24
-#define BrkPromoPrimaryLgContentGap 16
+#define BrkPromoPrimaryLgContentGap 24
 #define BrkPromoPrimaryLgPretitleMarginBottom 10
-#define BrkPromoPrimaryLgBodyMarginTop 16
+#define BrkPromoPrimaryLgBodyMarginTop 12
 #define BrkPromoPrimaryLgImageHeight 300
 #define BrkPromoPrimaryLgPretitleFontFamily Graphik
 #define BrkPromoPrimaryLgPretitleFontWeight Bold
-#define BrkPromoPrimaryLgPretitleLineHeight 12
-#define BrkPromoPrimaryLgPretitleFontSize 12
+#define BrkPromoPrimaryLgPretitleLineHeight 14
+#define BrkPromoPrimaryLgPretitleFontSize 14
 #define BrkPromoPrimaryLgPretitleLetterSpacing -2%
 #define BrkPromoPrimaryLgPretitleParagraphSpacing 0
 #define BrkPromoPrimaryLgPretitleTextCase uppercase
@@ -671,7 +671,7 @@
 #define BrkPromoPrimaryLgBodyFontFamily Arial
 #define BrkPromoPrimaryLgBodyFontWeight Regular
 #define BrkPromoPrimaryLgBodyLineHeight 115%
-#define BrkPromoPrimaryLgBodyFontSize 20
+#define BrkPromoPrimaryLgBodyFontSize 22
 #define BrkPromoPrimaryLgBodyLetterSpacing 2%
 #define BrkPromoPrimaryLgBodyParagraphSpacing 0
 #define BrkPromoPrimaryLgBodyTextCase none
