@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Wed, 05 Oct 2022 18:55:51 GMT
+// Generated on Wed, 05 Oct 2022 20:29:30 GMT
 
 
 #import <Foundation/Foundation.h>
@@ -345,22 +345,22 @@
 #define BrkButtonPrimaryXlLabelParagraphSpacing 0
 #define BrkButtonPrimaryXlLabelTextDecoration none
 #define BrkButtonPrimaryXlLabelTextCase uppercase
-#define BrkButtonIconStandardFontColorDefault #000000
+#define BrkButtonIconStandardIconFillDefault #000000
 #define BrkButtonIconStandardBackgroundColorDefault #ffffff
 #define BrkButtonIconStandardBorderColorDefault transparent
-#define BrkButtonIconStandardFontColorHover #000000
+#define BrkButtonIconStandardIconFillHover #000000
 #define BrkButtonIconStandardBackgroundColorHover #c9ff00
 #define BrkButtonIconStandardBorderColorHover transparent
-#define BrkButtonIconStandardFontColorFocus #000000
+#define BrkButtonIconStandardIconFillFocus #000000
 #define BrkButtonIconStandardBackgroundColorFocus #c9ff00
 #define BrkButtonIconStandardBorderColorFocus transparent
-#define BrkButtonIconInvertedFontColorDefault #000000
+#define BrkButtonIconInvertedIconFillDefault #000000
 #define BrkButtonIconInvertedBackgroundColorDefault #ffffff
 #define BrkButtonIconInvertedBorderColorDefault transparent
-#define BrkButtonIconInvertedFontColorHover #000000
+#define BrkButtonIconInvertedIconFillHover #000000
 #define BrkButtonIconInvertedBackgroundColorHover #c9ff00
 #define BrkButtonIconInvertedBorderColorHover transparent
-#define BrkButtonIconInvertedFontColorFocus #000000
+#define BrkButtonIconInvertedIconFillFocus #000000
 #define BrkButtonIconInvertedBackgroundColorFocus #c9ff00
 #define BrkButtonIconInvertedBorderColorFocus transparent
 #define BrkButtonIconSmBorderRadius 0

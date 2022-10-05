@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Wed, 05 Oct 2022 18:55:51 GMT
+ * Generated on Wed, 05 Oct 2022 20:29:30 GMT
  */
 
 :root {
@@ -11,9 +11,9 @@
   --brk-button-icon-inverted-border-color-default: #535353;
   --brk-button-icon-inverted-border-color-focus: #ffffff;
   --brk-button-icon-inverted-border-color-hover: #eaedfa;
-  --brk-button-icon-inverted-font-color-default: #e6e6e6;
-  --brk-button-icon-inverted-font-color-focus: #ffffff;
-  --brk-button-icon-inverted-font-color-hover: #ffffff;
+  --brk-button-icon-inverted-icon-fill-default: #e6e6e6;
+  --brk-button-icon-inverted-icon-fill-focus: #ffffff;
+  --brk-button-icon-inverted-icon-fill-hover: #ffffff;
   --brk-button-icon-lg-border-radius: 25px;
   --brk-button-icon-lg-icon-height: 20px;
   --brk-button-icon-lg-padding: 25px;
@@ -32,9 +32,9 @@
   --brk-button-icon-standard-border-color-default: #e6e6e6;
   --brk-button-icon-standard-border-color-focus: #535353;
   --brk-button-icon-standard-border-color-hover: #535353;
-  --brk-button-icon-standard-font-color-default: #535353;
-  --brk-button-icon-standard-font-color-focus: #1a1a1a;
-  --brk-button-icon-standard-font-color-hover: #1a1a1a;
+  --brk-button-icon-standard-icon-fill-default: #535353;
+  --brk-button-icon-standard-icon-fill-focus: #1a1a1a;
+  --brk-button-icon-standard-icon-fill-hover: #1a1a1a;
   --brk-button-icon-xl-border-radius: 30px;
   --brk-button-icon-xl-icon-height: 24px;
   --brk-button-icon-xl-padding: 30px;

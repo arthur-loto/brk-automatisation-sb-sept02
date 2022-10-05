@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Wed, 05 Oct 2022 18:55:51 GMT
+// Generated on Wed, 05 Oct 2022 20:29:30 GMT
 
 
 #import <Foundation/Foundation.h>
@@ -842,22 +842,22 @@
 #define BrkPromoTertiaryXlHeadingParagraphSpacing 0
 #define BrkPromoTertiaryXlHeadingTextCase none
 #define BrkPromoTertiaryXlHeadingTextDecoration none
-#define BrkButtonIconStandardFontColorDefault #535353
+#define BrkButtonIconStandardIconFillDefault #535353
 #define BrkButtonIconStandardBackgroundColorDefault #ffffff
 #define BrkButtonIconStandardBorderColorDefault #e6e6e6
-#define BrkButtonIconStandardFontColorHover #1a1a1a
+#define BrkButtonIconStandardIconFillHover #1a1a1a
 #define BrkButtonIconStandardBackgroundColorHover #ffffff
 #define BrkButtonIconStandardBorderColorHover #535353
-#define BrkButtonIconStandardFontColorFocus #1a1a1a
+#define BrkButtonIconStandardIconFillFocus #1a1a1a
 #define BrkButtonIconStandardBackgroundColorFocus #ffffff
 #define BrkButtonIconStandardBorderColorFocus #535353
-#define BrkButtonIconInvertedFontColorDefault #e6e6e6
+#define BrkButtonIconInvertedIconFillDefault #e6e6e6
 #define BrkButtonIconInvertedBackgroundColorDefault #1a1a1a
 #define BrkButtonIconInvertedBorderColorDefault #535353
-#define BrkButtonIconInvertedFontColorHover #ffffff
+#define BrkButtonIconInvertedIconFillHover #ffffff
 #define BrkButtonIconInvertedBackgroundColorHover #1a1a1a
 #define BrkButtonIconInvertedBorderColorHover #eaedfa
-#define BrkButtonIconInvertedFontColorFocus #ffffff
+#define BrkButtonIconInvertedIconFillFocus #ffffff
 #define BrkButtonIconInvertedBackgroundColorFocus #1a1a1a
 #define BrkButtonIconInvertedBorderColorFocus #ffffff
 #define BrkButtonIconSmSize 30
