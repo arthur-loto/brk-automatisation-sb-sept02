@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Wed, 05 Oct 2022 18:12:54 GMT
+ * Generated on Wed, 05 Oct 2022 18:31:42 GMT
  */
 
 :root {
@@ -14,11 +14,17 @@
   --brk-button-icon-inverted-font-color-default: #e6e6e6;
   --brk-button-icon-inverted-font-color-focus: #ffffff;
   --brk-button-icon-inverted-font-color-hover: #ffffff;
+  --brk-button-icon-lg-border-radius: 25px;
   --brk-button-icon-lg-icon-height: 20px;
+  --brk-button-icon-lg-padding: 25px;
   --brk-button-icon-lg-size: 50px;
+  --brk-button-icon-md-border-radius: 20px;
   --brk-button-icon-md-icon-height: 16px;
+  --brk-button-icon-md-padding: 20px;
   --brk-button-icon-md-size: 40px;
+  --brk-button-icon-sm-border-radius: 15px;
   --brk-button-icon-sm-icon-height: 8px;
+  --brk-button-icon-sm-padding: 15px;
   --brk-button-icon-sm-size: 30px;
   --brk-button-icon-standard-background-color-default: #ffffff;
   --brk-button-icon-standard-background-color-focus: #ffffff;
@@ -29,7 +35,9 @@
   --brk-button-icon-standard-font-color-default: #535353;
   --brk-button-icon-standard-font-color-focus: #1a1a1a;
   --brk-button-icon-standard-font-color-hover: #1a1a1a;
+  --brk-button-icon-xl-border-radius: 30px;
   --brk-button-icon-xl-icon-height: 24px;
+  --brk-button-icon-xl-padding: 30px;
   --brk-button-icon-xl-size: 60px;
   --brk-button-opacity-disabled: 50%;
   --brk-button-primary-border-width: 2px;
