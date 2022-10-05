@@ -1,10 +1,36 @@
 /**
  * Do not edit directly
- * Generated on Wed, 05 Oct 2022 17:23:26 GMT
+ * Generated on Wed, 05 Oct 2022 18:12:54 GMT
  */
 
 :root {
   --brk-button-icon-border-width: 1px;
+  --brk-button-icon-inverted-background-color-default: #1a1a1a;
+  --brk-button-icon-inverted-background-color-focus: #1a1a1a;
+  --brk-button-icon-inverted-background-color-hover: #1a1a1a;
+  --brk-button-icon-inverted-border-color-default: #535353;
+  --brk-button-icon-inverted-border-color-focus: #ffffff;
+  --brk-button-icon-inverted-border-color-hover: #eaedfa;
+  --brk-button-icon-inverted-font-color-default: #e6e6e6;
+  --brk-button-icon-inverted-font-color-focus: #ffffff;
+  --brk-button-icon-inverted-font-color-hover: #ffffff;
+  --brk-button-icon-lg-icon-height: 20px;
+  --brk-button-icon-lg-size: 50px;
+  --brk-button-icon-md-icon-height: 16px;
+  --brk-button-icon-md-size: 40px;
+  --brk-button-icon-sm-icon-height: 8px;
+  --brk-button-icon-sm-size: 30px;
+  --brk-button-icon-standard-background-color-default: #ffffff;
+  --brk-button-icon-standard-background-color-focus: #ffffff;
+  --brk-button-icon-standard-background-color-hover: #ffffff;
+  --brk-button-icon-standard-border-color-default: #e6e6e6;
+  --brk-button-icon-standard-border-color-focus: #535353;
+  --brk-button-icon-standard-border-color-hover: #535353;
+  --brk-button-icon-standard-font-color-default: #535353;
+  --brk-button-icon-standard-font-color-focus: #1a1a1a;
+  --brk-button-icon-standard-font-color-hover: #1a1a1a;
+  --brk-button-icon-xl-icon-height: 24px;
+  --brk-button-icon-xl-size: 60px;
   --brk-button-opacity-disabled: 50%;
   --brk-button-primary-border-width: 2px;
   --brk-button-primary-inverted-background-color-default: #fdfe8b;
