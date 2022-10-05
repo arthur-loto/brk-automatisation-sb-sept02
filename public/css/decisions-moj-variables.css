@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Wed, 05 Oct 2022 18:49:02 GMT
+ * Generated on Wed, 05 Oct 2022 18:55:51 GMT
  */
 
 :root {
@@ -20,6 +20,7 @@
   --brk-button-icon-md-size: 38px;
   --brk-button-icon-sm-border-radius: 0px;
   --brk-button-icon-sm-icon-height: 8px;
+  --brk-button-icon-sm-padding: 15px;
   --brk-button-icon-sm-size: 26px;
   --brk-button-icon-standard-background-color-default: #ffffff;
   --brk-button-icon-standard-background-color-focus: #c9ff00;
