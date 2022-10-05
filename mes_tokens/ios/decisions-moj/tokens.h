@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Wed, 05 Oct 2022 18:31:42 GMT
+// Generated on Wed, 05 Oct 2022 18:49:02 GMT
 
 
 #import <Foundation/Foundation.h>
@@ -345,4 +345,31 @@
 #define BrkButtonPrimaryXlLabelParagraphSpacing 0
 #define BrkButtonPrimaryXlLabelTextDecoration none
 #define BrkButtonPrimaryXlLabelTextCase uppercase
+#define BrkButtonIconStandardFontColorDefault #000000
+#define BrkButtonIconStandardBackgroundColorDefault #ffffff
+#define BrkButtonIconStandardBorderColorDefault transparent
+#define BrkButtonIconStandardFontColorHover #000000
+#define BrkButtonIconStandardBackgroundColorHover #c9ff00
+#define BrkButtonIconStandardBorderColorHover transparent
+#define BrkButtonIconStandardFontColorFocus #000000
+#define BrkButtonIconStandardBackgroundColorFocus #c9ff00
+#define BrkButtonIconStandardBorderColorFocus transparent
+#define BrkButtonIconInvertedFontColorDefault #000000
+#define BrkButtonIconInvertedBackgroundColorDefault #ffffff
+#define BrkButtonIconInvertedBorderColorDefault transparent
+#define BrkButtonIconInvertedFontColorHover #000000
+#define BrkButtonIconInvertedBackgroundColorHover #c9ff00
+#define BrkButtonIconInvertedBorderColorHover transparent
+#define BrkButtonIconInvertedFontColorFocus #000000
+#define BrkButtonIconInvertedBackgroundColorFocus #c9ff00
+#define BrkButtonIconInvertedBorderColorFocus transparent
+#define BrkButtonIconSmBorderRadius 0
+#define BrkButtonIconSmSize 26
+#define BrkButtonIconSmIconHeight 8
+#define BrkButtonIconMdBorderRadius 0
+#define BrkButtonIconMdSize 38
+#define BrkButtonIconLgBorderRadius 0
+#define BrkButtonIconLgSize 52
+#define BrkButtonIconXlBorderRadius 0
+#define BrkButtonIconXdSize 62
 
