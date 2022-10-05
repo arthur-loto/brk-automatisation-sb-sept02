@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Wed, 05 Oct 2022 14:57:33 GMT
+// Generated on Wed, 05 Oct 2022 17:23:26 GMT
 
 
 #import <Foundation/Foundation.h>
@@ -319,7 +319,7 @@
 #define BrkPromoTertiaryBorderWidth 1
 #define BrkPromoSecondaryBorderRadius 4
 #define BrkPromoTertiaryFrameBorderRadius 4
-#define BrkPromoSecondarySmPaddingHorizontal 10
+#define BrkPromoSecondarySmPaddingHorizontal 16
 #define BrkPromoSecondarySmPaddingVertical 16
 #define BrkPromoSecondarySmContentGap 12
 #define BrkPromoSecondarySmPretitleMarginBottom 4
@@ -737,8 +737,8 @@
 #define BrkPromoTertiaryStandardFrameColor #192872
 #define BrkPromoTertiarySmPretitleFontFamily Graphik
 #define BrkPromoTertiarySmPretitleFontWeight Bold
-#define BrkPromoTertiarySmPretitleLineHeight 8
-#define BrkPromoTertiarySmPretitleFontSize 8
+#define BrkPromoTertiarySmPretitleLineHeight 100%
+#define BrkPromoTertiarySmPretitleFontSize 10
 #define BrkPromoTertiarySmPretitleLetterSpacing -2%
 #define BrkPromoTertiarySmPretitleParagraphSpacing 0
 #define BrkPromoTertiarySmPretitleTextCase uppercase
@@ -746,7 +746,7 @@
 #define BrkPromoTertiarySmHeadingFontFamily Arial
 #define BrkPromoTertiarySmHeadingFontWeight Regular
 #define BrkPromoTertiarySmHeadingLineHeight 100%
-#define BrkPromoTertiarySmHeadingFontSize 18
+#define BrkPromoTertiarySmHeadingFontSize 26
 #define BrkPromoTertiarySmHeadingLetterSpacing -2%
 #define BrkPromoTertiarySmHeadingParagraphSpacing 0
 #define BrkPromoTertiarySmHeadingTextCase none
@@ -755,7 +755,7 @@
 #define BrkPromoTertiarySmPaddingVertical 16
 #define BrkPromoTertiarySmFramePaddingHorizontal 10
 #define BrkPromoTertiarySmFramePaddingVertical 10
-#define BrkPromoTertiarySmContentGap 16
+#define BrkPromoTertiarySmContentGap 12
 #define BrkPromoTertiarySmPretitleMarginBottom 4
 #define BrkPromoTertiarySmImageHeight 172
 #define BrkPromoTertiarySmGradientHeight 43
@@ -804,7 +804,7 @@
 #define BrkPromoTertiaryLgHeadingTextCase none
 #define BrkPromoTertiaryLgHeadingTextDecoration none
 #define BrkPromoTertiaryLgContentGap 8
-#define BrkPromoTertiaryLgPretitleMarginBottom 10
+#define BrkPromoTertiaryLgPretitleMarginBottom 4
 #define BrkPromoTertiaryLgImageHeight 300
 #define BrkPromoTertiaryLgGradientHeight 75
 #define BrkPromoTertiaryLgFrameWidth 378
