@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Wed, 05 Oct 2022 22:40:09 GMT
+// Generated on Wed, 05 Oct 2022 22:52:17 GMT
 
 
 #import <Foundation/Foundation.h>
@@ -858,6 +858,9 @@
 #define BrkButtonIconStandardIconFillFocus #ffffff
 #define BrkButtonIconStandardBackgroundColorFocus #2e49d1
 #define BrkButtonIconStandardBorderColorFocus transparent
+#define BrkButtonIconStandardBoxShadowDefault [object Object]
+#define BrkButtonIconStandardBoxShadowHover [object Object]
+#define BrkButtonIconStandardBoxShadowFocus [object Object]
 #define BrkButtonIconInvertedIconFillDefault #ffffff
 #define BrkButtonIconInvertedBackgroundColorDefault #203392
 #define BrkButtonIconInvertedBorderColorDefault transparent
@@ -867,4 +870,7 @@
 #define BrkButtonIconInvertedIconFillFocus #ffffff
 #define BrkButtonIconInvertedBackgroundColorFocus #2e49d1
 #define BrkButtonIconInvertedBorderColorFocus transparent
+#define BrkButtonIconInvertedBoxShadowDefault [object Object]
+#define BrkButtonIconInvertedBoxShadowHover [object Object]
+#define BrkButtonIconInvertedBoxShadowFocus [object Object]
 
