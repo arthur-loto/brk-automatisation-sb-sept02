@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Wed, 05 Oct 2022 13:32:28 GMT
+ * Generated on Wed, 05 Oct 2022 14:45:19 GMT
  */
 
 :root {
@@ -97,24 +97,24 @@
   --brk-button-secondary-inverted-sm-box-shadow-focus: 0px 0px 0px 0px #000000;
   --brk-button-secondary-inverted-sm-box-shadow-hover: 0px 0px 0px 0px #000000;
   --brk-button-secondary-lg-border-radius: 8px;
-  --brk-button-secondary-lg-height: 64px;
+  --brk-button-secondary-lg-height: 48px;
   --brk-button-secondary-lg-icon-gap: 8px;
   --brk-button-secondary-lg-icon-height: 26px;
   --brk-button-secondary-lg-label-font-family: Arial;
-  --brk-button-secondary-lg-label-font-size: 22px;
+  --brk-button-secondary-lg-label-font-size: 18px;
   --brk-button-secondary-lg-label-font-weight: Bold;
   --brk-button-secondary-lg-label-letter-spacing: 2%;
   --brk-button-secondary-lg-label-line-height: 85%;
   --brk-button-secondary-lg-label-paragraph-spacing: 0;
   --brk-button-secondary-lg-label-text-case: none;
   --brk-button-secondary-lg-label-text-decoration: none;
-  --brk-button-secondary-lg-padding-horizontal: 30px;
+  --brk-button-secondary-lg-padding-horizontal: 24px;
   --brk-button-secondary-md-border-radius: 6px;
   --brk-button-secondary-md-height: 36px;
   --brk-button-secondary-md-icon-gap: 6px;
   --brk-button-secondary-md-icon-height: 22px;
   --brk-button-secondary-md-label-font-family: Arial;
-  --brk-button-secondary-md-label-font-size: 16px;
+  --brk-button-secondary-md-label-font-size: 14px;
   --brk-button-secondary-md-label-font-weight: Bold;
   --brk-button-secondary-md-label-letter-spacing: 2%;
   --brk-button-secondary-md-label-line-height: 85%;
@@ -151,18 +151,18 @@
   --brk-button-secondary-standard-sm-box-shadow-focus: 0px 0px 0px 0px #000000;
   --brk-button-secondary-standard-sm-box-shadow-hover: 0px 0px 0px 0px #000000;
   --brk-button-secondary-xl-border-radius: 8px;
-  --brk-button-secondary-xl-height: 76px;
+  --brk-button-secondary-xl-height: 60px;
   --brk-button-secondary-xl-icon-gap: 10px;
   --brk-button-secondary-xl-icon-height: 30px;
   --brk-button-secondary-xl-label-font-family: Arial;
-  --brk-button-secondary-xl-label-font-size: 36px;
+  --brk-button-secondary-xl-label-font-size: 20px;
   --brk-button-secondary-xl-label-font-weight: Bold;
   --brk-button-secondary-xl-label-letter-spacing: 2%;
   --brk-button-secondary-xl-label-line-height: 85%;
   --brk-button-secondary-xl-label-paragraph-spacing: 0;
   --brk-button-secondary-xl-label-text-case: none;
   --brk-button-secondary-xl-label-text-decoration: none;
-  --brk-button-secondary-xl-padding-horizontal: 36px;
+  --brk-button-secondary-xl-padding-horizontal: 32px;
   --brk-button-tertiary-border-width: 0px;
   --brk-button-tertiary-inverted-background-color-default: #203392;
   --brk-button-tertiary-inverted-background-color-focus: #2e49d1;
@@ -482,7 +482,7 @@
   --brk-promo-primary-lg-body-font-weight: Regular;
   --brk-promo-primary-lg-body-letter-spacing: 2%;
   --brk-promo-primary-lg-body-line-height: 115%;
-  --brk-promo-primary-lg-body-margin-top: 12px;
+  --brk-promo-primary-lg-body-margin-top: 10px;
   --brk-promo-primary-lg-body-paragraph-spacing: 0;
   --brk-promo-primary-lg-body-text-case: none;
   --brk-promo-primary-lg-body-text-decoration: none;
@@ -548,7 +548,7 @@
   --brk-promo-primary-sm-body-paragraph-spacing: 0;
   --brk-promo-primary-sm-body-text-case: none;
   --brk-promo-primary-sm-body-text-decoration: none;
-  --brk-promo-primary-sm-content-gap: 16px;
+  --brk-promo-primary-sm-content-gap: 12px;
   --brk-promo-primary-sm-gradient-height: 43px;
   --brk-promo-primary-sm-heading-font-family: Arial;
   --brk-promo-primary-sm-heading-font-size: 26px;
@@ -577,19 +577,19 @@
   --brk-promo-primary-standard-heading-font-color: #2e49d1;
   --brk-promo-primary-standard-pretitle-font-color: #192872;
   --brk-promo-primary-xl-body-font-family: Arial;
-  --brk-promo-primary-xl-body-font-size: 18px;
+  --brk-promo-primary-xl-body-font-size: 24px;
   --brk-promo-primary-xl-body-font-weight: Regular;
   --brk-promo-primary-xl-body-letter-spacing: 2%;
-  --brk-promo-primary-xl-body-line-height: 85%;
-  --brk-promo-primary-xl-body-margin-top: 20px;
+  --brk-promo-primary-xl-body-line-height: 115%;
+  --brk-promo-primary-xl-body-margin-top: 12px;
   --brk-promo-primary-xl-body-paragraph-spacing: 0;
   --brk-promo-primary-xl-body-text-case: none;
   --brk-promo-primary-xl-body-text-decoration: none;
   --brk-promo-primary-xl-container-width: 312px;
-  --brk-promo-primary-xl-content-gap: 30px;
+  --brk-promo-primary-xl-content-gap: 24px;
   --brk-promo-primary-xl-gradient-height: 142px;
   --brk-promo-primary-xl-heading-font-family: Arial;
-  --brk-promo-primary-xl-heading-font-size: 36px;
+  --brk-promo-primary-xl-heading-font-size: 48px;
   --brk-promo-primary-xl-heading-font-weight: Regular;
   --brk-promo-primary-xl-heading-letter-spacing: -2%;
   --brk-promo-primary-xl-heading-line-height: 100%;
@@ -600,11 +600,11 @@
   --brk-promo-primary-xl-padding-horizontal: 24px;
   --brk-promo-primary-xl-padding-vertical: 24px;
   --brk-promo-primary-xl-pretitle-font-family: Graphik;
-  --brk-promo-primary-xl-pretitle-font-size: 18px;
+  --brk-promo-primary-xl-pretitle-font-size: 14px;
   --brk-promo-primary-xl-pretitle-font-weight: Bold;
   --brk-promo-primary-xl-pretitle-letter-spacing: -2%;
-  --brk-promo-primary-xl-pretitle-line-height: 18px;
-  --brk-promo-primary-xl-pretitle-margin-bottom: 12px;
+  --brk-promo-primary-xl-pretitle-line-height: 110%;
+  --brk-promo-primary-xl-pretitle-margin-bottom: 6px;
   --brk-promo-primary-xl-pretitle-paragraph-spacing: 0;
   --brk-promo-primary-xl-pretitle-text-case: uppercase;
   --brk-promo-primary-xl-pretitle-text-decoration: none;
@@ -660,7 +660,7 @@
   --brk-promo-secondary-md-pretitle-paragraph-spacing: 0;
   --brk-promo-secondary-md-pretitle-text-case: uppercase;
   --brk-promo-secondary-md-pretitle-text-decoration: none;
-  --brk-promo-secondary-sm-content-gap: 16px;
+  --brk-promo-secondary-sm-content-gap: 12px;
   --brk-promo-secondary-sm-gradient-height: 43px;
   --brk-promo-secondary-sm-heading-font-family: Arial;
   --brk-promo-secondary-sm-heading-font-size: 18px;
@@ -691,7 +691,7 @@
   --brk-promo-secondary-standard-heading-font-color: #2e49d1;
   --brk-promo-secondary-standard-pretitle-font-color: #192872;
   --brk-promo-secondary-xl-container-width: 312px;
-  --brk-promo-secondary-xl-content-gap: 30px;
+  --brk-promo-secondary-xl-content-gap: 24px;
   --brk-promo-secondary-xl-gradient-height: 142px;
   --brk-promo-secondary-xl-heading-font-family: Arial;
   --brk-promo-secondary-xl-heading-font-size: 36px;

@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Wed, 05 Oct 2022 13:32:29 GMT
+// Generated on Wed, 05 Oct 2022 14:45:19 GMT
 
 
 #import <Foundation/Foundation.h>
@@ -321,7 +321,7 @@
 #define BrkPromoTertiaryFrameBorderRadius 4
 #define BrkPromoSecondarySmPaddingHorizontal 10
 #define BrkPromoSecondarySmPaddingVertical 16
-#define BrkPromoSecondarySmContentGap 16
+#define BrkPromoSecondarySmContentGap 12
 #define BrkPromoSecondarySmPretitleMarginBottom 4
 #define BrkPromoSecondarySmImageHeight 172
 #define BrkPromoSecondarySmPretitleFontFamily Graphik
@@ -389,7 +389,7 @@
 #define BrkPromoSecondaryXlGradientHeight 142
 #define BrkPromoSecondaryXlPaddingHorizontal 24
 #define BrkPromoSecondaryXlPaddingVertical 24
-#define BrkPromoSecondaryXlContentGap 30
+#define BrkPromoSecondaryXlContentGap 24
 #define BrkPromoSecondaryXlPretitleMarginBottom 16
 #define BrkPromoSecondaryXlPretitleFontFamily Graphik
 #define BrkPromoSecondaryXlPretitleFontWeight Bold
@@ -477,14 +477,14 @@
 #define BrkButtonSecondaryMdHeight 36
 #define BrkButtonSecondaryMdIconHeight 22
 #define BrkButtonSecondaryMdIconGap 6
-#define BrkButtonSecondaryLgPaddingHorizontal 30
+#define BrkButtonSecondaryLgPaddingHorizontal 24
 #define BrkButtonSecondaryLgBorderRadius 8
-#define BrkButtonSecondaryLgHeight 64
+#define BrkButtonSecondaryLgHeight 48
 #define BrkButtonSecondaryLgIconHeight 26
 #define BrkButtonSecondaryLgIconGap 8
-#define BrkButtonSecondaryXlPaddingHorizontal 36
+#define BrkButtonSecondaryXlPaddingHorizontal 32
 #define BrkButtonSecondaryXlBorderRadius 8
-#define BrkButtonSecondaryXlHeight 76
+#define BrkButtonSecondaryXlHeight 60
 #define BrkButtonSecondaryXlIconHeight 30
 #define BrkButtonSecondaryXlIconGap 10
 #define BrkButtonSecondarySmLabelFontFamily Arial
@@ -498,7 +498,7 @@
 #define BrkButtonSecondaryMdLabelFontFamily Arial
 #define BrkButtonSecondaryMdLabelFontWeight Bold
 #define BrkButtonSecondaryMdLabelLineHeight 85%
-#define BrkButtonSecondaryMdLabelFontSize 16
+#define BrkButtonSecondaryMdLabelFontSize 14
 #define BrkButtonSecondaryMdLabelLetterSpacing 2%
 #define BrkButtonSecondaryMdLabelParagraphSpacing 0
 #define BrkButtonSecondaryMdLabelTextCase none
@@ -506,7 +506,7 @@
 #define BrkButtonSecondaryLgLabelFontFamily Arial
 #define BrkButtonSecondaryLgLabelFontWeight Bold
 #define BrkButtonSecondaryLgLabelLineHeight 85%
-#define BrkButtonSecondaryLgLabelFontSize 22
+#define BrkButtonSecondaryLgLabelFontSize 18
 #define BrkButtonSecondaryLgLabelLetterSpacing 2%
 #define BrkButtonSecondaryLgLabelParagraphSpacing 0
 #define BrkButtonSecondaryLgLabelTextCase none
@@ -514,7 +514,7 @@
 #define BrkButtonSecondaryXlLabelFontFamily Arial
 #define BrkButtonSecondaryXlLabelFontWeight Bold
 #define BrkButtonSecondaryXlLabelLineHeight 85%
-#define BrkButtonSecondaryXlLabelFontSize 36
+#define BrkButtonSecondaryXlLabelFontSize 20
 #define BrkButtonSecondaryXlLabelLetterSpacing 2%
 #define BrkButtonSecondaryXlLabelParagraphSpacing 0
 #define BrkButtonSecondaryXlLabelTextCase none
@@ -586,7 +586,7 @@
 #define BrkButtonPrimaryStandardMdBoxShadowFocus [object Object]
 #define BrkPromoPrimarySmPaddingHorizontal 10
 #define BrkPromoPrimarySmPaddingVertical 16
-#define BrkPromoPrimarySmContentGap 16
+#define BrkPromoPrimarySmContentGap 12
 #define BrkPromoPrimarySmPretitleMarginBottom 4
 #define BrkPromoPrimarySmBodyMarginTop 8
 #define BrkPromoPrimarySmImageHeight 172
@@ -650,7 +650,7 @@
 #define BrkPromoPrimaryLgPaddingVertical 24
 #define BrkPromoPrimaryLgContentGap 24
 #define BrkPromoPrimaryLgPretitleMarginBottom 10
-#define BrkPromoPrimaryLgBodyMarginTop 12
+#define BrkPromoPrimaryLgBodyMarginTop 10
 #define BrkPromoPrimaryLgImageHeight 300
 #define BrkPromoPrimaryLgPretitleFontFamily Graphik
 #define BrkPromoPrimaryLgPretitleFontWeight Bold
@@ -679,14 +679,14 @@
 #define BrkPromoPrimaryLgGradientHeight 75
 #define BrkPromoPrimaryXlPaddingHorizontal 24
 #define BrkPromoPrimaryXlPaddingVertical 24
-#define BrkPromoPrimaryXlContentGap 30
-#define BrkPromoPrimaryXlPretitleMarginBottom 12
-#define BrkPromoPrimaryXlBodyMarginTop 20
+#define BrkPromoPrimaryXlContentGap 24
+#define BrkPromoPrimaryXlPretitleMarginBottom 6
+#define BrkPromoPrimaryXlBodyMarginTop 12
 #define BrkPromoPrimaryXlImageHeight 568
 #define BrkPromoPrimaryXlPretitleFontFamily Graphik
 #define BrkPromoPrimaryXlPretitleFontWeight Bold
-#define BrkPromoPrimaryXlPretitleLineHeight 18
-#define BrkPromoPrimaryXlPretitleFontSize 18
+#define BrkPromoPrimaryXlPretitleLineHeight 110%
+#define BrkPromoPrimaryXlPretitleFontSize 14
 #define BrkPromoPrimaryXlPretitleLetterSpacing -2%
 #define BrkPromoPrimaryXlPretitleParagraphSpacing 0
 #define BrkPromoPrimaryXlPretitleTextCase uppercase
@@ -694,15 +694,15 @@
 #define BrkPromoPrimaryXlHeadingFontFamily Arial
 #define BrkPromoPrimaryXlHeadingFontWeight Regular
 #define BrkPromoPrimaryXlHeadingLineHeight 100%
-#define BrkPromoPrimaryXlHeadingFontSize 36
+#define BrkPromoPrimaryXlHeadingFontSize 48
 #define BrkPromoPrimaryXlHeadingLetterSpacing -2%
 #define BrkPromoPrimaryXlHeadingParagraphSpacing 0
 #define BrkPromoPrimaryXlHeadingTextCase none
 #define BrkPromoPrimaryXlHeadingTextDecoration none
 #define BrkPromoPrimaryXlBodyFontFamily Arial
 #define BrkPromoPrimaryXlBodyFontWeight Regular
-#define BrkPromoPrimaryXlBodyLineHeight 85%
-#define BrkPromoPrimaryXlBodyFontSize 18
+#define BrkPromoPrimaryXlBodyLineHeight 115%
+#define BrkPromoPrimaryXlBodyFontSize 24
 #define BrkPromoPrimaryXlBodyLetterSpacing 2%
 #define BrkPromoPrimaryXlBodyParagraphSpacing 0
 #define BrkPromoPrimaryXlBodyTextCase none
