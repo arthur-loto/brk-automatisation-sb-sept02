@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Thu, 06 Oct 2022 15:08:03 GMT
+// Generated on Thu, 06 Oct 2022 16:03:55 GMT
 
 
 #import <Foundation/Foundation.h>
@@ -461,6 +461,11 @@
 #define BrkPromoPrimaryLgContentGap 16
 #define BrkPromoPrimaryLgPretitleMarginBottom 6
 #define BrkPromoPrimaryLgBodyMarginTop 10
+#define BrkPromoPrimaryXlImageHeight 568
+#define BrkPromoPrimaryXlGradientHeight 142
+#define BrkPromoPrimaryXlPretitleMaxWidth 300
+#define BrkPromoPrimaryXlHeadingMaxWidth 360
+#define BrkPromoPrimaryXlBodyMaxWidth 300
 #define BrkPromoPrimaryXlPretitleFontFamily Arial
 #define BrkPromoPrimaryXlPretitleFontWeight Bold
 #define BrkPromoPrimaryXlPretitleLineHeight 110%
@@ -490,8 +495,6 @@
 #define BrkPromoPrimaryXlContentGap 16
 #define BrkPromoPrimaryXlPretitleMarginBottom 6
 #define BrkPromoPrimaryXlBodyMarginTop 16
-#define BrkPromoPrimaryXlImageHeight 568
-#define BrkPromoPrimaryXlGradientHeight 142
 #define BrkCardHeroStandardBoxShadowDefault [object Object]
 #define BrkCardHeroStandardBoxShadowHover [object Object]
 #define BrkCardHeroStandardPretitleFontColor #535353

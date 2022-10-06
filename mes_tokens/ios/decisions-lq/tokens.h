@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Thu, 06 Oct 2022 15:08:03 GMT
+// Generated on Thu, 06 Oct 2022 16:03:54 GMT
 
 
 #import <Foundation/Foundation.h>
@@ -708,7 +708,9 @@
 #define BrkPromoPrimaryXlBodyTextCase none
 #define BrkPromoPrimaryXlBodyTextDecoration none
 #define BrkPromoPrimaryXlGradientHeight 142
-#define BrkPromoPrimaryXlContainerWidth 390
+#define BrkPromoPrimaryXlPretitleMaxWidth 300
+#define BrkPromoPrimaryXlHeadingMaxWidth 360
+#define BrkPromoPrimaryXlBodyMaxWidth 300
 #define BrkPromoPrimaryInvertedHeadingFontColor #ffffff
 #define BrkPromoPrimaryInvertedPretitleFontColor #a6ecff
 #define BrkPromoPrimaryInvertedBodyFontColor #ffffff
