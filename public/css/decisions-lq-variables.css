@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Thu, 06 Oct 2022 00:00:35 GMT
+ * Generated on Thu, 06 Oct 2022 13:46:44 GMT
  */
 
 :root {
@@ -764,12 +764,12 @@
   --brk-promo-tertiary-inverted-heading-font-color: #2e49d1;
   --brk-promo-tertiary-inverted-pretitle-font-color: #192872;
   --brk-promo-tertiary-lg-content-gap: 8px;
-  --brk-promo-tertiary-lg-frame-padding-horizontal: 10px;
-  --brk-promo-tertiary-lg-frame-padding-vertical: 10px;
+  --brk-promo-tertiary-lg-frame-padding-horizontal: 20px;
+  --brk-promo-tertiary-lg-frame-padding-vertical: 20px;
   --brk-promo-tertiary-lg-frame-width: 378px;
   --brk-promo-tertiary-lg-gradient-height: 75px;
   --brk-promo-tertiary-lg-heading-font-family: Arial;
-  --brk-promo-tertiary-lg-heading-font-size: 32px;
+  --brk-promo-tertiary-lg-heading-font-size: 36px;
   --brk-promo-tertiary-lg-heading-font-weight: Regular;
   --brk-promo-tertiary-lg-heading-letter-spacing: -2%;
   --brk-promo-tertiary-lg-heading-line-height: 100%;
@@ -780,20 +780,20 @@
   --brk-promo-tertiary-lg-padding-horizontal: 24px;
   --brk-promo-tertiary-lg-padding-vertical: 24px;
   --brk-promo-tertiary-lg-pretitle-font-family: Graphik;
-  --brk-promo-tertiary-lg-pretitle-font-size: 14px;
+  --brk-promo-tertiary-lg-pretitle-font-size: 12px;
   --brk-promo-tertiary-lg-pretitle-font-weight: Bold;
   --brk-promo-tertiary-lg-pretitle-letter-spacing: -2%;
-  --brk-promo-tertiary-lg-pretitle-line-height: 14px;
-  --brk-promo-tertiary-lg-pretitle-margin-bottom: 4px;
+  --brk-promo-tertiary-lg-pretitle-line-height: 100%;
+  --brk-promo-tertiary-lg-pretitle-margin-bottom: 6px;
   --brk-promo-tertiary-lg-pretitle-paragraph-spacing: 0;
   --brk-promo-tertiary-lg-pretitle-text-case: uppercase;
   --brk-promo-tertiary-lg-pretitle-text-decoration: none;
   --brk-promo-tertiary-md-content-gap: 8px;
-  --brk-promo-tertiary-md-frame-padding-horizontal: 10px;
-  --brk-promo-tertiary-md-frame-padding-vertical: 10px;
+  --brk-promo-tertiary-md-frame-padding-horizontal: 12px;
+  --brk-promo-tertiary-md-frame-padding-vertical: 12px;
   --brk-promo-tertiary-md-gradient-height: 67.5px;
   --brk-promo-tertiary-md-heading-font-family: Arial;
-  --brk-promo-tertiary-md-heading-font-size: 28px;
+  --brk-promo-tertiary-md-heading-font-size: 30px;
   --brk-promo-tertiary-md-heading-font-weight: Regular;
   --brk-promo-tertiary-md-heading-letter-spacing: -2%;
   --brk-promo-tertiary-md-heading-line-height: 100%;
@@ -804,11 +804,11 @@
   --brk-promo-tertiary-md-padding-horizontal: 16px;
   --brk-promo-tertiary-md-padding-vertical: 16px;
   --brk-promo-tertiary-md-pretitle-font-family: Graphik;
-  --brk-promo-tertiary-md-pretitle-font-size: 14px;
+  --brk-promo-tertiary-md-pretitle-font-size: 12px;
   --brk-promo-tertiary-md-pretitle-font-weight: Bold;
   --brk-promo-tertiary-md-pretitle-letter-spacing: -2%;
-  --brk-promo-tertiary-md-pretitle-line-height: 14px;
-  --brk-promo-tertiary-md-pretitle-margin-bottom: 8px;
+  --brk-promo-tertiary-md-pretitle-line-height: 100%;
+  --brk-promo-tertiary-md-pretitle-margin-bottom: 6px;
   --brk-promo-tertiary-md-pretitle-paragraph-spacing: 0;
   --brk-promo-tertiary-md-pretitle-text-case: uppercase;
   --brk-promo-tertiary-md-pretitle-text-decoration: none;
@@ -849,7 +849,7 @@
   --brk-promo-tertiary-xl-frame-width: 312px;
   --brk-promo-tertiary-xl-gradient-height: 142px;
   --brk-promo-tertiary-xl-heading-font-family: Arial;
-  --brk-promo-tertiary-xl-heading-font-size: 36px;
+  --brk-promo-tertiary-xl-heading-font-size: 48px;
   --brk-promo-tertiary-xl-heading-font-weight: Regular;
   --brk-promo-tertiary-xl-heading-letter-spacing: -2%;
   --brk-promo-tertiary-xl-heading-line-height: 100%;
@@ -857,14 +857,14 @@
   --brk-promo-tertiary-xl-heading-text-case: none;
   --brk-promo-tertiary-xl-heading-text-decoration: none;
   --brk-promo-tertiary-xl-image-height: 568px;
-  --brk-promo-tertiary-xl-padding-horizontal: 24px;
-  --brk-promo-tertiary-xl-padding-vertical: 24px;
+  --brk-promo-tertiary-xl-padding-horizontal: 32px;
+  --brk-promo-tertiary-xl-padding-vertical: 32px;
   --brk-promo-tertiary-xl-pretitle-font-family: Graphik;
-  --brk-promo-tertiary-xl-pretitle-font-size: 18px;
+  --brk-promo-tertiary-xl-pretitle-font-size: 14px;
   --brk-promo-tertiary-xl-pretitle-font-weight: Bold;
   --brk-promo-tertiary-xl-pretitle-letter-spacing: -2%;
-  --brk-promo-tertiary-xl-pretitle-line-height: 18px;
-  --brk-promo-tertiary-xl-pretitle-margin-bottom: 12px;
+  --brk-promo-tertiary-xl-pretitle-line-height: 100%;
+  --brk-promo-tertiary-xl-pretitle-margin-bottom: 6px;
   --brk-promo-tertiary-xl-pretitle-paragraph-spacing: 0;
   --brk-promo-tertiary-xl-pretitle-text-case: uppercase;
   --brk-promo-tertiary-xl-pretitle-text-decoration: none;
