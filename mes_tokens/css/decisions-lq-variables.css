@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Thu, 06 Oct 2022 16:03:54 GMT
+ * Generated on Thu, 06 Oct 2022 20:02:14 GMT
  */
 
 :root {
@@ -703,7 +703,7 @@
   --brk-promo-secondary-md-pretitle-paragraph-spacing: 0;
   --brk-promo-secondary-md-pretitle-text-case: uppercase;
   --brk-promo-secondary-md-pretitle-text-decoration: none;
-  --brk-promo-secondary-sm-content-gap: 12px;
+  --brk-promo-secondary-sm-content-gap: 10px;
   --brk-promo-secondary-sm-gradient-height: 43px;
   --brk-promo-secondary-sm-heading-font-family: Arial;
   --brk-promo-secondary-sm-heading-font-size: 18px;
@@ -714,8 +714,8 @@
   --brk-promo-secondary-sm-heading-text-case: none;
   --brk-promo-secondary-sm-heading-text-decoration: none;
   --brk-promo-secondary-sm-image-height: 172px;
-  --brk-promo-secondary-sm-padding-horizontal: 16px;
-  --brk-promo-secondary-sm-padding-vertical: 16px;
+  --brk-promo-secondary-sm-padding-horizontal: 12px;
+  --brk-promo-secondary-sm-padding-vertical: 12px;
   --brk-promo-secondary-sm-pretitle-font-family: Graphik;
   --brk-promo-secondary-sm-pretitle-font-size: 8px;
   --brk-promo-secondary-sm-pretitle-font-weight: Bold;

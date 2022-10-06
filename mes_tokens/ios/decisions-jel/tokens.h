@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Thu, 06 Oct 2022 16:03:55 GMT
+// Generated on Thu, 06 Oct 2022 20:02:15 GMT
 
 
 #import <Foundation/Foundation.h>
@@ -299,7 +299,7 @@
 #define BrkPromoSecondarySmHeadingTextDecoration none
 #define BrkPromoSecondarySmPaddingHorizontal 16
 #define BrkPromoSecondarySmPaddingVertical 15
-#define BrkPromoSecondarySmContentGap 4
+#define BrkPromoSecondarySmContentGap 8
 #define BrkPromoSecondarySmPretitleMarginBottom 4
 #define BrkPromoSecondaryMdImageHeight 270
 #define BrkPromoSecondaryMdGradientHeight 67.5
