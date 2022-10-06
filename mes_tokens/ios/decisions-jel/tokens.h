@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Thu, 06 Oct 2022 13:46:44 GMT
+// Generated on Thu, 06 Oct 2022 15:08:03 GMT
 
 
 #import <Foundation/Foundation.h>
@@ -368,8 +368,8 @@
 #define BrkPromoSecondaryXlHeadingParagraphSpacing 0
 #define BrkPromoSecondaryXlHeadingTextCase none
 #define BrkPromoSecondaryXlHeadingTextDecoration none
-#define BrkPromoPrimarySmImageHeight 172
-#define BrkPromoPrimarySmGradientHeight 43
+#define BrkPromoPrimarySmImageHeight 245
+#define BrkPromoPrimarySmGradientHeight 61.25
 #define BrkPromoPrimarySmPaddingHorizontal 16
 #define BrkPromoPrimarySmPaddingVertical 16
 #define BrkPromoPrimarySmContentGap 16
@@ -492,7 +492,6 @@
 #define BrkPromoPrimaryXlBodyMarginTop 16
 #define BrkPromoPrimaryXlImageHeight 568
 #define BrkPromoPrimaryXlGradientHeight 142
-#define BrkPromoPrimaryXlContainerWidth 312
 #define BrkCardHeroStandardBoxShadowDefault [object Object]
 #define BrkCardHeroStandardBoxShadowHover [object Object]
 #define BrkCardHeroStandardPretitleFontColor #535353
