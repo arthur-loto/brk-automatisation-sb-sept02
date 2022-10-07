@@ -8,6 +8,7 @@
           :disabled="glideArrows.disableLeft"
           :aria-label="accessibilityTextLeft"
         >
+        <!-- this is a test -->
           &lt;
         </button>
         <button
