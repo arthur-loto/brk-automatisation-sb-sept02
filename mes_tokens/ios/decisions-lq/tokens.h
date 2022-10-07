@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Fri, 07 Oct 2022 13:54:20 GMT
+// Generated on Fri, 07 Oct 2022 14:01:33 GMT
 
 
 #import <Foundation/Foundation.h>
@@ -875,5 +875,8 @@
 #define BrkButtonIconInvertedBoxShadowDefault [object Object]
 #define BrkButtonIconInvertedBoxShadowHover [object Object]
 #define BrkButtonIconInvertedBoxShadowFocus [object Object]
-#define BrkCarouselSmContentGap 16
+#define BrkPageSmMarginBottom 48
+#define BrkPageSmMarginTop 0
+#define BrkPageSmMarginHorizontal 8
+#define BrkCarouselSmContentGapHorizontal 16
 
