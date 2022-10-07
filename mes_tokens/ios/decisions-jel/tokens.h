@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Thu, 06 Oct 2022 20:33:44 GMT
+// Generated on Fri, 07 Oct 2022 13:21:10 GMT
 
 
 #import <Foundation/Foundation.h>
@@ -884,5 +884,8 @@
 #define BrkButtonIconXlIconHeight 24
 #define BrkButtonIconXlPadding 30
 #define BrkButtonIconXlBorderRadius 30
-#define BrkCarouselSmContentGap 16
+#define BrkPageSmContentGapHorizontal 16
+#define BrkPageSmMarginBottom 16
+#define BrkPageSmMarginTop 16
+#define BrkPageSmMarginHorizontal 8
 
