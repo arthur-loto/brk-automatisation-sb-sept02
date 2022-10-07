@@ -1,10 +1,41 @@
 /**
  * Do not edit directly
- * Generated on Mon, 03 Oct 2022 17:58:27 GMT
+ * Generated on Fri, 07 Oct 2022 14:01:33 GMT
  */
 
 :root {
   --brk-button-icon-border-width: 0px;
+  --brk-button-icon-inverted-background-color-default: #ffffff;
+  --brk-button-icon-inverted-background-color-focus: #c9ff00;
+  --brk-button-icon-inverted-background-color-hover: #c9ff00;
+  --brk-button-icon-inverted-border-color-default: transparent;
+  --brk-button-icon-inverted-border-color-focus: transparent;
+  --brk-button-icon-inverted-border-color-hover: transparent;
+  --brk-button-icon-inverted-icon-fill-default: #000000;
+  --brk-button-icon-inverted-icon-fill-focus: #000000;
+  --brk-button-icon-inverted-icon-fill-hover: #000000;
+  --brk-button-icon-lg-border-radius: 0px;
+  --brk-button-icon-lg-icon-height: 32px;
+  --brk-button-icon-lg-size: 52px;
+  --brk-button-icon-md-border-radius: 0px;
+  --brk-button-icon-md-icon-height: 16px;
+  --brk-button-icon-md-size: 38px;
+  --brk-button-icon-sm-border-radius: 0px;
+  --brk-button-icon-sm-icon-height: 8px;
+  --brk-button-icon-sm-padding: 15px;
+  --brk-button-icon-sm-size: 26px;
+  --brk-button-icon-standard-background-color-default: #ffffff;
+  --brk-button-icon-standard-background-color-focus: #c9ff00;
+  --brk-button-icon-standard-background-color-hover: #c9ff00;
+  --brk-button-icon-standard-border-color-default: transparent;
+  --brk-button-icon-standard-border-color-focus: transparent;
+  --brk-button-icon-standard-border-color-hover: transparent;
+  --brk-button-icon-standard-icon-fill-default: #000000;
+  --brk-button-icon-standard-icon-fill-focus: #000000;
+  --brk-button-icon-standard-icon-fill-hover: #000000;
+  --brk-button-icon-xl-border-radius: 0px;
+  --brk-button-icon-xl-icon-height: 64px;
+  --brk-button-icon-xl-size: 62px;
   --brk-button-opacity-disabled: 50%;
   --brk-button-primary-border-width: 0px;
   --brk-button-primary-lg-label-font-family: Roboto Condensed;
