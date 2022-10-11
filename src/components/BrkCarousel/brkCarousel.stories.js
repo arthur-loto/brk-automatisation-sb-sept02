@@ -33,12 +33,16 @@ const Template = (args) => ({
     return { args };
   },
   template: `
-  <BrkCarousel v-bind="args">  
-    <template v-for="(card, index) in args.brkCardsHero" :key="card" v-slot:["item"+index]>
-      <BrkCardHero v-bind="card">
-    </template>
+  <BrkCarousel v-bind="args">
   </BrkCarousel>
   `,
+  // template: `
+  // <BrkCarousel v-bind="args">
+  //   <template v-for="(card, index) in args.brkCardsHero" :key="card" v-slot:["item"+index]>
+  //     <BrkCardHero v-bind="card">
+  //   </template>
+  // </BrkCarousel>
+  // `,
 });
 
 /**
