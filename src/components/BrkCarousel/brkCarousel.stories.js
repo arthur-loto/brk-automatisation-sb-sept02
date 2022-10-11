@@ -27,7 +27,7 @@ export default {
 function test(args) {
   let template = `<BrkCarousel v-bind="args">`;
   for (let i = 0; i < args.brkCardsHero.length; i++) {
-    template += `<template #item${i}}><BrkCardHero v-bind="args.brkCardsHero[${i}]"></template>`;
+    template += `<template #item0}><BrkCardHero v-bind="args.brkCardsHero[0]"></template>`;
   }
   template += `</BrkCarousel>`;
   return template;
