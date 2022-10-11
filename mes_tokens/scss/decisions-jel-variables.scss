@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Fri, 07 Oct 2022 14:01:33 GMT
+ * Generated on Tue, 11 Oct 2022 14:09:51 GMT
  */
 
 $brk-button-icon-border-width: 1px;
@@ -413,7 +413,6 @@ $brk-card-hero-xl-pretitle-line-height: 20px;
 $brk-card-hero-xl-pretitle-paragraph-spacing: 0;
 $brk-card-hero-xl-pretitle-text-case: uppercase;
 $brk-card-hero-xl-pretitle-text-decoration: none;
-$brk-carousel-sm-content-gap-horizontal: 16px;
 $brk-interactive-inverted-outline-color-focus: #24c1ff;
 $brk-interactive-outline-border-radius: 24px;
 $brk-interactive-outline-offset: 2px;
@@ -519,9 +518,15 @@ $brk-jackpot-hero-xl-heading-text-case: none;
 $brk-jackpot-hero-xl-heading-text-decoration: none;
 $brk-jackpot-hero-xl-height: 72px;
 $brk-jackpot-hero-xl-padding-horizontal: 24px;
-$brk-page-sm-margin-bottom: 48px;
-$brk-page-sm-margin-horizontal: 8px;
-$brk-page-sm-margin-top: 0px;
+$brk-page-sm-subheading-font-family: Graphik;
+$brk-page-sm-subheading-font-size: 20px;
+$brk-page-sm-subheading-font-weight: Super;
+$brk-page-sm-subheading-letter-spacing: -2%;
+$brk-page-sm-subheading-line-height: 110%;
+$brk-page-sm-subheading-paragraph-spacing: 0;
+$brk-page-sm-subheading-text-case: none;
+$brk-page-sm-subheading-text-decoration: none;
+$brk-page-standard-subheading-font-color: #000000;
 $brk-promo-primary-border-width: 1px;
 $brk-promo-primary-inverted-background-color: #000000;
 $brk-promo-primary-inverted-body-font-color: #ffffff;
@@ -881,3 +886,5 @@ $brk-promo-tertiary-xl-pretitle-margin-bottom: 12px;
 $brk-promo-tertiary-xl-pretitle-paragraph-spacing: 0;
 $brk-promo-tertiary-xl-pretitle-text-case: none;
 $brk-promo-tertiary-xl-pretitle-text-decoration: none;
+$brk-template-sm-content-gap-horizontal: 16px;
+$brk-template-sm-margin-bottom: 48px;

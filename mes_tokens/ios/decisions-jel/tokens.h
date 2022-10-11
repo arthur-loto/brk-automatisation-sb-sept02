@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Fri, 07 Oct 2022 14:01:33 GMT
+// Generated on Tue, 11 Oct 2022 14:09:51 GMT
 
 
 #import <Foundation/Foundation.h>
@@ -495,6 +495,14 @@
 #define BrkPromoPrimaryXlContentGap 16
 #define BrkPromoPrimaryXlPretitleMarginBottom 6
 #define BrkPromoPrimaryXlBodyMarginTop 16
+#define BrkPageSmSubheadingFontFamily Graphik
+#define BrkPageSmSubheadingFontWeight Super
+#define BrkPageSmSubheadingLineHeight 110%
+#define BrkPageSmSubheadingFontSize 20
+#define BrkPageSmSubheadingLetterSpacing -2%
+#define BrkPageSmSubheadingParagraphSpacing 0
+#define BrkPageSmSubheadingTextCase none
+#define BrkPageSmSubheadingTextDecoration none
 #define BrkCardHeroStandardBoxShadowDefault [object Object]
 #define BrkCardHeroStandardBoxShadowHover [object Object]
 #define BrkCardHeroStandardPretitleFontColor #535353
@@ -884,8 +892,7 @@
 #define BrkButtonIconXlIconHeight 24
 #define BrkButtonIconXlPadding 30
 #define BrkButtonIconXlBorderRadius 30
-#define BrkCarouselSmContentGapHorizontal 16
-#define BrkPageSmMarginBottom 48
-#define BrkPageSmMarginTop 0
-#define BrkPageSmMarginHorizontal 8
+#define BrkTemplateSmContentGapHorizontal 16
+#define BrkTemplateSmMarginBottom 48
+#define BrkPageStandardSubheadingFontColor #000000
 

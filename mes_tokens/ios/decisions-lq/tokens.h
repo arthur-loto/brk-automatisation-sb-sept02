@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Fri, 07 Oct 2022 14:01:33 GMT
+// Generated on Tue, 11 Oct 2022 14:09:51 GMT
 
 
 #import <Foundation/Foundation.h>
@@ -711,6 +711,14 @@
 #define BrkPromoPrimaryXlPretitleMaxWidth 300
 #define BrkPromoPrimaryXlHeadingMaxWidth 360
 #define BrkPromoPrimaryXlBodyMaxWidth 300
+#define BrkPageSmSubheadingFontFamily Arial
+#define BrkPageSmSubheadingFontWeight Regular
+#define BrkPageSmSubheadingLineHeight 100%
+#define BrkPageSmSubheadingFontSize 20
+#define BrkPageSmSubheadingLetterSpacing -2%
+#define BrkPageSmSubheadingParagraphSpacing 0
+#define BrkPageSmSubheadingTextCase none
+#define BrkPageSmSubheadingTextDecoration none
 #define BrkPromoPrimaryInvertedHeadingFontColor #ffffff
 #define BrkPromoPrimaryInvertedPretitleFontColor #a6ecff
 #define BrkPromoPrimaryInvertedBodyFontColor #ffffff
@@ -723,6 +731,7 @@
 #define BrkPromoPrimaryStandardBackgroundColor #ffffff
 #define BrkPromoPrimaryStandardBorderColor #eaedfa
 #define BrkPromoPrimaryStandardGradientColor linear-gradient(180deg, #ffffff00 0%, #ffffff 100%)
+#define BrkPageStandardSubheadingFontColor #000000
 #define BrkPromoTertiaryInvertedHeadingFontColor #2e49d1
 #define BrkPromoTertiaryInvertedPretitleFontColor #192872
 #define BrkPromoTertiaryInvertedBodyFontColor #192872
@@ -875,8 +884,6 @@
 #define BrkButtonIconInvertedBoxShadowDefault [object Object]
 #define BrkButtonIconInvertedBoxShadowHover [object Object]
 #define BrkButtonIconInvertedBoxShadowFocus [object Object]
-#define BrkPageSmMarginBottom 48
-#define BrkPageSmMarginTop 0
-#define BrkPageSmMarginHorizontal 8
-#define BrkCarouselSmContentGapHorizontal 16
+#define BrkTemplateSmMarginBottom 48
+#define BrkTemplateSmContentGapHorizontal 16
 
