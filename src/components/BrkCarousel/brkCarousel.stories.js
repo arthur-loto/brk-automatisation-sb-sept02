@@ -1,5 +1,5 @@
 import BrkCarousel from "./BrkCarousel.vue";
-import BrkCardHero from "../BrkCardHero/BrkCardHero.vue";
+// import BrkCardHero from "../BrkCardHero/BrkCardHero.vue";
 import BrkCardPromo from "../BrkCardPromo/BrkCardPromo.vue";
 
 /**
@@ -8,7 +8,8 @@ import BrkCardPromo from "../BrkCardPromo/BrkCardPromo.vue";
 export default {
   title: "Composants/Carousel",
   component: BrkCarousel,
-  subcomponents: { BrkCardHero, BrkCardPromo },
+  // subcomponents: { BrkCardHero, BrkCardPromo },
+  subcomponents: { BrkCardPromo },
   argTypes: {
     nbrPerView: {
       description: "Nombre de cartes que le carrousel affiche en mode desktop",
@@ -27,19 +28,19 @@ export default {
 /**
  * Template HTML pour carousel contenant des cartes hero
  */
-const Template = (args) => ({
-  components: { BrkCarousel, BrkCardHero },
-  setup() {
-    return { args };
-  },
-  template: `
-  <BrkCarousel v-bind="args">  
-    <template v-for="(card, index) in args.brkCardsHero" :key="card" v-slot:["item"+index]>
-      <BrkCardHero v-bind="card">
-    </template>
-  </BrkCarousel>
-  `,
-});
+// const Template = (args) => ({
+//   components: { BrkCarousel, BrkCardHero },
+//   setup() {
+//     return { args };
+//   },
+//   template: `
+//   <BrkCarousel v-bind="args">  
+//     <template v-for="(card, index) in args.brkCardsHero" :key="card" v-slot:["item"+index]>
+//       <BrkCardHero v-bind="card">
+//     </template>
+//   </BrkCarousel>
+//   `,
+// });
 
 /**
  * Export de la story Carousel Carte Hero
