@@ -1,5 +1,5 @@
 import BrkCarousel from "./BrkCarousel.vue";
-// import BrkCardHero from "../BrkCardHero/BrkCardHero.vue";
+import BrkCardHero from "../BrkCardHero/BrkCardHero.vue";
 import BrkCardPromo from "../BrkCardPromo/BrkCardPromo.vue";
 
 /**
@@ -8,8 +8,7 @@ import BrkCardPromo from "../BrkCardPromo/BrkCardPromo.vue";
 export default {
   title: "Composants/Carousel",
   component: BrkCarousel,
-  // subcomponents: { BrkCardHero, BrkCardPromo },
-  subcomponents: { BrkCardPromo },
+  subcomponents: { BrkCardHero, BrkCardPromo },
   argTypes: {
     nbrPerView: {
       description: "Nombre de cartes que le carrousel affiche en mode desktop",
