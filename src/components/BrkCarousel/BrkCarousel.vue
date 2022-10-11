@@ -33,7 +33,7 @@
 </template>
 
 <script setup>
-import Glide from "@glidejs/glide";
+// import Glide from "@glidejs/glide";
 import { ref, onMounted, reactive, useSlots, computed } from "vue";
 
 const slots = useSlots();
