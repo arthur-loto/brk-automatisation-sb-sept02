@@ -38,8 +38,8 @@ const Template = (args) => ({
   // `,
   template: `
   <BrkCarousel v-bind="args">
-    <template #item>
-      <p v-for="(card, index) in args.brkCardsHero">this is a test</p>
+    <template #item v-for="(card, index) in args.brkCardsHero" :key="card">
+      <p>this is a test</p>
     </template>
   </BrkCarousel>
   `,
