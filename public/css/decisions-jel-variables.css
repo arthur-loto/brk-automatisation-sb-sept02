@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Tue, 11 Oct 2022 15:01:45 GMT
+ * Generated on Tue, 11 Oct 2022 16:00:57 GMT
  */
 
 :root {
@@ -528,6 +528,11 @@
   --brk-page-sm-subheading-text-case: none;
   --brk-page-sm-subheading-text-decoration: none;
   --brk-page-standard-subheading-font-color: #000000;
+  --brk-promo-primary-2xl-body-max-width: 390px;
+  --brk-promo-primary-2xl-gradient-height: 142px;
+  --brk-promo-primary-2xl-heading-max-width: 470px;
+  --brk-promo-primary-2xl-image-height: 568px;
+  --brk-promo-primary-2xl-pretitle-max-width: 340px;
   --brk-promo-primary-border-width: 1px;
   --brk-promo-primary-inverted-background-color: #000000;
   --brk-promo-primary-inverted-body-font-color: #ffffff;
@@ -640,18 +645,17 @@
   --brk-promo-primary-xl-body-letter-spacing: -2%;
   --brk-promo-primary-xl-body-line-height: 120%;
   --brk-promo-primary-xl-body-margin-top: 16px;
-  --brk-promo-primary-xl-body-max-width: 390px;
   --brk-promo-primary-xl-body-paragraph-spacing: 0;
   --brk-promo-primary-xl-body-text-case: none;
   --brk-promo-primary-xl-body-text-decoration: none;
   --brk-promo-primary-xl-content-gap: 16px;
+  --brk-promo-primary-xl-content-width: 312px;
   --brk-promo-primary-xl-gradient-height: 142px;
   --brk-promo-primary-xl-heading-font-family: Graphik;
   --brk-promo-primary-xl-heading-font-size: 42px;
   --brk-promo-primary-xl-heading-font-weight: Super;
   --brk-promo-primary-xl-heading-letter-spacing: -2%;
   --brk-promo-primary-xl-heading-line-height: 110%;
-  --brk-promo-primary-xl-heading-max-width: 470px;
   --brk-promo-primary-xl-heading-paragraph-spacing: 0;
   --brk-promo-primary-xl-heading-text-case: none;
   --brk-promo-primary-xl-heading-text-decoration: none;
@@ -664,7 +668,6 @@
   --brk-promo-primary-xl-pretitle-letter-spacing: 0%;
   --brk-promo-primary-xl-pretitle-line-height: 110%;
   --brk-promo-primary-xl-pretitle-margin-bottom: 6px;
-  --brk-promo-primary-xl-pretitle-max-width: 340px;
   --brk-promo-primary-xl-pretitle-paragraph-spacing: 0;
   --brk-promo-primary-xl-pretitle-text-case: none;
   --brk-promo-primary-xl-pretitle-text-decoration: none;
