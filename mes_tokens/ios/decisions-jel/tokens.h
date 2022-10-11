@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Tue, 11 Oct 2022 14:09:51 GMT
+// Generated on Tue, 11 Oct 2022 15:01:45 GMT
 
 
 #import <Foundation/Foundation.h>
@@ -463,9 +463,9 @@
 #define BrkPromoPrimaryLgBodyMarginTop 10
 #define BrkPromoPrimaryXlImageHeight 568
 #define BrkPromoPrimaryXlGradientHeight 142
-#define BrkPromoPrimaryXlPretitleMaxWidth 300
-#define BrkPromoPrimaryXlHeadingMaxWidth 360
-#define BrkPromoPrimaryXlBodyMaxWidth 300
+#define BrkPromoPrimaryXlPretitleMaxWidth 340
+#define BrkPromoPrimaryXlHeadingMaxWidth 470
+#define BrkPromoPrimaryXlBodyMaxWidth 390
 #define BrkPromoPrimaryXlPretitleFontFamily Arial
 #define BrkPromoPrimaryXlPretitleFontWeight Bold
 #define BrkPromoPrimaryXlPretitleLineHeight 110%
