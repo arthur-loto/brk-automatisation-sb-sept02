@@ -24,7 +24,7 @@ export default {
   },
 };
 
-function test(args) {
+function templateCardHero(args) {
   let template = `<BrkCarousel v-bind="args">`;
   for (let i = 0; i < args.brkCardsHero.length; i++) {
     template += `<template #item${i}}><BrkCardHero v-bind="args.brkCardsHero[${i}]"/></template>`;
@@ -40,18 +40,7 @@ const Template = (args) => ({
   setup() {
     return { args };
   },
-  // template: `
-  // <BrkCarousel v-bind="args">
-  // </BrkCarousel>
-  // `,
-  template: test(args),
-  // template: `
-  // <BrkCarousel v-bind="args">  
-  //   <template v-for="(card, index) in args.brkCardsHero" :key="card" v-slot:["item"+index]>
-  //     <BrkCardHero v-bind="card">
-  //   </template>
-  // </BrkCarousel>
-  // `,
+  template: templateCardHero(args),
 });
 
 /**
@@ -369,6 +358,14 @@ CardHero.args = {
 };
 CardHero.storyName = "Carte « Héro »";
 
+function templateCardPromo(args) {
+  let template = `<BrkCarousel v-bind="args">`;
+  for (let i = 0; i < args.brkCardsPromo.length; i++) {
+    template += `<template #item${i}}><BrkCardPromo v-bind="args.brkCardsPromo[${i}]"/></template>`;
+  }
+  template += `</BrkCarousel>`;
+  return template;
+}
 /**
  * Template HTML pour carousel contenant des cartes promo
  */
@@ -377,9 +374,7 @@ const Template2 = (args) => ({
   setup() {
     return { args };
   },
-  template: `<BrkCarousel v-bind="args">  
-    <template v-for="(card, index) in args.brkCardsPromo" :key="card" v-slot:["item"+index]><BrkCardPromo v-bind="card" /></template>
-    </BrkCarousel>`,
+  template: templateCardPromo(args),
 });
 
 /**
