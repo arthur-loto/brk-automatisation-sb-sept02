@@ -33,7 +33,8 @@ const Template = (args) => ({
     return { args };
   },
   template: `
-  <BrkCarousel :key="brkCardsHero" v-slot:["item"] v-bind="args">
+  <BrkCarousel v-bind="args">
+    <BrkCardHero :key="brkCardsHero" v-slot:["item"] v-bind="card">
   </BrkCarousel>
   `,
   // template: `
