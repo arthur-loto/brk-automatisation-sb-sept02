@@ -39,7 +39,7 @@ const Template = (args) => ({
   template: `
   <BrkCarousel v-bind="args">
     <template #item>
-      <BrkCardHero v-bind="args.brkCardsHero">
+      <p>this is a test</p>
     </template>
   </BrkCarousel>
   `,
