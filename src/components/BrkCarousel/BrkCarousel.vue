@@ -8,7 +8,6 @@
           :disabled="glideArrows.disableLeft"
           :aria-label="accessibilityTextLeft"
         >
-        <!-- this is a test -->
           &lt;
         </button>
         <button
@@ -76,8 +75,8 @@ onMounted(() => {
       },
     },
   };
-  let glide = new Glide(glideElement.value, config);
-  glide.mount({ glideArrowDisabler });
+  // let glide = new Glide(glideElement.value, config);
+  // glide.mount({ glideArrowDisabler });
 });
 
 function glideArrowDisabler(Glide, Components, Events) {
@@ -119,8 +118,8 @@ function glideArrowDisabler(Glide, Components, Events) {
 </script>
 
 <style lang="scss" scoped>
-@import "@glidejs/glide/dist/css/glide.core.min.css";
-@import "@glidejs/glide/dist/css/glide.theme.min.css";
+// @import "@glidejs/glide/dist/css/glide.core.min.css";
+// @import "@glidejs/glide/dist/css/glide.theme.min.css";
 
 .brk-carousel {
   .glide__slide {
