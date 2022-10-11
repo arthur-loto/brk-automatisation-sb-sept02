@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Fri, 07 Oct 2022 14:01:33 GMT
+ * Generated on Tue, 11 Oct 2022 14:09:50 GMT
  */
 
 :root {
@@ -405,7 +405,6 @@
   --brk-card-hero-xl-pretitle-paragraph-spacing: 0;
   --brk-card-hero-xl-pretitle-text-case: uppercase;
   --brk-card-hero-xl-pretitle-text-decoration: none;
-  --brk-carousel-sm-content-gap-horizontal: 16px;
   --brk-interactive-outline-border-radius: 4px;
   --brk-interactive-outline-color-focus-inverted: #abb6ed;
   --brk-interactive-outline-color-focus-standard: #192872;
@@ -511,9 +510,15 @@
   --brk-jackpot-hero-xl-heading-text-decoration: none;
   --brk-jackpot-hero-xl-height: 72px;
   --brk-jackpot-hero-xl-padding-horizontal: 24px;
-  --brk-page-sm-margin-bottom: 48px;
-  --brk-page-sm-margin-horizontal: 8px;
-  --brk-page-sm-margin-top: 0px;
+  --brk-page-sm-subheading-font-family: Arial;
+  --brk-page-sm-subheading-font-size: 20px;
+  --brk-page-sm-subheading-font-weight: Regular;
+  --brk-page-sm-subheading-letter-spacing: -2%;
+  --brk-page-sm-subheading-line-height: 100%;
+  --brk-page-sm-subheading-paragraph-spacing: 0;
+  --brk-page-sm-subheading-text-case: none;
+  --brk-page-sm-subheading-text-decoration: none;
+  --brk-page-standard-subheading-font-color: #000000;
   --brk-promo-primary-border-width: 1px;
   --brk-promo-primary-inverted-background-color: #121d54;
   --brk-promo-primary-inverted-body-font-color: #ffffff;
@@ -873,4 +878,6 @@
   --brk-promo-tertiary-xl-pretitle-paragraph-spacing: 0;
   --brk-promo-tertiary-xl-pretitle-text-case: uppercase;
   --brk-promo-tertiary-xl-pretitle-text-decoration: none;
+  --brk-template-sm-content-gap-horizontal: 16px;
+  --brk-template-sm-margin-bottom: 48px;
 }
