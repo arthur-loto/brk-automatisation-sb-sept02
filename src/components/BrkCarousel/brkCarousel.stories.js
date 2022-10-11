@@ -24,6 +24,14 @@ export default {
   },
 };
 
+function test(args) {
+  let template = `<BrkCarousel v-bind="args">`;
+  for (let i = 0; i < args.brkCardsHero.length; i++) {
+    template += `<template #item${i}}><BrkCardHero v-bind="args.brkCardsHero[${i}]"></template>`;
+  }
+  template += `</BrkCarousel>`;
+  return template;
+}
 /**
  * Template HTML pour carousel contenant des cartes hero
  */
@@ -36,20 +44,7 @@ const Template = (args) => ({
   // <BrkCarousel v-bind="args">
   // </BrkCarousel>
   // `,
-  template: `
-  <BrkCarousel v-bind="args">
-    <template v-for="(card, index) in args.brkCardsHero" :key="card" #["item"+index]>
-      <p>this is a test</p>
-    </template>
-  </BrkCarousel>
-  `,
-  // template: `
-  // <BrkCarousel v-bind="args">
-  //   <template #item v-for="(card, index) in args.brkCardsHero" :key="card">
-  //     <p>this is a test</p>
-  //   </template>
-  // </BrkCarousel>
-  // `,
+  template: test(args),
   // template: `
   // <BrkCarousel v-bind="args">  
   //   <template v-for="(card, index) in args.brkCardsHero" :key="card" v-slot:["item"+index]>
@@ -71,64 +66,7 @@ CardHero.args = {
   },
   accessibilityTextLeft: 'Précédent',
   accessibilityTextRight: 'Suivant',
-  // brkCardsHero: {
-  //   title: 'Titre du jeu',
-  //   preTitle: 'Pré titre',
-  //   postTitle: 'Post titre',
-  //   link: 'https://google.ca',
-  //   secondaryInfo: 'BrkCardSecondaryInfoJackpot',
-  //   showNav: false,
-  //   brkButtonArgs: {
-  //     label: 'Jouer!',
-  //     link: 'https://google.com',
-  //   },
-  //   brkTripleImagesArgs: {
-  //     bg: [
-  //       {
-  //         path: '/assets/background_macedonia.png',
-  //         width: '300w',
-  //       },
-  //     ],
-  //     character: [
-  //       {
-  //         path: '/assets/KingOfMacedonia.png',
-  //         width: '300w',
-  //       },
-  //     ],
-  //     logo: [
-  //       {
-  //         path: '/assets/logo_macedonia.png',
-  //         width: '300w',
-  //       },
-  //     ],
-  //     alt: 'King of Macédonia',
-  //   },
-  //   brkSecondaryInfoArgs: {
-  //     brkImageArgs: {
-  //       src: [
-  //         {
-  //           path: '/assets/logo_MegaJackpotsCleopatra.png',
-  //           width: '300w',
-  //         },
-  //       ],
-  //       alt: 'Logo mega jackpot',
-  //     },
-  //     backgroundColor: '#2d2feb',
-  //     text: 'Logo mega jackpot',
-  //     totalAmount: '1000000',
-  //     format: 'fr',
-  //   },
-  //   brkCardNavArgs: {
-  //     btnOpenLabel: 'Ouvrir le menu du jeu',
-  //     btnCloseLabel: 'Fermer le menu du jeu',
-  //     links: [
-  //       { url: 'http://www.perdu.com', label: 'Perdu', newWindow: true },
-  //       { url: 'http://www.google.com', label: 'Google', newWindow: false },
-  //       { url: 'https://www.nyan.cat/', label: 'Nyan Cat', newWindow: true },
-  //     ],
-  //   },
-  // },
-
+  
   brkCardsHero: [
     //Item 1
     {
