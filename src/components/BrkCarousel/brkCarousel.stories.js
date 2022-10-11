@@ -27,19 +27,19 @@ export default {
 /**
  * Template HTML pour carousel contenant des cartes hero
  */
-// const Template = (args) => ({
-//   components: { BrkCarousel, BrkCardHero },
-//   setup() {
-//     return { args };
-//   },
-//   template: `
-//   <BrkCarousel v-bind="args">  
-//     <template v-for="(card, index) in args.brkCardsHero" :key="card" v-slot:["item"+index]>
-//       <BrkCardHero v-bind="card">
-//     </template>
-//   </BrkCarousel>
-//   `,
-// });
+const Template = (args) => ({
+  components: { BrkCarousel, BrkCardHero },
+  setup() {
+    return { args };
+  },
+  template: `
+  <BrkCarousel v-bind="args">  
+    <template v-for="(card, index) in args.brkCardsHero" :key="card" v-slot:["item"+index]>
+      <BrkCardHero v-bind="card">
+    </template>
+  </BrkCarousel>
+  `,
+});
 
 /**
  * Export de la story Carousel Carte Hero
