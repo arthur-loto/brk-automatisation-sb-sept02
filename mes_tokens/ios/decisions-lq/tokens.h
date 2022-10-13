@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Thu, 13 Oct 2022 20:17:17 GMT
+// Generated on Thu, 13 Oct 2022 20:27:47 GMT
 
 
 #import <Foundation/Foundation.h>
@@ -98,10 +98,10 @@
 #define BrkButtonTertiaryXlIconGap 10
 #define BrkJackpotHeroSmHeadingFontFamily Graphik
 #define BrkJackpotHeroSmHeadingFontWeight Bold
-#define BrkJackpotHeroSmHeadingLineHeight 100%
+#define BrkJackpotHeroSmHeadingLineHeight 110%
 #define BrkJackpotHeroSmHeadingFontSize 8
 #define BrkJackpotHeroSmHeadingLetterSpacing -2%
-#define BrkJackpotHeroSmHeadingParagraphSpacing 0
+#define BrkJackpotHeroSmHeadingParagraphSpacing 
 #define BrkJackpotHeroSmHeadingTextCase uppercase
 #define BrkJackpotHeroSmHeadingTextDecoration none
 #define BrkJackpotHeroSmBodyFontFamily Arial
@@ -144,10 +144,10 @@
 #define BrkJackpotHeroMdAmountGroupMargin 5
 #define BrkJackpotHeroLgHeadingFontFamily Graphik
 #define BrkJackpotHeroLgHeadingFontWeight Bold
-#define BrkJackpotHeroLgHeadingLineHeight 100%
+#define BrkJackpotHeroLgHeadingLineHeight 110%
 #define BrkJackpotHeroLgHeadingFontSize 18
 #define BrkJackpotHeroLgHeadingLetterSpacing -2%
-#define BrkJackpotHeroLgHeadingParagraphSpacing 0
+#define BrkJackpotHeroLgHeadingParagraphSpacing 
 #define BrkJackpotHeroLgHeadingTextCase uppercase
 #define BrkJackpotHeroLgHeadingTextDecoration none
 #define BrkJackpotHeroLgBodyFontFamily Arial
@@ -167,10 +167,10 @@
 #define BrkJackpotHeroLgAmountGroupMargin 6
 #define BrkJackpotHeroXlHeadingFontFamily Graphik
 #define BrkJackpotHeroXlHeadingFontWeight Bold
-#define BrkJackpotHeroXlHeadingLineHeight 100%
+#define BrkJackpotHeroXlHeadingLineHeight 110%
 #define BrkJackpotHeroXlHeadingFontSize 18
 #define BrkJackpotHeroXlHeadingLetterSpacing -2%
-#define BrkJackpotHeroXlHeadingParagraphSpacing 0
+#define BrkJackpotHeroXlHeadingParagraphSpacing 
 #define BrkJackpotHeroXlHeadingTextCase uppercase
 #define BrkJackpotHeroXlHeadingTextDecoration none
 #define BrkJackpotHeroXlBodyFontFamily Arial
