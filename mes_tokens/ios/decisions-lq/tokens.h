@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Tue, 11 Oct 2022 16:00:57 GMT
+// Generated on Thu, 13 Oct 2022 20:17:17 GMT
 
 
 #import <Foundation/Foundation.h>
@@ -407,7 +407,7 @@
 #define BrkPromoSecondaryXlHeadingParagraphSpacing 0
 #define BrkPromoSecondaryXlHeadingTextCase none
 #define BrkPromoSecondaryXlHeadingTextDecoration none
-#define BrkPromoSecondaryXlContainerWidth 312
+#define BrkPromoSecondaryXlContentWidth 312
 #define BrkCardHeroStandardHeadingFontColor #2e49d1
 #define BrkCardHeroStandardPretitleFontColor #192872
 #define BrkCardHeroStandardBodyFontColor #192872
@@ -568,7 +568,7 @@
 #define BrkButtonSecondaryStandardSmBoxShadowFocus [object Object]
 #define BrkButtonSecondaryStandardFontColorDefault #192872
 #define BrkButtonSecondaryStandardBackgroundColorDefault transparent
-#define BrkButtonSecondaryStandardBorderColorDefault #192872
+#define BrkButtonSecondaryStandardBorderColorDefault #203392
 #define BrkButtonSecondaryStandardFontColorHover #ffffff
 #define BrkButtonSecondaryStandardBackgroundColorHover #2e49d1
 #define BrkButtonSecondaryStandardBorderColorHover transparent
@@ -709,24 +709,26 @@
 #define BrkPromoPrimaryXlBodyTextDecoration none
 #define BrkPromoPrimaryXlGradientHeight 142
 #define BrkPromoPrimaryXlContentWidth 312
-#define BrkPromoPrimary2xlImageHeight 568
-#define BrkPromoPrimary2xlGradientHeight 142
-#define BrkPromoPrimary2xlPretitleMaxWidth 340
-#define BrkPromoPrimary2xlHeadingMaxWidth 470
-#define BrkPromoPrimary2xlBodyMaxWidth 390
+#define BrkPromoPrimaryXlContentMaxWidth 470
 #define BrkPromoPrimary2xlPaddingHorizontal 32
 #define BrkPromoPrimary2xlPaddingVertical 32
 #define BrkPromoPrimary2xlContentGap 16
 #define BrkPromoPrimary2xlPretitleMarginBottom 4
 #define BrkPromoPrimary2xlBodyMarginTop 12
-#define BrkPageSmSubheadingFontFamily Arial
-#define BrkPageSmSubheadingFontWeight Regular
-#define BrkPageSmSubheadingLineHeight 100%
-#define BrkPageSmSubheadingFontSize 20
-#define BrkPageSmSubheadingLetterSpacing -2%
-#define BrkPageSmSubheadingParagraphSpacing 0
-#define BrkPageSmSubheadingTextCase none
-#define BrkPageSmSubheadingTextDecoration none
+#define BrkTemplateSmSubheadingFontFamily Arial
+#define BrkTemplateSmSubheadingFontWeight Regular
+#define BrkTemplateSmSubheadingLineHeight 100%
+#define BrkTemplateSmSubheadingFontSize 24
+#define BrkTemplateSmSubheadingLetterSpacing -2%
+#define BrkTemplateSmSubheadingParagraphSpacing 0
+#define BrkTemplateSmSubheadingTextCase none
+#define BrkTemplateSmSubheadingTextDecoration none
+#define BrkTemplateSmContentGapHorizontal 16
+#define BrkTemplateSmContentGapVertical 24
+#define BrkTemplateSmContentGapExtra 16
+#define BrkTemplateSmMarginHorizontal 32
+#define BrkTemplateSmMarginTop 0
+#define BrkTemplateSmMarginBottom 48
 #define BrkPromoPrimaryInvertedHeadingFontColor #ffffff
 #define BrkPromoPrimaryInvertedPretitleFontColor #a6ecff
 #define BrkPromoPrimaryInvertedBodyFontColor #ffffff
@@ -739,7 +741,7 @@
 #define BrkPromoPrimaryStandardBackgroundColor #ffffff
 #define BrkPromoPrimaryStandardBorderColor #eaedfa
 #define BrkPromoPrimaryStandardGradientColor linear-gradient(180deg, #ffffff00 0%, #ffffff 100%)
-#define BrkPageStandardSubheadingFontColor #000000
+#define BrkPageStandardSubheadingFontColor #121d54
 #define BrkPromoTertiaryInvertedHeadingFontColor #2e49d1
 #define BrkPromoTertiaryInvertedPretitleFontColor #192872
 #define BrkPromoTertiaryInvertedBodyFontColor #192872
@@ -852,6 +854,7 @@
 #define BrkPromoTertiaryXlGradientHeight 142
 #define BrkPromoTertiaryXlImageHeight 568
 #define BrkPromoTertiaryXlFrameWidth 312
+#define BrkPromoTertiaryXlFrameMaxWidth 470
 #define BrkButtonIconSmSize 30
 #define BrkButtonIconSmIconHeight 8
 #define BrkButtonIconSmBorderRadius 4
@@ -892,6 +895,4 @@
 #define BrkButtonIconInvertedBoxShadowDefault [object Object]
 #define BrkButtonIconInvertedBoxShadowHover [object Object]
 #define BrkButtonIconInvertedBoxShadowFocus [object Object]
-#define BrkTemplateSmMarginBottom 48
-#define BrkTemplateSmContentGapHorizontal 16
 

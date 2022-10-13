@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Tue, 11 Oct 2022 16:00:57 GMT
+// Generated on Thu, 13 Oct 2022 20:17:17 GMT
 
 
 #import <Foundation/Foundation.h>
@@ -464,6 +464,7 @@
 #define BrkPromoPrimaryXlImageHeight 568
 #define BrkPromoPrimaryXlGradientHeight 142
 #define BrkPromoPrimaryXlContentWidth 312
+#define BrkPromoPrimaryXlContentMaxWidth 470
 #define BrkPromoPrimaryXlPretitleFontFamily Arial
 #define BrkPromoPrimaryXlPretitleFontWeight Bold
 #define BrkPromoPrimaryXlPretitleLineHeight 110%
@@ -493,19 +494,20 @@
 #define BrkPromoPrimaryXlContentGap 16
 #define BrkPromoPrimaryXlPretitleMarginBottom 6
 #define BrkPromoPrimaryXlBodyMarginTop 16
-#define BrkPromoPrimary2xlImageHeight 568
-#define BrkPromoPrimary2xlGradientHeight 142
-#define BrkPromoPrimary2xlPretitleMaxWidth 340
-#define BrkPromoPrimary2xlHeadingMaxWidth 470
-#define BrkPromoPrimary2xlBodyMaxWidth 390
-#define BrkPageSmSubheadingFontFamily Graphik
-#define BrkPageSmSubheadingFontWeight Super
-#define BrkPageSmSubheadingLineHeight 110%
-#define BrkPageSmSubheadingFontSize 20
-#define BrkPageSmSubheadingLetterSpacing -2%
-#define BrkPageSmSubheadingParagraphSpacing 0
-#define BrkPageSmSubheadingTextCase none
-#define BrkPageSmSubheadingTextDecoration none
+#define BrkTemplateSmSubheadingFontFamily Graphik
+#define BrkTemplateSmSubheadingFontWeight Super
+#define BrkTemplateSmSubheadingLineHeight 110%
+#define BrkTemplateSmSubheadingFontSize 20
+#define BrkTemplateSmSubheadingLetterSpacing -2%
+#define BrkTemplateSmSubheadingParagraphSpacing 0
+#define BrkTemplateSmSubheadingTextCase none
+#define BrkTemplateSmSubheadingTextDecoration none
+#define BrkTemplateSmContentGapHorizontal 16
+#define BrkTemplateSmContentGapVertical 24
+#define BrkTemplateSmContentGapExtra 16
+#define BrkTemplateSmMarginHorizontal 32
+#define BrkTemplateSmMarginTop 0
+#define BrkTemplateSmMarginBottom 48
 #define BrkCardHeroStandardBoxShadowDefault [object Object]
 #define BrkCardHeroStandardBoxShadowHover [object Object]
 #define BrkCardHeroStandardPretitleFontColor #535353
@@ -833,6 +835,7 @@
 #define BrkPromoTertiaryXlImageHeight 568
 #define BrkPromoTertiaryXlGradientHeight 142
 #define BrkPromoTertiaryXlFrameWidth 312
+#define BrkPromoTertiaryXlFrameMaxWidth 470
 #define BrkPromoTertiaryXlPaddingHorizontal 32
 #define BrkPromoTertiaryXlPaddingVertical 32
 #define BrkPromoTertiaryXlFramePaddingHorizontal 10
@@ -895,7 +898,5 @@
 #define BrkButtonIconXlIconHeight 24
 #define BrkButtonIconXlPadding 30
 #define BrkButtonIconXlBorderRadius 30
-#define BrkTemplateSmContentGapHorizontal 16
-#define BrkTemplateSmMarginBottom 48
 #define BrkPageStandardSubheadingFontColor #000000
 
