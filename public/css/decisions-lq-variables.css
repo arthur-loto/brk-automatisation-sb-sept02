@@ -1,50 +1,9 @@
 /**
  * Do not edit directly
- * Generated on Fri, 14 Oct 2022 15:33:31 GMT
+ * Generated on Fri, 14 Oct 2022 15:47:45 GMT
  */
 
 :root {
-  --brk-button-icon-border-width: 0px;
-  --brk-button-icon-inverted-background-color-default: #203392;
-  --brk-button-icon-inverted-background-color-focus: #2e49d1;
-  --brk-button-icon-inverted-background-color-hover: #2e49d1;
-  --brk-button-icon-inverted-border-color-default: transparent;
-  --brk-button-icon-inverted-border-color-focus: transparent;
-  --brk-button-icon-inverted-border-color-hover: transparent;
-  --brk-button-icon-inverted-box-shadow-default: 0px 0px 0px 0px #000000;
-  --brk-button-icon-inverted-box-shadow-focus: 0px 0px 0px 0px #000000;
-  --brk-button-icon-inverted-box-shadow-hover: 0px 0px 0px 0px #000000;
-  --brk-button-icon-inverted-icon-fill-default: #ffffff;
-  --brk-button-icon-inverted-icon-fill-focus: #ffffff;
-  --brk-button-icon-inverted-icon-fill-hover: #ffffff;
-  --brk-button-icon-lg-border-radius: 8px;
-  --brk-button-icon-lg-icon-height: 26px;
-  --brk-button-icon-lg-padding: 30px;
-  --brk-button-icon-lg-size: 50px;
-  --brk-button-icon-md-border-radius: 6px;
-  --brk-button-icon-md-icon-height: 22px;
-  --brk-button-icon-md-padding: 20px;
-  --brk-button-icon-md-size: 40px;
-  --brk-button-icon-sm-border-radius: 4px;
-  --brk-button-icon-sm-icon-height: 8px;
-  --brk-button-icon-sm-padding: 15px;
-  --brk-button-icon-sm-size: 30px;
-  --brk-button-icon-standard-background-color-default: #eaedfa;
-  --brk-button-icon-standard-background-color-focus: #2e49d1;
-  --brk-button-icon-standard-background-color-hover: #2e49d1;
-  --brk-button-icon-standard-border-color-default: transparent;
-  --brk-button-icon-standard-border-color-focus: transparent;
-  --brk-button-icon-standard-border-color-hover: transparent;
-  --brk-button-icon-standard-box-shadow-default: 0px 0px 0px 0px #000000;
-  --brk-button-icon-standard-box-shadow-focus: 0px 0px 0px 0px #000000;
-  --brk-button-icon-standard-box-shadow-hover: 0px 0px 0px 0px #000000;
-  --brk-button-icon-standard-icon-fill-default: #253aa7;
-  --brk-button-icon-standard-icon-fill-focus: #ffffff;
-  --brk-button-icon-standard-icon-fill-hover: #ffffff;
-  --brk-button-icon-xl-border-radius: 8px;
-  --brk-button-icon-xl-icon-height: 30px;
-  --brk-button-icon-xl-padding: 36px;
-  --brk-button-icon-xl-size: 60px;
   --brk-button-opacity-disabled: 50%;
   --brk-button-primary-border-width: 0px;
   --brk-button-primary-inverted-background-color-default: #192872;
@@ -178,7 +137,7 @@
   --brk-button-secondary-standard-background-color-default: transparent;
   --brk-button-secondary-standard-background-color-focus: #2e49d1;
   --brk-button-secondary-standard-background-color-hover: #2e49d1;
-  --brk-button-secondary-standard-border-color-default: #203392;
+  --brk-button-secondary-standard-border-color-default: transparent;
   --brk-button-secondary-standard-border-color-focus: transparent;
   --brk-button-secondary-standard-border-color-hover: transparent;
   --brk-button-secondary-standard-font-color-default: #192872;
@@ -216,10 +175,13 @@
   --brk-button-tertiary-inverted-font-color-default: #ffffff;
   --brk-button-tertiary-inverted-font-color-focus: #ffffff;
   --brk-button-tertiary-inverted-font-color-hover: #ffffff;
+  --brk-button-tertiary-inverted-icon-fill-default: #ffffff;
+  --brk-button-tertiary-inverted-icon-fill-focus: #ffffff;
+  --brk-button-tertiary-inverted-icon-fill-hover: #ffffff;
   --brk-button-tertiary-lg-border-radius: 8px;
   --brk-button-tertiary-lg-height: 50px;
   --brk-button-tertiary-lg-icon-gap: 8px;
-  --brk-button-tertiary-lg-icon-height: 26px;
+  --brk-button-tertiary-lg-icon-size: 12px;
   --brk-button-tertiary-lg-label-font-family: Arial;
   --brk-button-tertiary-lg-label-font-size: 24px;
   --brk-button-tertiary-lg-label-font-weight: Bold;
@@ -232,7 +194,7 @@
   --brk-button-tertiary-md-border-radius: 6px;
   --brk-button-tertiary-md-height: 40px;
   --brk-button-tertiary-md-icon-gap: 6px;
-  --brk-button-tertiary-md-icon-height: 22px;
+  --brk-button-tertiary-md-icon-size: 10px;
   --brk-button-tertiary-md-label-font-family: Arial;
   --brk-button-tertiary-md-label-font-size: 20px;
   --brk-button-tertiary-md-label-font-weight: Bold;
@@ -245,7 +207,7 @@
   --brk-button-tertiary-sm-border-radius: 4px;
   --brk-button-tertiary-sm-height: 30px;
   --brk-button-tertiary-sm-icon-gap: 4px;
-  --brk-button-tertiary-sm-icon-height: 14px;
+  --brk-button-tertiary-sm-icon-size: 8px;
   --brk-button-tertiary-sm-label-font-family: Arial;
   --brk-button-tertiary-sm-label-font-size: 12px;
   --brk-button-tertiary-sm-label-font-weight: Bold;
@@ -267,10 +229,13 @@
   --brk-button-tertiary-standard-font-color-default: #253aa7;
   --brk-button-tertiary-standard-font-color-focus: #ffffff;
   --brk-button-tertiary-standard-font-color-hover: #ffffff;
+  --brk-button-tertiary-standard-icon-fill-default: #253aa7;
+  --brk-button-tertiary-standard-icon-fill-focus: #ffffff;
+  --brk-button-tertiary-standard-icon-fill-hover: #ffffff;
   --brk-button-tertiary-xl-border-radius: 8px;
   --brk-button-tertiary-xl-height: 60px;
   --brk-button-tertiary-xl-icon-gap: 10px;
-  --brk-button-tertiary-xl-icon-height: 30px;
+  --brk-button-tertiary-xl-icon-size: 14px;
   --brk-button-tertiary-xl-label-font-family: Arial;
   --brk-button-tertiary-xl-label-font-size: 28px;
   --brk-button-tertiary-xl-label-font-weight: Bold;
