@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Thu, 13 Oct 2022 20:27:47 GMT
+// Generated on Fri, 14 Oct 2022 15:00:01 GMT
 
 
 #import <Foundation/Foundation.h>
@@ -13,18 +13,20 @@
 #define BrkButtonPrimaryBorderWidth 2
 #define BrkButtonSecondaryBorderWidth 2
 #define BrkButtonTertiaryBorderWidth 1
-#define BrkButtonIconBorderWidth 1
 #define BrkButtonOpacityDisabled 50%
 #define BrkButtonTertiaryStandardBoxShadowDefault [object Object]
 #define BrkButtonTertiaryStandardBoxShadowHover [object Object]
 #define BrkButtonTertiaryStandardBoxShadowFocus [object Object]
 #define BrkButtonTertiaryStandardFontColorDefault #535353
+#define BrkButtonTertiaryStandardIconFillDefault #535353
 #define BrkButtonTertiaryStandardBackgroundColorDefault #ffffff
 #define BrkButtonTertiaryStandardBorderColorDefault #e6e6e6
 #define BrkButtonTertiaryStandardFontColorHover #1a1a1a
+#define BrkButtonTertiaryStandardIconFillHover #1a1a1a
 #define BrkButtonTertiaryStandardBackgroundColorHover #ffffff
 #define BrkButtonTertiaryStandardBorderColorHover #535353
 #define BrkButtonTertiaryStandardFontColorFocus #1a1a1a
+#define BrkButtonTertiaryStandardIconFillFocus #1a1a1a
 #define BrkButtonTertiaryStandardBackgroundColorFocus #ffffff
 #define BrkButtonTertiaryStandardBorderColorFocus #535353
 #define BrkButtonTertiaryInvertedBoxShadowDefault [object Object]
@@ -39,6 +41,9 @@
 #define BrkButtonTertiaryInvertedFontColorFocus #ffffff
 #define BrkButtonTertiaryInvertedBackgroundColorFocus #1a1a1a
 #define BrkButtonTertiaryInvertedBorderColorFocus #ffffff
+#define BrkButtonTertiaryInvertedIconFillDefault #e6e6e6
+#define BrkButtonTertiaryInvertedIconFillHover #ffffff
+#define BrkButtonTertiaryInvertedIconFillFocus #ffffff
 #define BrkButtonPrimaryStandardSmBoxShadowDefault [object Object]
 #define BrkButtonPrimaryStandardSmBoxShadowHover [object Object]
 #define BrkButtonPrimaryStandardSmBoxShadowFocus [object Object]
@@ -858,45 +863,8 @@
 #define BrkPromoTertiaryXlHeadingParagraphSpacing 0
 #define BrkPromoTertiaryXlHeadingTextCase none
 #define BrkPromoTertiaryXlHeadingTextDecoration none
-#define BrkButtonIconStandardIconFillDefault #535353
-#define BrkButtonIconStandardBackgroundColorDefault #ffffff
-#define BrkButtonIconStandardBorderColorDefault #e6e6e6
-#define BrkButtonIconStandardIconFillHover #1a1a1a
-#define BrkButtonIconStandardBackgroundColorHover #ffffff
-#define BrkButtonIconStandardBorderColorHover #535353
-#define BrkButtonIconStandardIconFillFocus #1a1a1a
-#define BrkButtonIconStandardBackgroundColorFocus #ffffff
-#define BrkButtonIconStandardBorderColorFocus #535353
-#define BrkButtonIconStandardBoxShadowDefault [object Object]
-#define BrkButtonIconStandardBoxShadowHover [object Object]
-#define BrkButtonIconStandardBoxShadowFocus [object Object]
-#define BrkButtonIconInvertedIconFillDefault #e6e6e6
-#define BrkButtonIconInvertedBackgroundColorDefault #1a1a1a
-#define BrkButtonIconInvertedBorderColorDefault #535353
-#define BrkButtonIconInvertedIconFillHover #ffffff
-#define BrkButtonIconInvertedBackgroundColorHover #1a1a1a
-#define BrkButtonIconInvertedBorderColorHover #eaedfa
-#define BrkButtonIconInvertedIconFillFocus #ffffff
-#define BrkButtonIconInvertedBackgroundColorFocus #1a1a1a
-#define BrkButtonIconInvertedBorderColorFocus #ffffff
 #define BrkButtonIconInvertedBoxShadowDefault [object Object]
 #define BrkButtonIconInvertedBoxShadowHover [object Object]
 #define BrkButtonIconInvertedBoxShadowFocus [object Object]
-#define BrkButtonIconSmSize 30
-#define BrkButtonIconSmIconHeight 8
-#define BrkButtonIconSmPadding 15
-#define BrkButtonIconSmBorderRadius 15
-#define BrkButtonIconMdSize 40
-#define BrkButtonIconMdIconHeight 16
-#define BrkButtonIconMdPadding 20
-#define BrkButtonIconMdBorderRadius 20
-#define BrkButtonIconLgSize 50
-#define BrkButtonIconLgIconHeight 20
-#define BrkButtonIconLgPadding 25
-#define BrkButtonIconLgBorderRadius 25
-#define BrkButtonIconXlSize 60
-#define BrkButtonIconXlIconHeight 24
-#define BrkButtonIconXlPadding 30
-#define BrkButtonIconXlBorderRadius 30
 #define BrkPageStandardSubheadingFontColor #000000
 
