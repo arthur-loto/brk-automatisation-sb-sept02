@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Fri, 14 Oct 2022 15:47:45 GMT
+// Generated on Fri, 14 Oct 2022 15:52:02 GMT
 
 
 #import <Foundation/Foundation.h>
@@ -52,7 +52,7 @@
 #define BrkButtonTertiarySmLabelFontFamily Arial
 #define BrkButtonTertiarySmLabelFontWeight Bold
 #define BrkButtonTertiarySmLabelLineHeight 85%
-#define BrkButtonTertiarySmLabelFontSize 12
+#define BrkButtonTertiarySmLabelFontSize 10
 #define BrkButtonTertiarySmLabelLetterSpacing 2%
 #define BrkButtonTertiarySmLabelParagraphSpacing 0
 #define BrkButtonTertiarySmLabelTextCase uppercase
@@ -60,7 +60,7 @@
 #define BrkButtonTertiaryMdLabelFontFamily Arial
 #define BrkButtonTertiaryMdLabelFontWeight Bold
 #define BrkButtonTertiaryMdLabelLineHeight 85%
-#define BrkButtonTertiaryMdLabelFontSize 20
+#define BrkButtonTertiaryMdLabelFontSize 14
 #define BrkButtonTertiaryMdLabelLetterSpacing 2%
 #define BrkButtonTertiaryMdLabelParagraphSpacing 0
 #define BrkButtonTertiaryMdLabelTextCase uppercase
@@ -68,7 +68,7 @@
 #define BrkButtonTertiaryLgLabelFontFamily Arial
 #define BrkButtonTertiaryLgLabelFontWeight Bold
 #define BrkButtonTertiaryLgLabelLineHeight 85%
-#define BrkButtonTertiaryLgLabelFontSize 24
+#define BrkButtonTertiaryLgLabelFontSize 18
 #define BrkButtonTertiaryLgLabelLetterSpacing 2%
 #define BrkButtonTertiaryLgLabelParagraphSpacing 0
 #define BrkButtonTertiaryLgLabelTextCase uppercase
@@ -76,7 +76,7 @@
 #define BrkButtonTertiaryXlLabelFontFamily Arial
 #define BrkButtonTertiaryXlLabelFontWeight Bold
 #define BrkButtonTertiaryXlLabelLineHeight 85%
-#define BrkButtonTertiaryXlLabelFontSize 28
+#define BrkButtonTertiaryXlLabelFontSize 22
 #define BrkButtonTertiaryXlLabelLetterSpacing 2%
 #define BrkButtonTertiaryXlLabelParagraphSpacing 0
 #define BrkButtonTertiaryXlLabelTextCase uppercase
