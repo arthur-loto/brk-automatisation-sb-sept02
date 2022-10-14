@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Fri, 14 Oct 2022 15:00:01 GMT
+// Generated on Fri, 14 Oct 2022 15:14:26 GMT
 
 
 #import <Foundation/Foundation.h>
@@ -33,17 +33,17 @@
 #define BrkButtonTertiaryInvertedBoxShadowHover [object Object]
 #define BrkButtonTertiaryInvertedBoxShadowFocus [object Object]
 #define BrkButtonTertiaryInvertedFontColorDefault #e6e6e6
+#define BrkButtonTertiaryInvertedIconFillDefault #e6e6e6
 #define BrkButtonTertiaryInvertedBackgroundColorDefault #1a1a1a
 #define BrkButtonTertiaryInvertedBorderColorDefault #535353
 #define BrkButtonTertiaryInvertedFontColorHover #ffffff
+#define BrkButtonTertiaryInvertedIconFillHover #ffffff
 #define BrkButtonTertiaryInvertedBackgroundColorHover #1a1a1a
-#define BrkButtonTertiaryInvertedBorderColorHover #eaedfa
+#define BrkButtonTertiaryInvertedBorderColorHover #f2f2f2
 #define BrkButtonTertiaryInvertedFontColorFocus #ffffff
+#define BrkButtonTertiaryInvertedIconFillFocus #ffffff
 #define BrkButtonTertiaryInvertedBackgroundColorFocus #1a1a1a
 #define BrkButtonTertiaryInvertedBorderColorFocus #ffffff
-#define BrkButtonTertiaryInvertedIconFillDefault #e6e6e6
-#define BrkButtonTertiaryInvertedIconFillHover #ffffff
-#define BrkButtonTertiaryInvertedIconFillFocus #ffffff
 #define BrkButtonPrimaryStandardSmBoxShadowDefault [object Object]
 #define BrkButtonPrimaryStandardSmBoxShadowHover [object Object]
 #define BrkButtonPrimaryStandardSmBoxShadowFocus [object Object]
@@ -139,7 +139,7 @@
 #define BrkButtonTertiarySmPaddingHorizontal 15
 #define BrkButtonTertiarySmHeight 30
 #define BrkButtonTertiarySmBorderRadius 15
-#define BrkButtonTertiarySmIconHeight 12
+#define BrkButtonTertiarySmIconHeight 8
 #define BrkButtonTertiarySmIconGap 4
 #define BrkButtonTertiaryMdPaddingHorizontal 20
 #define BrkButtonTertiaryMdHeight 40

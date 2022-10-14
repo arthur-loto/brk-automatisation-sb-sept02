@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Fri, 14 Oct 2022 15:00:01 GMT
+ * Generated on Fri, 14 Oct 2022 15:14:26 GMT
  */
 
 :root {
@@ -180,7 +180,7 @@
   --brk-button-tertiary-inverted-background-color-hover: #1a1a1a;
   --brk-button-tertiary-inverted-border-color-default: #535353;
   --brk-button-tertiary-inverted-border-color-focus: #ffffff;
-  --brk-button-tertiary-inverted-border-color-hover: #eaedfa;
+  --brk-button-tertiary-inverted-border-color-hover: #f2f2f2;
   --brk-button-tertiary-inverted-box-shadow-default: 0px 0px 0px 0px #000000;
   --brk-button-tertiary-inverted-box-shadow-focus: 0px 0px 0px 0px #000000;
   --brk-button-tertiary-inverted-box-shadow-hover: 0px 0px 0px 0px #000000;
@@ -219,7 +219,7 @@
   --brk-button-tertiary-sm-border-radius: 15px;
   --brk-button-tertiary-sm-height: 30px;
   --brk-button-tertiary-sm-icon-gap: 4px;
-  --brk-button-tertiary-sm-icon-height: 12px;
+  --brk-button-tertiary-sm-icon-height: 8px;
   --brk-button-tertiary-sm-label-font-family: Graphik;
   --brk-button-tertiary-sm-label-font-size: 10px;
   --brk-button-tertiary-sm-label-font-weight: Bold;
