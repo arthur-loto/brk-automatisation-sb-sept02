@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Fri, 14 Oct 2022 16:36:22 GMT
+// Generated on Fri, 14 Oct 2022 16:50:47 GMT
 
 
 #import <Foundation/Foundation.h>
@@ -54,7 +54,7 @@
 #define BrkButtonTertiarySmLabelLineHeight 85%
 #define BrkButtonTertiarySmLabelFontSize 10
 #define BrkButtonTertiarySmLabelLetterSpacing 2%
-#define BrkButtonTertiarySmLabelParagraphSpacing 0
+#define BrkButtonTertiarySmLabelParagraphSpacing 
 #define BrkButtonTertiarySmLabelTextCase uppercase
 #define BrkButtonTertiarySmLabelTextDecoration none
 #define BrkButtonTertiaryMdLabelFontFamily Arial
@@ -62,7 +62,7 @@
 #define BrkButtonTertiaryMdLabelLineHeight 85%
 #define BrkButtonTertiaryMdLabelFontSize 14
 #define BrkButtonTertiaryMdLabelLetterSpacing 2%
-#define BrkButtonTertiaryMdLabelParagraphSpacing 0
+#define BrkButtonTertiaryMdLabelParagraphSpacing 
 #define BrkButtonTertiaryMdLabelTextCase uppercase
 #define BrkButtonTertiaryMdLabelTextDecoration none
 #define BrkButtonTertiaryLgLabelFontFamily Arial
@@ -70,7 +70,7 @@
 #define BrkButtonTertiaryLgLabelLineHeight 85%
 #define BrkButtonTertiaryLgLabelFontSize 18
 #define BrkButtonTertiaryLgLabelLetterSpacing 2%
-#define BrkButtonTertiaryLgLabelParagraphSpacing 0
+#define BrkButtonTertiaryLgLabelParagraphSpacing 
 #define BrkButtonTertiaryLgLabelTextCase uppercase
 #define BrkButtonTertiaryLgLabelTextDecoration none
 #define BrkButtonTertiaryXlLabelFontFamily Arial
@@ -78,7 +78,7 @@
 #define BrkButtonTertiaryXlLabelLineHeight 85%
 #define BrkButtonTertiaryXlLabelFontSize 22
 #define BrkButtonTertiaryXlLabelLetterSpacing 2%
-#define BrkButtonTertiaryXlLabelParagraphSpacing 0
+#define BrkButtonTertiaryXlLabelParagraphSpacing 
 #define BrkButtonTertiaryXlLabelTextCase uppercase
 #define BrkButtonTertiaryXlLabelTextDecoration none
 #define BrkButtonTertiarySmPaddingHorizontal 15
@@ -114,7 +114,7 @@
 #define BrkJackpotHeroSmBodyLineHeight 100%
 #define BrkJackpotHeroSmBodyFontSize 12
 #define BrkJackpotHeroSmBodyLetterSpacing 2%
-#define BrkJackpotHeroSmBodyParagraphSpacing 0
+#define BrkJackpotHeroSmBodyParagraphSpacing 
 #define BrkJackpotHeroSmBodyTextCase uppercase
 #define BrkJackpotHeroSmBodyTextDecoration none
 #define BrkJackpotHeroSmHeight 36
@@ -129,7 +129,7 @@
 #define BrkJackpotHeroMdHeadingLineHeight 110%
 #define BrkJackpotHeroMdHeadingFontSize 14
 #define BrkJackpotHeroMdHeadingLetterSpacing -2%
-#define BrkJackpotHeroMdHeadingParagraphSpacing 0
+#define BrkJackpotHeroMdHeadingParagraphSpacing 
 #define BrkJackpotHeroMdHeadingTextCase uppercase
 #define BrkJackpotHeroMdHeadingTextDecoration none
 #define BrkJackpotHeroMdBodyFontFamily Arial
@@ -137,7 +137,7 @@
 #define BrkJackpotHeroMdBodyLineHeight 100%
 #define BrkJackpotHeroMdBodyFontSize 20
 #define BrkJackpotHeroMdBodyLetterSpacing 2%
-#define BrkJackpotHeroMdBodyParagraphSpacing 0
+#define BrkJackpotHeroMdBodyParagraphSpacing 
 #define BrkJackpotHeroMdBodyTextCase uppercase
 #define BrkJackpotHeroMdBodyTextDecoration none
 #define BrkJackpotHeroMdHeight 60
@@ -160,7 +160,7 @@
 #define BrkJackpotHeroLgBodyLineHeight 100%
 #define BrkJackpotHeroLgBodyFontSize 24
 #define BrkJackpotHeroLgBodyLetterSpacing 2%
-#define BrkJackpotHeroLgBodyParagraphSpacing 0
+#define BrkJackpotHeroLgBodyParagraphSpacing 
 #define BrkJackpotHeroLgBodyTextCase uppercase
 #define BrkJackpotHeroLgBodyTextDecoration none
 #define BrkJackpotHeroLgHeight 72
@@ -183,7 +183,7 @@
 #define BrkJackpotHeroXlBodyLineHeight 100%
 #define BrkJackpotHeroXlBodyFontSize 28
 #define BrkJackpotHeroXlBodyLetterSpacing 2%
-#define BrkJackpotHeroXlBodyParagraphSpacing 0
+#define BrkJackpotHeroXlBodyParagraphSpacing 
 #define BrkJackpotHeroXlBodyTextCase uppercase
 #define BrkJackpotHeroXlBodyTextDecoration none
 #define BrkJackpotHeroXlHeight 72
@@ -206,7 +206,7 @@
 #define BrkCardHeroSmPretitleLineHeight 8
 #define BrkCardHeroSmPretitleFontSize 8
 #define BrkCardHeroSmPretitleLetterSpacing -2%
-#define BrkCardHeroSmPretitleParagraphSpacing 0
+#define BrkCardHeroSmPretitleParagraphSpacing 
 #define BrkCardHeroSmPretitleTextCase uppercase
 #define BrkCardHeroSmPretitleTextDecoration none
 #define BrkCardHeroSmImageHeight 180
@@ -219,7 +219,7 @@
 #define BrkCardHeroSmHeadingLineHeight 100%
 #define BrkCardHeroSmHeadingFontSize 14
 #define BrkCardHeroSmHeadingLetterSpacing -2%
-#define BrkCardHeroSmHeadingParagraphSpacing 0
+#define BrkCardHeroSmHeadingParagraphSpacing 
 #define BrkCardHeroSmHeadingTextCase none
 #define BrkCardHeroSmHeadingTextDecoration none
 #define BrkCardHeroSmBodyFontFamily Arial
@@ -227,7 +227,7 @@
 #define BrkCardHeroSmBodyLineHeight 85%
 #define BrkCardHeroSmBodyFontSize 9
 #define BrkCardHeroSmBodyLetterSpacing 2%
-#define BrkCardHeroSmBodyParagraphSpacing 0
+#define BrkCardHeroSmBodyParagraphSpacing 
 #define BrkCardHeroSmBodyTextCase none
 #define BrkCardHeroSmBodyTextDecoration none
 #define BrkCardHeroLgPretitleFontFamily Graphik
@@ -235,7 +235,7 @@
 #define BrkCardHeroLgPretitleLineHeight 14
 #define BrkCardHeroLgPretitleFontSize 14
 #define BrkCardHeroLgPretitleLetterSpacing -2%
-#define BrkCardHeroLgPretitleParagraphSpacing 0
+#define BrkCardHeroLgPretitleParagraphSpacing 
 #define BrkCardHeroLgPretitleTextCase uppercase
 #define BrkCardHeroLgPretitleTextDecoration none
 #define BrkCardHeroLgImageHeight 270
@@ -248,7 +248,7 @@
 #define BrkCardHeroLgHeadingLineHeight 100%
 #define BrkCardHeroLgHeadingFontSize 30
 #define BrkCardHeroLgHeadingLetterSpacing -2%
-#define BrkCardHeroLgHeadingParagraphSpacing 0
+#define BrkCardHeroLgHeadingParagraphSpacing 
 #define BrkCardHeroLgHeadingTextCase none
 #define BrkCardHeroLgHeadingTextDecoration none
 #define BrkCardHeroLgBodyFontFamily Arial
@@ -256,7 +256,7 @@
 #define BrkCardHeroLgBodyLineHeight 85%
 #define BrkCardHeroLgBodyFontSize 15
 #define BrkCardHeroLgBodyLetterSpacing 2%
-#define BrkCardHeroLgBodyParagraphSpacing 0
+#define BrkCardHeroLgBodyParagraphSpacing 
 #define BrkCardHeroLgBodyTextCase none
 #define BrkCardHeroLgBodyTextDecoration none
 #define BrkCardHeroXlPretitleFontFamily Graphik
@@ -264,7 +264,7 @@
 #define BrkCardHeroXlPretitleLineHeight 18
 #define BrkCardHeroXlPretitleFontSize 18
 #define BrkCardHeroXlPretitleLetterSpacing -2%
-#define BrkCardHeroXlPretitleParagraphSpacing 0
+#define BrkCardHeroXlPretitleParagraphSpacing 
 #define BrkCardHeroXlPretitleTextCase uppercase
 #define BrkCardHeroXlPretitleTextDecoration none
 #define BrkCardHeroXlImageHeight 320
@@ -277,7 +277,7 @@
 #define BrkCardHeroXlHeadingLineHeight 100%
 #define BrkCardHeroXlHeadingFontSize 40
 #define BrkCardHeroXlHeadingLetterSpacing -2%
-#define BrkCardHeroXlHeadingParagraphSpacing 0
+#define BrkCardHeroXlHeadingParagraphSpacing 
 #define BrkCardHeroXlHeadingTextCase none
 #define BrkCardHeroXlHeadingTextDecoration none
 #define BrkCardHeroXlBodyFontFamily Arial
@@ -285,7 +285,7 @@
 #define BrkCardHeroXlBodyLineHeight 85%
 #define BrkCardHeroXlBodyFontSize 18
 #define BrkCardHeroXlBodyLetterSpacing 2%
-#define BrkCardHeroXlBodyParagraphSpacing 0
+#define BrkCardHeroXlBodyParagraphSpacing 
 #define BrkCardHeroXlBodyTextCase none
 #define BrkCardHeroXlBodyTextDecoration none
 #define BrkCardHeroMdPretitleFontFamily Graphik
@@ -293,7 +293,7 @@
 #define BrkCardHeroMdPretitleLineHeight 12
 #define BrkCardHeroMdPretitleFontSize 12
 #define BrkCardHeroMdPretitleLetterSpacing -2%
-#define BrkCardHeroMdPretitleParagraphSpacing 0
+#define BrkCardHeroMdPretitleParagraphSpacing 
 #define BrkCardHeroMdPretitleTextCase uppercase
 #define BrkCardHeroMdPretitleTextDecoration none
 #define BrkCardHeroMdImageHeight 270
@@ -306,7 +306,7 @@
 #define BrkCardHeroMdHeadingLineHeight 100%
 #define BrkCardHeroMdHeadingFontSize 25
 #define BrkCardHeroMdHeadingLetterSpacing -2%
-#define BrkCardHeroMdHeadingParagraphSpacing 0
+#define BrkCardHeroMdHeadingParagraphSpacing 
 #define BrkCardHeroMdHeadingTextCase none
 #define BrkCardHeroMdHeadingTextDecoration none
 #define BrkCardHeroMdBodyFontFamily Arial
@@ -314,7 +314,7 @@
 #define BrkCardHeroMdBodyLineHeight 85%
 #define BrkCardHeroMdBodyFontSize 14
 #define BrkCardHeroMdBodyLetterSpacing 2%
-#define BrkCardHeroMdBodyParagraphSpacing 0
+#define BrkCardHeroMdBodyParagraphSpacing 
 #define BrkCardHeroMdBodyTextCase none
 #define BrkCardHeroMdBodyTextDecoration none
 #define BrkCardHeroBorderWidth 1
@@ -334,7 +334,7 @@
 #define BrkPromoSecondarySmPretitleLineHeight 8
 #define BrkPromoSecondarySmPretitleFontSize 8
 #define BrkPromoSecondarySmPretitleLetterSpacing -2%
-#define BrkPromoSecondarySmPretitleParagraphSpacing 0
+#define BrkPromoSecondarySmPretitleParagraphSpacing 
 #define BrkPromoSecondarySmPretitleTextCase uppercase
 #define BrkPromoSecondarySmPretitleTextDecoration none
 #define BrkPromoSecondarySmHeadingFontFamily Arial
@@ -342,7 +342,7 @@
 #define BrkPromoSecondarySmHeadingLineHeight 100%
 #define BrkPromoSecondarySmHeadingFontSize 18
 #define BrkPromoSecondarySmHeadingLetterSpacing -2%
-#define BrkPromoSecondarySmHeadingParagraphSpacing 0
+#define BrkPromoSecondarySmHeadingParagraphSpacing 
 #define BrkPromoSecondarySmHeadingTextCase none
 #define BrkPromoSecondarySmHeadingTextDecoration none
 #define BrkPromoSecondarySmGradientHeight 43
@@ -357,7 +357,7 @@
 #define BrkPromoSecondaryMdPretitleLineHeight 100%
 #define BrkPromoSecondaryMdPretitleFontSize 12
 #define BrkPromoSecondaryMdPretitleLetterSpacing -2%
-#define BrkPromoSecondaryMdPretitleParagraphSpacing 0
+#define BrkPromoSecondaryMdPretitleParagraphSpacing 
 #define BrkPromoSecondaryMdPretitleTextCase uppercase
 #define BrkPromoSecondaryMdPretitleTextDecoration none
 #define BrkPromoSecondaryMdHeadingFontFamily Arial
@@ -365,7 +365,7 @@
 #define BrkPromoSecondaryMdHeadingLineHeight 100%
 #define BrkPromoSecondaryMdHeadingFontSize 30
 #define BrkPromoSecondaryMdHeadingLetterSpacing -2%
-#define BrkPromoSecondaryMdHeadingParagraphSpacing 0
+#define BrkPromoSecondaryMdHeadingParagraphSpacing 
 #define BrkPromoSecondaryMdHeadingTextCase none
 #define BrkPromoSecondaryMdHeadingTextDecoration none
 #define BrkPromoSecondaryLgImageHeight 300
@@ -379,7 +379,7 @@
 #define BrkPromoSecondaryLgPretitleLineHeight 100%
 #define BrkPromoSecondaryLgPretitleFontSize 13
 #define BrkPromoSecondaryLgPretitleLetterSpacing -2%
-#define BrkPromoSecondaryLgPretitleParagraphSpacing 0
+#define BrkPromoSecondaryLgPretitleParagraphSpacing 
 #define BrkPromoSecondaryLgPretitleTextCase uppercase
 #define BrkPromoSecondaryLgPretitleTextDecoration none
 #define BrkPromoSecondaryLgHeadingFontFamily Arial
@@ -387,7 +387,7 @@
 #define BrkPromoSecondaryLgHeadingLineHeight 100%
 #define BrkPromoSecondaryLgHeadingFontSize 36
 #define BrkPromoSecondaryLgHeadingLetterSpacing -2%
-#define BrkPromoSecondaryLgHeadingParagraphSpacing 0
+#define BrkPromoSecondaryLgHeadingParagraphSpacing 
 #define BrkPromoSecondaryLgHeadingTextCase none
 #define BrkPromoSecondaryLgHeadingTextDecoration none
 #define BrkPromoSecondaryXlImageHeight 568
@@ -401,7 +401,7 @@
 #define BrkPromoSecondaryXlPretitleLineHeight 100%
 #define BrkPromoSecondaryXlPretitleFontSize 15
 #define BrkPromoSecondaryXlPretitleLetterSpacing -2%
-#define BrkPromoSecondaryXlPretitleParagraphSpacing 0
+#define BrkPromoSecondaryXlPretitleParagraphSpacing 
 #define BrkPromoSecondaryXlPretitleTextCase uppercase
 #define BrkPromoSecondaryXlPretitleTextDecoration none
 #define BrkPromoSecondaryXlHeadingFontFamily Arial
@@ -409,7 +409,7 @@
 #define BrkPromoSecondaryXlHeadingLineHeight 100%
 #define BrkPromoSecondaryXlHeadingFontSize 40
 #define BrkPromoSecondaryXlHeadingLetterSpacing -2%
-#define BrkPromoSecondaryXlHeadingParagraphSpacing 0
+#define BrkPromoSecondaryXlHeadingParagraphSpacing 
 #define BrkPromoSecondaryXlHeadingTextCase none
 #define BrkPromoSecondaryXlHeadingTextDecoration none
 #define BrkPromoSecondaryXlContentWidth 312
@@ -425,7 +425,7 @@
 #define BrkButtonPrimarySmLabelLineHeight 85%
 #define BrkButtonPrimarySmLabelFontSize 16
 #define BrkButtonPrimarySmLabelLetterSpacing 2%
-#define BrkButtonPrimarySmLabelParagraphSpacing 0
+#define BrkButtonPrimarySmLabelParagraphSpacing 
 #define BrkButtonPrimarySmLabelTextCase uppercase
 #define BrkButtonPrimarySmLabelTextDecoration none
 #define BrkButtonPrimaryMdLabelFontFamily Arial
@@ -433,7 +433,7 @@
 #define BrkButtonPrimaryMdLabelLineHeight 85%
 #define BrkButtonPrimaryMdLabelFontSize 24
 #define BrkButtonPrimaryMdLabelLetterSpacing 2%
-#define BrkButtonPrimaryMdLabelParagraphSpacing 0
+#define BrkButtonPrimaryMdLabelParagraphSpacing 
 #define BrkButtonPrimaryMdLabelTextCase uppercase
 #define BrkButtonPrimaryMdLabelTextDecoration none
 #define BrkButtonPrimaryLgLabelFontFamily Arial
@@ -441,7 +441,7 @@
 #define BrkButtonPrimaryLgLabelLineHeight 85%
 #define BrkButtonPrimaryLgLabelFontSize 28
 #define BrkButtonPrimaryLgLabelLetterSpacing 2%
-#define BrkButtonPrimaryLgLabelParagraphSpacing 0
+#define BrkButtonPrimaryLgLabelParagraphSpacing 
 #define BrkButtonPrimaryLgLabelTextCase uppercase
 #define BrkButtonPrimaryLgLabelTextDecoration none
 #define BrkButtonPrimaryXlLabelFontFamily Arial
@@ -449,7 +449,7 @@
 #define BrkButtonPrimaryXlLabelLineHeight 85%
 #define BrkButtonPrimaryXlLabelFontSize 34
 #define BrkButtonPrimaryXlLabelLetterSpacing 2%
-#define BrkButtonPrimaryXlLabelParagraphSpacing 0
+#define BrkButtonPrimaryXlLabelParagraphSpacing 
 #define BrkButtonPrimaryXlLabelTextCase uppercase
 #define BrkButtonPrimaryXlLabelTextDecoration none
 #define BrkButtonPrimarySmHeight 30
@@ -497,7 +497,7 @@
 #define BrkButtonSecondarySmLabelLineHeight 85%
 #define BrkButtonSecondarySmLabelFontSize 11
 #define BrkButtonSecondarySmLabelLetterSpacing 2%
-#define BrkButtonSecondarySmLabelParagraphSpacing 0
+#define BrkButtonSecondarySmLabelParagraphSpacing 
 #define BrkButtonSecondarySmLabelTextCase none
 #define BrkButtonSecondarySmLabelTextDecoration none
 #define BrkButtonSecondaryMdLabelFontFamily Arial
@@ -505,7 +505,7 @@
 #define BrkButtonSecondaryMdLabelLineHeight 85%
 #define BrkButtonSecondaryMdLabelFontSize 14
 #define BrkButtonSecondaryMdLabelLetterSpacing 2%
-#define BrkButtonSecondaryMdLabelParagraphSpacing 0
+#define BrkButtonSecondaryMdLabelParagraphSpacing 
 #define BrkButtonSecondaryMdLabelTextCase none
 #define BrkButtonSecondaryMdLabelTextDecoration none
 #define BrkButtonSecondaryLgLabelFontFamily Arial
@@ -513,7 +513,7 @@
 #define BrkButtonSecondaryLgLabelLineHeight 85%
 #define BrkButtonSecondaryLgLabelFontSize 18
 #define BrkButtonSecondaryLgLabelLetterSpacing 2%
-#define BrkButtonSecondaryLgLabelParagraphSpacing 0
+#define BrkButtonSecondaryLgLabelParagraphSpacing 
 #define BrkButtonSecondaryLgLabelTextCase none
 #define BrkButtonSecondaryLgLabelTextDecoration none
 #define BrkButtonSecondaryXlLabelFontFamily Arial
@@ -521,7 +521,7 @@
 #define BrkButtonSecondaryXlLabelLineHeight 85%
 #define BrkButtonSecondaryXlLabelFontSize 20
 #define BrkButtonSecondaryXlLabelLetterSpacing 2%
-#define BrkButtonSecondaryXlLabelParagraphSpacing 0
+#define BrkButtonSecondaryXlLabelParagraphSpacing 
 #define BrkButtonSecondaryXlLabelTextCase none
 #define BrkButtonSecondaryXlLabelTextDecoration none
 #define BrkPromoSecondaryStandardHeadingFontColor #2e49d1
@@ -600,7 +600,7 @@
 #define BrkPromoPrimarySmPretitleLineHeight 10
 #define BrkPromoPrimarySmPretitleFontSize 10
 #define BrkPromoPrimarySmPretitleLetterSpacing -2%
-#define BrkPromoPrimarySmPretitleParagraphSpacing 0
+#define BrkPromoPrimarySmPretitleParagraphSpacing 
 #define BrkPromoPrimarySmPretitleTextCase uppercase
 #define BrkPromoPrimarySmPretitleTextDecoration none
 #define BrkPromoPrimarySmHeadingFontFamily Arial
@@ -608,15 +608,15 @@
 #define BrkPromoPrimarySmHeadingLineHeight 100%
 #define BrkPromoPrimarySmHeadingFontSize 26
 #define BrkPromoPrimarySmHeadingLetterSpacing -2%
-#define BrkPromoPrimarySmHeadingParagraphSpacing 0
+#define BrkPromoPrimarySmHeadingParagraphSpacing 
 #define BrkPromoPrimarySmHeadingTextCase none
 #define BrkPromoPrimarySmHeadingTextDecoration none
 #define BrkPromoPrimarySmBodyFontFamily Arial
 #define BrkPromoPrimarySmBodyFontWeight Regular
 #define BrkPromoPrimarySmBodyLineHeight 115%
 #define BrkPromoPrimarySmBodyFontSize 14
-#define BrkPromoPrimarySmBodyLetterSpacing 2%
-#define BrkPromoPrimarySmBodyParagraphSpacing 0
+#define BrkPromoPrimarySmBodyLetterSpacing 0%
+#define BrkPromoPrimarySmBodyParagraphSpacing 
 #define BrkPromoPrimarySmBodyTextCase none
 #define BrkPromoPrimarySmBodyTextDecoration none
 #define BrkPromoPrimarySmGradientHeight 43
@@ -631,7 +631,7 @@
 #define BrkPromoPrimaryMdPretitleLineHeight 12
 #define BrkPromoPrimaryMdPretitleFontSize 12
 #define BrkPromoPrimaryMdPretitleLetterSpacing -2%
-#define BrkPromoPrimaryMdPretitleParagraphSpacing 0
+#define BrkPromoPrimaryMdPretitleParagraphSpacing 
 #define BrkPromoPrimaryMdPretitleTextCase uppercase
 #define BrkPromoPrimaryMdPretitleTextDecoration none
 #define BrkPromoPrimaryMdHeadingFontFamily Arial
@@ -639,7 +639,7 @@
 #define BrkPromoPrimaryMdHeadingLineHeight 100%
 #define BrkPromoPrimaryMdHeadingFontSize 30
 #define BrkPromoPrimaryMdHeadingLetterSpacing -2%
-#define BrkPromoPrimaryMdHeadingParagraphSpacing 0
+#define BrkPromoPrimaryMdHeadingParagraphSpacing 
 #define BrkPromoPrimaryMdHeadingTextCase none
 #define BrkPromoPrimaryMdHeadingTextDecoration none
 #define BrkPromoPrimaryMdBodyFontFamily Arial
@@ -647,7 +647,7 @@
 #define BrkPromoPrimaryMdBodyLineHeight 115%
 #define BrkPromoPrimaryMdBodyFontSize 18
 #define BrkPromoPrimaryMdBodyLetterSpacing 2%
-#define BrkPromoPrimaryMdBodyParagraphSpacing 0
+#define BrkPromoPrimaryMdBodyParagraphSpacing 
 #define BrkPromoPrimaryMdBodyTextCase none
 #define BrkPromoPrimaryMdBodyTextDecoration none
 #define BrkPromoPrimaryMdGradientHeight 67.5
@@ -662,7 +662,7 @@
 #define BrkPromoPrimaryLgPretitleLineHeight 14
 #define BrkPromoPrimaryLgPretitleFontSize 14
 #define BrkPromoPrimaryLgPretitleLetterSpacing -2%
-#define BrkPromoPrimaryLgPretitleParagraphSpacing 0
+#define BrkPromoPrimaryLgPretitleParagraphSpacing 
 #define BrkPromoPrimaryLgPretitleTextCase uppercase
 #define BrkPromoPrimaryLgPretitleTextDecoration none
 #define BrkPromoPrimaryLgHeadingFontFamily Arial
@@ -670,7 +670,7 @@
 #define BrkPromoPrimaryLgHeadingLineHeight 100%
 #define BrkPromoPrimaryLgHeadingFontSize 36
 #define BrkPromoPrimaryLgHeadingLetterSpacing -2%
-#define BrkPromoPrimaryLgHeadingParagraphSpacing 0
+#define BrkPromoPrimaryLgHeadingParagraphSpacing 
 #define BrkPromoPrimaryLgHeadingTextCase none
 #define BrkPromoPrimaryLgHeadingTextDecoration none
 #define BrkPromoPrimaryLgBodyFontFamily Arial
@@ -678,7 +678,7 @@
 #define BrkPromoPrimaryLgBodyLineHeight 115%
 #define BrkPromoPrimaryLgBodyFontSize 22
 #define BrkPromoPrimaryLgBodyLetterSpacing 2%
-#define BrkPromoPrimaryLgBodyParagraphSpacing 0
+#define BrkPromoPrimaryLgBodyParagraphSpacing 
 #define BrkPromoPrimaryLgBodyTextCase none
 #define BrkPromoPrimaryLgBodyTextDecoration none
 #define BrkPromoPrimaryLgGradientHeight 75
@@ -693,7 +693,7 @@
 #define BrkPromoPrimaryXlPretitleLineHeight 110%
 #define BrkPromoPrimaryXlPretitleFontSize 14
 #define BrkPromoPrimaryXlPretitleLetterSpacing -2%
-#define BrkPromoPrimaryXlPretitleParagraphSpacing 0
+#define BrkPromoPrimaryXlPretitleParagraphSpacing 
 #define BrkPromoPrimaryXlPretitleTextCase uppercase
 #define BrkPromoPrimaryXlPretitleTextDecoration none
 #define BrkPromoPrimaryXlHeadingFontFamily Arial
@@ -701,7 +701,7 @@
 #define BrkPromoPrimaryXlHeadingLineHeight 100%
 #define BrkPromoPrimaryXlHeadingFontSize 48
 #define BrkPromoPrimaryXlHeadingLetterSpacing -2%
-#define BrkPromoPrimaryXlHeadingParagraphSpacing 0
+#define BrkPromoPrimaryXlHeadingParagraphSpacing 
 #define BrkPromoPrimaryXlHeadingTextCase none
 #define BrkPromoPrimaryXlHeadingTextDecoration none
 #define BrkPromoPrimaryXlBodyFontFamily Arial
@@ -709,7 +709,7 @@
 #define BrkPromoPrimaryXlBodyLineHeight 115%
 #define BrkPromoPrimaryXlBodyFontSize 24
 #define BrkPromoPrimaryXlBodyLetterSpacing 2%
-#define BrkPromoPrimaryXlBodyParagraphSpacing 0
+#define BrkPromoPrimaryXlBodyParagraphSpacing 
 #define BrkPromoPrimaryXlBodyTextCase none
 #define BrkPromoPrimaryXlBodyTextDecoration none
 #define BrkPromoPrimaryXlGradientHeight 142
@@ -725,7 +725,7 @@
 #define BrkTemplateSmSubheadingLineHeight 100%
 #define BrkTemplateSmSubheadingFontSize 24
 #define BrkTemplateSmSubheadingLetterSpacing -2%
-#define BrkTemplateSmSubheadingParagraphSpacing 0
+#define BrkTemplateSmSubheadingParagraphSpacing 
 #define BrkTemplateSmSubheadingTextCase none
 #define BrkTemplateSmSubheadingTextDecoration none
 #define BrkTemplateSmContentGapHorizontal 16
@@ -766,7 +766,7 @@
 #define BrkPromoTertiarySmPretitleLineHeight 100%
 #define BrkPromoTertiarySmPretitleFontSize 10
 #define BrkPromoTertiarySmPretitleLetterSpacing -2%
-#define BrkPromoTertiarySmPretitleParagraphSpacing 0
+#define BrkPromoTertiarySmPretitleParagraphSpacing 
 #define BrkPromoTertiarySmPretitleTextCase uppercase
 #define BrkPromoTertiarySmPretitleTextDecoration none
 #define BrkPromoTertiarySmHeadingFontFamily Arial
@@ -774,7 +774,7 @@
 #define BrkPromoTertiarySmHeadingLineHeight 100%
 #define BrkPromoTertiarySmHeadingFontSize 26
 #define BrkPromoTertiarySmHeadingLetterSpacing -2%
-#define BrkPromoTertiarySmHeadingParagraphSpacing 0
+#define BrkPromoTertiarySmHeadingParagraphSpacing 
 #define BrkPromoTertiarySmHeadingTextCase none
 #define BrkPromoTertiarySmHeadingTextDecoration none
 #define BrkPromoTertiarySmPaddingHorizontal 10
@@ -794,7 +794,7 @@
 #define BrkPromoTertiaryMdPretitleLineHeight 100%
 #define BrkPromoTertiaryMdPretitleFontSize 12
 #define BrkPromoTertiaryMdPretitleLetterSpacing -2%
-#define BrkPromoTertiaryMdPretitleParagraphSpacing 0
+#define BrkPromoTertiaryMdPretitleParagraphSpacing 
 #define BrkPromoTertiaryMdPretitleTextCase uppercase
 #define BrkPromoTertiaryMdPretitleTextDecoration none
 #define BrkPromoTertiaryMdHeadingFontFamily Arial
@@ -802,7 +802,7 @@
 #define BrkPromoTertiaryMdHeadingLineHeight 100%
 #define BrkPromoTertiaryMdHeadingFontSize 30
 #define BrkPromoTertiaryMdHeadingLetterSpacing -2%
-#define BrkPromoTertiaryMdHeadingParagraphSpacing 0
+#define BrkPromoTertiaryMdHeadingParagraphSpacing 
 #define BrkPromoTertiaryMdHeadingTextCase none
 #define BrkPromoTertiaryMdHeadingTextDecoration none
 #define BrkPromoTertiaryMdContentGap 8
@@ -818,7 +818,7 @@
 #define BrkPromoTertiaryLgPretitleLineHeight 100%
 #define BrkPromoTertiaryLgPretitleFontSize 12
 #define BrkPromoTertiaryLgPretitleLetterSpacing -2%
-#define BrkPromoTertiaryLgPretitleParagraphSpacing 0
+#define BrkPromoTertiaryLgPretitleParagraphSpacing 
 #define BrkPromoTertiaryLgPretitleTextCase uppercase
 #define BrkPromoTertiaryLgPretitleTextDecoration none
 #define BrkPromoTertiaryLgHeadingFontFamily Arial
@@ -826,7 +826,7 @@
 #define BrkPromoTertiaryLgHeadingLineHeight 100%
 #define BrkPromoTertiaryLgHeadingFontSize 36
 #define BrkPromoTertiaryLgHeadingLetterSpacing -2%
-#define BrkPromoTertiaryLgHeadingParagraphSpacing 0
+#define BrkPromoTertiaryLgHeadingParagraphSpacing 
 #define BrkPromoTertiaryLgHeadingTextCase none
 #define BrkPromoTertiaryLgHeadingTextDecoration none
 #define BrkPromoTertiaryLgContentGap 8
@@ -843,7 +843,7 @@
 #define BrkPromoTertiaryXlPretitleLineHeight 100%
 #define BrkPromoTertiaryXlPretitleFontSize 14
 #define BrkPromoTertiaryXlPretitleLetterSpacing -2%
-#define BrkPromoTertiaryXlPretitleParagraphSpacing 0
+#define BrkPromoTertiaryXlPretitleParagraphSpacing 
 #define BrkPromoTertiaryXlPretitleTextCase uppercase
 #define BrkPromoTertiaryXlPretitleTextDecoration none
 #define BrkPromoTertiaryXlHeadingFontFamily Arial
@@ -851,7 +851,7 @@
 #define BrkPromoTertiaryXlHeadingLineHeight 100%
 #define BrkPromoTertiaryXlHeadingFontSize 48
 #define BrkPromoTertiaryXlHeadingLetterSpacing -2%
-#define BrkPromoTertiaryXlHeadingParagraphSpacing 0
+#define BrkPromoTertiaryXlHeadingParagraphSpacing 
 #define BrkPromoTertiaryXlHeadingTextCase none
 #define BrkPromoTertiaryXlHeadingTextDecoration none
 #define BrkPromoTertiaryXlContentGap 30
