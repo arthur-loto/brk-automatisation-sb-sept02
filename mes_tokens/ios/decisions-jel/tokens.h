@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Fri, 14 Oct 2022 15:14:26 GMT
+// Generated on Fri, 14 Oct 2022 15:33:31 GMT
 
 
 #import <Foundation/Foundation.h>
@@ -139,23 +139,23 @@
 #define BrkButtonTertiarySmPaddingHorizontal 15
 #define BrkButtonTertiarySmHeight 30
 #define BrkButtonTertiarySmBorderRadius 15
-#define BrkButtonTertiarySmIconHeight 8
-#define BrkButtonTertiarySmIconGap 4
+#define BrkButtonTertiarySmIconSize 8
+#define BrkButtonTertiarySmIconGap 2
 #define BrkButtonTertiaryMdPaddingHorizontal 20
 #define BrkButtonTertiaryMdHeight 40
 #define BrkButtonTertiaryMdBorderRadius 20
-#define BrkButtonTertiaryMdIconHeight 16
-#define BrkButtonTertiaryMdIconGap 6
+#define BrkButtonTertiaryMdIconSize 10
+#define BrkButtonTertiaryMdIconGap 4
 #define BrkButtonTertiaryLgPaddingHorizontal 25
 #define BrkButtonTertiaryLgHeight 50
 #define BrkButtonTertiaryLgBorderRadius 25
-#define BrkButtonTertiaryLgIconHeight 20
-#define BrkButtonTertiaryLgIconGap 8
+#define BrkButtonTertiaryLgIconSize 12
+#define BrkButtonTertiaryLgIconGap 6
 #define BrkButtonTertiaryXlPaddingHorizontal 30
 #define BrkButtonTertiaryXlHeight 60
 #define BrkButtonTertiaryXlBorderRadius 30
-#define BrkButtonTertiaryXlIconHeight 24
-#define BrkButtonTertiaryXlIconGap 10
+#define BrkButtonTertiaryXlIconSize 14
+#define BrkButtonTertiaryXlIconGap 8
 #define BrkInteractiveStandardOutlineColorFocus #0b5db7
 #define BrkInteractiveInvertedOutlineColorFocus #24c1ff
 #define BrkInteractiveOutlineWidth 2
