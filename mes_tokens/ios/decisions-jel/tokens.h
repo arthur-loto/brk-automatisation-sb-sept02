@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Tue, 18 Oct 2022 18:25:09 GMT
+// Generated on Tue, 18 Oct 2022 18:46:41 GMT
 
 
 #import <Foundation/Foundation.h>
@@ -662,7 +662,7 @@
 #define BrkButtonPrimaryMdLabelLetterSpacing 2%
 #define BrkButtonPrimaryMdLabelParagraphSpacing 
 #define BrkButtonPrimaryMdLabelTextDecoration none
-#define BrkButtonPrimaryMdLabelTextCase uppercase
+#define BrkButtonPrimaryMdLabelTextCase none
 #define BrkButtonPrimaryLgLabelFontFamily Arial
 #define BrkButtonPrimaryLgLabelFontWeight Bold
 #define BrkButtonPrimaryLgLabelLineHeight 100%
@@ -670,7 +670,7 @@
 #define BrkButtonPrimaryLgLabelLetterSpacing 2%
 #define BrkButtonPrimaryLgLabelParagraphSpacing 
 #define BrkButtonPrimaryLgLabelTextDecoration none
-#define BrkButtonPrimaryLgLabelTextCase uppercase
+#define BrkButtonPrimaryLgLabelTextCase none
 #define BrkButtonPrimaryXlLabelFontFamily Arial
 #define BrkButtonPrimaryXlLabelFontWeight Bold
 #define BrkButtonPrimaryXlLabelLineHeight 100%
@@ -678,7 +678,7 @@
 #define BrkButtonPrimaryXlLabelLetterSpacing 2%
 #define BrkButtonPrimaryXlLabelParagraphSpacing 
 #define BrkButtonPrimaryXlLabelTextDecoration none
-#define BrkButtonPrimaryXlLabelTextCase uppercase
+#define BrkButtonPrimaryXlLabelTextCase none
 #define BrkButtonSecondarySmHeight 30
 #define BrkButtonSecondarySmBorderRadius 15
 #define BrkButtonSecondarySmPaddingHorizontal 15
@@ -702,32 +702,32 @@
 #define BrkButtonSecondarySmLabelFontFamily Arial
 #define BrkButtonSecondarySmLabelFontWeight Bold
 #define BrkButtonSecondarySmLabelLineHeight 100%
-#define BrkButtonSecondarySmLabelFontSize 11
-#define BrkButtonSecondarySmLabelLetterSpacing 0%
+#define BrkButtonSecondarySmLabelFontSize 13
+#define BrkButtonSecondarySmLabelLetterSpacing 2%
 #define BrkButtonSecondarySmLabelParagraphSpacing 
 #define BrkButtonSecondarySmLabelTextDecoration none
 #define BrkButtonSecondarySmLabelTextCase none
 #define BrkButtonSecondaryMdLabelFontFamily Arial
 #define BrkButtonSecondaryMdLabelFontWeight Bold
 #define BrkButtonSecondaryMdLabelLineHeight 100%
-#define BrkButtonSecondaryMdLabelFontSize 15
-#define BrkButtonSecondaryMdLabelLetterSpacing 0%
+#define BrkButtonSecondaryMdLabelFontSize 18
+#define BrkButtonSecondaryMdLabelLetterSpacing 2%
 #define BrkButtonSecondaryMdLabelParagraphSpacing 
 #define BrkButtonSecondaryMdLabelTextDecoration none
 #define BrkButtonSecondaryMdLabelTextCase none
 #define BrkButtonSecondaryLgLabelFontFamily Arial
 #define BrkButtonSecondaryLgLabelFontWeight Bold
 #define BrkButtonSecondaryLgLabelLineHeight 100%
-#define BrkButtonSecondaryLgLabelFontSize 18
-#define BrkButtonSecondaryLgLabelLetterSpacing 0%
+#define BrkButtonSecondaryLgLabelFontSize 22
+#define BrkButtonSecondaryLgLabelLetterSpacing 2%
 #define BrkButtonSecondaryLgLabelParagraphSpacing 
 #define BrkButtonSecondaryLgLabelTextDecoration none
 #define BrkButtonSecondaryLgLabelTextCase none
 #define BrkButtonSecondaryXlLabelFontFamily Arial
 #define BrkButtonSecondaryXlLabelFontWeight Bold
 #define BrkButtonSecondaryXlLabelLineHeight 100%
-#define BrkButtonSecondaryXlLabelFontSize 20
-#define BrkButtonSecondaryXlLabelLetterSpacing 0%
+#define BrkButtonSecondaryXlLabelFontSize 26
+#define BrkButtonSecondaryXlLabelLetterSpacing 2%
 #define BrkButtonSecondaryXlLabelParagraphSpacing 
 #define BrkButtonSecondaryXlLabelTextDecoration none
 #define BrkButtonSecondaryXlLabelTextCase none
