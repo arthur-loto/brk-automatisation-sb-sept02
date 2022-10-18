@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Tue, 18 Oct 2022 20:34:04 GMT
+// Generated on Tue, 18 Oct 2022 20:59:55 GMT
 
 
 #import <Foundation/Foundation.h>
@@ -539,9 +539,11 @@
 #define BrkPromoSecondaryInvertedBorderColor #eaedfa
 #define BrkPromoSecondaryInvertedGradientColor linear-gradient(180deg, #121d5400 0%, #121d54 100%)
 #define BrkButtonSecondaryInvertedFontColorDefault #ffffff
+#define BrkButtonSecondaryInvertedIconColorDefault #ffffff
 #define BrkButtonSecondaryInvertedBackgroundColorDefault transparent
-#define BrkButtonSecondaryInvertedBorderColorDefault #ffffff
-#define BrkButtonSecondaryInvertedFontColorHover #ffffff
+#define BrkButtonSecondaryInvertedBorderColorDefault #253aa7
+#define BrkButtonSecondaryInvertedFontColorHover #253aa7
+#define BrkButtonSecondaryInvertedIconColorHover #253aa7
 #define BrkButtonSecondaryInvertedBackgroundColorHover #2e49d1
 #define BrkButtonSecondaryInvertedBorderColorHover transparent
 #define BrkButtonSecondaryInvertedFontColorFocus #ffffff
@@ -575,14 +577,17 @@
 #define BrkButtonSecondaryStandardSmBoxShadowHover [object Object]
 #define BrkButtonSecondaryStandardSmBoxShadowFocus [object Object]
 #define BrkButtonSecondaryStandardFontColorDefault #192872
+#define BrkButtonSecondaryStandardIconColorDefault #192872
 #define BrkButtonSecondaryStandardBackgroundColorDefault transparent
-#define BrkButtonSecondaryStandardBorderColorDefault transparent
-#define BrkButtonSecondaryStandardFontColorHover #ffffff
-#define BrkButtonSecondaryStandardBackgroundColorHover #2e49d1
-#define BrkButtonSecondaryStandardBorderColorHover transparent
-#define BrkButtonSecondaryStandardFontColorFocus #ffffff
-#define BrkButtonSecondaryStandardBackgroundColorFocus #2e49d1
-#define BrkButtonSecondaryStandardBorderColorFocus transparent
+#define BrkButtonSecondaryStandardBorderColorDefault #192872
+#define BrkButtonSecondaryStandardFontColorHover #253aa7
+#define BrkButtonSecondaryStandardIconColorHover #253aa7
+#define BrkButtonSecondaryStandardBackgroundColorHover #eaedfa
+#define BrkButtonSecondaryStandardBorderColorHover #253aa7
+#define BrkButtonSecondaryStandardFontColorFocus #253aa7
+#define BrkButtonSecondaryStandardIconColorFocus #253aa7
+#define BrkButtonSecondaryStandardBackgroundColorFocus #eaedfa
+#define BrkButtonSecondaryStandardBorderColorFocus #253aa7
 #define BrkButtonSecondaryStandardMdBoxShadowDefault [object Object]
 #define BrkButtonSecondaryStandardMdBoxShadowHover [object Object]
 #define BrkButtonSecondaryStandardMdBoxShadowFocus [object Object]
