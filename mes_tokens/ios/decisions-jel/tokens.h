@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Tue, 18 Oct 2022 18:46:41 GMT
+// Generated on Tue, 18 Oct 2022 18:58:00 GMT
 
 
 #import <Foundation/Foundation.h>
@@ -66,14 +66,17 @@
 #define BrkButtonPrimaryStandardSmBoxShadowHover [object Object]
 #define BrkButtonPrimaryStandardSmBoxShadowFocus [object Object]
 #define BrkButtonPrimaryStandardFontColorDefault #000000
+#define BrkButtonPrimaryStandardIconColorDefault #000000
 #define BrkButtonPrimaryStandardBackgroundColorDefault #fdfe8b
 #define BrkButtonPrimaryStandardBorderColorDefault #000000
-#define BrkButtonPrimaryStandardFontColorHover #1a1a1a
-#define BrkButtonPrimaryStandardBackgroundColorHover #24c1ff
-#define BrkButtonPrimaryStandardBorderColorHover #0b5db7
-#define BrkButtonPrimaryStandardFontColorFocus #1a1a1a
-#define BrkButtonPrimaryStandardBackgroundColorFocus #ffffff
-#define BrkButtonPrimaryStandardBorderColorFocus #535353
+#define BrkButtonPrimaryStandardFontColorHover #000000
+#define BrkButtonPrimaryStandardIconColorHover #000000
+#define BrkButtonPrimaryStandardBackgroundColorHover #fdfe8b
+#define BrkButtonPrimaryStandardBorderColorHover #000000
+#define BrkButtonPrimaryStandardFontColorFocus #000000
+#define BrkButtonPrimaryStandardIconColorFocus #000000
+#define BrkButtonPrimaryStandardBackgroundColorFocus #fdfe8b
+#define BrkButtonPrimaryStandardBorderColorFocus #000000
 #define BrkButtonPrimaryStandardMdBoxShadowDefault [object Object]
 #define BrkButtonPrimaryStandardMdBoxShadowHover [object Object]
 #define BrkButtonPrimaryStandardMdBoxShadowFocus [object Object]
