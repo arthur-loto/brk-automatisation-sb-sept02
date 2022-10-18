@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Tue, 18 Oct 2022 20:34:04 GMT
+ * Generated on Tue, 18 Oct 2022 20:59:55 GMT
  */
 
 :root {
@@ -98,12 +98,14 @@
   --brk-button-secondary-inverted-background-color-default: transparent;
   --brk-button-secondary-inverted-background-color-focus: #2e49d1;
   --brk-button-secondary-inverted-background-color-hover: #2e49d1;
-  --brk-button-secondary-inverted-border-color-default: #ffffff;
+  --brk-button-secondary-inverted-border-color-default: #253aa7;
   --brk-button-secondary-inverted-border-color-focus: transparent;
   --brk-button-secondary-inverted-border-color-hover: transparent;
   --brk-button-secondary-inverted-font-color-default: #ffffff;
   --brk-button-secondary-inverted-font-color-focus: #ffffff;
-  --brk-button-secondary-inverted-font-color-hover: #ffffff;
+  --brk-button-secondary-inverted-font-color-hover: #253aa7;
+  --brk-button-secondary-inverted-icon-color-default: #ffffff;
+  --brk-button-secondary-inverted-icon-color-hover: #253aa7;
   --brk-button-secondary-inverted-md-box-shadow-default: 0px 0px 0px 0px #000000;
   --brk-button-secondary-inverted-md-box-shadow-focus: 0px 0px 0px 0px #000000;
   --brk-button-secondary-inverted-md-box-shadow-hover: 0px 0px 0px 0px #000000;
@@ -150,14 +152,17 @@
   --brk-button-secondary-sm-label-text-decoration: none;
   --brk-button-secondary-sm-padding-horizontal: 15px;
   --brk-button-secondary-standard-background-color-default: transparent;
-  --brk-button-secondary-standard-background-color-focus: #2e49d1;
-  --brk-button-secondary-standard-background-color-hover: #2e49d1;
-  --brk-button-secondary-standard-border-color-default: transparent;
-  --brk-button-secondary-standard-border-color-focus: transparent;
-  --brk-button-secondary-standard-border-color-hover: transparent;
+  --brk-button-secondary-standard-background-color-focus: #eaedfa;
+  --brk-button-secondary-standard-background-color-hover: #eaedfa;
+  --brk-button-secondary-standard-border-color-default: #192872;
+  --brk-button-secondary-standard-border-color-focus: #253aa7;
+  --brk-button-secondary-standard-border-color-hover: #253aa7;
   --brk-button-secondary-standard-font-color-default: #192872;
-  --brk-button-secondary-standard-font-color-focus: #ffffff;
-  --brk-button-secondary-standard-font-color-hover: #ffffff;
+  --brk-button-secondary-standard-font-color-focus: #253aa7;
+  --brk-button-secondary-standard-font-color-hover: #253aa7;
+  --brk-button-secondary-standard-icon-color-default: #192872;
+  --brk-button-secondary-standard-icon-color-focus: #253aa7;
+  --brk-button-secondary-standard-icon-color-hover: #253aa7;
   --brk-button-secondary-standard-md-box-shadow-default: 0px 0px 0px 0px #000000;
   --brk-button-secondary-standard-md-box-shadow-focus: 0px 0px 0px 0px #000000;
   --brk-button-secondary-standard-md-box-shadow-hover: 0px 0px 0px 0px #000000;
