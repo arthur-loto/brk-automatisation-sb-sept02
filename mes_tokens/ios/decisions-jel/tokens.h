@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Tue, 18 Oct 2022 18:06:50 GMT
+// Generated on Tue, 18 Oct 2022 18:25:09 GMT
 
 
 #import <Foundation/Foundation.h>
@@ -29,6 +29,24 @@
 #define BrkButtonTertiaryStandardIconFillFocus #1a1a1a
 #define BrkButtonTertiaryStandardBackgroundColorFocus #ffffff
 #define BrkButtonTertiaryStandardBorderColorFocus #535353
+#define BrkButtonSecondaryStandardFontColorDefault #000000
+#define BrkButtonSecondaryStandardIconFillDefault #000000
+#define BrkButtonSecondaryStandardSmBoxShadowDefault [object Object]
+#define BrkButtonSecondaryStandardSmBoxShadowHover [object Object]
+#define BrkButtonSecondaryStandardSmBoxShadowFocus [object Object]
+#define BrkButtonSecondaryStandardBackgroundColorDefault #ffffff
+#define BrkButtonSecondaryStandardBorderColorDefault #000000
+#define BrkButtonSecondaryStandardFontColorHover #000000
+#define BrkButtonSecondaryStandardIconColorHover #000000
+#define BrkButtonSecondaryStandardBackgroundColorHover #ffffff
+#define BrkButtonSecondaryStandardBorderColorHover #000000
+#define BrkButtonSecondaryStandardFontColorFocus #000000
+#define BrkButtonSecondaryStandardIconColorFocus #000000
+#define BrkButtonSecondaryStandardBackgroundColorFocus #ffffff
+#define BrkButtonSecondaryStandardBorderColorFocus #000000
+#define BrkButtonSecondaryStandardMdBoxShadowDefault [object Object]
+#define BrkButtonSecondaryStandardMdBoxShadowHover [object Object]
+#define BrkButtonSecondaryStandardMdBoxShadowFocus [object Object]
 #define BrkButtonTertiaryInvertedBoxShadowDefault [object Object]
 #define BrkButtonTertiaryInvertedBoxShadowHover [object Object]
 #define BrkButtonTertiaryInvertedBoxShadowFocus [object Object]
@@ -74,31 +92,19 @@
 #define BrkButtonPrimaryInvertedMdBoxShadowDefault [object Object]
 #define BrkButtonPrimaryInvertedMdBoxShadowHover [object Object]
 #define BrkButtonPrimaryInvertedMdBoxShadowFocus [object Object]
-#define BrkButtonSecondaryStandardSmBoxShadowDefault [object Object]
-#define BrkButtonSecondaryStandardSmBoxShadowHover [object Object]
-#define BrkButtonSecondaryStandardSmBoxShadowFocus [object Object]
-#define BrkButtonSecondaryStandardFontColorDefault #000000
-#define BrkButtonSecondaryStandardBackgroundColorDefault #ffffff
-#define BrkButtonSecondaryStandardBorderColorDefault #000000
-#define BrkButtonSecondaryStandardFontColorHover #000000
-#define BrkButtonSecondaryStandardBackgroundColorHover #ffffff
-#define BrkButtonSecondaryStandardBorderColorHover #000000
-#define BrkButtonSecondaryStandardFontColorFocus #000000
-#define BrkButtonSecondaryStandardBackgroundColorFocus #ffffff
-#define BrkButtonSecondaryStandardBorderColorFocus #000000
-#define BrkButtonSecondaryStandardMdBoxShadowDefault [object Object]
-#define BrkButtonSecondaryStandardMdBoxShadowHover [object Object]
-#define BrkButtonSecondaryStandardMdBoxShadowFocus [object Object]
 #define BrkButtonSecondaryInvertedSmBoxShadowDefault [object Object]
 #define BrkButtonSecondaryInvertedSmBoxShadowHover [object Object]
 #define BrkButtonSecondaryInvertedSmBoxShadowFocus [object Object]
 #define BrkButtonSecondaryInvertedFontColorDefault #ffffff
+#define BrkButtonSecondaryInvertedIconColorDefault #ffffff
 #define BrkButtonSecondaryInvertedBackgroundColorDefault #000000
 #define BrkButtonSecondaryInvertedBorderColorDefault #ffffff
 #define BrkButtonSecondaryInvertedFontColorHover #ffffff
+#define BrkButtonSecondaryInvertedIconColorHover #ffffff
 #define BrkButtonSecondaryInvertedBackgroundColorHover #000000
 #define BrkButtonSecondaryInvertedBorderColorHover #ffffff
 #define BrkButtonSecondaryInvertedFontColorFocus #ffffff
+#define BrkButtonSecondaryInvertedIconColorFocus #ffffff
 #define BrkButtonSecondaryInvertedBackgroundColorFocus #000000
 #define BrkButtonSecondaryInvertedBorderColorFocus #ffffff
 #define BrkButtonSecondaryInvertedMdBoxShadowDefault [object Object]
@@ -676,23 +682,23 @@
 #define BrkButtonSecondarySmHeight 30
 #define BrkButtonSecondarySmBorderRadius 15
 #define BrkButtonSecondarySmPaddingHorizontal 15
-#define BrkButtonSecondarySmIconHeight 12
-#define BrkButtonSecondarySmIconGap 4
+#define BrkButtonSecondarySmIconSize 8
+#define BrkButtonSecondarySmIconGap 2
 #define BrkButtonSecondaryMdHeight 40
 #define BrkButtonSecondaryMdBorderRadius 20
 #define BrkButtonSecondaryMdPaddingHorizontal 20
-#define BrkButtonSecondaryMdIconHeight 16
-#define BrkButtonSecondaryMdIconGap 6
+#define BrkButtonSecondaryMdIconSize 10
+#define BrkButtonSecondaryMdIconGap 4
 #define BrkButtonSecondaryLgHeight 50
 #define BrkButtonSecondaryLgBorderRadius 25
 #define BrkButtonSecondaryLgPaddingHorizontal 25
-#define BrkButtonSecondaryLgIconHeight 20
-#define BrkButtonSecondaryLgIconGap 8
+#define BrkButtonSecondaryLgIconSize 12
+#define BrkButtonSecondaryLgIconGap 6
 #define BrkButtonSecondaryXlHeight 60
 #define BrkButtonSecondaryXlBorderRadius 30
 #define BrkButtonSecondaryXlPaddingHorizontal 30
-#define BrkButtonSecondaryXlIconHeight 24
-#define BrkButtonSecondaryXlIconGap 10
+#define BrkButtonSecondaryXlIconSize 14
+#define BrkButtonSecondaryXlIconGap 8
 #define BrkButtonSecondarySmLabelFontFamily Arial
 #define BrkButtonSecondarySmLabelFontWeight Bold
 #define BrkButtonSecondarySmLabelLineHeight 100%
