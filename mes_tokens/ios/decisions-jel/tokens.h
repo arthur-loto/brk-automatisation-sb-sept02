@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Tue, 18 Oct 2022 13:56:55 GMT
+// Generated on Tue, 18 Oct 2022 18:06:50 GMT
 
 
 #import <Foundation/Foundation.h>
@@ -96,10 +96,10 @@
 #define BrkButtonSecondaryInvertedBackgroundColorDefault #000000
 #define BrkButtonSecondaryInvertedBorderColorDefault #ffffff
 #define BrkButtonSecondaryInvertedFontColorHover #ffffff
-#define BrkButtonSecondaryInvertedBackgroundColorHover #0b5db7
+#define BrkButtonSecondaryInvertedBackgroundColorHover #000000
 #define BrkButtonSecondaryInvertedBorderColorHover #ffffff
 #define BrkButtonSecondaryInvertedFontColorFocus #ffffff
-#define BrkButtonSecondaryInvertedBackgroundColorFocus #1a1a1a
+#define BrkButtonSecondaryInvertedBackgroundColorFocus #000000
 #define BrkButtonSecondaryInvertedBorderColorFocus #ffffff
 #define BrkButtonSecondaryInvertedMdBoxShadowDefault [object Object]
 #define BrkButtonSecondaryInvertedMdBoxShadowHover [object Object]
