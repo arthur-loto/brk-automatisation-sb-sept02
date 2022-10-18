@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Tue, 18 Oct 2022 18:46:41 GMT
+ * Generated on Tue, 18 Oct 2022 18:58:00 GMT
  */
 
 :root {
@@ -64,14 +64,17 @@
   --brk-button-primary-sm-label-text-decoration: none;
   --brk-button-primary-sm-padding-horizontal: 15px;
   --brk-button-primary-standard-background-color-default: #fdfe8b;
-  --brk-button-primary-standard-background-color-focus: #ffffff;
-  --brk-button-primary-standard-background-color-hover: #24c1ff;
+  --brk-button-primary-standard-background-color-focus: #fdfe8b;
+  --brk-button-primary-standard-background-color-hover: #fdfe8b;
   --brk-button-primary-standard-border-color-default: #000000;
-  --brk-button-primary-standard-border-color-focus: #535353;
-  --brk-button-primary-standard-border-color-hover: #0b5db7;
+  --brk-button-primary-standard-border-color-focus: #000000;
+  --brk-button-primary-standard-border-color-hover: #000000;
   --brk-button-primary-standard-font-color-default: #000000;
-  --brk-button-primary-standard-font-color-focus: #1a1a1a;
-  --brk-button-primary-standard-font-color-hover: #1a1a1a;
+  --brk-button-primary-standard-font-color-focus: #000000;
+  --brk-button-primary-standard-font-color-hover: #000000;
+  --brk-button-primary-standard-icon-color-default: #000000;
+  --brk-button-primary-standard-icon-color-focus: #000000;
+  --brk-button-primary-standard-icon-color-hover: #000000;
   --brk-button-primary-standard-md-box-shadow-default: 2px 2px 0px 0px #000000;
   --brk-button-primary-standard-md-box-shadow-focus: 0px 0px 0px 0px #000000;
   --brk-button-primary-standard-md-box-shadow-hover: 0px 0px 0px 0px #000000;
