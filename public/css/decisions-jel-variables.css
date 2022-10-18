@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Tue, 18 Oct 2022 18:06:50 GMT
+ * Generated on Tue, 18 Oct 2022 18:25:08 GMT
  */
 
 :root {
@@ -101,6 +101,9 @@
   --brk-button-secondary-inverted-font-color-default: #ffffff;
   --brk-button-secondary-inverted-font-color-focus: #ffffff;
   --brk-button-secondary-inverted-font-color-hover: #ffffff;
+  --brk-button-secondary-inverted-icon-color-default: #ffffff;
+  --brk-button-secondary-inverted-icon-color-focus: #ffffff;
+  --brk-button-secondary-inverted-icon-color-hover: #ffffff;
   --brk-button-secondary-inverted-md-box-shadow-default: 3px 3px 0px 0px #ffffff;
   --brk-button-secondary-inverted-md-box-shadow-focus: 0px 0px 0px 0px #000000;
   --brk-button-secondary-inverted-md-box-shadow-hover: 0px 0px 0px 0px #000000;
@@ -109,8 +112,8 @@
   --brk-button-secondary-inverted-sm-box-shadow-hover: 0px 0px 0px 0px #000000;
   --brk-button-secondary-lg-border-radius: 25px;
   --brk-button-secondary-lg-height: 50px;
-  --brk-button-secondary-lg-icon-gap: 8px;
-  --brk-button-secondary-lg-icon-height: 20px;
+  --brk-button-secondary-lg-icon-gap: 6px;
+  --brk-button-secondary-lg-icon-size: 12px;
   --brk-button-secondary-lg-label-font-family: Arial;
   --brk-button-secondary-lg-label-font-size: 18px;
   --brk-button-secondary-lg-label-font-weight: Bold;
@@ -122,8 +125,8 @@
   --brk-button-secondary-lg-padding-horizontal: 25px;
   --brk-button-secondary-md-border-radius: 20px;
   --brk-button-secondary-md-height: 40px;
-  --brk-button-secondary-md-icon-gap: 6px;
-  --brk-button-secondary-md-icon-height: 16px;
+  --brk-button-secondary-md-icon-gap: 4px;
+  --brk-button-secondary-md-icon-size: 10px;
   --brk-button-secondary-md-label-font-family: Arial;
   --brk-button-secondary-md-label-font-size: 15px;
   --brk-button-secondary-md-label-font-weight: Bold;
@@ -135,8 +138,8 @@
   --brk-button-secondary-md-padding-horizontal: 20px;
   --brk-button-secondary-sm-border-radius: 15px;
   --brk-button-secondary-sm-height: 30px;
-  --brk-button-secondary-sm-icon-gap: 4px;
-  --brk-button-secondary-sm-icon-height: 12px;
+  --brk-button-secondary-sm-icon-gap: 2px;
+  --brk-button-secondary-sm-icon-size: 8px;
   --brk-button-secondary-sm-label-font-family: Arial;
   --brk-button-secondary-sm-label-font-size: 11px;
   --brk-button-secondary-sm-label-font-weight: Bold;
@@ -155,6 +158,9 @@
   --brk-button-secondary-standard-font-color-default: #000000;
   --brk-button-secondary-standard-font-color-focus: #000000;
   --brk-button-secondary-standard-font-color-hover: #000000;
+  --brk-button-secondary-standard-icon-color-focus: #000000;
+  --brk-button-secondary-standard-icon-color-hover: #000000;
+  --brk-button-secondary-standard-icon-fill-default: #000000;
   --brk-button-secondary-standard-md-box-shadow-default: 3px 3px 0px 0px #000000;
   --brk-button-secondary-standard-md-box-shadow-focus: 0px 0px 0px 0px #000000;
   --brk-button-secondary-standard-md-box-shadow-hover: 0px 0px 0px 0px #000000;
@@ -163,8 +169,8 @@
   --brk-button-secondary-standard-sm-box-shadow-hover: 0px 0px 0px 0px #000000;
   --brk-button-secondary-xl-border-radius: 30px;
   --brk-button-secondary-xl-height: 60px;
-  --brk-button-secondary-xl-icon-gap: 10px;
-  --brk-button-secondary-xl-icon-height: 24px;
+  --brk-button-secondary-xl-icon-gap: 8px;
+  --brk-button-secondary-xl-icon-size: 14px;
   --brk-button-secondary-xl-label-font-family: Arial;
   --brk-button-secondary-xl-label-font-size: 20px;
   --brk-button-secondary-xl-label-font-weight: Bold;
