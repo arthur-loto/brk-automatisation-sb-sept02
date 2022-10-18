@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Tue, 18 Oct 2022 20:26:11 GMT
+// Generated on Tue, 18 Oct 2022 20:34:04 GMT
 
 
 #import <Foundation/Foundation.h>
@@ -37,9 +37,9 @@
 #define BrkButtonTertiaryInvertedBoxShadowDefault [object Object]
 #define BrkButtonTertiaryInvertedBoxShadowHover [object Object]
 #define BrkButtonTertiaryInvertedBoxShadowFocus [object Object]
-#define BrkButtonTertiaryInvertedFontColorDefault #ffffff
-#define BrkButtonTertiaryInvertedIconFillDefault #ffffff
-#define BrkButtonTertiaryInvertedBackgroundColorDefault #203392
+#define BrkButtonTertiaryInvertedFontColorDefault #192872
+#define BrkButtonTertiaryInvertedIconFillDefault #192872
+#define BrkButtonTertiaryInvertedBackgroundColorDefault #ffffff
 #define BrkButtonTertiaryInvertedBorderColorDefault transparent
 #define BrkButtonTertiaryInvertedFontColorHover #ffffff
 #define BrkButtonTertiaryInvertedIconFillHover #ffffff
@@ -553,9 +553,9 @@
 #define BrkButtonSecondaryInvertedMdBoxShadowDefault [object Object]
 #define BrkButtonSecondaryInvertedMdBoxShadowHover [object Object]
 #define BrkButtonSecondaryInvertedMdBoxShadowFocus [object Object]
-#define BrkButtonPrimaryInvertedFontColorDefault #ffffff
-#define BrkButtonPrimaryInvertedIconColorDefault #ffffff
-#define BrkButtonPrimaryInvertedBackgroundColorDefault #192872
+#define BrkButtonPrimaryInvertedFontColorDefault #192872
+#define BrkButtonPrimaryInvertedIconColorDefault #192872
+#define BrkButtonPrimaryInvertedBackgroundColorDefault #ffffff
 #define BrkButtonPrimaryInvertedBorderColorDefault transparent
 #define BrkButtonPrimaryInvertedFontColorHover #ffffff
 #define BrkButtonPrimaryInvertedIconColorHover #ffffff
