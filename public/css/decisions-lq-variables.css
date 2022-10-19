@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Wed, 19 Oct 2022 14:59:49 GMT
+ * Generated on Wed, 19 Oct 2022 17:30:21 GMT
  */
 
 :root {
@@ -748,13 +748,13 @@
   --brk-promo-secondary-xl-pretitle-text-decoration: none;
   --brk-promo-tertiary-border-width: 1px;
   --brk-promo-tertiary-frame-border-radius: 4px;
-  --brk-promo-tertiary-inverted-background-color: #121d54;
-  --brk-promo-tertiary-inverted-body-font-color: #192872;
+  --brk-promo-tertiary-inverted-background-color: #ffffff;
+  --brk-promo-tertiary-inverted-body-font-color: #ffffff;
   --brk-promo-tertiary-inverted-border-color: #eaedfa;
-  --brk-promo-tertiary-inverted-frame-color: #ffffff;
+  --brk-promo-tertiary-inverted-frame-color: #192872;
   --brk-promo-tertiary-inverted-gradient-color: linear-gradient(180deg, #ffffff00 0%, #ffffff 100%);
-  --brk-promo-tertiary-inverted-heading-font-color: #2e49d1;
-  --brk-promo-tertiary-inverted-pretitle-font-color: #192872;
+  --brk-promo-tertiary-inverted-heading-font-color: #ffffff;
+  --brk-promo-tertiary-inverted-pretitle-font-color: #a6ecff;
   --brk-promo-tertiary-lg-content-gap: 8px;
   --brk-promo-tertiary-lg-frame-padding-horizontal: 20px;
   --brk-promo-tertiary-lg-frame-padding-vertical: 20px;
@@ -828,13 +828,13 @@
   --brk-promo-tertiary-sm-pretitle-paragraph-spacing: ;
   --brk-promo-tertiary-sm-pretitle-text-case: uppercase;
   --brk-promo-tertiary-sm-pretitle-text-decoration: none;
-  --brk-promo-tertiary-standard-background-color: #ffffff;
-  --brk-promo-tertiary-standard-body-font-color: #ffffff;
+  --brk-promo-tertiary-standard-background-color: #121d54;
+  --brk-promo-tertiary-standard-body-font-color: #192872;
   --brk-promo-tertiary-standard-border-color: #eaedfa;
-  --brk-promo-tertiary-standard-frame-color: #192872;
+  --brk-promo-tertiary-standard-frame-color: #ffffff;
   --brk-promo-tertiary-standard-gradient-color: linear-gradient(180deg, #121d5400 0%, #121d54 100%);
-  --brk-promo-tertiary-standard-heading-font-color: #ffffff;
-  --brk-promo-tertiary-standard-pretitle-font-color: #a6ecff;
+  --brk-promo-tertiary-standard-heading-font-color: #2e49d1;
+  --brk-promo-tertiary-standard-pretitle-font-color: #192872;
   --brk-promo-tertiary-xl-content-gap: 30px;
   --brk-promo-tertiary-xl-frame-max-width: 470px;
   --brk-promo-tertiary-xl-frame-padding-horizontal: 10px;
