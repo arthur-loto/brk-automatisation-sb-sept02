@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Wed, 19 Oct 2022 13:03:29 GMT
+// Generated on Wed, 19 Oct 2022 13:45:21 GMT
 
 
 #import <Foundation/Foundation.h>
@@ -45,7 +45,7 @@
 #define BrkButtonTertiaryInvertedBackgroundColorFocus #c9ff00
 #define BrkButtonTertiaryInvertedBorderColorFocus transparent
 #define BrkButtonPrimaryBorderWidth 0
-#define BrkButtonSecondaryBorderWidth 0
+#define BrkButtonSecondaryBorderWidth 2
 #define BrkButtonTertiaryBorderWidth 0
 #define BrkButtonOpacityDisabled 50%
 #define BrkinteractiveOutlineWidth 2
@@ -432,50 +432,50 @@
 #define BrkButtonSecondaryXlIconGap 10
 #define BrkButtonSecondaryStandardFontColorDefault #000000
 #define BrkButtonSecondaryStandardIconFillDefault #000000
-#define BrkButtonSecondaryStandardBackgroundColorDefault #ffffff
-#define BrkButtonSecondaryStandardBorderColorDefault transparent
+#define BrkButtonSecondaryStandardBackgroundColorDefault transparent
+#define BrkButtonSecondaryStandardBorderColorDefault #000000
 #define BrkButtonSecondaryStandardFontColorHover #000000
 #define BrkButtonSecondaryStandardIconFillHover #000000
-#define BrkButtonSecondaryStandardBackgroundColorHover #c9ff00
-#define BrkButtonSecondaryStandardBorderColorHover transparent
+#define BrkButtonSecondaryStandardBackgroundColorHover #ffffff
+#define BrkButtonSecondaryStandardBorderColorHover #000000
 #define BrkButtonSecondaryStandardFontColorFocus #000000
 #define BrkButtonSecondaryStandardIconFillFocus #000000
-#define BrkButtonSecondaryStandardBackgroundColorFocus #c9ff00
-#define BrkButtonSecondaryStandardBorderColorFocus transparent
-#define BrkButtonSecondaryInvertedFontColorDefault #000000
-#define BrkButtonSecondaryInvertedIconFillDefault #000000
-#define BrkButtonSecondaryInvertedBackgroundColorDefault #ffffff
-#define BrkButtonSecondaryInvertedBorderColorDefault transparent
+#define BrkButtonSecondaryStandardBackgroundColorFocus #ffffff
+#define BrkButtonSecondaryStandardBorderColorFocus #000000
+#define BrkButtonSecondaryInvertedFontColorDefault #c9ff00
+#define BrkButtonSecondaryInvertedIconFillDefault #c9ff00
+#define BrkButtonSecondaryInvertedBackgroundColorDefault transparent
+#define BrkButtonSecondaryInvertedBorderColorDefault #c9ff00
 #define BrkButtonSecondaryInvertedFontColorHover #000000
 #define BrkButtonSecondaryInvertedIconFillHover #000000
-#define BrkButtonSecondaryInvertedBackgroundColorHover #c9ff00
-#define BrkButtonSecondaryInvertedBorderColorHover transparent
+#define BrkButtonSecondaryInvertedBackgroundColorHover #ffffff
+#define BrkButtonSecondaryInvertedBorderColorHover #000000
 #define BrkButtonSecondaryInvertedFontColorFocus #000000
 #define BrkButtonSecondaryInvertedIconFillFocus #000000
-#define BrkButtonSecondaryInvertedBackgroundColorFocus #c9ff00
-#define BrkButtonSecondaryInvertedBorderColorFocus transparent
-#define BrkButtonPrimaryStandardFontColorDefault #000000
-#define BrkButtonPrimaryStandardIconFillDefault #000000
-#define BrkButtonPrimaryStandardBackgroundColorDefault #ffffff
+#define BrkButtonSecondaryInvertedBackgroundColorFocus #ffffff
+#define BrkButtonSecondaryInvertedBorderColorFocus #000000
+#define BrkButtonPrimaryStandardFontColorDefault #c9ff00
+#define BrkButtonPrimaryStandardIconFillDefault #ffffff
+#define BrkButtonPrimaryStandardBackgroundColorDefault #000000
 #define BrkButtonPrimaryStandardBorderColorDefault transparent
 #define BrkButtonPrimaryStandardFontColorHover #000000
 #define BrkButtonPrimaryStandardIconFillHover #000000
-#define BrkButtonPrimaryStandardBackgroundColorHover #c9ff00
+#define BrkButtonPrimaryStandardBackgroundColorHover #ffffff
 #define BrkButtonPrimaryStandardBorderColorHover transparent
 #define BrkButtonPrimaryStandardFontColorFocus #000000
 #define BrkButtonPrimaryStandardIconFillFocus #000000
-#define BrkButtonPrimaryStandardBackgroundColorFocus #c9ff00
+#define BrkButtonPrimaryStandardBackgroundColorFocus #ffffff
 #define BrkButtonPrimaryStandardBorderColorFocus transparent
 #define BrkButtonPrimaryInvertedFontColorDefault #000000
 #define BrkButtonPrimaryInvertedIconFillDefault #000000
-#define BrkButtonPrimaryInvertedBackgroundColorDefault #ffffff
+#define BrkButtonPrimaryInvertedBackgroundColorDefault #e41f1f
 #define BrkButtonPrimaryInvertedBorderColorDefault transparent
 #define BrkButtonPrimaryInvertedFontColorHover #000000
 #define BrkButtonPrimaryInvertedIconFillHover #000000
-#define BrkButtonPrimaryInvertedBackgroundColorHover #c9ff00
+#define BrkButtonPrimaryInvertedBackgroundColorHover #ffffff
 #define BrkButtonPrimaryInvertedBorderColorHover transparent
 #define BrkButtonPrimaryInvertedFontColorFocus #000000
 #define BrkButtonPrimaryInvertedIconFillFocus #000000
-#define BrkButtonPrimaryInvertedBackgroundColorFocus #c9ff00
+#define BrkButtonPrimaryInvertedBackgroundColorFocus #ffffff
 #define BrkButtonPrimaryInvertedBorderColorFocus transparent
 
