@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Tue, 18 Oct 2022 20:59:55 GMT
+// Generated on Wed, 19 Oct 2022 12:14:50 GMT
 
 
 #import <Foundation/Foundation.h>
@@ -541,14 +541,15 @@
 #define BrkButtonSecondaryInvertedFontColorDefault #ffffff
 #define BrkButtonSecondaryInvertedIconColorDefault #ffffff
 #define BrkButtonSecondaryInvertedBackgroundColorDefault transparent
-#define BrkButtonSecondaryInvertedBorderColorDefault #253aa7
+#define BrkButtonSecondaryInvertedBorderColorDefault #ffffff
 #define BrkButtonSecondaryInvertedFontColorHover #253aa7
 #define BrkButtonSecondaryInvertedIconColorHover #253aa7
-#define BrkButtonSecondaryInvertedBackgroundColorHover #2e49d1
-#define BrkButtonSecondaryInvertedBorderColorHover transparent
-#define BrkButtonSecondaryInvertedFontColorFocus #ffffff
-#define BrkButtonSecondaryInvertedBackgroundColorFocus #2e49d1
-#define BrkButtonSecondaryInvertedBorderColorFocus transparent
+#define BrkButtonSecondaryInvertedBackgroundColorHover #eaedfa
+#define BrkButtonSecondaryInvertedBorderColorHover #253aa7
+#define BrkButtonSecondaryInvertedFontColorFocus #253aa7
+#define BrkButtonSecondaryInvertedIconColorFocus #253aa7
+#define BrkButtonSecondaryInvertedBackgroundColorFocus #eaedfa
+#define BrkButtonSecondaryInvertedBorderColorFocus #253aa7
 #define BrkButtonSecondaryInvertedSmBoxShadowDefault [object Object]
 #define BrkButtonSecondaryInvertedSmBoxShadowHover [object Object]
 #define BrkButtonSecondaryInvertedSmBoxShadowFocus [object Object]
