@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Wed, 19 Oct 2022 14:59:49 GMT
+// Generated on Wed, 19 Oct 2022 17:30:21 GMT
 
 
 #import <Foundation/Foundation.h>
@@ -768,20 +768,20 @@
 #define BrkPromoPrimaryStandardBorderColor #eaedfa
 #define BrkPromoPrimaryStandardGradientColor linear-gradient(180deg, #ffffff00 0%, #ffffff 100%)
 #define BrkPageStandardSubheadingFontColor #121d54
-#define BrkPromoTertiaryInvertedHeadingFontColor #2e49d1
-#define BrkPromoTertiaryInvertedPretitleFontColor #192872
-#define BrkPromoTertiaryInvertedBodyFontColor #192872
-#define BrkPromoTertiaryInvertedBackgroundColor #121d54
-#define BrkPromoTertiaryInvertedBorderColor #eaedfa
-#define BrkPromoTertiaryInvertedGradientColor linear-gradient(180deg, #ffffff00 0%, #ffffff 100%)
-#define BrkPromoTertiaryInvertedFrameColor #ffffff
-#define BrkPromoTertiaryStandardHeadingFontColor #ffffff
-#define BrkPromoTertiaryStandardPretitleFontColor #a6ecff
-#define BrkPromoTertiaryStandardBodyFontColor #ffffff
-#define BrkPromoTertiaryStandardBackgroundColor #ffffff
+#define BrkPromoTertiaryStandardHeadingFontColor #2e49d1
+#define BrkPromoTertiaryStandardPretitleFontColor #192872
+#define BrkPromoTertiaryStandardBodyFontColor #192872
+#define BrkPromoTertiaryStandardBackgroundColor #121d54
 #define BrkPromoTertiaryStandardBorderColor #eaedfa
 #define BrkPromoTertiaryStandardGradientColor linear-gradient(180deg, #121d5400 0%, #121d54 100%)
-#define BrkPromoTertiaryStandardFrameColor #192872
+#define BrkPromoTertiaryStandardFrameColor #ffffff
+#define BrkPromoTertiaryInvertedHeadingFontColor #ffffff
+#define BrkPromoTertiaryInvertedPretitleFontColor #a6ecff
+#define BrkPromoTertiaryInvertedBodyFontColor #ffffff
+#define BrkPromoTertiaryInvertedBackgroundColor #ffffff
+#define BrkPromoTertiaryInvertedBorderColor #eaedfa
+#define BrkPromoTertiaryInvertedGradientColor linear-gradient(180deg, #ffffff00 0%, #ffffff 100%)
+#define BrkPromoTertiaryInvertedFrameColor #192872
 #define BrkPromoTertiarySmPretitleFontFamily Graphik
 #define BrkPromoTertiarySmPretitleFontWeight Bold
 #define BrkPromoTertiarySmPretitleLineHeight 100%
