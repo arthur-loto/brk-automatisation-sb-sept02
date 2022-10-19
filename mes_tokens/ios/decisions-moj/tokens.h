@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Wed, 19 Oct 2022 13:45:21 GMT
+// Generated on Wed, 19 Oct 2022 13:49:49 GMT
 
 
 #import <Foundation/Foundation.h>
@@ -29,6 +29,9 @@
 #define BrkButtonTertiaryStandardIconFillFocus #000000
 #define BrkButtonTertiaryStandardBackgroundColorFocus #c9ff00
 #define BrkButtonTertiaryStandardBorderColorFocus transparent
+#define BrkButtonTertiaryStandardMdBoxShadowDefault [object Object]
+#define BrkButtonTertiaryStandardMdBoxShadowHover [object Object]
+#define BrkButtonTertiaryStandardMdBoxShadowFocus [object Object]
 #define BrkButtonTertiaryInvertedSmBoxShadowDefault [object Object]
 #define BrkButtonTertiaryInvertedSmBoxShadowHover [object Object]
 #define BrkButtonTertiaryInvertedSmBoxShadowFocus [object Object]
@@ -44,6 +47,9 @@
 #define BrkButtonTertiaryInvertedIconFillFocus #000000
 #define BrkButtonTertiaryInvertedBackgroundColorFocus #c9ff00
 #define BrkButtonTertiaryInvertedBorderColorFocus transparent
+#define BrkButtonTertiaryInvertedMdBoxShadowDefault [object Object]
+#define BrkButtonTertiaryInvertedMdBoxShadowHover [object Object]
+#define BrkButtonTertiaryInvertedMdBoxShadowFocus [object Object]
 #define BrkButtonPrimaryBorderWidth 0
 #define BrkButtonSecondaryBorderWidth 2
 #define BrkButtonTertiaryBorderWidth 0
@@ -442,6 +448,12 @@
 #define BrkButtonSecondaryStandardIconFillFocus #000000
 #define BrkButtonSecondaryStandardBackgroundColorFocus #ffffff
 #define BrkButtonSecondaryStandardBorderColorFocus #000000
+#define BrkButtonSecondaryStandardSmBoxShadowDefault [object Object]
+#define BrkButtonSecondaryStandardSmBoxShadowHover [object Object]
+#define BrkButtonSecondaryStandardSmBoxShadowFocus [object Object]
+#define BrkButtonSecondaryStandardMdBoxShadowDefault [object Object]
+#define BrkButtonSecondaryStandardMdBoxShadowHover [object Object]
+#define BrkButtonSecondaryStandardMdBoxShadowFocus [object Object]
 #define BrkButtonSecondaryInvertedFontColorDefault #c9ff00
 #define BrkButtonSecondaryInvertedIconFillDefault #c9ff00
 #define BrkButtonSecondaryInvertedBackgroundColorDefault transparent
@@ -454,6 +466,12 @@
 #define BrkButtonSecondaryInvertedIconFillFocus #000000
 #define BrkButtonSecondaryInvertedBackgroundColorFocus #ffffff
 #define BrkButtonSecondaryInvertedBorderColorFocus #000000
+#define BrkButtonSecondaryInvertedSmBoxShadowDefault [object Object]
+#define BrkButtonSecondaryInvertedSmBoxShadowHover [object Object]
+#define BrkButtonSecondaryInvertedSmBoxShadowFocus [object Object]
+#define BrkButtonSecondaryInvertedMdBoxShadowDefault [object Object]
+#define BrkButtonSecondaryInvertedMdBoxShadowHover [object Object]
+#define BrkButtonSecondaryInvertedMdBoxShadowFocus [object Object]
 #define BrkButtonPrimaryStandardFontColorDefault #c9ff00
 #define BrkButtonPrimaryStandardIconFillDefault #ffffff
 #define BrkButtonPrimaryStandardBackgroundColorDefault #000000
@@ -466,6 +484,12 @@
 #define BrkButtonPrimaryStandardIconFillFocus #000000
 #define BrkButtonPrimaryStandardBackgroundColorFocus #ffffff
 #define BrkButtonPrimaryStandardBorderColorFocus transparent
+#define BrkButtonPrimaryStandardSmBoxShadowDefault [object Object]
+#define BrkButtonPrimaryStandardSmBoxShadowHover [object Object]
+#define BrkButtonPrimaryStandardSmBoxShadowFocus [object Object]
+#define BrkButtonPrimaryStandardMdBoxShadowDefault [object Object]
+#define BrkButtonPrimaryStandardMdBoxShadowHover [object Object]
+#define BrkButtonPrimaryStandardMdBoxShadowFocus [object Object]
 #define BrkButtonPrimaryInvertedFontColorDefault #000000
 #define BrkButtonPrimaryInvertedIconFillDefault #000000
 #define BrkButtonPrimaryInvertedBackgroundColorDefault #e41f1f
@@ -478,4 +502,10 @@
 #define BrkButtonPrimaryInvertedIconFillFocus #000000
 #define BrkButtonPrimaryInvertedBackgroundColorFocus #ffffff
 #define BrkButtonPrimaryInvertedBorderColorFocus transparent
+#define BrkButtonPrimaryInvertedSmBoxShadowDefault [object Object]
+#define BrkButtonPrimaryInvertedSmBoxShadowHover [object Object]
+#define BrkButtonPrimaryInvertedSmBoxShadowFocus [object Object]
+#define BrkButtonPrimaryInvertedMdBoxShadowDefault [object Object]
+#define BrkButtonPrimaryInvertedMdBoxShadowHover [object Object]
+#define BrkButtonPrimaryInvertedMdBoxShadowFocus [object Object]
 
