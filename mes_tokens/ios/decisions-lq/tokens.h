@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Wed, 19 Oct 2022 19:47:22 GMT
+// Generated on Wed, 19 Oct 2022 19:59:01 GMT
 
 
 #import <Foundation/Foundation.h>
@@ -412,7 +412,7 @@
 #define BrkPromoSecondaryXlHeadingParagraphSpacing 
 #define BrkPromoSecondaryXlHeadingTextCase none
 #define BrkPromoSecondaryXlHeadingTextDecoration none
-#define BrkPromoSecondaryXlContentWidth 312
+#define BrkPromoSecondaryXlContentWidth 50%
 #define BrkCardHeroStandardHeadingFontColor #2e49d1
 #define BrkCardHeroStandardPretitleFontColor #192872
 #define BrkCardHeroStandardBodyFontColor #192872
@@ -734,7 +734,7 @@
 #define BrkPromoPrimaryXlBodyTextCase none
 #define BrkPromoPrimaryXlBodyTextDecoration none
 #define BrkPromoPrimaryXlGradientHeight 142
-#define BrkPromoPrimaryXlContentWidth 312
+#define BrkPromoPrimaryXlContentWidth 40%
 #define BrkPromoPrimaryXlContentMaxWidth 470
 #define BrkPromoPrimary2xlPaddingHorizontal 32
 #define BrkPromoPrimary2xlPaddingVertical 32
@@ -879,6 +879,6 @@
 #define BrkPromoTertiaryXlPretitleMarginBottom 6
 #define BrkPromoTertiaryXlGradientHeight 142
 #define BrkPromoTertiaryXlImageHeight 568
-#define BrkPromoTertiaryXlFrameWidth 312
-#define BrkPromoTertiaryXlFrameMaxWidth 470
+#define BrkPromoTertiaryXlContentWidth 40%
+#define BrkPromoTertiaryXlContentMaxWidth 470
 
