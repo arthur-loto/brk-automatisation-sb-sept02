@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Wed, 19 Oct 2022 13:49:49 GMT
+// Generated on Wed, 19 Oct 2022 14:59:49 GMT
 
 
 #import <Foundation/Foundation.h>
@@ -763,20 +763,20 @@
 #define BrkPromoPrimaryStandardBackgroundColor #ffffff
 #define BrkPromoPrimaryStandardBorderColor #e6e6e6
 #define BrkPromoPrimaryStandardGradientColor linear-gradient(180deg, #ffffff00 0%, #ffffff 100%)
-#define BrkPromoTertiaryInvertedPretitleFontColor #000000
-#define BrkPromoTertiaryInvertedHeadingFontColor #000000
-#define BrkPromoTertiaryInvertedBodyFontColor #000000
-#define BrkPromoTertiaryInvertedBackgroundColor #000000
-#define BrkPromoTertiaryInvertedBorderColor #e6e6e6
-#define BrkPromoTertiaryInvertedGradientColor linear-gradient(180deg, #00000000 0%, #000000 100%)
-#define BrkPromoTertiaryInvertedFrameColor #ffffff
-#define BrkPromoTertiaryStandardPretitleFontColor #ffffff
-#define BrkPromoTertiaryStandardHeadingFontColor #ffffff
-#define BrkPromoTertiaryStandardBodyFontColor #ffffff
-#define BrkPromoTertiaryStandardBackgroundColor #ffffff
+#define BrkPromoTertiaryStandardPretitleFontColor #000000
+#define BrkPromoTertiaryStandardHeadingFontColor #000000
+#define BrkPromoTertiaryStandardBodyFontColor #000000
+#define BrkPromoTertiaryStandardBackgroundColor #000000
 #define BrkPromoTertiaryStandardBorderColor #e6e6e6
-#define BrkPromoTertiaryStandardGradientColor linear-gradient(180deg, #ffffff00 0%, #ffffff 100%)
-#define BrkPromoTertiaryStandardFrameColor #000000
+#define BrkPromoTertiaryStandardGradientColor linear-gradient(180deg, #00000000 0%, #000000 100%)
+#define BrkPromoTertiaryStandardFrameColor #ffffff
+#define BrkPromoTertiaryInvertedPretitleFontColor #ffffff
+#define BrkPromoTertiaryInvertedHeadingFontColor #ffffff
+#define BrkPromoTertiaryInvertedBodyFontColor #ffffff
+#define BrkPromoTertiaryInvertedBackgroundColor #ffffff
+#define BrkPromoTertiaryInvertedBorderColor #e6e6e6
+#define BrkPromoTertiaryInvertedGradientColor linear-gradient(180deg, #ffffff00 0%, #ffffff 100%)
+#define BrkPromoTertiaryInvertedFrameColor #000000
 #define BrkPromoTertiarySmImageHeight 172
 #define BrkPromoTertiarySmGradientHeight 43
 #define BrkPromoTertiarySmPaddingHorizontal 16

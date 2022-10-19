@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Wed, 19 Oct 2022 13:49:49 GMT
+// Generated on Wed, 19 Oct 2022 14:59:49 GMT
 
 
 #import <Foundation/Foundation.h>
@@ -773,14 +773,14 @@
 #define BrkPromoTertiaryInvertedBodyFontColor #192872
 #define BrkPromoTertiaryInvertedBackgroundColor #121d54
 #define BrkPromoTertiaryInvertedBorderColor #eaedfa
-#define BrkPromoTertiaryInvertedGradientColor linear-gradient(180deg, #121d5400 0%, #121d54 100%)
+#define BrkPromoTertiaryInvertedGradientColor linear-gradient(180deg, #ffffff00 0%, #ffffff 100%)
 #define BrkPromoTertiaryInvertedFrameColor #ffffff
 #define BrkPromoTertiaryStandardHeadingFontColor #ffffff
 #define BrkPromoTertiaryStandardPretitleFontColor #a6ecff
 #define BrkPromoTertiaryStandardBodyFontColor #ffffff
 #define BrkPromoTertiaryStandardBackgroundColor #ffffff
 #define BrkPromoTertiaryStandardBorderColor #eaedfa
-#define BrkPromoTertiaryStandardGradientColor linear-gradient(180deg, #ffffff00 0%, #ffffff 100%)
+#define BrkPromoTertiaryStandardGradientColor linear-gradient(180deg, #121d5400 0%, #121d54 100%)
 #define BrkPromoTertiaryStandardFrameColor #192872
 #define BrkPromoTertiarySmPretitleFontFamily Graphik
 #define BrkPromoTertiarySmPretitleFontWeight Bold
