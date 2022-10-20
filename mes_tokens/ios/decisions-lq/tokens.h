@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Wed, 19 Oct 2022 22:17:46 GMT
+// Generated on Thu, 20 Oct 2022 15:39:15 GMT
 
 
 #import <Foundation/Foundation.h>
@@ -854,7 +854,6 @@
 #define BrkPromoTertiaryLgPretitleMarginBottom 6
 #define BrkPromoTertiaryLgImageHeight 300
 #define BrkPromoTertiaryLgGradientHeight 75
-#define BrkPromoTertiaryLgFrameWidth 378
 #define BrkPromoTertiaryXlPaddingHorizontal 32
 #define BrkPromoTertiaryXlPaddingVertical 32
 #define BrkPromoTertiaryXlFramePaddingHorizontal 10
