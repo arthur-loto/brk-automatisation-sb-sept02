@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Thu, 20 Oct 2022 20:41:46 GMT
+// Generated on Thu, 20 Oct 2022 20:47:04 GMT
 
 
 #import <Foundation/Foundation.h>
@@ -511,6 +511,9 @@
 #define BrkPromoPrimaryXlContentGap 16
 #define BrkPromoPrimaryXlPretitleMarginBottom 6
 #define BrkPromoPrimaryXlBodyMarginTop 16
+#define BrkPromoPrimaryVerticalAlignementTop flex_start
+#define BrkPromoPrimaryVerticalAlignementCenter center
+#define BrkPromoPrimaryVerticalAlignementBottom flex_end
 #define BrkTemplateSmSubheadingFontFamily Graphik
 #define BrkTemplateSmSubheadingFontWeight Super
 #define BrkTemplateSmSubheadingLineHeight 110%
@@ -874,11 +877,11 @@
 #define BrkPromoTertiaryXlHeadingParagraphSpacing 
 #define BrkPromoTertiaryXlHeadingTextCase none
 #define BrkPromoTertiaryXlHeadingTextDecoration none
+#define BrkPromoTertiaryVerticalAlignementTop flex_start
+#define BrkPromoTertiaryVerticalAlignementCenter center
+#define BrkPromoTertiaryVerticalAlignementBottom flex_end
 #define BrkButtonIconInvertedBoxShadowDefault [object Object]
 #define BrkButtonIconInvertedBoxShadowHover [object Object]
 #define BrkButtonIconInvertedBoxShadowFocus [object Object]
 #define BrkPageStandardSubheadingFontColor #000000
-#define BrkPromoTetairyVerticalAlignementTop flex_start
-#define BrkPromoTetairyVerticalAlignementCenter center
-#define BrkPromoTetairyVerticalAlignementBottom flex_end
 
