@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Thu, 20 Oct 2022 20:28:36 GMT
+// Generated on Thu, 20 Oct 2022 20:41:46 GMT
 
 
 #import <Foundation/Foundation.h>
@@ -878,7 +878,7 @@
 #define BrkButtonIconInvertedBoxShadowHover [object Object]
 #define BrkButtonIconInvertedBoxShadowFocus [object Object]
 #define BrkPageStandardSubheadingFontColor #000000
-#define BrkPromoTetairyVerticalAlignementTop 26
-#define BrkPromoTetairyVerticalAlignementCenter 172
-#define BrkPromoTetairyVerticalAlignementBottom 172
+#define BrkPromoTetairyVerticalAlignementTop flex_start
+#define BrkPromoTetairyVerticalAlignementCenter center
+#define BrkPromoTetairyVerticalAlignementBottom flex_end
 
