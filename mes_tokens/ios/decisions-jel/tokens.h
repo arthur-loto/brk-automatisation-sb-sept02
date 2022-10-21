@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Fri, 21 Oct 2022 15:11:05 GMT
+// Generated on Fri, 21 Oct 2022 15:34:27 GMT
 
 
 #import <Foundation/Foundation.h>
@@ -773,14 +773,14 @@
 #define BrkPromoPrimaryStandardBackgroundColor #ffffff
 #define BrkPromoPrimaryStandardBorderColor #e6e6e6
 #define BrkPromoPrimaryStandardGradientColor linear-gradient(180deg, #ffffff00 0%, #ffffff 100%)
-#define BrkPromoPrimaryStandardFrameColor #ffffff
+#define BrkPromoPrimaryStandardFrameColor transparent
 #define BrkPromoTertiaryStandardPretitleFontColor #000000
 #define BrkPromoTertiaryStandardHeadingFontColor #000000
 #define BrkPromoTertiaryStandardBodyFontColor #000000
 #define BrkPromoTertiaryStandardBackgroundColor #000000
 #define BrkPromoTertiaryStandardBorderColor #e6e6e6
 #define BrkPromoTertiaryStandardGradientColor linear-gradient(180deg, #00000000 0%, #000000 100%)
-#define BrkPromoTertiaryStandardFrameColor transparent
+#define BrkPromoTertiaryStandardFrameColor #ffffff
 #define BrkPromoTertiaryInvertedPretitleFontColor #ffffff
 #define BrkPromoTertiaryInvertedHeadingFontColor #ffffff
 #define BrkPromoTertiaryInvertedBodyFontColor #ffffff
