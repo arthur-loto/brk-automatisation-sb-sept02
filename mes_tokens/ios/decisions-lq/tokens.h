@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Fri, 21 Oct 2022 13:54:51 GMT
+// Generated on Fri, 21 Oct 2022 14:00:57 GMT
 
 
 #import <Foundation/Foundation.h>
@@ -764,6 +764,7 @@
 #define BrkTemplateSmMarginHorizontal 32
 #define BrkTemplateSmMarginTop 0
 #define BrkTemplateSmMarginBottom 48
+#define BrkTemplateContentMaxWidth 1600
 #define BrkPromoPrimaryInvertedHeadingFontColor #ffffff
 #define BrkPromoPrimaryInvertedPretitleFontColor #a6ecff
 #define BrkPromoPrimaryInvertedBodyFontColor #ffffff

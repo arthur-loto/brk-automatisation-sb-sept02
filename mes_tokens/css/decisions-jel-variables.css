@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Fri, 21 Oct 2022 13:54:52 GMT
+ * Generated on Fri, 21 Oct 2022 14:00:57 GMT
  */
 
 :root {
@@ -869,6 +869,7 @@
   --brk-promo-tertiary-xl-pretitle-paragraph-spacing: ;
   --brk-promo-tertiary-xl-pretitle-text-case: none;
   --brk-promo-tertiary-xl-pretitle-text-decoration: none;
+  --brk-template-content-max-width: 1600px;
   --brk-template-sm-content-gap-extra: 16px;
   --brk-template-sm-content-gap-horizontal: 16px;
   --brk-template-sm-content-gap-vertical: 24px;
