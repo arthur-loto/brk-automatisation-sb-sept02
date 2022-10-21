@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Thu, 20 Oct 2022 20:47:04 GMT
+// Generated on Fri, 21 Oct 2022 13:31:49 GMT
 
 
 #import <Foundation/Foundation.h>
@@ -292,7 +292,11 @@
 #define BrkCardHeroXlBodyTextCase none
 #define BrkCardHeroXlImageHeight 360
 #define BrkPromoSecondaryBorderRadius 16
+#define BrkPromoPrimaryBorderRadius 16
+#define BrkPromoTertiaryBorderRadius 16
 #define BrkPromoTertiaryFrameBorderRadius 16
+#define BrkPromoPrimaryFrameBorderRadius 16
+#define BrkPromoSecondaryFrameBorderRadius 16
 #define BrkPromoPrimaryBorderWidth 1
 #define BrkPromoSecondaryBorderWidth 1
 #define BrkPromoTertiaryBorderWidth 1
@@ -747,24 +751,28 @@
 #define BrkPromoSecondaryStandardGradientColor linear-gradient(180deg, #ffffff00 0%, #ffffff 100%)
 #define BrkPromoSecondaryStandardBoxShadowDefault [object Object]
 #define BrkPromoSecondaryStandardBoxShadowHover [object Object]
+#define BrkPromoSecondaryStandardFrameColor #ffffff
 #define BrkPromoSecondaryInvertedPretitleFontColor #ffffff
 #define BrkPromoSecondaryInvertedHeadingFontColor #ffffff
 #define BrkPromoSecondaryInvertedBodyFontColor #ffffff
 #define BrkPromoSecondaryInvertedBackgroundColor #000000
 #define BrkPromoSecondaryInvertedBorderColor #e6e6e6
 #define BrkPromoSecondaryInvertedGradientColor linear-gradient(180deg, #00000000 0%, #000000 100%)
+#define BrkPromoSecondaryInvertedFrameColor #000000
 #define BrkPromoPrimaryInvertedPretitleFontColor #ffffff
 #define BrkPromoPrimaryInvertedHeadingFontColor #ffffff
 #define BrkPromoPrimaryInvertedBodyFontColor #ffffff
 #define BrkPromoPrimaryInvertedBackgroundColor #000000
 #define BrkPromoPrimaryInvertedBorderColor #e6e6e6
 #define BrkPromoPrimaryInvertedGradientColor linear-gradient(180deg, #00000000 0%, #000000 100%)
+#define BrkPromoPrimaryInvertedFrameColor #000000
 #define BrkPromoPrimaryStandardPretitleFontColor #060606
 #define BrkPromoPrimaryStandardHeadingFontColor #060606
 #define BrkPromoPrimaryStandardBodyFontColor #060606
 #define BrkPromoPrimaryStandardBackgroundColor #ffffff
 #define BrkPromoPrimaryStandardBorderColor #e6e6e6
 #define BrkPromoPrimaryStandardGradientColor linear-gradient(180deg, #ffffff00 0%, #ffffff 100%)
+#define BrkPromoPrimaryStandardFrameColor #ffffff
 #define BrkPromoTertiaryStandardPretitleFontColor #000000
 #define BrkPromoTertiaryStandardHeadingFontColor #000000
 #define BrkPromoTertiaryStandardBodyFontColor #000000
