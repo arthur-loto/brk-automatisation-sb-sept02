@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Fri, 21 Oct 2022 13:31:49 GMT
+// Generated on Fri, 21 Oct 2022 13:54:52 GMT
 
 
 #import <Foundation/Foundation.h>
@@ -300,6 +300,9 @@
 #define BrkPromoPrimaryBorderWidth 1
 #define BrkPromoSecondaryBorderWidth 1
 #define BrkPromoTertiaryBorderWidth 1
+#define BrkPromoPrimaryContentVerticalAlign center
+#define BrkPromoSecondaryContentVerticalAlign center
+#define BrkPromoTertiaryContentVerticalAlign flex-end
 #define BrkPromoSecondarySmImageHeight 172
 #define BrkPromoSecondarySmGradientHeight 43
 #define BrkPromoSecondarySmPretitleFontFamily Arial
@@ -515,9 +518,6 @@
 #define BrkPromoPrimaryXlContentGap 16
 #define BrkPromoPrimaryXlPretitleMarginBottom 6
 #define BrkPromoPrimaryXlBodyMarginTop 16
-#define BrkPromoPrimaryVerticalAlignementTop flex_start
-#define BrkPromoPrimaryVerticalAlignementCenter center
-#define BrkPromoPrimaryVerticalAlignementBottom flex_end
 #define BrkTemplateSmSubheadingFontFamily Graphik
 #define BrkTemplateSmSubheadingFontWeight Super
 #define BrkTemplateSmSubheadingLineHeight 110%
@@ -885,9 +885,6 @@
 #define BrkPromoTertiaryXlHeadingParagraphSpacing 
 #define BrkPromoTertiaryXlHeadingTextCase none
 #define BrkPromoTertiaryXlHeadingTextDecoration none
-#define BrkPromoTertiaryVerticalAlignementTop flex_start
-#define BrkPromoTertiaryVerticalAlignementCenter center
-#define BrkPromoTertiaryVerticalAlignementBottom flex_end
 #define BrkButtonIconInvertedBoxShadowDefault [object Object]
 #define BrkButtonIconInvertedBoxShadowHover [object Object]
 #define BrkButtonIconInvertedBoxShadowFocus [object Object]

@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Fri, 21 Oct 2022 13:31:49 GMT
+ * Generated on Fri, 21 Oct 2022 13:54:52 GMT
  */
 
 $brk-button-icon-inverted-box-shadow-default: 0px 0px 0px 0px #000000;
@@ -501,6 +501,7 @@ $brk-jackpot-hero-xl-padding-horizontal: 24px;
 $brk-page-standard-subheading-font-color: #000000;
 $brk-promo-primary-border-radius: 16px;
 $brk-promo-primary-border-width: 1px;
+$brk-promo-primary-content-vertical-align: center;
 $brk-promo-primary-frame-border-radius: 16px;
 $brk-promo-primary-inverted-background-color: #000000;
 $brk-promo-primary-inverted-body-font-color: #ffffff;
@@ -609,9 +610,6 @@ $brk-promo-primary-standard-frame-color: #ffffff;
 $brk-promo-primary-standard-gradient-color: linear-gradient(180deg, #ffffff00 0%, #ffffff 100%);
 $brk-promo-primary-standard-heading-font-color: #060606;
 $brk-promo-primary-standard-pretitle-font-color: #060606;
-$brk-promo-primary-vertical-alignement-bottom: flex_end;
-$brk-promo-primary-vertical-alignement-center: center;
-$brk-promo-primary-vertical-alignement-top: flex_start;
 $brk-promo-primary-xl-body-font-family: Arial;
 $brk-promo-primary-xl-body-font-size: 20px;
 $brk-promo-primary-xl-body-font-weight: Regular;
@@ -647,6 +645,7 @@ $brk-promo-primary-xl-pretitle-text-case: none;
 $brk-promo-primary-xl-pretitle-text-decoration: none;
 $brk-promo-secondary-border-radius: 16px;
 $brk-promo-secondary-border-width: 1px;
+$brk-promo-secondary-content-vertical-align: center;
 $brk-promo-secondary-frame-border-radius: 16px;
 $brk-promo-secondary-inverted-background-color: #000000;
 $brk-promo-secondary-inverted-body-font-color: #ffffff;
@@ -755,6 +754,7 @@ $brk-promo-secondary-xl-pretitle-text-case: none;
 $brk-promo-secondary-xl-pretitle-text-decoration: none;
 $brk-promo-tertiary-border-radius: 16px;
 $brk-promo-tertiary-border-width: 1px;
+$brk-promo-tertiary-content-vertical-align: flex-end;
 $brk-promo-tertiary-frame-border-radius: 16px;
 $brk-promo-tertiary-inverted-background-color: #ffffff;
 $brk-promo-tertiary-inverted-body-font-color: #ffffff;
@@ -842,9 +842,6 @@ $brk-promo-tertiary-standard-frame-color: #ffffff;
 $brk-promo-tertiary-standard-gradient-color: linear-gradient(180deg, #00000000 0%, #000000 100%);
 $brk-promo-tertiary-standard-heading-font-color: #000000;
 $brk-promo-tertiary-standard-pretitle-font-color: #000000;
-$brk-promo-tertiary-vertical-alignement-bottom: flex_end;
-$brk-promo-tertiary-vertical-alignement-center: center;
-$brk-promo-tertiary-vertical-alignement-top: flex_start;
 $brk-promo-tertiary-xl-content-gap: 32px;
 $brk-promo-tertiary-xl-content-max-width: 470px;
 $brk-promo-tertiary-xl-content-width: 40%;

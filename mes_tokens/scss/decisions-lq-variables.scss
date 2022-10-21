@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Fri, 21 Oct 2022 13:31:49 GMT
+ * Generated on Fri, 21 Oct 2022 13:54:51 GMT
  */
 
 $brk-button-opacity-disabled: 50%;
@@ -501,10 +501,14 @@ $brk-promo-primary-2xl-content-gap: 16px;
 $brk-promo-primary-2xl-padding-horizontal: 32px;
 $brk-promo-primary-2xl-padding-vertical: 32px;
 $brk-promo-primary-2xl-pretitle-margin-bottom: 4px;
+$brk-promo-primary-border-radius: 4px;
 $brk-promo-primary-border-width: 1px;
+$brk-promo-primary-content-vertical-align: center;
+$brk-promo-primary-frame-border-radius: 4px;
 $brk-promo-primary-inverted-background-color: #121d54;
 $brk-promo-primary-inverted-body-font-color: #ffffff;
 $brk-promo-primary-inverted-border-color: #eaedfa;
+$brk-promo-primary-inverted-frame-color: #192872;
 $brk-promo-primary-inverted-gradient-color: linear-gradient(180deg, #121d5400 0%, #121d54 100%);
 $brk-promo-primary-inverted-heading-font-color: #ffffff;
 $brk-promo-primary-inverted-pretitle-font-color: #a6ecff;
@@ -604,6 +608,7 @@ $brk-promo-primary-sm-pretitle-text-decoration: none;
 $brk-promo-primary-standard-background-color: #ffffff;
 $brk-promo-primary-standard-body-font-color: #192872;
 $brk-promo-primary-standard-border-color: #eaedfa;
+$brk-promo-primary-standard-frame-color: #ffffff;
 $brk-promo-primary-standard-gradient-color: linear-gradient(180deg, #ffffff00 0%, #ffffff 100%);
 $brk-promo-primary-standard-heading-font-color: #2e49d1;
 $brk-promo-primary-standard-pretitle-font-color: #192872;
@@ -642,9 +647,12 @@ $brk-promo-primary-xl-pretitle-text-case: uppercase;
 $brk-promo-primary-xl-pretitle-text-decoration: none;
 $brk-promo-secondary-border-radius: 4px;
 $brk-promo-secondary-border-width: 1px;
+$brk-promo-secondary-content-vertical-align: center;
+$brk-promo-secondary-frame-border-radius: 4px;
 $brk-promo-secondary-inverted-background-color: #121d54;
 $brk-promo-secondary-inverted-body-font-color: #ffffff;
 $brk-promo-secondary-inverted-border-color: #eaedfa;
+$brk-promo-secondary-inverted-frame-color: #192872;
 $brk-promo-secondary-inverted-gradient-color: linear-gradient(180deg, #121d5400 0%, #121d54 100%);
 $brk-promo-secondary-inverted-heading-font-color: #ffffff;
 $brk-promo-secondary-inverted-pretitle-font-color: #a6ecff;
@@ -719,6 +727,7 @@ $brk-promo-secondary-standard-body-font-color: #192872;
 $brk-promo-secondary-standard-border-color: #eaedfa;
 $brk-promo-secondary-standard-box-shadow-default: 0px 0px 0px 0px #000000;
 $brk-promo-secondary-standard-box-shadow-hover: 0px 2px 8px 0px #e6e6e6;
+$brk-promo-secondary-standard-frame-color: #ffffff;
 $brk-promo-secondary-standard-gradient-color: linear-gradient(180deg, #ffffff00 0%, #ffffff 100%);
 $brk-promo-secondary-standard-heading-font-color: #2e49d1;
 $brk-promo-secondary-standard-pretitle-font-color: #192872;
@@ -745,7 +754,9 @@ $brk-promo-secondary-xl-pretitle-margin-bottom: 16px;
 $brk-promo-secondary-xl-pretitle-paragraph-spacing: ;
 $brk-promo-secondary-xl-pretitle-text-case: uppercase;
 $brk-promo-secondary-xl-pretitle-text-decoration: none;
+$brk-promo-tertiary-border-radius: 4px;
 $brk-promo-tertiary-border-width: 1px;
+$brk-promo-tertiary-content-vertical-align: flex-end;
 $brk-promo-tertiary-frame-border-radius: 4px;
 $brk-promo-tertiary-inverted-background-color: #ffffff;
 $brk-promo-tertiary-inverted-body-font-color: #ffffff;
