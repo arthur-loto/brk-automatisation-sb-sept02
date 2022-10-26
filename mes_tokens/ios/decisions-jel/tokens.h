@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Tue, 25 Oct 2022 18:01:07 GMT
+// Generated on Wed, 26 Oct 2022 00:45:48 GMT
 
 
 #import <Foundation/Foundation.h>
@@ -620,6 +620,8 @@
 #define BrkCardHighDensityXlBodyParagraphSpacing 0
 #define BrkCardHighDensityXlBodyTextDecoration none
 #define BrkCardHighDensityXlBodyTextCase none
+#define BrkCardHighDensityXlImageHeight 90
+#define BrkCardHighDensityXlCardHeight 90
 #define BrkCardHighDensityStandardHeadingFontColor #060606
 #define BrkCardHighDensityStandardJackpotFontColor #285EB1
 #define BrkCardHighDensityStandardBodyFontColor #1a1a1a
