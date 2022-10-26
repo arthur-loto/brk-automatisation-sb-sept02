@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Wed, 26 Oct 2022 01:28:57 GMT
+// Generated on Wed, 26 Oct 2022 19:42:39 GMT
 
 
 #import <Foundation/Foundation.h>
@@ -623,7 +623,7 @@
 #define BrkCardHighDensityXlImageHeight 115
 #define BrkCardHighDensityXlCardHeight 115
 #define BrkCardHighDensityStandardHeadingFontColor #060606
-#define BrkCardHighDensityStandardJackpotFontColor #285EB1
+#define BrkCardHighDensityStandardSubtitleFontColor #285EB1
 #define BrkCardHighDensityStandardBodyFontColor #1a1a1a
 #define BrkListCardHighDensityBorderRadius 16
 #define BrkListCardHighDensityBorderWidth 1
