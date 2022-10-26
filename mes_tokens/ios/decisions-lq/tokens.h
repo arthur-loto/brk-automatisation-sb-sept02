@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Wed, 26 Oct 2022 01:02:33 GMT
+// Generated on Wed, 26 Oct 2022 01:28:57 GMT
 
 
 #import <Foundation/Foundation.h>
@@ -506,8 +506,8 @@
 #define BrkCardHighDensitySmCardHeight 50
 #define BrkCardHighDensitySmContentGap 8
 #define BrkCardHighDensitySmHeadingMarginBottom 3
-#define BrkCardHighDensitySmJackpotMarginBottom 3
-#define BrkCardHighDensitySmImageCornerRadius 10
+#define BrkCardHighDensitySmSubtitleMarginBottom 3
+#define BrkCardHighDensitySmImageBorderRadius 10
 #define BrkCardHighDensitySmHeadingFontFamily Arial
 #define BrkCardHighDensitySmHeadingFontWeight Regular
 #define BrkCardHighDensitySmHeadingLineHeight 100%
@@ -516,14 +516,14 @@
 #define BrkCardHighDensitySmHeadingParagraphSpacing 0
 #define BrkCardHighDensitySmHeadingTextDecoration none
 #define BrkCardHighDensitySmHeadingTextCase none
-#define BrkCardHighDensitySmJackpotFontFamily Graphik
-#define BrkCardHighDensitySmJackpotFontWeight Bold
-#define BrkCardHighDensitySmJackpotLineHeight 100%
-#define BrkCardHighDensitySmJackpotFontSize 10
-#define BrkCardHighDensitySmJackpotLetterSpacing -2%
-#define BrkCardHighDensitySmJackpotParagraphSpacing 0
-#define BrkCardHighDensitySmJackpotTextDecoration none
-#define BrkCardHighDensitySmJackpotTextCase none
+#define BrkCardHighDensitySmSubtitleFontFamily Graphik
+#define BrkCardHighDensitySmSubtitleFontWeight Bold
+#define BrkCardHighDensitySmSubtitleLineHeight 100%
+#define BrkCardHighDensitySmSubtitleFontSize 10
+#define BrkCardHighDensitySmSubtitleLetterSpacing -2%
+#define BrkCardHighDensitySmSubtitleParagraphSpacing 0
+#define BrkCardHighDensitySmSubtitleTextDecoration none
+#define BrkCardHighDensitySmSubtitleTextCase none
 #define BrkCardHighDensitySmBodyFontFamily Arial
 #define BrkCardHighDensitySmBodyFontWeight Regular
 #define BrkCardHighDensitySmBodyLineHeight 85%
@@ -532,12 +532,12 @@
 #define BrkCardHighDensitySmBodyParagraphSpacing 0
 #define BrkCardHighDensitySmBodyTextDecoration none
 #define BrkCardHighDensitySmBodyTextCase none
-#define BrkCardHighDensityMdImageHeight 78
-#define BrkCardHighDensityMdCardHeight 78
+#define BrkCardHighDensityMdImageHeight 80
+#define BrkCardHighDensityMdCardHeight 80
 #define BrkCardHighDensityMdContentGap 20
 #define BrkCardHighDensityMdHeadingMarginBottom 3
-#define BrkCardHighDensityMdJackpotMarginBottom 3
-#define BrkCardHighDensityMdImageCornerRadius 20
+#define BrkCardHighDensityMdSubtitleMarginBottom 3
+#define BrkCardHighDensityMdImageBorderRadius 20
 #define BrkCardHighDensityMdHeadingFontFamily Arial
 #define BrkCardHighDensityMdHeadingFontWeight Regular
 #define BrkCardHighDensityMdHeadingLineHeight 100%
@@ -546,14 +546,14 @@
 #define BrkCardHighDensityMdHeadingParagraphSpacing 0
 #define BrkCardHighDensityMdHeadingTextDecoration none
 #define BrkCardHighDensityMdHeadingTextCase none
-#define BrkCardHighDensityMdJackpotFontFamily Graphik
-#define BrkCardHighDensityMdJackpotFontWeight Bold
-#define BrkCardHighDensityMdJackpotLineHeight 100%
-#define BrkCardHighDensityMdJackpotFontSize 16
-#define BrkCardHighDensityMdJackpotLetterSpacing -2%
-#define BrkCardHighDensityMdJackpotParagraphSpacing 0
-#define BrkCardHighDensityMdJackpotTextDecoration none
-#define BrkCardHighDensityMdJackpotTextCase none
+#define BrkCardHighDensityMdSubtitleFontFamily Graphik
+#define BrkCardHighDensityMdSubtitleFontWeight Bold
+#define BrkCardHighDensityMdSubtitleLineHeight 100%
+#define BrkCardHighDensityMdSubtitleFontSize 16
+#define BrkCardHighDensityMdSubtitleLetterSpacing -2%
+#define BrkCardHighDensityMdSubtitleParagraphSpacing 0
+#define BrkCardHighDensityMdSubtitleTextDecoration none
+#define BrkCardHighDensityMdSubtitleTextCase none
 #define BrkCardHighDensityMdBodyFontFamily Arial
 #define BrkCardHighDensityMdBodyFontWeight Regular
 #define BrkCardHighDensityMdBodyLineHeight 85%
@@ -563,11 +563,11 @@
 #define BrkCardHighDensityMdBodyTextDecoration none
 #define BrkCardHighDensityMdBodyTextCase none
 #define BrkCardHighDensityLgImageHeight 90
-#define BrkCardHighDensityLgCardHeight 93
+#define BrkCardHighDensityLgCardHeight 90
 #define BrkCardHighDensityLgContentGap 25
-#define BrkCardHighDensityLgHeadingMarginBottom 5
-#define BrkCardHighDensityLgJackpotMarginBottom 5
-#define BrkCardHighDensityLgImageCornerRadius 25
+#define BrkCardHighDensityLgHeadingMarginBottom 4
+#define BrkCardHighDensityLgSubtitleMarginBottom 4
+#define BrkCardHighDensityLgImageBorderRadius 25
 #define BrkCardHighDensityLgHeadingFontFamily Arial
 #define BrkCardHighDensityLgHeadingFontWeight Regular
 #define BrkCardHighDensityLgHeadingLineHeight 100%
@@ -576,14 +576,14 @@
 #define BrkCardHighDensityLgHeadingParagraphSpacing 0
 #define BrkCardHighDensityLgHeadingTextDecoration none
 #define BrkCardHighDensityLgHeadingTextCase none
-#define BrkCardHighDensityLgJackpotFontFamily Graphik
-#define BrkCardHighDensityLgJackpotFontWeight Bold
-#define BrkCardHighDensityLgJackpotLineHeight 100%
-#define BrkCardHighDensityLgJackpotFontSize 18
-#define BrkCardHighDensityLgJackpotLetterSpacing -2%
-#define BrkCardHighDensityLgJackpotParagraphSpacing 0
-#define BrkCardHighDensityLgJackpotTextDecoration none
-#define BrkCardHighDensityLgJackpotTextCase none
+#define BrkCardHighDensityLgSubtitleFontFamily Graphik
+#define BrkCardHighDensityLgSubtitleFontWeight Bold
+#define BrkCardHighDensityLgSubtitleLineHeight 100%
+#define BrkCardHighDensityLgSubtitleFontSize 18
+#define BrkCardHighDensityLgSubtitleLetterSpacing -2%
+#define BrkCardHighDensityLgSubtitleParagraphSpacing 0
+#define BrkCardHighDensityLgSubtitleTextDecoration none
+#define BrkCardHighDensityLgSubtitleTextCase none
 #define BrkCardHighDensityLgBodyFontFamily Arial
 #define BrkCardHighDensityLgBodyFontWeight Regular
 #define BrkCardHighDensityLgBodyLineHeight 85%
@@ -592,12 +592,12 @@
 #define BrkCardHighDensityLgBodyParagraphSpacing 0
 #define BrkCardHighDensityLgBodyTextDecoration none
 #define BrkCardHighDensityLgBodyTextCase none
-#define BrkCardHighDensityXlImageHeight 111
-#define BrkCardHighDensityXlCardHeight 113
+#define BrkCardHighDensityXlImageHeight 115
+#define BrkCardHighDensityXlCardHeight 115
 #define BrkCardHighDensityXlContentGap 30
 #define BrkCardHighDensityXlHeadingMarginBottom 5
-#define BrkCardHighDensityXlJackpotMarginBottom 5
-#define BrkCardHighDensityXlImageCornerRadius 30
+#define BrkCardHighDensityXlSubtitleMarginBottom 5
+#define BrkCardHighDensityXlImageBorderRadius 30
 #define BrkCardHighDensityXlHeadingFontFamily Arial
 #define BrkCardHighDensityXlHeadingFontWeight Regular
 #define BrkCardHighDensityXlHeadingLineHeight 100%
@@ -606,14 +606,14 @@
 #define BrkCardHighDensityXlHeadingParagraphSpacing 0
 #define BrkCardHighDensityXlHeadingTextDecoration none
 #define BrkCardHighDensityXlHeadingTextCase none
-#define BrkCardHighDensityXlJackpotFontFamily Graphik
-#define BrkCardHighDensityXlJackpotFontWeight Bold
-#define BrkCardHighDensityXlJackpotLineHeight 100%
-#define BrkCardHighDensityXlJackpotFontSize 22
-#define BrkCardHighDensityXlJackpotLetterSpacing -2%
-#define BrkCardHighDensityXlJackpotParagraphSpacing 0
-#define BrkCardHighDensityXlJackpotTextDecoration none
-#define BrkCardHighDensityXlJackpotTextCase none
+#define BrkCardHighDensityXlSubtitleFontFamily Graphik
+#define BrkCardHighDensityXlSubtitleFontWeight Bold
+#define BrkCardHighDensityXlSubtitleLineHeight 100%
+#define BrkCardHighDensityXlSubtitleFontSize 22
+#define BrkCardHighDensityXlSubtitleLetterSpacing -2%
+#define BrkCardHighDensityXlSubtitleParagraphSpacing 0
+#define BrkCardHighDensityXlSubtitleTextDecoration none
+#define BrkCardHighDensityXlSubtitleTextCase none
 #define BrkCardHighDensityXlBodyFontFamily Arial
 #define BrkCardHighDensityXlBodyFontWeight Regular
 #define BrkCardHighDensityXlBodyLineHeight 85%
@@ -627,26 +627,26 @@
 #define BrkCardHighDensityStandardBodyFontColor #192872
 #define BrkListCardHighDensitySmPaddingVertical 15
 #define BrkListCardHighDensitySmPaddingHorizontal 15
-#define BrkListCardHighDensitySmLinePaddingLeft 50
-#define BrkListCardHighDensitySmLinePaddingVertical 10
+#define BrkListCardHighDensitySmSeparatorPaddingLeft 50
+#define BrkListCardHighDensitySmSeparatorPaddingVertical 10
 #define BrkListCardHighDensityMdPaddingVertical 19
 #define BrkListCardHighDensityMdPaddingHorizontal 20
-#define BrkListCardHighDensityMdLinePaddingLeft 99
-#define BrkListCardHighDensityMdLinePaddingVertical 15
+#define BrkListCardHighDensityMdSeparatorPaddingLeft 100
+#define BrkListCardHighDensityMdSeparatorPaddingVertical 14
 #define BrkListCardHighDensityLgPaddingVertical 20
 #define BrkListCardHighDensityLgPaddingHorizontal 25
-#define BrkListCardHighDensityLgLinePaddingLeft 115
-#define BrkListCardHighDensityLgLinePaddingVertical 15
+#define BrkListCardHighDensityLgSeparatorPaddingLeft 115
+#define BrkListCardHighDensityLgSeparatorPaddingVertical 15
 #define BrkListCardHighDensityXlPaddingVertical 25
 #define BrkListCardHighDensityXlPaddingHorizontal 35
-#define BrkListCardHighDensityXlLinePaddingLeft 143
-#define BrkListCardHighDensityXlLinePaddingVertical 15
+#define BrkListCardHighDensityXlSeparatorPaddingLeft 145
+#define BrkListCardHighDensityXlSeparatorPaddingVertical 15
 #define BrkListCardHighDensityBackgroundColor #ffffff
 #define BrkListCardHighDensityBorderColor #eaedfa
-#define BrkListCardHighDensityLineColor #eaedfa
+#define BrkListCardHighDensitySeparatorColor #eaedfa
 #define BrkListCardHighDensityBorderRadius 4
 #define BrkListCardHighDensityBorderWidth 1
-#define BrkListCardHighDensityLineWidth 1
+#define BrkListCardHighDensitySeparatorWidth 1
 #define BrkListCardHighDensityStandardBoxShadowDefault [object Object]
 #define BrkListCardHighDensityStandardBoxShadowHover [object Object]
 #define BrkPromoPrimaryBorderWidth 1

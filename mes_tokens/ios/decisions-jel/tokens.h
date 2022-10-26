@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Wed, 26 Oct 2022 01:02:34 GMT
+// Generated on Wed, 26 Oct 2022 01:28:57 GMT
 
 
 #import <Foundation/Foundation.h>
@@ -645,8 +645,8 @@
 #define BrkListCardHighDensityXlPaddingHorizontal 35
 #define BrkListCardHighDensityXlSeparatorPaddingLeft 145
 #define BrkListCardHighDensityXlSeparatorPaddingVertical 15
-#define BrkListCardHighDensityLineColor #e6e6e6
-#define BrkListCardHighDensityLineWidth 1
+#define BrkListCardHighDensitySeparatorColor #e6e6e6
+#define BrkListCardHighDensitySeparatorWidth 1
 #define BrkListCardHighDensityStandardBoxShadowDefault [object Object]
 #define BrkListCardHighDensityStandardBoxShadowHover [object Object]
 #define BrkPromoSecondaryBorderRadius 16
