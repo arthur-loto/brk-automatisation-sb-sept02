@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Thu, 27 Oct 2022 16:50:33 GMT
+// Generated on Thu, 27 Oct 2022 16:53:52 GMT
 
 
 #import <Foundation/Foundation.h>
@@ -1039,4 +1039,7 @@
 #define BrkTemplateSmMarginBottom 48
 #define BrkTemplateContentMaxWidth 1600
 #define BrkPageStandardSubheadingFontColor #121d54
+#define BrkHeaderSm 138
+#define BrkHeaderMd 172
+#define BrkHeaderBackgroundColor #121d54
 
