@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Fri, 28 Oct 2022 19:52:19 GMT
+ * Generated on Fri, 28 Oct 2022 20:07:59 GMT
  */
 
 :root {
@@ -538,9 +538,11 @@
   --brk-card-high-density-xl-subtitle-paragraph-spacing: 0;
   --brk-card-high-density-xl-subtitle-text-case: none;
   --brk-card-high-density-xl-subtitle-text-decoration: none;
-  --brk-header-background-color: #060606;
-  --brk-header-md: 172px;
-  --brk-header-sm: 138px;
+  --brk-header-main-md-height: 172px;
+  --brk-header-main-md-padding-vertical: 32px;
+  --brk-header-main-sm-height: 138px;
+  --brk-header-main-sm-padding-vertical: 24px;
+  --brk-header-main-standard-background-color: #060606;
   --brk-interactive-inverted-outline-color-focus: #24c1ff;
   --brk-interactive-outline-border-radius: 24px;
   --brk-interactive-outline-offset: 2px;
