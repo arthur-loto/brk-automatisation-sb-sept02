@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Fri, 28 Oct 2022 20:07:59 GMT
+// Generated on Fri, 28 Oct 2022 20:15:56 GMT
 
 
 #import <Foundation/Foundation.h>
@@ -1030,9 +1030,7 @@
 #define BrkTemplateSmMarginTop 0
 #define BrkTemplateSmMarginBottom 48
 #define BrkTemplateContentMaxWidth 1600
-#define BrkHeaderSm 138
-#define BrkHeaderMd 172
-#define BrkHeaderBackgroundColor #121d54
+#define BrkHeaderMainStandardBackgroundColor #121d54
 #define BrkTextSmHeading1FontFamily Graphik
 #define BrkTextSmHeading1FontWeight Bold
 #define BrkTextSmHeading1LineHeight 120%
@@ -1311,4 +1309,8 @@
 #define BrkTextInvertedBody1FontColor #eaedfa
 #define BrkTextInvertedBody2FontColor #ffffff
 #define BrkTextInvertedCaptionFontColor #ffffff
+#define BrkHeaderMainSmHeight 138
+#define BrkHeaderMainSmPaddingVertical 24
+#define BrkHeaderMainMdHeight 172
+#define BrkHeaderMainMdPaddingVertical 32
 
