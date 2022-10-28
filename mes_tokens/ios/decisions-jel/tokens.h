@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Thu, 27 Oct 2022 16:53:52 GMT
+// Generated on Fri, 28 Oct 2022 12:50:03 GMT
 
 
 #import <Foundation/Foundation.h>
@@ -1018,14 +1018,6 @@
 #define BrkPromoTertiaryInvertedBorderColor #e6e6e6
 #define BrkPromoTertiaryInvertedGradientColor linear-gradient(180deg, #ffffff00 0%, #ffffff 100%)
 #define BrkPromoTertiaryInvertedFrameColor #000000
-#define BrkTemplateSmSubheadingFontFamily Graphik
-#define BrkTemplateSmSubheadingFontWeight Super
-#define BrkTemplateSmSubheadingLineHeight 110%
-#define BrkTemplateSmSubheadingFontSize 20
-#define BrkTemplateSmSubheadingLetterSpacing -2%
-#define BrkTemplateSmSubheadingParagraphSpacing 
-#define BrkTemplateSmSubheadingTextCase none
-#define BrkTemplateSmSubheadingTextDecoration none
 #define BrkTemplateSmContentGapHorizontal 16
 #define BrkTemplateSmContentGapVertical 24
 #define BrkTemplateSmContentGapExtra 16
@@ -1033,8 +1025,313 @@
 #define BrkTemplateSmMarginTop 0
 #define BrkTemplateSmMarginBottom 48
 #define BrkTemplateContentMaxWidth 1600
-#define BrkPageStandardSubheadingFontColor #000000
 #define BrkHeaderSm 138
 #define BrkHeaderMd 172
 #define BrkHeaderBackgroundColor #060606
+#define BrkTextSmHeading1FontFamily Graphik
+#define BrkTextSmHeading1FontWeight Super
+#define BrkTextSmHeading1LineHeight 120%
+#define BrkTextSmHeading1FontSize 32
+#define BrkTextSmHeading1LetterSpacing -2%
+#define BrkTextSmHeading1ParagraphSpacing 
+#define BrkTextSmHeading1TextDecoration none
+#define BrkTextSmHeading1TextCase none
+#define BrkTextSmHeading2FontFamily Graphik
+#define BrkTextSmHeading2FontWeight Super
+#define BrkTextSmHeading2LineHeight 120%
+#define BrkTextSmHeading2FontSize 28
+#define BrkTextSmHeading2LetterSpacing -2%
+#define BrkTextSmHeading2ParagraphSpacing 
+#define BrkTextSmHeading2TextDecoration none
+#define BrkTextSmHeading2TextCase none
+#define BrkTextSmHeading3FontFamily Graphik
+#define BrkTextSmHeading3FontWeight Super
+#define BrkTextSmHeading3LineHeight 120%
+#define BrkTextSmHeading3FontSize 26
+#define BrkTextSmHeading3LetterSpacing -2%
+#define BrkTextSmHeading3ParagraphSpacing 
+#define BrkTextSmHeading3TextDecoration none
+#define BrkTextSmHeading3TextCase none
+#define BrkTextSmHeading4FontFamily Graphik
+#define BrkTextSmHeading4FontWeight Super
+#define BrkTextSmHeading4LineHeight 120%
+#define BrkTextSmHeading4FontSize 22
+#define BrkTextSmHeading4LetterSpacing -2%
+#define BrkTextSmHeading4ParagraphSpacing 
+#define BrkTextSmHeading4TextDecoration none
+#define BrkTextSmHeading4TextCase none
+#define BrkTextSmHeading5FontFamily Graphik
+#define BrkTextSmHeading5FontWeight Super
+#define BrkTextSmHeading5LineHeight 120%
+#define BrkTextSmHeading5FontSize 20
+#define BrkTextSmHeading5LetterSpacing -2%
+#define BrkTextSmHeading5ParagraphSpacing 
+#define BrkTextSmHeading5TextDecoration none
+#define BrkTextSmHeading5TextCase none
+#define BrkTextSmHeading6FontFamily Graphik
+#define BrkTextSmHeading6FontWeight Super
+#define BrkTextSmHeading6LineHeight 120%
+#define BrkTextSmHeading6FontSize 18
+#define BrkTextSmHeading6LetterSpacing -2%
+#define BrkTextSmHeading6ParagraphSpacing 
+#define BrkTextSmHeading6TextDecoration none
+#define BrkTextSmHeading6TextCase none
+#define BrkTextSmBody1FontFamily Arial
+#define BrkTextSmBody1FontWeight Bold
+#define BrkTextSmBody1LineHeight 160%
+#define BrkTextSmBody1FontSize 18
+#define BrkTextSmBody1LetterSpacing 0%
+#define BrkTextSmBody1ParagraphSpacing 12%
+#define BrkTextSmBody1TextDecoration none
+#define BrkTextSmBody1TextCase none
+#define BrkTextSmBody2FontFamily Arial
+#define BrkTextSmBody2FontWeight Regular
+#define BrkTextSmBody2LineHeight 160%
+#define BrkTextSmBody2FontSize 16
+#define BrkTextSmBody2LetterSpacing 0%
+#define BrkTextSmBody2ParagraphSpacing 12%
+#define BrkTextSmBody2TextDecoration none
+#define BrkTextSmBody2TextCase none
+#define BrkTextSmCaptionFontFamily Arial
+#define BrkTextSmCaptionFontWeight Regular
+#define BrkTextSmCaptionLineHeight 120%
+#define BrkTextSmCaptionFontSize 12
+#define BrkTextSmCaptionLetterSpacing 0%
+#define BrkTextSmCaptionParagraphSpacing 
+#define BrkTextSmCaptionTextDecoration none
+#define BrkTextSmCaptionTextCase none
+#define BrkTextMdHeading1FontFamily Graphik
+#define BrkTextMdHeading1FontWeight Super
+#define BrkTextMdHeading1LineHeight 120%
+#define BrkTextMdHeading1FontSize 36
+#define BrkTextMdHeading1LetterSpacing -2%
+#define BrkTextMdHeading1ParagraphSpacing 
+#define BrkTextMdHeading1TextDecoration none
+#define BrkTextMdHeading1TextCase none
+#define BrkTextMdHeading2FontFamily Graphik
+#define BrkTextMdHeading2FontWeight Super
+#define BrkTextMdHeading2LineHeight 120%
+#define BrkTextMdHeading2FontSize 32
+#define BrkTextMdHeading2LetterSpacing -2%
+#define BrkTextMdHeading2ParagraphSpacing 
+#define BrkTextMdHeading2TextDecoration none
+#define BrkTextMdHeading2TextCase none
+#define BrkTextMdHeading3FontFamily Graphik
+#define BrkTextMdHeading3FontWeight Super
+#define BrkTextMdHeading3LineHeight 120%
+#define BrkTextMdHeading3FontSize 28
+#define BrkTextMdHeading3LetterSpacing -2%
+#define BrkTextMdHeading3ParagraphSpacing 
+#define BrkTextMdHeading3TextDecoration none
+#define BrkTextMdHeading3TextCase none
+#define BrkTextMdHeading4FontFamily Graphik
+#define BrkTextMdHeading4FontWeight Super
+#define BrkTextMdHeading4LineHeight 120%
+#define BrkTextMdHeading4FontSize 24
+#define BrkTextMdHeading4LetterSpacing -2%
+#define BrkTextMdHeading4ParagraphSpacing 
+#define BrkTextMdHeading4TextDecoration none
+#define BrkTextMdHeading4TextCase none
+#define BrkTextMdHeading5FontFamily Graphik
+#define BrkTextMdHeading5FontWeight Super
+#define BrkTextMdHeading5LineHeight 120%
+#define BrkTextMdHeading5FontSize 22
+#define BrkTextMdHeading5LetterSpacing -2%
+#define BrkTextMdHeading5ParagraphSpacing 
+#define BrkTextMdHeading5TextDecoration none
+#define BrkTextMdHeading5TextCase none
+#define BrkTextMdHeading6FontFamily Graphik
+#define BrkTextMdHeading6FontWeight Super
+#define BrkTextMdHeading6LineHeight 120%
+#define BrkTextMdHeading6FontSize 20
+#define BrkTextMdHeading6LetterSpacing -2%
+#define BrkTextMdHeading6ParagraphSpacing 
+#define BrkTextMdHeading6TextDecoration none
+#define BrkTextMdHeading6TextCase none
+#define BrkTextMdBody1FontFamily Arial
+#define BrkTextMdBody1FontWeight Bold
+#define BrkTextMdBody1LineHeight 160%
+#define BrkTextMdBody1FontSize 20
+#define BrkTextMdBody1LetterSpacing 0%
+#define BrkTextMdBody1ParagraphSpacing 12%
+#define BrkTextMdBody1TextDecoration none
+#define BrkTextMdBody1TextCase none
+#define BrkTextMdBody2FontFamily Arial
+#define BrkTextMdBody2FontWeight Regular
+#define BrkTextMdBody2LineHeight 160%
+#define BrkTextMdBody2FontSize 18
+#define BrkTextMdBody2LetterSpacing 0%
+#define BrkTextMdBody2ParagraphSpacing 12%
+#define BrkTextMdBody2TextDecoration none
+#define BrkTextMdBody2TextCase none
+#define BrkTextMdCaptionFontFamily Arial
+#define BrkTextMdCaptionFontWeight Regular
+#define BrkTextMdCaptionLineHeight 120%
+#define BrkTextMdCaptionFontSize 14
+#define BrkTextMdCaptionLetterSpacing 0%
+#define BrkTextMdCaptionParagraphSpacing 
+#define BrkTextMdCaptionTextDecoration none
+#define BrkTextMdCaptionTextCase none
+#define BrkTextLgHeading1FontFamily Graphik
+#define BrkTextLgHeading1FontWeight Super
+#define BrkTextLgHeading1LineHeight 120%
+#define BrkTextLgHeading1FontSize 42
+#define BrkTextLgHeading1LetterSpacing -2%
+#define BrkTextLgHeading1ParagraphSpacing 
+#define BrkTextLgHeading1TextDecoration none
+#define BrkTextLgHeading1TextCase none
+#define BrkTextLgHeading2FontFamily Graphik
+#define BrkTextLgHeading2FontWeight Super
+#define BrkTextLgHeading2LineHeight 120%
+#define BrkTextLgHeading2FontSize 36
+#define BrkTextLgHeading2LetterSpacing -2%
+#define BrkTextLgHeading2ParagraphSpacing 
+#define BrkTextLgHeading2TextDecoration none
+#define BrkTextLgHeading2TextCase none
+#define BrkTextLgHeading3FontFamily Graphik
+#define BrkTextLgHeading3FontWeight Super
+#define BrkTextLgHeading3LineHeight 120%
+#define BrkTextLgHeading3FontSize 32
+#define BrkTextLgHeading3LetterSpacing -2%
+#define BrkTextLgHeading3ParagraphSpacing 
+#define BrkTextLgHeading3TextDecoration none
+#define BrkTextLgHeading3TextCase none
+#define BrkTextLgHeading4FontFamily Graphik
+#define BrkTextLgHeading4FontWeight Super
+#define BrkTextLgHeading4LineHeight 120%
+#define BrkTextLgHeading4FontSize 28
+#define BrkTextLgHeading4LetterSpacing -2%
+#define BrkTextLgHeading4ParagraphSpacing 
+#define BrkTextLgHeading4TextDecoration none
+#define BrkTextLgHeading4TextCase none
+#define BrkTextLgHeading5FontFamily Graphik
+#define BrkTextLgHeading5FontWeight Super
+#define BrkTextLgHeading5LineHeight 120%
+#define BrkTextLgHeading5FontSize 26
+#define BrkTextLgHeading5LetterSpacing -2%
+#define BrkTextLgHeading5ParagraphSpacing 
+#define BrkTextLgHeading5TextDecoration none
+#define BrkTextLgHeading5TextCase none
+#define BrkTextLgHeading6FontFamily Graphik
+#define BrkTextLgHeading6FontWeight Super
+#define BrkTextLgHeading6LineHeight 120%
+#define BrkTextLgHeading6FontSize 22
+#define BrkTextLgHeading6LetterSpacing -2%
+#define BrkTextLgHeading6ParagraphSpacing 
+#define BrkTextLgHeading6TextDecoration none
+#define BrkTextLgHeading6TextCase none
+#define BrkTextLgBody1FontFamily Arial
+#define BrkTextLgBody1FontWeight Bold
+#define BrkTextLgBody1LineHeight 160%
+#define BrkTextLgBody1FontSize 22
+#define BrkTextLgBody1LetterSpacing 0%
+#define BrkTextLgBody1ParagraphSpacing 12%
+#define BrkTextLgBody1TextDecoration none
+#define BrkTextLgBody1TextCase none
+#define BrkTextLgBody2FontFamily Arial
+#define BrkTextLgBody2FontWeight Regular
+#define BrkTextLgBody2LineHeight 160%
+#define BrkTextLgBody2FontSize 20
+#define BrkTextLgBody2LetterSpacing 0%
+#define BrkTextLgBody2ParagraphSpacing 12%
+#define BrkTextLgBody2TextDecoration none
+#define BrkTextLgBody2TextCase none
+#define BrkTextLgCaptionFontFamily Arial
+#define BrkTextLgCaptionFontWeight Regular
+#define BrkTextLgCaptionLineHeight 120%
+#define BrkTextLgCaptionFontSize 16
+#define BrkTextLgCaptionLetterSpacing 0%
+#define BrkTextLgCaptionParagraphSpacing 
+#define BrkTextLgCaptionTextDecoration none
+#define BrkTextLgCaptionTextCase none
+#define BrkTextXlHeading1FontFamily Graphik
+#define BrkTextXlHeading1FontWeight Super
+#define BrkTextXlHeading1LineHeight 120%
+#define BrkTextXlHeading1FontSize 48
+#define BrkTextXlHeading1LetterSpacing -2%
+#define BrkTextXlHeading1ParagraphSpacing 
+#define BrkTextXlHeading1TextDecoration none
+#define BrkTextXlHeading1TextCase none
+#define BrkTextXlHeading2FontFamily Graphik
+#define BrkTextXlHeading2FontWeight Super
+#define BrkTextXlHeading2LineHeight 120%
+#define BrkTextXlHeading2FontSize 42
+#define BrkTextXlHeading2LetterSpacing -2%
+#define BrkTextXlHeading2ParagraphSpacing 
+#define BrkTextXlHeading2TextDecoration none
+#define BrkTextXlHeading2TextCase none
+#define BrkTextXlHeading3FontFamily Graphik
+#define BrkTextXlHeading3FontWeight Super
+#define BrkTextXlHeading3LineHeight 120%
+#define BrkTextXlHeading3FontSize 36
+#define BrkTextXlHeading3LetterSpacing -2%
+#define BrkTextXlHeading3ParagraphSpacing 
+#define BrkTextXlHeading3TextDecoration none
+#define BrkTextXlHeading3TextCase none
+#define BrkTextXlHeading4FontFamily Graphik
+#define BrkTextXlHeading4FontWeight Super
+#define BrkTextXlHeading4LineHeight 120%
+#define BrkTextXlHeading4FontSize 32
+#define BrkTextXlHeading4LetterSpacing -2%
+#define BrkTextXlHeading4ParagraphSpacing 
+#define BrkTextXlHeading4TextDecoration none
+#define BrkTextXlHeading4TextCase none
+#define BrkTextXlHeading5FontFamily Graphik
+#define BrkTextXlHeading5FontWeight Super
+#define BrkTextXlHeading5LineHeight 120%
+#define BrkTextXlHeading5FontSize 28
+#define BrkTextXlHeading5LetterSpacing -2%
+#define BrkTextXlHeading5ParagraphSpacing 
+#define BrkTextXlHeading5TextDecoration none
+#define BrkTextXlHeading5TextCase none
+#define BrkTextXlHeading6FontFamily Graphik
+#define BrkTextXlHeading6FontWeight Super
+#define BrkTextXlHeading6LineHeight 120%
+#define BrkTextXlHeading6FontSize 26
+#define BrkTextXlHeading6LetterSpacing -2%
+#define BrkTextXlHeading6ParagraphSpacing 
+#define BrkTextXlHeading6TextDecoration none
+#define BrkTextXlHeading6TextCase none
+#define BrkTextXlBody1FontFamily Arial
+#define BrkTextXlBody1FontWeight Bold
+#define BrkTextXlBody1LineHeight 160%
+#define BrkTextXlBody1FontSize 26
+#define BrkTextXlBody1LetterSpacing 0%
+#define BrkTextXlBody1ParagraphSpacing 12%
+#define BrkTextXlBody1TextDecoration none
+#define BrkTextXlBody1TextCase none
+#define BrkTextXlBody2FontFamily Arial
+#define BrkTextXlBody2FontWeight Regular
+#define BrkTextXlBody2LineHeight 160%
+#define BrkTextXlBody2FontSize 22
+#define BrkTextXlBody2LetterSpacing 0%
+#define BrkTextXlBody2ParagraphSpacing 12%
+#define BrkTextXlBody2TextDecoration none
+#define BrkTextXlBody2TextCase none
+#define BrkTextXlCaptionFontFamily Arial
+#define BrkTextXlCaptionFontWeight Regular
+#define BrkTextXlCaptionLineHeight 120%
+#define BrkTextXlCaptionFontSize 18
+#define BrkTextXlCaptionLetterSpacing 0%
+#define BrkTextXlCaptionParagraphSpacing 
+#define BrkTextXlCaptionTextDecoration none
+#define BrkTextXlCaptionTextCase none
+#define BrkTextStandardHeading1FontColor #090f2a
+#define BrkTextStandardHeading2FontColor #192872
+#define BrkTextStandardHeading3FontColor #192872
+#define BrkTextStandardHeading4FontColor #192872
+#define BrkTextStandardHeading5FontColor #253aa7
+#define BrkTextStandardHeading6FontColor #253aa7
+#define BrkTextStandardBody1FontColor #121d54
+#define BrkTextStandardBody2FontColor #090f2a
+#define BrkTextStandardCaptionFontColor #090f2a
+#define BrkTextInvertedHeading1FontColor #d5dbf6
+#define BrkTextInvertedHeading2FontColor #abb6ed
+#define BrkTextInvertedHeading3FontColor #abb6ed
+#define BrkTextInvertedHeading4FontColor #abb6ed
+#define BrkTextInvertedHeading5FontColor #2e49d1
+#define BrkTextInvertedHeading6FontColor #2e49d1
+#define BrkTextInvertedBody1FontColor #d5dbf6
+#define BrkTextInvertedBody2FontColor #ffffff
+#define BrkTextInvertedCaptionFontColor #ffffff
 
