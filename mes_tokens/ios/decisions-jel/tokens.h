@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Fri, 28 Oct 2022 20:42:48 GMT
+// Generated on Fri, 28 Oct 2022 20:48:39 GMT
 
 
 #import <Foundation/Foundation.h>
@@ -1336,4 +1336,9 @@
 #define BrkHeaderMainSmPaddingVertical 24
 #define BrkHeaderMainMdHeight 172
 #define BrkHeaderMainMdPaddingVertical 32
+#define BrkThumbnailProductSmImageHeight 196
+#define BrkThumbnailProductSmContentGap 16
+#define BrkThumbnailProductMdImageHeight 270
+#define BrkThumbnailProductMdContentGap 16
+#define BrkThumbnailProductImageBackgroundColorStandard #060606
 

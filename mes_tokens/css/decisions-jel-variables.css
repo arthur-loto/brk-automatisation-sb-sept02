@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Fri, 28 Oct 2022 20:42:48 GMT
+ * Generated on Fri, 28 Oct 2022 20:48:39 GMT
  */
 
 :root {
@@ -1330,4 +1330,9 @@
   --brk-text-xl-heading-6-paragraph-spacing: ;
   --brk-text-xl-heading-6-text-case: none;
   --brk-text-xl-heading-6-text-decoration: none;
+  --brk-thumbnail-product-image-background-color-standard: #060606;
+  --brk-thumbnail-product-md-content-gap: 16px;
+  --brk-thumbnail-product-md-image-height: 270px;
+  --brk-thumbnail-product-sm-content-gap: 16px;
+  --brk-thumbnail-product-sm-image-height: 196px;
 }
