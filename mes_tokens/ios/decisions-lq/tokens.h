@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Fri, 28 Oct 2022 12:50:02 GMT
+// Generated on Fri, 28 Oct 2022 19:44:54 GMT
 
 
 #import <Foundation/Foundation.h>
@@ -625,30 +625,30 @@
 #define BrkCardHighDensityStandardHeadingFontColor #2e49d1
 #define BrkCardHighDensityStandardSubtitleFontColour #121d54
 #define BrkCardHighDensityStandardBodyFontColor #192872
-#define BrkListCardHighDensitySmPaddingVertical 15
-#define BrkListCardHighDensitySmPaddingHorizontal 15
-#define BrkListCardHighDensitySmSeparatorPaddingLeft 50
-#define BrkListCardHighDensitySmSeparatorPaddingVertical 10
-#define BrkListCardHighDensityMdPaddingVertical 19
-#define BrkListCardHighDensityMdPaddingHorizontal 20
-#define BrkListCardHighDensityMdSeparatorPaddingLeft 100
-#define BrkListCardHighDensityMdSeparatorPaddingVertical 14
-#define BrkListCardHighDensityLgPaddingVertical 20
-#define BrkListCardHighDensityLgPaddingHorizontal 25
-#define BrkListCardHighDensityLgSeparatorPaddingLeft 115
-#define BrkListCardHighDensityLgSeparatorPaddingVertical 15
-#define BrkListCardHighDensityXlPaddingVertical 25
-#define BrkListCardHighDensityXlPaddingHorizontal 35
-#define BrkListCardHighDensityXlSeparatorPaddingLeft 145
-#define BrkListCardHighDensityXlSeparatorPaddingVertical 15
-#define BrkListCardHighDensityBackgroundColor #ffffff
-#define BrkListCardHighDensityBorderColor #eaedfa
-#define BrkListCardHighDensitySeparatorColor #eaedfa
-#define BrkListCardHighDensityBorderRadius 4
-#define BrkListCardHighDensityBorderWidth 1
-#define BrkListCardHighDensitySeparatorWidth 1
-#define BrkListCardHighDensityStandardBoxShadowDefault [object Object]
-#define BrkListCardHighDensityStandardBoxShadowHover [object Object]
+#define BrkCardHighDensityListSmPaddingVertical 15
+#define BrkCardHighDensityListSmPaddingHorizontal 15
+#define BrkCardHighDensityListSmSeparatorPaddingLeft 50
+#define BrkCardHighDensityListSmSeparatorPaddingVertical 10
+#define BrkCardHighDensityListMdPaddingVertical 20
+#define BrkCardHighDensityListMdPaddingHorizontal 20
+#define BrkCardHighDensityListMdSeparatorPaddingLeft 100
+#define BrkCardHighDensityListMdSeparatorPaddingVertical 14
+#define BrkCardHighDensityListLgPaddingVertical 20
+#define BrkCardHighDensityListLgPaddingHorizontal 25
+#define BrkCardHighDensityListLgSeparatorPaddingLeft 115
+#define BrkCardHighDensityListLgSeparatorPaddingVertical 15
+#define BrkCardHighDensityListXlPaddingVertical 25
+#define BrkCardHighDensityListXlPaddingHorizontal 35
+#define BrkCardHighDensityListXlSeparatorPaddingLeft 145
+#define BrkCardHighDensityListXlSeparatorPaddingVertical 15
+#define BrkCardHighDensityListBorderRadius 4
+#define BrkCardHighDensityListBorderWidth 1
+#define BrkCardHighDensityListSeparatorWidth 1
+#define BrkCardHighDensityListStandardBackgroundColor #ffffff
+#define BrkCardHighDensityListStandardBorderColor #eaedfa
+#define BrkCardHighDensityListStandardSeparatorColor #eaedfa
+#define BrkCardHighDensityListStandardBoxShadowDefault [object Object]
+#define BrkCardHighDensityListStandardBoxShadowHover [object Object]
 #define BrkPromoPrimaryBorderWidth 1
 #define BrkPromoSecondaryBorderWidth 1
 #define BrkPromoTertiaryBorderWidth 1
