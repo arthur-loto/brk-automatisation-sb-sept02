@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Mon, 31 Oct 2022 15:54:24 GMT
+// Generated on Mon, 31 Oct 2022 18:13:59 GMT
 
 
 #import <Foundation/Foundation.h>
@@ -513,7 +513,7 @@
 #define BrkCardHighDensitySmHeadingLineHeight 100%
 #define BrkCardHighDensitySmHeadingFontSize 11
 #define BrkCardHighDensitySmHeadingLetterSpacing -2%
-#define BrkCardHighDensitySmHeadingParagraphSpacing 0
+#define BrkCardHighDensitySmHeadingParagraphSpacing 0.8em
 #define BrkCardHighDensitySmHeadingTextDecoration none
 #define BrkCardHighDensitySmHeadingTextCase none
 #define BrkCardHighDensitySmSubtitleFontFamily Graphik
@@ -521,7 +521,7 @@
 #define BrkCardHighDensitySmSubtitleLineHeight 100%
 #define BrkCardHighDensitySmSubtitleFontSize 10
 #define BrkCardHighDensitySmSubtitleLetterSpacing -2%
-#define BrkCardHighDensitySmSubtitleParagraphSpacing 0
+#define BrkCardHighDensitySmSubtitleParagraphSpacing 0.8em
 #define BrkCardHighDensitySmSubtitleTextDecoration none
 #define BrkCardHighDensitySmSubtitleTextCase none
 #define BrkCardHighDensitySmBodyFontFamily Arial
@@ -529,7 +529,7 @@
 #define BrkCardHighDensitySmBodyLineHeight 85%
 #define BrkCardHighDensitySmBodyFontSize 9
 #define BrkCardHighDensitySmBodyLetterSpacing 2%
-#define BrkCardHighDensitySmBodyParagraphSpacing 0
+#define BrkCardHighDensitySmBodyParagraphSpacing 0.8em
 #define BrkCardHighDensitySmBodyTextDecoration none
 #define BrkCardHighDensitySmBodyTextCase none
 #define BrkCardHighDensityMdImageHeight 80
@@ -543,7 +543,7 @@
 #define BrkCardHighDensityMdHeadingLineHeight 100%
 #define BrkCardHighDensityMdHeadingFontSize 22
 #define BrkCardHighDensityMdHeadingLetterSpacing -2%
-#define BrkCardHighDensityMdHeadingParagraphSpacing 0
+#define BrkCardHighDensityMdHeadingParagraphSpacing 0.8em
 #define BrkCardHighDensityMdHeadingTextDecoration none
 #define BrkCardHighDensityMdHeadingTextCase none
 #define BrkCardHighDensityMdSubtitleFontFamily Graphik
@@ -551,7 +551,7 @@
 #define BrkCardHighDensityMdSubtitleLineHeight 100%
 #define BrkCardHighDensityMdSubtitleFontSize 16
 #define BrkCardHighDensityMdSubtitleLetterSpacing -2%
-#define BrkCardHighDensityMdSubtitleParagraphSpacing 0
+#define BrkCardHighDensityMdSubtitleParagraphSpacing 0.8em
 #define BrkCardHighDensityMdSubtitleTextDecoration none
 #define BrkCardHighDensityMdSubtitleTextCase none
 #define BrkCardHighDensityMdBodyFontFamily Arial
@@ -559,7 +559,7 @@
 #define BrkCardHighDensityMdBodyLineHeight 85%
 #define BrkCardHighDensityMdBodyFontSize 14
 #define BrkCardHighDensityMdBodyLetterSpacing 2%
-#define BrkCardHighDensityMdBodyParagraphSpacing 0
+#define BrkCardHighDensityMdBodyParagraphSpacing 0.8em
 #define BrkCardHighDensityMdBodyTextDecoration none
 #define BrkCardHighDensityMdBodyTextCase none
 #define BrkCardHighDensityLgImageHeight 90
@@ -573,7 +573,7 @@
 #define BrkCardHighDensityLgHeadingLineHeight 100%
 #define BrkCardHighDensityLgHeadingFontSize 26
 #define BrkCardHighDensityLgHeadingLetterSpacing -2%
-#define BrkCardHighDensityLgHeadingParagraphSpacing 0
+#define BrkCardHighDensityLgHeadingParagraphSpacing 0.8em
 #define BrkCardHighDensityLgHeadingTextDecoration none
 #define BrkCardHighDensityLgHeadingTextCase none
 #define BrkCardHighDensityLgSubtitleFontFamily Graphik
@@ -581,7 +581,7 @@
 #define BrkCardHighDensityLgSubtitleLineHeight 100%
 #define BrkCardHighDensityLgSubtitleFontSize 18
 #define BrkCardHighDensityLgSubtitleLetterSpacing -2%
-#define BrkCardHighDensityLgSubtitleParagraphSpacing 0
+#define BrkCardHighDensityLgSubtitleParagraphSpacing 0.8em
 #define BrkCardHighDensityLgSubtitleTextDecoration none
 #define BrkCardHighDensityLgSubtitleTextCase none
 #define BrkCardHighDensityLgBodyFontFamily Arial
@@ -589,7 +589,7 @@
 #define BrkCardHighDensityLgBodyLineHeight 85%
 #define BrkCardHighDensityLgBodyFontSize 15
 #define BrkCardHighDensityLgBodyLetterSpacing 2%
-#define BrkCardHighDensityLgBodyParagraphSpacing 0
+#define BrkCardHighDensityLgBodyParagraphSpacing 0.8em
 #define BrkCardHighDensityLgBodyTextDecoration none
 #define BrkCardHighDensityLgBodyTextCase none
 #define BrkCardHighDensityXlImageHeight 115
@@ -603,7 +603,7 @@
 #define BrkCardHighDensityXlHeadingLineHeight 100%
 #define BrkCardHighDensityXlHeadingFontSize 32
 #define BrkCardHighDensityXlHeadingLetterSpacing -2%
-#define BrkCardHighDensityXlHeadingParagraphSpacing 0
+#define BrkCardHighDensityXlHeadingParagraphSpacing 0.8em
 #define BrkCardHighDensityXlHeadingTextDecoration none
 #define BrkCardHighDensityXlHeadingTextCase none
 #define BrkCardHighDensityXlSubtitleFontFamily Graphik
@@ -611,7 +611,7 @@
 #define BrkCardHighDensityXlSubtitleLineHeight 100%
 #define BrkCardHighDensityXlSubtitleFontSize 22
 #define BrkCardHighDensityXlSubtitleLetterSpacing -2%
-#define BrkCardHighDensityXlSubtitleParagraphSpacing 0
+#define BrkCardHighDensityXlSubtitleParagraphSpacing 0.8em
 #define BrkCardHighDensityXlSubtitleTextDecoration none
 #define BrkCardHighDensityXlSubtitleTextCase none
 #define BrkCardHighDensityXlBodyFontFamily Arial
@@ -619,7 +619,7 @@
 #define BrkCardHighDensityXlBodyLineHeight 85%
 #define BrkCardHighDensityXlBodyFontSize 18
 #define BrkCardHighDensityXlBodyLetterSpacing 2%
-#define BrkCardHighDensityXlBodyParagraphSpacing 0
+#define BrkCardHighDensityXlBodyParagraphSpacing 0.8em
 #define BrkCardHighDensityXlBodyTextDecoration none
 #define BrkCardHighDensityXlBodyTextCase none
 #define BrkCardHighDensityStandardHeadingFontColor #2e49d1
@@ -1080,7 +1080,7 @@
 #define BrkTextSmBody1LetterSpacing 0%
 #define BrkTextSmBody1TextDecoration none
 #define BrkTextSmBody1TextCase none
-#define BrkTextSmBody1ParagraphSpacing 12%
+#define BrkTextSmBody1ParagraphSpacing 1.2em
 #define BrkTextSmBody2FontFamily Arial
 #define BrkTextSmBody2FontWeight Regular
 #define BrkTextSmBody2LineHeight 160%
@@ -1088,7 +1088,7 @@
 #define BrkTextSmBody2LetterSpacing 0%
 #define BrkTextSmBody2TextDecoration none
 #define BrkTextSmBody2TextCase none
-#define BrkTextSmBody2ParagraphSpacing 12%
+#define BrkTextSmBody2ParagraphSpacing 1.2em
 #define BrkTextSmCaptionFontFamily Arial
 #define BrkTextSmCaptionFontWeight Regular
 #define BrkTextSmCaptionLineHeight 120%
@@ -1145,7 +1145,7 @@
 #define BrkTextMdBody1LetterSpacing 0%
 #define BrkTextMdBody1TextDecoration none
 #define BrkTextMdBody1TextCase none
-#define BrkTextMdBody1ParagraphSpacing 12%
+#define BrkTextMdBody1ParagraphSpacing 1.2em
 #define BrkTextMdBody2FontFamily Arial
 #define BrkTextMdBody2FontWeight Regular
 #define BrkTextMdBody2LineHeight 160%
@@ -1153,7 +1153,7 @@
 #define BrkTextMdBody2LetterSpacing 0%
 #define BrkTextMdBody2TextDecoration none
 #define BrkTextMdBody2TextCase none
-#define BrkTextMdBody2ParagraphSpacing 12%
+#define BrkTextMdBody2ParagraphSpacing 1.2em
 #define BrkTextMdCaptionFontFamily Arial
 #define BrkTextMdCaptionFontWeight Regular
 #define BrkTextMdCaptionLineHeight 120%
@@ -1210,7 +1210,7 @@
 #define BrkTextLgBody1LetterSpacing 0%
 #define BrkTextLgBody1TextDecoration none
 #define BrkTextLgBody1TextCase none
-#define BrkTextLgBody1ParagraphSpacing 12%
+#define BrkTextLgBody1ParagraphSpacing 1.2em
 #define BrkTextLgBody2FontFamily Arial
 #define BrkTextLgBody2FontWeight Regular
 #define BrkTextLgBody2LineHeight 160%
@@ -1218,7 +1218,7 @@
 #define BrkTextLgBody2LetterSpacing 0%
 #define BrkTextLgBody2TextDecoration none
 #define BrkTextLgBody2TextCase none
-#define BrkTextLgBody2ParagraphSpacing 12%
+#define BrkTextLgBody2ParagraphSpacing 1.2em
 #define BrkTextLgCaptionFontFamily Arial
 #define BrkTextLgCaptionFontWeight Regular
 #define BrkTextLgCaptionLineHeight 120%
@@ -1275,7 +1275,7 @@
 #define BrkTextXlBody1LetterSpacing 0%
 #define BrkTextXlBody1TextDecoration none
 #define BrkTextXlBody1TextCase none
-#define BrkTextXlBody1ParagraphSpacing 12%
+#define BrkTextXlBody1ParagraphSpacing 1.2em
 #define BrkTextXlBody2FontFamily Arial
 #define BrkTextXlBody2FontWeight Regular
 #define BrkTextXlBody2LineHeight 160%
@@ -1283,7 +1283,7 @@
 #define BrkTextXlBody2LetterSpacing 0%
 #define BrkTextXlBody2TextDecoration none
 #define BrkTextXlBody2TextCase none
-#define BrkTextXlBody2ParagraphSpacing 12%
+#define BrkTextXlBody2ParagraphSpacing 1.2em
 #define BrkTextXlCaptionFontFamily Arial
 #define BrkTextXlCaptionFontWeight Regular
 #define BrkTextXlCaptionLineHeight 120%
