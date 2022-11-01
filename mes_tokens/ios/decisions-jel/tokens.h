@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Tue, 01 Nov 2022 18:45:06 GMT
+// Generated on Tue, 01 Nov 2022 20:41:15 GMT
 
 
 #import <Foundation/Foundation.h>
@@ -1090,6 +1090,15 @@
 #define BrkTextSmBody2ParagraphSpacing 1.2em
 #define BrkTextSmBody2TextDecoration none
 #define BrkTextSmBody2TextCase none
+#define BrkTextSmListeUl1FontFamily Arial
+#define BrkTextSmListeUl1FontWeight Regular
+#define BrkTextSmListeUl1LineHeight 160%
+#define BrkTextSmListeUl1FontSize 16
+#define BrkTextSmListeUl1LetterSpacing 0%
+#define BrkTextSmListeUl1ParagraphSpacing 1.2em
+#define BrkTextSmListeUl1TextDecoration none
+#define BrkTextSmListeUl1TextCase none
+#define BrkTextSmListeUl1ParagraphIndent 10
 #define BrkTextSmCaptionFontFamily Arial
 #define BrkTextSmCaptionFontWeight Regular
 #define BrkTextSmCaptionLineHeight 120%
@@ -1314,10 +1323,12 @@
 #define BrkTextXlCaptionParagraphSpacing 
 #define BrkTextXlCaptionTextDecoration none
 #define BrkTextXlCaptionTextCase none
-#define BrkTextHeadingMarginTop 1em
+#define BrkTextHeadingMarginTop 1.2em
 #define BrkTextHeadingMarginBottom 0.6em
 #define BrkTextBodyMarginTop 0.6em
 #define BrkTextBodyMarginBottom 0.6em
+#define BrkTextListMarginTop 0.6em
+#define BrkTextListMarginBottom 0.6em
 #define BrkTextCaptionMarginTop 0.6em
 #define BrkTextCaptionMarginBottom 0.6em
 #define BrkTextStandardHeading1FontColor #090f2a
