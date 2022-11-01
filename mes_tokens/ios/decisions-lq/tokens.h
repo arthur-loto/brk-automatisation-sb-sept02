@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Tue, 01 Nov 2022 16:01:37 GMT
+// Generated on Tue, 01 Nov 2022 16:05:38 GMT
 
 
 #import <Foundation/Foundation.h>
@@ -1291,6 +1291,8 @@
 #define BrkTextXlCaptionLetterSpacing 0%
 #define BrkTextXlCaptionTextDecoration none
 #define BrkTextXlCaptionTextCase none
+#define BrkTextHeadingMarginTop 1.6em
+#define BrkTextHeadingMarginBottom 1.2em
 #define BrkTextStandardHeading1FontColor #2e49d1
 #define BrkTextStandardHeading2FontColor #2e49d1
 #define BrkTextStandardHeading3FontColor #253aa7
