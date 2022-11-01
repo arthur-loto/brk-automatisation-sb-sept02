@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Mon, 31 Oct 2022 18:13:59 GMT
+ * Generated on Tue, 01 Nov 2022 14:00:02 GMT
  */
 
 :root {
@@ -1024,7 +1024,7 @@
   --brk-template-sm-margin-bottom: 48px;
   --brk-template-sm-margin-horizontal: 32px;
   --brk-template-sm-margin-top: 0px;
-  --brk-text-heading-marging-top: 1.2px;
+  --brk-text-heading-margin-top: 1.2empx;
   --brk-text-inverted-body-1-font-color: #d5dbf6;
   --brk-text-inverted-body-2-font-color: #ffffff;
   --brk-text-inverted-caption-font-color: #ffffff;
@@ -1207,7 +1207,7 @@
   --brk-text-sm-heading-1-font-weight: Super;
   --brk-text-sm-heading-1-letter-spacing: -2%;
   --brk-text-sm-heading-1-line-height: 120%;
-  --brk-text-sm-heading-1-paragraph-spacing: ;
+  --brk-text-sm-heading-1-paragraph-spacing: 2em;
   --brk-text-sm-heading-1-text-case: none;
   --brk-text-sm-heading-1-text-decoration: none;
   --brk-text-sm-heading-2-font-family: Graphik;
@@ -1215,7 +1215,7 @@
   --brk-text-sm-heading-2-font-weight: Super;
   --brk-text-sm-heading-2-letter-spacing: -2%;
   --brk-text-sm-heading-2-line-height: 120%;
-  --brk-text-sm-heading-2-paragraph-spacing: ;
+  --brk-text-sm-heading-2-paragraph-spacing: 1.2em;
   --brk-text-sm-heading-2-text-case: none;
   --brk-text-sm-heading-2-text-decoration: none;
   --brk-text-sm-heading-3-font-family: Graphik;

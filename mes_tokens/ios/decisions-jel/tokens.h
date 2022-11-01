@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Mon, 31 Oct 2022 18:13:59 GMT
+// Generated on Tue, 01 Nov 2022 14:00:02 GMT
 
 
 #import <Foundation/Foundation.h>
@@ -1031,7 +1031,7 @@
 #define BrkTextSmHeading1LineHeight 120%
 #define BrkTextSmHeading1FontSize 32
 #define BrkTextSmHeading1LetterSpacing -2%
-#define BrkTextSmHeading1ParagraphSpacing 
+#define BrkTextSmHeading1ParagraphSpacing 2em
 #define BrkTextSmHeading1TextDecoration none
 #define BrkTextSmHeading1TextCase none
 #define BrkTextSmHeading2FontFamily Graphik
@@ -1039,7 +1039,7 @@
 #define BrkTextSmHeading2LineHeight 120%
 #define BrkTextSmHeading2FontSize 28
 #define BrkTextSmHeading2LetterSpacing -2%
-#define BrkTextSmHeading2ParagraphSpacing 
+#define BrkTextSmHeading2ParagraphSpacing 1.2em
 #define BrkTextSmHeading2TextDecoration none
 #define BrkTextSmHeading2TextCase none
 #define BrkTextSmHeading3FontFamily Graphik
@@ -1314,7 +1314,7 @@
 #define BrkTextXlCaptionParagraphSpacing 
 #define BrkTextXlCaptionTextDecoration none
 #define BrkTextXlCaptionTextCase none
-#define BrkTextHeadingMargingTop 1.2
+#define BrkTextHeadingMarginTop 1.2em
 #define BrkTextStandardHeading1FontColor #090f2a
 #define BrkTextStandardHeading2FontColor #192872
 #define BrkTextStandardHeading3FontColor #192872
