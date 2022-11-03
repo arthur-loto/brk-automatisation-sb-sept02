@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Thu, 03 Nov 2022 20:47:40 GMT
+// Generated on Thu, 03 Nov 2022 21:29:04 GMT
 
 
 #import <Foundation/Foundation.h>
@@ -1331,7 +1331,12 @@
 #define BrkTextStandardBody1FontColor #121d54
 #define BrkTextStandardBody2FontColor #090f2a
 #define BrkTextStandardCaptionFontColor #090f2a
-#define BrkTextStandardBodyLinkFontColorDefault #253aa7
+#define BrkLinkTextStandardBodyFontColorDefault #253aa7
+#define BrkLinkTextStandardBodyFontColorHover #253aa7
+#define BrkLinkTextStandardBodyFontColorFocus #253aa7
+#define BrkLinkTextInvertedBodyFontColorDefault #586dda
+#define BrkLinkTextInvertedBodyFontColorHover #586dda
+#define BrkLinkTextInvertedBodyFontColorFocus #586dda
 #define BrkTextInvertedHeading1FontColor #d5dbf6
 #define BrkTextInvertedHeading2FontColor #abb6ed
 #define BrkTextInvertedHeading3FontColor #abb6ed
