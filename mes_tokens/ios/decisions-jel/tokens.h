@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Thu, 03 Nov 2022 17:33:50 GMT
+// Generated on Thu, 03 Nov 2022 18:18:05 GMT
 
 
 #import <Foundation/Foundation.h>
@@ -1090,15 +1090,6 @@
 #define BrkTextSmBody2ParagraphSpacing 1.2em
 #define BrkTextSmBody2TextDecoration none
 #define BrkTextSmBody2TextCase none
-#define BrkTextSmListeUl1FontFamily Arial
-#define BrkTextSmListeUl1FontWeight Regular
-#define BrkTextSmListeUl1LineHeight 160%
-#define BrkTextSmListeUl1FontSize 16
-#define BrkTextSmListeUl1LetterSpacing 0%
-#define BrkTextSmListeUl1ParagraphSpacing 1.2em
-#define BrkTextSmListeUl1TextDecoration none
-#define BrkTextSmListeUl1TextCase none
-#define BrkTextSmListeUl1ParagraphIndent 10
 #define BrkTextSmCaptionFontFamily Arial
 #define BrkTextSmCaptionFontWeight Regular
 #define BrkTextSmCaptionLineHeight 120%
@@ -1358,4 +1349,6 @@
 #define BrkThumbnailProductMdImageHeight 270
 #define BrkThumbnailProductMdContentGap 16
 #define BrkThumbnailProductImageBackgroundColorStandard #060606
+#define BrkTextStyleStrong bold
+#define BrkTextStyleEmphasis italic
 
