@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Thu, 03 Nov 2022 19:06:03 GMT
+// Generated on Thu, 03 Nov 2022 19:34:03 GMT
 
 
 #import <Foundation/Foundation.h>
@@ -1330,4 +1330,6 @@
 #define BrkTextStyleBodyEmphasis italic
 #define BrkTextStyleCaptionStrong Bold
 #define BrkTextStyleCaptionEmphasis italic
+#define BrkLinkTextStandardBody1Default [object Object]
+#define BrkLinkTextStandardBody1Hover [object Object]
 
