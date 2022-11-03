@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Thu, 03 Nov 2022 18:18:05 GMT
+// Generated on Thu, 03 Nov 2022 18:23:28 GMT
 
 
 #import <Foundation/Foundation.h>
@@ -1324,4 +1324,6 @@
 #define BrkThumbnailProductMdImageHeight 270
 #define BrkThumbnailProductMdContentGap 16
 #define BrkThumbnailProductImageBackgroundColourStandard #121d54
+#define BrkTextStyleStrong bold
+#define BrkTextStyleEmphasis italic
 
