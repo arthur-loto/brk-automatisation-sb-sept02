@@ -33,7 +33,7 @@
     "@vue/cli-plugin-eslint": "^5.0.4",
     "@vue/cli-service": "^5.0.4",
     "babel-loader": "^8.2.5",
-    "brk-figma-mvp1": "^1.1.0-alpha.174",
+    "brk-figma-mvp1": "^1.1.0-alpha.175",
     "copyfiles": "^2.4.1",
     "css-loader": "^6.7.1",
     "replace-in-file": "^6.3.5",

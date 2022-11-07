@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Mon, 07 Nov 2022 16:45:18 GMT
+ * Generated on Mon, 07 Nov 2022 16:47:49 GMT
  */
 
 :root {
@@ -1026,12 +1026,19 @@
   --brk-promo-tertiary-xl-pretitle-text-case: none;
   --brk-promo-tertiary-xl-pretitle-text-decoration: none;
   --brk-template-content-max-width: 1600px;
+  --brk-template-lg-content-gap-horizontal: 32px;
+  --brk-template-lg-content-gap-vertical: 40px;
+  --brk-template-lg-margin-bottom: 64px;
   --brk-template-lg-margin-horizontal: 32px;
+  --brk-template-lg-margin-top: 0px;
+  --brk-template-md-content-gap-horizontal: 24px;
+  --brk-template-md-content-gap-vertical: 32px;
+  --brk-template-md-margin-bottom: 48px;
   --brk-template-md-margin-horizontal: 24px;
-  --brk-template-sm-content-gap-extra: 16px;
+  --brk-template-md-margin-top: 0px;
   --brk-template-sm-content-gap-horizontal: 16px;
   --brk-template-sm-content-gap-vertical: 24px;
-  --brk-template-sm-margin-bottom: 48px;
+  --brk-template-sm-margin-bottom: 40px;
   --brk-template-sm-margin-horizontal: 16px;
   --brk-template-sm-margin-top: 0px;
   --brk-text-body-margin-bottom: 0.6em;
