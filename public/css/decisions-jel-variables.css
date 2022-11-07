@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Mon, 07 Nov 2022 15:54:49 GMT
+ * Generated on Mon, 07 Nov 2022 16:45:18 GMT
  */
 
 :root {
@@ -1034,12 +1034,12 @@
   --brk-template-sm-margin-bottom: 48px;
   --brk-template-sm-margin-horizontal: 16px;
   --brk-template-sm-margin-top: 0px;
-  --brk-text-body-margin-bottom: 0.6empx;
-  --brk-text-body-margin-top: 0.6empx;
-  --brk-text-caption-margin-bottom: 0.6empx;
-  --brk-text-caption-margin-top: 0.6empx;
-  --brk-text-heading-margin-bottom: 0.6empx;
-  --brk-text-heading-margin-top: 1.2empx;
+  --brk-text-body-margin-bottom: 0.6em;
+  --brk-text-body-margin-top: 0.6em;
+  --brk-text-caption-margin-bottom: 0.6em;
+  --brk-text-caption-margin-top: 0.6em;
+  --brk-text-heading-margin-bottom: 0.6em;
+  --brk-text-heading-margin-top: 1.2em;
   --brk-text-inverted-body-1-font-color: #d5dbf6;
   --brk-text-inverted-body-2-font-color: #ffffff;
   --brk-text-inverted-caption-font-color: #ffffff;
@@ -1121,8 +1121,8 @@
   --brk-text-lg-heading-6-paragraph-spacing: ;
   --brk-text-lg-heading-6-text-case: none;
   --brk-text-lg-heading-6-text-decoration: none;
-  --brk-text-list-margin-bottom: 0.6empx;
-  --brk-text-list-margin-top: 0.6empx;
+  --brk-text-list-margin-bottom: 0.6em;
+  --brk-text-list-margin-top: 0.6em;
   --brk-text-md-body-1-font-family: Arial;
   --brk-text-md-body-1-font-size: 20px;
   --brk-text-md-body-1-font-weight: Bold;
