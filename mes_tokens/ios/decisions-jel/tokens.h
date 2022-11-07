@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Thu, 03 Nov 2022 21:29:04 GMT
+// Generated on Mon, 07 Nov 2022 15:54:49 GMT
 
 
 #import <Foundation/Foundation.h>
@@ -1021,9 +1021,11 @@
 #define BrkTemplateSmContentGapHorizontal 16
 #define BrkTemplateSmContentGapVertical 24
 #define BrkTemplateSmContentGapExtra 16
-#define BrkTemplateSmMarginHorizontal 32
+#define BrkTemplateSmMarginHorizontal 16
 #define BrkTemplateSmMarginTop 0
 #define BrkTemplateSmMarginBottom 48
+#define BrkTemplateMdMarginHorizontal 24
+#define BrkTemplateLgMarginHorizontal 32
 #define BrkTemplateContentMaxWidth 1600
 #define BrkHeaderMainStandardBackgroundColor #060606
 #define BrkTextSmHeading1FontFamily Graphik
