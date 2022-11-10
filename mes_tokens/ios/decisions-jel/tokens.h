@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Thu, 10 Nov 2022 21:12:55 GMT
+// Generated on Thu, 10 Nov 2022 21:49:08 GMT
 
 
 #import <Foundation/Foundation.h>
@@ -1148,4 +1148,7 @@
 #define BrkTextStyleCaptionEmphasis italic
 #define BrkLinkTextDefault underline
 #define BrkLinkTextHover none
+#define BrkTextRatioSm 1.2
+#define BrkTextRatioMd 1.24
+#define BrkTextRatioLg 1.28
 
