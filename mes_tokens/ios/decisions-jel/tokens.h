@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Wed, 09 Nov 2022 21:31:16 GMT
+// Generated on Thu, 10 Nov 2022 21:12:55 GMT
 
 
 #import <Foundation/Foundation.h>
@@ -1037,10 +1037,10 @@
 #define BrkHeaderMainStandardBackgroundColor #060606
 #define BrkTextHeading1FontFamily Graphik
 #define BrkTextHeading1FontWeight 950
-#define BrkTextHeading1LineHeight 120%
-#define BrkTextHeading1FontSize 32
+#define BrkTextHeading1LineHeight 110%
+#define BrkTextHeading1FontSize 
 #define BrkTextHeading1LetterSpacing -2%
-#define BrkTextHeading1ParagraphSpacing 2em
+#define BrkTextHeading1ParagraphSpacing 1em
 #define BrkTextHeading1TextDecoration none
 #define BrkTextHeading1TextCase none
 #define BrkTextBodyBaseFontFamily Arial
@@ -1052,45 +1052,37 @@
 #define BrkTextBodyBaseTextDecoration none
 #define BrkTextBodyBaseTextCase none
 #define BrkTextHeading2FontFamily Graphik
-#define BrkTextHeading2FontWeight 950
+#define BrkTextHeading2FontWeight 700
 #define BrkTextHeading2LineHeight 120%
-#define BrkTextHeading2FontSize 28
-#define BrkTextHeading2LetterSpacing -2%
+#define BrkTextHeading2FontSize 
+#define BrkTextHeading2LetterSpacing 0%
 #define BrkTextHeading2ParagraphSpacing 1.2em
 #define BrkTextHeading2TextDecoration none
 #define BrkTextHeading2TextCase none
 #define BrkTextHeading3FontFamily Graphik
-#define BrkTextHeading3FontWeight 950
+#define BrkTextHeading3FontWeight 700
 #define BrkTextHeading3LineHeight 120%
-#define BrkTextHeading3FontSize 26
-#define BrkTextHeading3LetterSpacing -2%
-#define BrkTextHeading3ParagraphSpacing 
+#define BrkTextHeading3FontSize 
+#define BrkTextHeading3LetterSpacing 0%
+#define BrkTextHeading3ParagraphSpacing 1em
 #define BrkTextHeading3TextDecoration none
 #define BrkTextHeading3TextCase none
-#define BrkTextHeading4FontFamily Graphik
-#define BrkTextHeading4FontWeight 950
-#define BrkTextHeading4LineHeight 120%
-#define BrkTextHeading4FontSize 22
-#define BrkTextHeading4LetterSpacing -2%
-#define BrkTextHeading4ParagraphSpacing 
-#define BrkTextHeading4TextDecoration none
-#define BrkTextHeading4TextCase none
-#define BrkTextHeading5FontFamily Graphik
-#define BrkTextHeading5FontWeight 950
-#define BrkTextHeading5LineHeight 120%
-#define BrkTextHeading5FontSize 20
-#define BrkTextHeading5LetterSpacing -2%
-#define BrkTextHeading5ParagraphSpacing 
-#define BrkTextHeading5TextDecoration none
-#define BrkTextHeading5TextCase none
-#define BrkTextHeading6FontFamily Graphik
-#define BrkTextHeading6FontWeight 950
-#define BrkTextHeading6LineHeight 120%
-#define BrkTextHeading6FontSize 18
-#define BrkTextHeading6LetterSpacing -2%
-#define BrkTextHeading6ParagraphSpacing 
-#define BrkTextHeading6TextDecoration none
-#define BrkTextHeading6TextCase none
+#define BrkTextDisplay2FontFamily Graphik
+#define BrkTextDisplay2FontWeight 950
+#define BrkTextDisplay2LineHeight 110%
+#define BrkTextDisplay2FontSize 
+#define BrkTextDisplay2LetterSpacing -2%
+#define BrkTextDisplay2ParagraphSpacing 1em
+#define BrkTextDisplay2TextDecoration none
+#define BrkTextDisplay2TextCase none
+#define BrkTextDisplay1FontFamily Graphik
+#define BrkTextDisplay1FontWeight 950
+#define BrkTextDisplay1LineHeight 100%
+#define BrkTextDisplay1FontSize 
+#define BrkTextDisplay1LetterSpacing -2%
+#define BrkTextDisplay1ParagraphSpacing 1em
+#define BrkTextDisplay1TextDecoration none
+#define BrkTextDisplay1TextCase none
 #define BrkTextBody2FontFamily Arial
 #define BrkTextBody2FontWeight 400
 #define BrkTextBody2LineHeight 140%
@@ -1107,222 +1099,6 @@
 #define BrkTextCaptionParagraphSpacing 0.8em
 #define BrkTextCaptionTextDecoration none
 #define BrkTextCaptionTextCase none
-#define BrkTextMdHeading1FontFamily Graphik
-#define BrkTextMdHeading1FontWeight 950
-#define BrkTextMdHeading1LineHeight 120%
-#define BrkTextMdHeading1FontSize 36
-#define BrkTextMdHeading1LetterSpacing -2%
-#define BrkTextMdHeading1ParagraphSpacing 
-#define BrkTextMdHeading1TextDecoration none
-#define BrkTextMdHeading1TextCase none
-#define BrkTextMdHeading2FontFamily Graphik
-#define BrkTextMdHeading2FontWeight 950
-#define BrkTextMdHeading2LineHeight 120%
-#define BrkTextMdHeading2FontSize 32
-#define BrkTextMdHeading2LetterSpacing -2%
-#define BrkTextMdHeading2ParagraphSpacing 
-#define BrkTextMdHeading2TextDecoration none
-#define BrkTextMdHeading2TextCase none
-#define BrkTextMdHeading3FontFamily Graphik
-#define BrkTextMdHeading3FontWeight 950
-#define BrkTextMdHeading3LineHeight 120%
-#define BrkTextMdHeading3FontSize 28
-#define BrkTextMdHeading3LetterSpacing -2%
-#define BrkTextMdHeading3ParagraphSpacing 
-#define BrkTextMdHeading3TextDecoration none
-#define BrkTextMdHeading3TextCase none
-#define BrkTextMdHeading4FontFamily Graphik
-#define BrkTextMdHeading4FontWeight 950
-#define BrkTextMdHeading4LineHeight 120%
-#define BrkTextMdHeading4FontSize 24
-#define BrkTextMdHeading4LetterSpacing -2%
-#define BrkTextMdHeading4ParagraphSpacing 
-#define BrkTextMdHeading4TextDecoration none
-#define BrkTextMdHeading4TextCase none
-#define BrkTextMdHeading5FontFamily Graphik
-#define BrkTextMdHeading5FontWeight 950
-#define BrkTextMdHeading5LineHeight 120%
-#define BrkTextMdHeading5FontSize 22
-#define BrkTextMdHeading5LetterSpacing -2%
-#define BrkTextMdHeading5ParagraphSpacing 
-#define BrkTextMdHeading5TextDecoration none
-#define BrkTextMdHeading5TextCase none
-#define BrkTextMdHeading6FontFamily Graphik
-#define BrkTextMdHeading6FontWeight 950
-#define BrkTextMdHeading6LineHeight 120%
-#define BrkTextMdHeading6FontSize 20
-#define BrkTextMdHeading6LetterSpacing -2%
-#define BrkTextMdHeading6ParagraphSpacing 
-#define BrkTextMdHeading6TextDecoration none
-#define BrkTextMdHeading6TextCase none
-#define BrkTextMdBody1FontFamily Arial
-#define BrkTextMdBody1FontWeight 700
-#define BrkTextMdBody1LineHeight 160%
-#define BrkTextMdBody1FontSize 20
-#define BrkTextMdBody1LetterSpacing 0%
-#define BrkTextMdBody1ParagraphSpacing 1.2em
-#define BrkTextMdBody1TextDecoration none
-#define BrkTextMdBody1TextCase none
-#define BrkTextMdBody2FontFamily Arial
-#define BrkTextMdBody2FontWeight 400
-#define BrkTextMdBody2LineHeight 160%
-#define BrkTextMdBody2FontSize 18
-#define BrkTextMdBody2LetterSpacing 0%
-#define BrkTextMdBody2ParagraphSpacing 1.2em
-#define BrkTextMdBody2TextDecoration none
-#define BrkTextMdBody2TextCase none
-#define BrkTextMdCaptionFontFamily Arial
-#define BrkTextMdCaptionFontWeight 400
-#define BrkTextMdCaptionLineHeight 120%
-#define BrkTextMdCaptionFontSize 14
-#define BrkTextMdCaptionLetterSpacing 0%
-#define BrkTextMdCaptionParagraphSpacing 
-#define BrkTextMdCaptionTextDecoration none
-#define BrkTextMdCaptionTextCase none
-#define BrkTextLgHeading1FontFamily Graphik
-#define BrkTextLgHeading1FontWeight 950
-#define BrkTextLgHeading1LineHeight 120%
-#define BrkTextLgHeading1FontSize 42
-#define BrkTextLgHeading1LetterSpacing -2%
-#define BrkTextLgHeading1ParagraphSpacing 
-#define BrkTextLgHeading1TextDecoration none
-#define BrkTextLgHeading1TextCase none
-#define BrkTextLgHeading2FontFamily Graphik
-#define BrkTextLgHeading2FontWeight 950
-#define BrkTextLgHeading2LineHeight 120%
-#define BrkTextLgHeading2FontSize 36
-#define BrkTextLgHeading2LetterSpacing -2%
-#define BrkTextLgHeading2ParagraphSpacing 
-#define BrkTextLgHeading2TextDecoration none
-#define BrkTextLgHeading2TextCase none
-#define BrkTextLgHeading3FontFamily Graphik
-#define BrkTextLgHeading3FontWeight 950
-#define BrkTextLgHeading3LineHeight 120%
-#define BrkTextLgHeading3FontSize 32
-#define BrkTextLgHeading3LetterSpacing -2%
-#define BrkTextLgHeading3ParagraphSpacing 
-#define BrkTextLgHeading3TextDecoration none
-#define BrkTextLgHeading3TextCase none
-#define BrkTextLgHeading4FontFamily Graphik
-#define BrkTextLgHeading4FontWeight 950
-#define BrkTextLgHeading4LineHeight 120%
-#define BrkTextLgHeading4FontSize 28
-#define BrkTextLgHeading4LetterSpacing -2%
-#define BrkTextLgHeading4ParagraphSpacing 
-#define BrkTextLgHeading4TextDecoration none
-#define BrkTextLgHeading4TextCase none
-#define BrkTextLgHeading5FontFamily Graphik
-#define BrkTextLgHeading5FontWeight 950
-#define BrkTextLgHeading5LineHeight 120%
-#define BrkTextLgHeading5FontSize 26
-#define BrkTextLgHeading5LetterSpacing -2%
-#define BrkTextLgHeading5ParagraphSpacing 
-#define BrkTextLgHeading5TextDecoration none
-#define BrkTextLgHeading5TextCase none
-#define BrkTextLgHeading6FontFamily Graphik
-#define BrkTextLgHeading6FontWeight 950
-#define BrkTextLgHeading6LineHeight 120%
-#define BrkTextLgHeading6FontSize 22
-#define BrkTextLgHeading6LetterSpacing -2%
-#define BrkTextLgHeading6ParagraphSpacing 
-#define BrkTextLgHeading6TextDecoration none
-#define BrkTextLgHeading6TextCase none
-#define BrkTextLgBody1FontFamily Arial
-#define BrkTextLgBody1FontWeight 700
-#define BrkTextLgBody1LineHeight 160%
-#define BrkTextLgBody1FontSize 22
-#define BrkTextLgBody1LetterSpacing 0%
-#define BrkTextLgBody1ParagraphSpacing 1.2em
-#define BrkTextLgBody1TextDecoration none
-#define BrkTextLgBody1TextCase none
-#define BrkTextLgBody2FontFamily Arial
-#define BrkTextLgBody2FontWeight 400
-#define BrkTextLgBody2LineHeight 160%
-#define BrkTextLgBody2FontSize 20
-#define BrkTextLgBody2LetterSpacing 0%
-#define BrkTextLgBody2ParagraphSpacing 1.2em
-#define BrkTextLgBody2TextDecoration none
-#define BrkTextLgBody2TextCase none
-#define BrkTextLgCaptionFontFamily Arial
-#define BrkTextLgCaptionFontWeight 400
-#define BrkTextLgCaptionLineHeight 120%
-#define BrkTextLgCaptionFontSize 16
-#define BrkTextLgCaptionLetterSpacing 0%
-#define BrkTextLgCaptionParagraphSpacing 
-#define BrkTextLgCaptionTextDecoration none
-#define BrkTextLgCaptionTextCase none
-#define BrkTextXlHeading1FontFamily Graphik
-#define BrkTextXlHeading1FontWeight 950
-#define BrkTextXlHeading1LineHeight 120%
-#define BrkTextXlHeading1FontSize 48
-#define BrkTextXlHeading1LetterSpacing -2%
-#define BrkTextXlHeading1ParagraphSpacing 
-#define BrkTextXlHeading1TextDecoration none
-#define BrkTextXlHeading1TextCase none
-#define BrkTextXlHeading2FontFamily Graphik
-#define BrkTextXlHeading2FontWeight 950
-#define BrkTextXlHeading2LineHeight 120%
-#define BrkTextXlHeading2FontSize 42
-#define BrkTextXlHeading2LetterSpacing -2%
-#define BrkTextXlHeading2ParagraphSpacing 
-#define BrkTextXlHeading2TextDecoration none
-#define BrkTextXlHeading2TextCase none
-#define BrkTextXlHeading3FontFamily Graphik
-#define BrkTextXlHeading3FontWeight 950
-#define BrkTextXlHeading3LineHeight 120%
-#define BrkTextXlHeading3FontSize 36
-#define BrkTextXlHeading3LetterSpacing -2%
-#define BrkTextXlHeading3ParagraphSpacing 
-#define BrkTextXlHeading3TextDecoration none
-#define BrkTextXlHeading3TextCase none
-#define BrkTextXlHeading4FontFamily Graphik
-#define BrkTextXlHeading4FontWeight 950
-#define BrkTextXlHeading4LineHeight 120%
-#define BrkTextXlHeading4FontSize 32
-#define BrkTextXlHeading4LetterSpacing -2%
-#define BrkTextXlHeading4ParagraphSpacing 
-#define BrkTextXlHeading4TextDecoration none
-#define BrkTextXlHeading4TextCase none
-#define BrkTextXlHeading5FontFamily Graphik
-#define BrkTextXlHeading5FontWeight 950
-#define BrkTextXlHeading5LineHeight 120%
-#define BrkTextXlHeading5FontSize 28
-#define BrkTextXlHeading5LetterSpacing -2%
-#define BrkTextXlHeading5ParagraphSpacing 
-#define BrkTextXlHeading5TextDecoration none
-#define BrkTextXlHeading5TextCase none
-#define BrkTextXlHeading6FontFamily Graphik
-#define BrkTextXlHeading6FontWeight 950
-#define BrkTextXlHeading6LineHeight 120%
-#define BrkTextXlHeading6FontSize 26
-#define BrkTextXlHeading6LetterSpacing -2%
-#define BrkTextXlHeading6ParagraphSpacing 
-#define BrkTextXlHeading6TextDecoration none
-#define BrkTextXlHeading6TextCase none
-#define BrkTextXlBody1FontFamily Arial
-#define BrkTextXlBody1FontWeight 700
-#define BrkTextXlBody1LineHeight 160%
-#define BrkTextXlBody1FontSize 26
-#define BrkTextXlBody1LetterSpacing 0%
-#define BrkTextXlBody1ParagraphSpacing 1.2em
-#define BrkTextXlBody1TextDecoration none
-#define BrkTextXlBody1TextCase none
-#define BrkTextXlBody2FontFamily Arial
-#define BrkTextXlBody2FontWeight 400
-#define BrkTextXlBody2LineHeight 160%
-#define BrkTextXlBody2FontSize 22
-#define BrkTextXlBody2LetterSpacing 0%
-#define BrkTextXlBody2ParagraphSpacing 1.2em
-#define BrkTextXlBody2TextDecoration none
-#define BrkTextXlBody2TextCase none
-#define BrkTextXlCaptionFontFamily Arial
-#define BrkTextXlCaptionFontWeight 400
-#define BrkTextXlCaptionLineHeight 120%
-#define BrkTextXlCaptionFontSize 18
-#define BrkTextXlCaptionLetterSpacing 0%
-#define BrkTextXlCaptionParagraphSpacing 
-#define BrkTextXlCaptionTextDecoration none
-#define BrkTextXlCaptionTextCase none
 #define BrkTextHeadingMarginTop 1.2em
 #define BrkTextHeadingMarginBottom 0.6em
 #define BrkTextBodyMarginTop 0.6em
