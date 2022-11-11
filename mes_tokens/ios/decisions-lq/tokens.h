@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Thu, 10 Nov 2022 21:52:36 GMT
+// Generated on Fri, 11 Nov 2022 16:00:48 GMT
 
 
 #import <Foundation/Foundation.h>
@@ -1347,4 +1347,36 @@
 #define BrkLinkTextInvertedBodyFontColorDefault #abb6ed
 #define BrkLinkTextInvertedBodyFontColorHover #abb6ed
 #define BrkLinkTextInvertedBodyFontColorFocus #abb6ed
+#define BrkButtonTextSmLabelFontFamily Arial
+#define BrkButtonTextSmLabelFontWeight 700
+#define BrkButtonTextSmLabelLineHeight 85%
+#define BrkButtonTextSmLabelFontSize 10
+#define BrkButtonTextSmLabelLetterSpacing 2%
+#define BrkButtonTextSmLabelParagraphSpacing 
+#define BrkButtonTextSmLabelTextCase none
+#define BrkButtonTextSmLabelTextDecoration underline
+#define BrkButtonTextMdLabelFontFamily Arial
+#define BrkButtonTextMdLabelFontWeight 700
+#define BrkButtonTextMdLabelLineHeight 85%
+#define BrkButtonTextMdLabelFontSize 14
+#define BrkButtonTextMdLabelLetterSpacing 2%
+#define BrkButtonTextMdLabelParagraphSpacing 
+#define BrkButtonTextMdLabelTextCase none
+#define BrkButtonTextMdLabelTextDecoration underline
+#define BrkButtonTextLgLabelFontFamily Arial
+#define BrkButtonTextLgLabelFontWeight 700
+#define BrkButtonTextLgLabelLineHeight 85%
+#define BrkButtonTextLgLabelFontSize 18
+#define BrkButtonTextLgLabelLetterSpacing 2%
+#define BrkButtonTextLgLabelParagraphSpacing 
+#define BrkButtonTextLgLabelTextCase none
+#define BrkButtonTextLgLabelTextDecoration underline
+#define BrkButtonTextXlLabelFontFamily Arial
+#define BrkButtonTextXlLabelFontWeight 700
+#define BrkButtonTextXlLabelLineHeight 85%
+#define BrkButtonTextXlLabelFontSize 22
+#define BrkButtonTextXlLabelLetterSpacing 2%
+#define BrkButtonTextXlLabelParagraphSpacing 
+#define BrkButtonTextXlLabelTextCase none
+#define BrkButtonTextXlLabelTextDecoration underline
 
