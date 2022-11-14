@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Mon, 14 Nov 2022 13:38:42 GMT
+// Generated on Mon, 14 Nov 2022 15:13:17 GMT
 
 
 #import <Foundation/Foundation.h>
@@ -1035,6 +1035,22 @@
 #define BrkTemplateLgMarginTop 0
 #define BrkTemplateLgMarginBottom 64
 #define BrkHeaderMainStandardBackgroundColor #060606
+#define BrkTextDisplay1FontFamily Graphik
+#define BrkTextDisplay1FontWeight 950
+#define BrkTextDisplay1LineHeight 100%
+#define BrkTextDisplay1FontSize 
+#define BrkTextDisplay1LetterSpacing -2%
+#define BrkTextDisplay1ParagraphSpacing 1em
+#define BrkTextDisplay1TextDecoration none
+#define BrkTextDisplay1TextCase none
+#define BrkTextDisplay2FontFamily Graphik
+#define BrkTextDisplay2FontWeight 950
+#define BrkTextDisplay2LineHeight 110%
+#define BrkTextDisplay2FontSize 
+#define BrkTextDisplay2LetterSpacing -2%
+#define BrkTextDisplay2ParagraphSpacing 1em
+#define BrkTextDisplay2TextDecoration none
+#define BrkTextDisplay2TextCase none
 #define BrkTextHeading1FontFamily Graphik
 #define BrkTextHeading1FontWeight 950
 #define BrkTextHeading1LineHeight 110%
@@ -1067,22 +1083,6 @@
 #define BrkTextHeading3ParagraphSpacing 1em
 #define BrkTextHeading3TextDecoration none
 #define BrkTextHeading3TextCase none
-#define BrkTextDisplay2FontFamily Graphik
-#define BrkTextDisplay2FontWeight 950
-#define BrkTextDisplay2LineHeight 110%
-#define BrkTextDisplay2FontSize 
-#define BrkTextDisplay2LetterSpacing -2%
-#define BrkTextDisplay2ParagraphSpacing 1em
-#define BrkTextDisplay2TextDecoration none
-#define BrkTextDisplay2TextCase none
-#define BrkTextDisplay1FontFamily Graphik
-#define BrkTextDisplay1FontWeight 950
-#define BrkTextDisplay1LineHeight 100%
-#define BrkTextDisplay1FontSize 
-#define BrkTextDisplay1LetterSpacing -2%
-#define BrkTextDisplay1ParagraphSpacing 1em
-#define BrkTextDisplay1TextDecoration none
-#define BrkTextDisplay1TextCase none
 #define BrkTextBody2FontFamily Arial
 #define BrkTextBody2FontWeight 400
 #define BrkTextBody2LineHeight 140%
@@ -1107,15 +1107,14 @@
 #define BrkTextListMarginBottom 0.6em
 #define BrkTextCaptionMarginTop 0.6em
 #define BrkTextCaptionMarginBottom 0.6em
-#define BrkTextStandardHeading1FontColor #090f2a
+#define BrkTextStandardDisplay1FontColor #060606
+#define BrkTextStandardDisplay2FontColor #060606
+#define BrkTextStandardHeading1FontColor #192872
 #define BrkTextStandardHeading2FontColor #192872
 #define BrkTextStandardHeading3FontColor #192872
-#define BrkTextStandardHeading4FontColor #192872
-#define BrkTextStandardHeading5FontColor #253aa7
-#define BrkTextStandardHeading6FontColor #253aa7
-#define BrkTextStandardBodyBase #121d54
+#define BrkTextStandardBodyBase #060606
 #define BrkTextStandardBody2FontColor #090f2a
-#define BrkTextStandardCaptionFontColor #090f2a
+#define BrkTextStandardCaptionFontColor #0b5db7
 #define BrkLinkTextStandardBodyFontColorDefault #253aa7
 #define BrkLinkTextStandardBodyFontColorHover #253aa7
 #define BrkLinkTextStandardBodyFontColorFocus #253aa7
