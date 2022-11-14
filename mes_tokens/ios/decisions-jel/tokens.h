@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Mon, 14 Nov 2022 13:30:48 GMT
+// Generated on Mon, 14 Nov 2022 13:38:42 GMT
 
 
 #import <Foundation/Foundation.h>
@@ -22,8 +22,8 @@
 #define BrkButtonPrimarySmPaddingHorizontal 15
 #define BrkButtonPrimarySmHeight 30
 #define BrkButtonPrimarySmBorderRadius 15
-#define BrkButtonPrimarySmIconSize 8
-#define BrkButtonPrimarySmIconGap 2
+#define BrkButtonPrimarySmIconSize 0.8em
+#define BrkButtonPrimarySmIconGap 0.6em
 #define BrkButtonPrimaryMdPaddingHorizontal 20
 #define BrkButtonPrimaryMdHeight 40
 #define BrkButtonPrimaryMdBorderRadius 20
