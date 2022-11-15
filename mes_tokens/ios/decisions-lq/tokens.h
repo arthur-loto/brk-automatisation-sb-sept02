@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Tue, 15 Nov 2022 19:33:07 GMT
+// Generated on Tue, 15 Nov 2022 23:43:18 GMT
 
 
 #import <Foundation/Foundation.h>
@@ -1040,7 +1040,7 @@
 #define BrkTextSmHeading6TextCase uppercase
 #define BrkTextSmBody1FontFamily Arial
 #define BrkTextSmBody1FontWeight 700
-#define BrkTextSmBody1LineHeight 160%
+#define BrkTextSmBody1LineHeight 130%
 #define BrkTextSmBody1FontSize 18
 #define BrkTextSmBody1LetterSpacing 0%
 #define BrkTextSmBody1TextDecoration none
@@ -1048,7 +1048,7 @@
 #define BrkTextSmBody1ParagraphSpacing 1.2em
 #define BrkTextSmBody2FontFamily Arial
 #define BrkTextSmBody2FontWeight 400
-#define BrkTextSmBody2LineHeight 160%
+#define BrkTextSmBody2LineHeight 130%
 #define BrkTextSmBody2FontSize 16
 #define BrkTextSmBody2LetterSpacing 0%
 #define BrkTextSmBody2TextDecoration none
@@ -1105,7 +1105,7 @@
 #define BrkTextMdHeading6TextCase uppercase
 #define BrkTextMdBody1FontFamily Arial
 #define BrkTextMdBody1FontWeight 700
-#define BrkTextMdBody1LineHeight 160%
+#define BrkTextMdBody1LineHeight 130%
 #define BrkTextMdBody1FontSize 20
 #define BrkTextMdBody1LetterSpacing 0%
 #define BrkTextMdBody1TextDecoration none
@@ -1113,7 +1113,7 @@
 #define BrkTextMdBody1ParagraphSpacing 1.2em
 #define BrkTextMdBody2FontFamily Arial
 #define BrkTextMdBody2FontWeight 400
-#define BrkTextMdBody2LineHeight 160%
+#define BrkTextMdBody2LineHeight 130%
 #define BrkTextMdBody2FontSize 18
 #define BrkTextMdBody2LetterSpacing 0%
 #define BrkTextMdBody2TextDecoration none
@@ -1170,7 +1170,7 @@
 #define BrkTextLgHeading6TextCase uppercase
 #define BrkTextLgBody1FontFamily Arial
 #define BrkTextLgBody1FontWeight 700
-#define BrkTextLgBody1LineHeight 160%
+#define BrkTextLgBody1LineHeight 130%
 #define BrkTextLgBody1FontSize 22
 #define BrkTextLgBody1LetterSpacing 0%
 #define BrkTextLgBody1TextDecoration none
@@ -1178,7 +1178,7 @@
 #define BrkTextLgBody1ParagraphSpacing 1.2em
 #define BrkTextLgBody2FontFamily Arial
 #define BrkTextLgBody2FontWeight 400
-#define BrkTextLgBody2LineHeight 160%
+#define BrkTextLgBody2LineHeight 130%
 #define BrkTextLgBody2FontSize 20
 #define BrkTextLgBody2LetterSpacing 0%
 #define BrkTextLgBody2TextDecoration none
@@ -1235,7 +1235,7 @@
 #define BrkTextXlHeading6TextCase uppercase
 #define BrkTextXlBody1FontFamily Arial
 #define BrkTextXlBody1FontWeight 700
-#define BrkTextXlBody1LineHeight 160%
+#define BrkTextXlBody1LineHeight 130%
 #define BrkTextXlBody1FontSize 26
 #define BrkTextXlBody1LetterSpacing 0%
 #define BrkTextXlBody1TextDecoration none
@@ -1243,7 +1243,7 @@
 #define BrkTextXlBody1ParagraphSpacing 1.2em
 #define BrkTextXlBody2FontFamily Arial
 #define BrkTextXlBody2FontWeight 400
-#define BrkTextXlBody2LineHeight 160%
+#define BrkTextXlBody2LineHeight 130%
 #define BrkTextXlBody2FontSize 22
 #define BrkTextXlBody2LetterSpacing 0%
 #define BrkTextXlBody2TextDecoration none
