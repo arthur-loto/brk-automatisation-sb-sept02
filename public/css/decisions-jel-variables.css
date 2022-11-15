@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Tue, 15 Nov 2022 19:33:07 GMT
+ * Generated on Tue, 15 Nov 2022 23:43:18 GMT
  */
 
 :root {
@@ -1056,27 +1056,27 @@
   --brk-text-body-2-font-size: px;
   --brk-text-body-2-font-weight: 400;
   --brk-text-body-2-letter-spacing: 0%;
-  --brk-text-body-2-line-height: 140%;
-  --brk-text-body-2-paragraph-spacing: 1.4em;
+  --brk-text-body-2-line-height: 150%;
+  --brk-text-body-2-paragraph-spacing: 1em;
   --brk-text-body-2-text-case: none;
   --brk-text-body-2-text-decoration: none;
   --brk-text-body-base-font-family: Arial;
   --brk-text-body-base-font-size: 16px;
   --brk-text-body-base-font-weight: 400;
   --brk-text-body-base-letter-spacing: 0%;
-  --brk-text-body-base-line-height: 140%;
-  --brk-text-body-base-paragraph-spacing: 1.2em;
+  --brk-text-body-base-line-height: 150%;
+  --brk-text-body-base-paragraph-spacing: 1.5em;
   --brk-text-body-base-text-case: none;
   --brk-text-body-base-text-decoration: none;
-  --brk-text-body-margin-bottom: 0.6em;
-  --brk-text-body-margin-top: 0.6em;
+  --brk-text-body-margin-bottom: 1em;
+  --brk-text-body-margin-top: 1em;
   --brk-text-caption-font-family: Arial;
   --brk-text-caption-font-size: px;
   --brk-text-caption-font-weight: 400;
   --brk-text-caption-letter-spacing: 0%;
-  --brk-text-caption-line-height: 140%;
-  --brk-text-caption-margin-bottom: 0.6em;
-  --brk-text-caption-margin-top: 0.6em;
+  --brk-text-caption-line-height: 150%;
+  --brk-text-caption-margin-bottom: 0.5em;
+  --brk-text-caption-margin-top: 0.5em;
   --brk-text-caption-paragraph-spacing: 0.8em;
   --brk-text-caption-text-case: none;
   --brk-text-caption-text-decoration: none;
@@ -1085,7 +1085,7 @@
   --brk-text-display-1-font-weight: 950;
   --brk-text-display-1-letter-spacing: -2%;
   --brk-text-display-1-line-height: 110%;
-  --brk-text-display-1-paragraph-spacing: 1.4em;
+  --brk-text-display-1-paragraph-spacing: 1.5em;
   --brk-text-display-1-text-case: none;
   --brk-text-display-1-text-decoration: none;
   --brk-text-display-2-font-family: Graphik;
@@ -1093,17 +1093,17 @@
   --brk-text-display-2-font-weight: 950;
   --brk-text-display-2-letter-spacing: -2%;
   --brk-text-display-2-line-height: 110%;
-  --brk-text-display-2-paragraph-spacing: 1.4em;
+  --brk-text-display-2-paragraph-spacing: 1.5em;
   --brk-text-display-2-text-case: none;
   --brk-text-display-2-text-decoration: none;
-  --brk-text-display-margin-bottom: 2.5em;
-  --brk-text-display-margin-top: 1em;
+  --brk-text-display-margin-bottom: 2em;
+  --brk-text-display-margin-top: 2em;
   --brk-text-heading-1-font-family: Graphik;
   --brk-text-heading-1-font-size: px;
   --brk-text-heading-1-font-weight: 950;
   --brk-text-heading-1-letter-spacing: 0%;
   --brk-text-heading-1-line-height: 120%;
-  --brk-text-heading-1-paragraph-spacing: 1.4em;
+  --brk-text-heading-1-paragraph-spacing: 1.5em;
   --brk-text-heading-1-text-case: none;
   --brk-text-heading-1-text-decoration: none;
   --brk-text-heading-2-font-family: Graphik;
@@ -1111,7 +1111,7 @@
   --brk-text-heading-2-font-weight: 700;
   --brk-text-heading-2-letter-spacing: 0%;
   --brk-text-heading-2-line-height: 120%;
-  --brk-text-heading-2-paragraph-spacing: 1.4em;
+  --brk-text-heading-2-paragraph-spacing: 1.5em;
   --brk-text-heading-2-text-case: none;
   --brk-text-heading-2-text-decoration: none;
   --brk-text-heading-3-font-family: Graphik;
@@ -1119,11 +1119,11 @@
   --brk-text-heading-3-font-weight: 700;
   --brk-text-heading-3-letter-spacing: 0%;
   --brk-text-heading-3-line-height: 120%;
-  --brk-text-heading-3-paragraph-spacing: 1.4em;
+  --brk-text-heading-3-paragraph-spacing: 1.2em;
   --brk-text-heading-3-text-case: none;
   --brk-text-heading-3-text-decoration: none;
-  --brk-text-heading-margin-bottom: 1.5em;
-  --brk-text-heading-margin-top: 1em;
+  --brk-text-heading-margin-bottom: 1em;
+  --brk-text-heading-margin-top: 1.5em;
   --brk-text-inverted-body-1-font-color: #d5dbf6;
   --brk-text-inverted-body-2-font-color: #ffffff;
   --brk-text-inverted-caption-font-color: #ffffff;
