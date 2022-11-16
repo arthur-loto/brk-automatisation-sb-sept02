@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Tue, 15 Nov 2022 23:43:18 GMT
+ * Generated on Wed, 16 Nov 2022 00:10:45 GMT
  */
 
 :root {
@@ -1133,8 +1133,8 @@
   --brk-text-inverted-heading-4-font-color: #abb6ed;
   --brk-text-inverted-heading-5-font-color: #586dda;
   --brk-text-inverted-heading-6-font-color: #586dda;
-  --brk-text-list-margin-bottom: 0.6em;
-  --brk-text-list-margin-top: 0.6em;
+  --brk-text-list-margin-bottom: 1.5em;
+  --brk-text-list-margin-top: 1em;
   --brk-text-ratio-lg: 1.28px;
   --brk-text-ratio-md: 1.24px;
   --brk-text-ratio-sm: 1.2px;
