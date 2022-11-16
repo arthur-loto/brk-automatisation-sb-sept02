@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Wed, 16 Nov 2022 00:10:45 GMT
+// Generated on Wed, 16 Nov 2022 01:04:44 GMT
 
 
 #import <Foundation/Foundation.h>
@@ -1053,12 +1053,12 @@
 #define BrkTextListMarginBottom 1.5em
 #define BrkTextCaptionMarginTop 0.5em
 #define BrkTextCaptionMarginBottom 0.5em
-#define BrkTextStandardDisplay1FontColor #060606
-#define BrkTextStandardDisplay2FontColor #060606
-#define BrkTextStandardHeading1FontColor #121d54
-#define BrkTextStandardHeading2FontColor #121d54
+#define BrkTextStandardDisplay1FontColor #121d54
+#define BrkTextStandardDisplay2FontColor #121d54
+#define BrkTextStandardHeading1FontColor #192872
+#define BrkTextStandardHeading2FontColor #192872
 #define BrkTextStandardHeading3FontColor #192872
-#define BrkTextStandardBodyBase #060606
+#define BrkTextStandardBodyBase #090f2a
 #define BrkTextStandardBody2FontColor #090f2a
 #define BrkTextStandardCaptionFontColor #0b5db7
 #define BrkLinkTextStandardBodyFontColorDefault #253aa7
