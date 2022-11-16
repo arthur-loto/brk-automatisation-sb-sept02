@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Wed, 16 Nov 2022 01:04:43 GMT
+// Generated on Wed, 16 Nov 2022 16:45:46 GMT
 
 
 #import <Foundation/Foundation.h>
@@ -579,7 +579,7 @@
 #define BrkCardHighDensityXlBodyTextDecoration none
 #define BrkCardHighDensityXlBodyTextCase none
 #define BrkCardHighDensityStandardHeadingFontColor #2e49d1
-#define BrkCardHighDensityStandardSubtitleFontColour #121d54
+#define BrkCardHighDensityStandardSubtitleFontColor #121d54
 #define BrkCardHighDensityStandardBodyFontColor #192872
 #define BrkCardHighDensityListSmPaddingVertical 15
 #define BrkCardHighDensityListSmPaddingHorizontal 15
@@ -995,7 +995,6 @@
 #define BrkTemplateLgMarginHorizontal 32
 #define BrkTemplateLgMarginTop 0
 #define BrkTemplateLgMarginBottom 64
-#define BrkHeaderMainStandardBackgroundColor #121d54
 #define BrkTextSmHeading1FontFamily Graphik
 #define BrkTextSmHeading1FontWeight 700
 #define BrkTextSmHeading1LineHeight 120%
@@ -1284,19 +1283,6 @@
 #define BrkHeaderMainSmPaddingVertical 24
 #define BrkHeaderMainMdHeight 172
 #define BrkHeaderMainMdPaddingVertical 32
-#define BrkThumbnailProductSmImageHeight 196
-#define BrkThumbnailProductSmContentGap 16
-#define BrkThumbnailProductMdImageHeight 270
-#define BrkThumbnailProductMdContentGap 16
-#define BrkThumbnailProductImageBackgroundColourStandard #121d54
-#define BrkTextStyleHeadingStrong 950
-#define BrkTextStyleHeadingEmphasis oblique
-#define BrkTextStyleBodyStrong 700
-#define BrkTextStyleBodyEmphasis italic
-#define BrkTextStyleCaptionStrong 700
-#define BrkTextStyleCaptionEmphasis italic
-#define BrkLinkTextDefault underline
-#define BrkLinkTextHover none
 #define BrkLinkTextStandardBodyFontColorDefault #2e49d1
 #define BrkLinkTextStandardBodyFontColorHover #2e49d1
 #define BrkLinkTextStandardBodyFontColorFocus #2e49d1
@@ -1364,4 +1350,76 @@
 #define BrkButtonTextInvertedIconFillFocus #abb6ed
 #define BrkButtonTextInvertedBackgroundColorFocus transparent
 #define BrkButtonTextInvertedBorderColorFocus transparent
+#define BrkAccodionIconSize 16
+#define BrkAccordionSmHorizontalPadding 8
+#define BrkAccordionSmVerticalPadding 16
+#define BrkThumbnailProductSmImageHeight 180
+#define BrkThumbnailProductSmContentGap 16
+#define BrkThumbnailProductSmImageWidth 320
+#define BrkThumbnailProductMdImageHeight 270
+#define BrkThumbnailProductMdContentGap 16
+#define BrkThumbnailProductMdImageWidth 480
+#define BrkTextStyleHeadingStrong 950
+#define BrkTextStyleHeadingEmphasis oblique
+#define BrkTextStyleBodyStrong 700
+#define BrkTextStyleBodyEmphasis italic
+#define BrkTextStyleCaptionStrong 700
+#define BrkTextStyleCaptionEmphasis italic
+#define BrkLinkTextDefault underline
+#define BrkLinkTextHover none
+#define BrkAccordionStandardBorderColor #f2f2f2
+#define BrkAccordionStandardBackgroundColorDefault #ffffff
+#define BrkAccordionStandardBackgroundColorHover #f2f2f2
+#define BrkAccordionStandardIconFill #121d54
+#define BrkInfoProductSmHeight 32
+#define BrkInfoProductSmSeparatorHeight 32
+#define BrkInfoProductSmTextHorizontalPadding 8
+#define BrkInfoProductSmHeadingPaddingBottom 4
+#define BrkInfoProductSmHeadingFontFamily Arial
+#define BrkInfoProductSmHeadingFontWeight 400
+#define BrkInfoProductSmHeadingLineHeight 100%
+#define BrkInfoProductSmHeadingFontSize 11
+#define BrkInfoProductSmHeadingLetterSpacing -2%
+#define BrkInfoProductSmHeadingTextCase uppercase
+#define BrkInfoProductSmBodyFontFamily Graphik
+#define BrkInfoProductSmBodyFontWeight 700
+#define BrkInfoProductSmBodyLineHeight 100%
+#define BrkInfoProductSmBodyFontSize 13
+#define BrkInfoProductSmBodyLetterSpacing -2%
+#define BrkInfoProductMdHeight 40
+#define BrkInfoProductMdSeparatorHeight 40
+#define BrkInfoProductMdTextHorizontalPadding 12
+#define BrkInfoProductMdHeadingPaddingBottom 8
+#define BrkInfoProductMdHeadingFontFamily Arial
+#define BrkInfoProductMdHeadingFontWeight 400
+#define BrkInfoProductMdHeadingLineHeight 100%
+#define BrkInfoProductMdHeadingFontSize 13
+#define BrkInfoProductMdHeadingLetterSpacing -2%
+#define BrkInfoProductMdHeadingTextCase uppercase
+#define BrkInfoProductMdBodyFontFamily Graphik
+#define BrkInfoProductMdBodyFontWeight 700
+#define BrkInfoProductMdBodyLineHeight 100%
+#define BrkInfoProductMdBodyFontSize 15
+#define BrkInfoProductMdBodyLetterSpacing -2%
+#define BrkInfoProductLgHeight 40
+#define BrkInfoProductLgSeparatorHeight 40
+#define BrkInfoProductLgTextHorizontalPadding 24
+#define BrkInfoProductLgHeadingPaddingBottom 8
+#define BrkInfoProductLgHeadingFontFamily Arial
+#define BrkInfoProductLgHeadingFontWeight 400
+#define BrkInfoProductLgHeadingLineHeight 100%
+#define BrkInfoProductLgHeadingFontSize 13
+#define BrkInfoProductLgHeadingLetterSpacing -2%
+#define BrkInfoProductLgHeadingTextCase uppercase
+#define BrkInfoProductLgBodyFontFamily Graphik
+#define BrkInfoProductLgBodyFontWeight 700
+#define BrkInfoProductLgBodyLineHeight 100%
+#define BrkInfoProductLgBodyFontSize 15
+#define BrkInfoProductLgBodyLetterSpacing -2%
+#define BrkInfoProductSeparatorWidth 1
+#define BrkInfoProductStandardHeadingFontColor #2e49d1
+#define BrkInfoProductStandardBodyFontColor #090f2a
+#define BrkInfoProductStandardSeparatorColor #d5dbf6
+#define BrkHeaderMainStandardBackgroundColor #d5dbf6
+#define BrkHeaderMainInvertedBackgroundColor #121d54
 

@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Wed, 16 Nov 2022 01:04:44 GMT
+// Generated on Wed, 16 Nov 2022 16:45:46 GMT
 
 
 #import <Foundation/Foundation.h>
@@ -978,7 +978,6 @@
 #define BrkTemplateLgMarginHorizontal 32
 #define BrkTemplateLgMarginTop 0
 #define BrkTemplateLgMarginBottom 64
-#define BrkHeaderMainStandardBackgroundColor #060606
 #define BrkTextDisplay1FontFamily Graphik
 #define BrkTextDisplay1FontWeight 950
 #define BrkTextDisplay1LineHeight 110%
@@ -1163,4 +1162,64 @@
 #define BrkButtonTextInvertedBoxShadowDefault [object Object]
 #define BrkButtonTextInvertedBoxShadowHover [object Object]
 #define BrkButtonTextInvertedBoxShadowFocus [object Object]
+#define BrkAccordionSmHorizontalPadding 8
+#define BrkAccordionSmVerticalPadding 16
+#define BrkAccordionSmContentGap 8
+#define BrkAccordionMdHorizontalPadding 16
+#define BrkAccordionMdVerticalPadding 16
+#define BrkAccordionMdContentGap 8
+#define BrkAccordionBorderWidth 1
+#define BrkAccordionIconSize 16
+#define BrkAccordionStandardBorderColor #e6e6e6
+#define BrkAccordionStandardBackgroundColorDefault #ffffff
+#define BrkAccordionStandardBackgroundColorHover #f2f2f2
+#define BrkAccordionStandardIconFill #0b5db7
+#define BrkInfoProductSmHeight 32
+#define BrkInfoProductSmTextHorizontalPadding 8
+#define BrkInfoProductSmHeadingPaddingBottom 4
+#define BrkInfoProductSmSeparatorHeight 32
+#define BrkInfoProductSmHeadingFontFamily Arial
+#define BrkInfoProductSmHeadingFontWeight 400
+#define BrkInfoProductSmHeadingLineHeight 100%
+#define BrkInfoProductSmHeadingFontSize 11
+#define BrkInfoProductSmHeadingLetterSpacing -2%
+#define BrkInfoProductSmBodyFontFamily Graphik
+#define BrkInfoProductSmBodyFontWeight 700
+#define BrkInfoProductSmBodyLineHeight 100%
+#define BrkInfoProductSmBodyFontSize 13
+#define BrkInfoProductSmBodyLetterSpacing -2%
+#define BrkInfoProductMdHeight 40
+#define BrkInfoProductMdSeparatorHeight 40
+#define BrkInfoProductMdTextHorizontalPadding 12
+#define BrkInfoProductMdHeadingPaddingBottom 8
+#define BrkInfoProductMdHeadingFontFamily Arial
+#define BrkInfoProductMdHeadingFontWeight 400
+#define BrkInfoProductMdHeadingLineHeight 100%
+#define BrkInfoProductMdHeadingFontSize 13
+#define BrkInfoProductMdHeadingLetterSpacing -2%
+#define BrkInfoProductMdBodyFontFamily Graphik
+#define BrkInfoProductMdBodyFontWeight 700
+#define BrkInfoProductMdBodyLineHeight 100%
+#define BrkInfoProductMdBodyFontSize 15
+#define BrkInfoProductMdBodyLetterSpacing -2%
+#define BrkInfoProductLgHeight 40
+#define BrkInfoProductLgSeparatorHeight 40
+#define BrkInfoProductLgTextHorizontalPadding 24
+#define BrkInfoProductLgHeadingPaddingBottom 8
+#define BrkInfoProductLgHeadingFontFamily Arial
+#define BrkInfoProductLgHeadingFontWeight 400
+#define BrkInfoProductLgHeadingLineHeight 100%
+#define BrkInfoProductLgHeadingFontSize 13
+#define BrkInfoProductLgHeadingLetterSpacing -2%
+#define BrkInfoProductLgBodyFontFamily Graphik
+#define BrkInfoProductLgBodyFontWeight 700
+#define BrkInfoProductLgBodyLineHeight 100%
+#define BrkInfoProductLgBodyFontSize 15
+#define BrkInfoProductLgBodyLetterSpacing -2%
+#define BrkInfoProductSeparatorWidth 1
+#define BrkInfoProductStandardHeadingFontColor #1a1a1a
+#define BrkInfoProductStandardBodyFontColor #000000
+#define BrkInfoProductStandardSeparatorColor #e6e6e6
+#define BrkHeaderMainInvertedBackgroundColor #060606
+#define BrkHeaderMainStandardBackgroundColor #e6e6e6
 
