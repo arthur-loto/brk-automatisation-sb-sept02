@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Fri, 02 Dec 2022 17:01:19 GMT
+ * Generated on Fri, 02 Dec 2022 17:31:03 GMT
  */
 
 :root {
@@ -15,20 +15,17 @@
   --brk-accordion-standard-border-color: #f2f2f2;
   --brk-accordion-standard-icon-fill: #121d54;
   --brk-button-opacity-disabled: 50%;
-  --brk-button-primary-border-radius: 0.2em;
+  --brk-button-primary-border-radius: 4px;
   --brk-button-primary-border-width: 0px;
-  --brk-button-primary-height: 2.2em;
-  --brk-button-primary-icon-gap: 0.3em;
-  --brk-button-primary-icon-size: 1.8em;
+  --brk-button-primary-height: 36px;
+  --brk-button-primary-icon-gap: 8px;
+  --brk-button-primary-icon-size: 16px;
   --brk-button-primary-inverted-background-color-default: #ffffff;
   --brk-button-primary-inverted-background-color-focus: #2e49d1;
   --brk-button-primary-inverted-background-color-hover: #2e49d1;
   --brk-button-primary-inverted-border-color-default: transparent;
   --brk-button-primary-inverted-border-color-focus: transparent;
   --brk-button-primary-inverted-border-color-hover: transparent;
-  --brk-button-primary-inverted-box-shadow-default: 0 0 0 0 #000000;
-  --brk-button-primary-inverted-box-shadow-focus: 0 0 0 0 #000000;
-  --brk-button-primary-inverted-box-shadow-hover: 0 0 0 0 #000000;
   --brk-button-primary-inverted-font-color-default: #192872;
   --brk-button-primary-inverted-font-color-focus: #ffffff;
   --brk-button-primary-inverted-font-color-hover: #ffffff;
@@ -51,7 +48,7 @@
   --brk-button-primary-md-label-paragraph-spacing: ;
   --brk-button-primary-md-label-text-case: none;
   --brk-button-primary-md-label-text-decoration: none;
-  --brk-button-primary-padding-horizontal: 1.2em;
+  --brk-button-primary-padding-horizontal: 16px;
   --brk-button-primary-sm-label-font-family: Arial;
   --brk-button-primary-sm-label-font-size: 13px;
   --brk-button-primary-sm-label-font-weight: 700;
@@ -66,9 +63,6 @@
   --brk-button-primary-standard-border-color-default: transparent;
   --brk-button-primary-standard-border-color-focus: transparent;
   --brk-button-primary-standard-border-color-hover: transparent;
-  --brk-button-primary-standard-box-shadow-default: 0 0 0 0 #000000;
-  --brk-button-primary-standard-box-shadow-focus: 0 0 0 0 #000000;
-  --brk-button-primary-standard-box-shadow-hover: 0 0 0 0 #000000;
   --brk-button-primary-standard-font-color-default: #ffffff;
   --brk-button-primary-standard-font-color-focus: #ffffff;
   --brk-button-primary-standard-font-color-hover: #ffffff;
@@ -83,20 +77,17 @@
   --brk-button-primary-xl-label-paragraph-spacing: ;
   --brk-button-primary-xl-label-text-case: none;
   --brk-button-primary-xl-label-text-decoration: none;
-  --brk-button-secondary-border-radius: 0.2em;
-  --brk-button-secondary-border-width: 0.12em;
-  --brk-button-secondary-height: 2.2em;
-  --brk-button-secondary-icon-gap: 0.3em;
-  --brk-button-secondary-icon-size: 1.8em;
+  --brk-button-secondary-border-radius: 4px;
+  --brk-button-secondary-border-width: 2px;
+  --brk-button-secondary-height: 36px;
+  --brk-button-secondary-icon-gap: 8px;
+  --brk-button-secondary-icon-size: 16px;
   --brk-button-secondary-inverted-background-color-default: transparent;
   --brk-button-secondary-inverted-background-color-focus: #eaedfa;
   --brk-button-secondary-inverted-background-color-hover: #eaedfa;
   --brk-button-secondary-inverted-border-color-default: #ffffff;
   --brk-button-secondary-inverted-border-color-focus: #253aa7;
   --brk-button-secondary-inverted-border-color-hover: #253aa7;
-  --brk-button-secondary-inverted-box-shadow-default: 0 0 0 0 #000000;
-  --brk-button-secondary-inverted-box-shadow-focus: 0 0 0 0 #000000;
-  --brk-button-secondary-inverted-box-shadow-hover: 0 0 0 0 #000000;
   --brk-button-secondary-inverted-font-color-default: #ffffff;
   --brk-button-secondary-inverted-font-color-focus: #253aa7;
   --brk-button-secondary-inverted-font-color-hover: #253aa7;
@@ -119,7 +110,7 @@
   --brk-button-secondary-md-label-paragraph-spacing: ;
   --brk-button-secondary-md-label-text-case: none;
   --brk-button-secondary-md-label-text-decoration: none;
-  --brk-button-secondary-padding-horizontal: 1.2em;
+  --brk-button-secondary-padding-horizontal: 16px;
   --brk-button-secondary-sm-label-font-family: Arial;
   --brk-button-secondary-sm-label-font-size: 13px;
   --brk-button-secondary-sm-label-font-weight: 700;
@@ -134,9 +125,6 @@
   --brk-button-secondary-standard-border-color-default: #192872;
   --brk-button-secondary-standard-border-color-focus: #253aa7;
   --brk-button-secondary-standard-border-color-hover: #253aa7;
-  --brk-button-secondary-standard-box-shadow-default: 0 0 0 0 #000000;
-  --brk-button-secondary-standard-box-shadow-focus: 0 0 0 0 #000000;
-  --brk-button-secondary-standard-box-shadow-hover: 0 0 0 0 #000000;
   --brk-button-secondary-standard-font-color-default: #192872;
   --brk-button-secondary-standard-font-color-focus: #253aa7;
   --brk-button-secondary-standard-font-color-hover: #253aa7;
@@ -151,20 +139,17 @@
   --brk-button-secondary-xl-label-paragraph-spacing: ;
   --brk-button-secondary-xl-label-text-case: none;
   --brk-button-secondary-xl-label-text-decoration: none;
-  --brk-button-tertiary-border-radius: 0.2em;
+  --brk-button-tertiary-border-radius: 4px;
   --brk-button-tertiary-border-width: 0px;
-  --brk-button-tertiary-height: 2.2em;
-  --brk-button-tertiary-icon-gap: 0.3em;
-  --brk-button-tertiary-icon-size: 1.8em;
+  --brk-button-tertiary-height: 36px;
+  --brk-button-tertiary-icon-gap: 8px;
+  --brk-button-tertiary-icon-size: 12px;
   --brk-button-tertiary-inverted-background-color-default: #ffffff;
   --brk-button-tertiary-inverted-background-color-focus: #2e49d1;
   --brk-button-tertiary-inverted-background-color-hover: #2e49d1;
   --brk-button-tertiary-inverted-border-color-default: transparent;
   --brk-button-tertiary-inverted-border-color-focus: transparent;
   --brk-button-tertiary-inverted-border-color-hover: transparent;
-  --brk-button-tertiary-inverted-box-shadow-default: 0 0 0 0 #000000;
-  --brk-button-tertiary-inverted-box-shadow-focus: 0 0 0 0 #000000;
-  --brk-button-tertiary-inverted-box-shadow-hover: 0 0 0 0 #000000;
   --brk-button-tertiary-inverted-font-color-default: #192872;
   --brk-button-tertiary-inverted-font-color-focus: #ffffff;
   --brk-button-tertiary-inverted-font-color-hover: #ffffff;
@@ -187,7 +172,7 @@
   --brk-button-tertiary-md-label-paragraph-spacing: ;
   --brk-button-tertiary-md-label-text-case: uppercase;
   --brk-button-tertiary-md-label-text-decoration: none;
-  --brk-button-tertiary-padding-horizontal: 1.2em;
+  --brk-button-tertiary-padding-horizontal: 16px;
   --brk-button-tertiary-sm-label-font-family: Arial;
   --brk-button-tertiary-sm-label-font-size: 10px;
   --brk-button-tertiary-sm-label-font-weight: 700;
@@ -202,9 +187,6 @@
   --brk-button-tertiary-standard-border-color-default: transparent;
   --brk-button-tertiary-standard-border-color-focus: transparent;
   --brk-button-tertiary-standard-border-color-hover: transparent;
-  --brk-button-tertiary-standard-box-shadow-default: 0 0 0 0 #000000;
-  --brk-button-tertiary-standard-box-shadow-focus: 0 0 0 0 #000000;
-  --brk-button-tertiary-standard-box-shadow-hover: 0 0 0 0 #000000;
   --brk-button-tertiary-standard-font-color-default: #253aa7;
   --brk-button-tertiary-standard-font-color-focus: #ffffff;
   --brk-button-tertiary-standard-font-color-hover: #ffffff;
@@ -219,23 +201,23 @@
   --brk-button-tertiary-xl-label-paragraph-spacing: ;
   --brk-button-tertiary-xl-label-text-case: uppercase;
   --brk-button-tertiary-xl-label-text-decoration: none;
-  --brk-button-text-border-radius: 0px;
+  --brk-button-text-border-radius: 4px;
   --brk-button-text-border-width: 0px;
-  --brk-button-text-height: 2.2em;
-  --brk-button-text-icon-gap: 0.3em;
-  --brk-button-text-icon-size: 1.8em;
+  --brk-button-text-height: 36px;
+  --brk-button-text-icon-gap: 8px;
+  --brk-button-text-icon-size: 12px;
   --brk-button-text-inverted-background-color-default: transparent;
   --brk-button-text-inverted-background-color-focus: transparent;
   --brk-button-text-inverted-background-color-hover: transparent;
   --brk-button-text-inverted-border-color-default: transparent;
   --brk-button-text-inverted-border-color-focus: transparent;
   --brk-button-text-inverted-border-color-hover: transparent;
-  --brk-button-text-inverted-font-color-default: #d5dbf6;
-  --brk-button-text-inverted-font-color-focus: #d5dbf6;
-  --brk-button-text-inverted-font-color-hover: #d5dbf6;
-  --brk-button-text-inverted-icon-fill-default: #abb6ed;
-  --brk-button-text-inverted-icon-fill-focus: #abb6ed;
-  --brk-button-text-inverted-icon-fill-hover: #abb6ed;
+  --brk-button-text-inverted-font-color-default: #ffffff;
+  --brk-button-text-inverted-font-color-focus: #ffffff;
+  --brk-button-text-inverted-font-color-hover: #ffffff;
+  --brk-button-text-inverted-icon-fill-default: #ffffff;
+  --brk-button-text-inverted-icon-fill-focus: #ffffff;
+  --brk-button-text-inverted-icon-fill-hover: #ffffff;
   --brk-button-text-lg-label-font-family: Arial;
   --brk-button-text-lg-label-font-size: 18px;
   --brk-button-text-lg-label-font-weight: 700;
@@ -252,7 +234,7 @@
   --brk-button-text-md-label-paragraph-spacing: ;
   --brk-button-text-md-label-text-case: none;
   --brk-button-text-md-label-text-decoration: underline;
-  --brk-button-text-padding-horizontal: 1.2em;
+  --brk-button-text-padding-horizontal: 16px;
   --brk-button-text-sm-label-font-family: Arial;
   --brk-button-text-sm-label-font-size: 10px;
   --brk-button-text-sm-label-font-weight: 700;
@@ -270,9 +252,9 @@
   --brk-button-text-standard-font-color-default: #253aa7;
   --brk-button-text-standard-font-color-focus: #253aa7;
   --brk-button-text-standard-font-color-hover: #253aa7;
-  --brk-button-text-standard-icon-fill-default: #2e49d1;
-  --brk-button-text-standard-icon-fill-focus: #2e49d1;
-  --brk-button-text-standard-icon-fill-hover: #2e49d1;
+  --brk-button-text-standard-icon-fill-default: #253aa7;
+  --brk-button-text-standard-icon-fill-focus: #253aa7;
+  --brk-button-text-standard-icon-fill-hover: #253aa7;
   --brk-button-text-xl-label-font-family: Arial;
   --brk-button-text-xl-label-font-size: 22px;
   --brk-button-text-xl-label-font-weight: 700;
