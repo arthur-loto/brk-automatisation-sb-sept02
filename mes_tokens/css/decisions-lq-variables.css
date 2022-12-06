@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Fri, 02 Dec 2022 17:31:03 GMT
+ * Generated on Tue, 06 Dec 2022 16:41:46 GMT
  */
 
 :root {
@@ -203,7 +203,7 @@
   --brk-button-tertiary-xl-label-text-decoration: none;
   --brk-button-text-border-radius: 4px;
   --brk-button-text-border-width: 0px;
-  --brk-button-text-height: 36px;
+  --brk-button-text-height: 16px;
   --brk-button-text-icon-gap: 8px;
   --brk-button-text-icon-size: 12px;
   --brk-button-text-inverted-background-color-default: transparent;
@@ -234,7 +234,7 @@
   --brk-button-text-md-label-paragraph-spacing: ;
   --brk-button-text-md-label-text-case: none;
   --brk-button-text-md-label-text-decoration: underline;
-  --brk-button-text-padding-horizontal: 16px;
+  --brk-button-text-padding-horizontal: 0px;
   --brk-button-text-sm-label-font-family: Arial;
   --brk-button-text-sm-label-font-size: 10px;
   --brk-button-text-sm-label-font-weight: 700;
@@ -700,12 +700,12 @@
   --brk-jackpot-hero-xl-padding-horizontal: 24px;
   --brk-link-text-default: underline;
   --brk-link-text-hover: none;
-  --brk-link-text-inverted-body-font-color-default: #586dda;
-  --brk-link-text-inverted-body-font-color-focus: #586dda;
-  --brk-link-text-inverted-body-font-color-hover: #586dda;
-  --brk-link-text-standard-body-font-color-default: #2e49d1;
-  --brk-link-text-standard-body-font-color-focus: #2e49d1;
-  --brk-link-text-standard-body-font-color-hover: #2e49d1;
+  --brk-link-text-inverted-body-font-color-default: #f9f9f9;
+  --brk-link-text-inverted-body-font-color-focus: #abb6ed;
+  --brk-link-text-inverted-body-font-color-hover: #f9f9f9;
+  --brk-link-text-standard-body-font-color-default: #253aa7;
+  --brk-link-text-standard-body-font-color-focus: #192872;
+  --brk-link-text-standard-body-font-color-hover: #253aa7;
   --brk-promo-primary-2xl-body-margin-top: 12px;
   --brk-promo-primary-2xl-content-gap: 16px;
   --brk-promo-primary-2xl-padding-horizontal: 32px;
@@ -1142,7 +1142,7 @@
   --brk-text-display-2-text-decoration: none;
   --brk-text-display-margin-bottom: 1.5em;
   --brk-text-display-margin-top: 2.5em;
-  --brk-text-heading-1-font-family: Arial;
+  --brk-text-heading-1-font-family: Graphik;
   --brk-text-heading-1-font-size: px;
   --brk-text-heading-1-font-weight: 700;
   --brk-text-heading-1-letter-spacing: 0%;
@@ -1173,28 +1173,25 @@
   --brk-text-inverted-caption-font-color: #f9f9f9;
   --brk-text-inverted-display-1-font-color: #f9f9f9;
   --brk-text-inverted-display-2-font-color: #f9f9f9;
-  --brk-text-inverted-heading-1-font-color: #2e49d1;
-  --brk-text-inverted-heading-2-font-color: #2e49d1;
-  --brk-text-inverted-heading-3-font-color: #2e49d1;
+  --brk-text-inverted-heading-1-font-color: #abb6ed;
+  --brk-text-inverted-heading-2-font-color: #abb6ed;
+  --brk-text-inverted-heading-3-font-color: #abb6ed;
   --brk-text-list-margin-bottom: 1.5em;
   --brk-text-list-margin-top: 1em;
   --brk-text-ratio-lg: 1.28px;
   --brk-text-ratio-md: 1.24px;
   --brk-text-ratio-sm: 1.2px;
-  --brk-text-standard-body-2-font-color: #000000;
-  --brk-text-standard-body-base: #000000;
-  --brk-text-standard-caption-font-color: #000000;
+  --brk-text-standard-body-2-font-color: #090f2a;
+  --brk-text-standard-body-base: #090f2a;
+  --brk-text-standard-caption-font-color: #090f2a;
   --brk-text-standard-display-1-font-color: #203392;
   --brk-text-standard-display-2-font-color: #203392;
   --brk-text-standard-heading-1-font-color: #586dda;
   --brk-text-standard-heading-2-font-color: #586dda;
   --brk-text-standard-heading-3-font-color: #586dda;
-  --brk-text-style-body-emphasis: italic;
-  --brk-text-style-body-strong: 700;
-  --brk-text-style-caption-emphasis: italic;
-  --brk-text-style-caption-strong: 700;
-  --brk-text-style-heading-emphasis: oblique;
-  --brk-text-style-heading-strong: 950;
+  --brk-text-style-brand-main-emphasis: oblique;
+  --brk-text-style-webfont-emphasis: italic;
+  --brk-text-style-webfont-strong: 700;
   --brk-thumbnail-product-md-content-gap: 16px;
   --brk-thumbnail-product-md-image-height: 270px;
   --brk-thumbnail-product-md-image-width: 480px;

@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Fri, 02 Dec 2022 17:31:03 GMT
+ * Generated on Tue, 06 Dec 2022 16:41:46 GMT
  */
 
 :root {
@@ -27,7 +27,7 @@
   --brk-button-primary-icon-gap: 8px;
   --brk-button-primary-icon-size: 16px;
   --brk-button-primary-inverted-background-color-default: #fdfe8b;
-  --brk-button-primary-inverted-background-color-focus: #fdfe8b;
+  --brk-button-primary-inverted-background-color-focus: #ffffff;
   --brk-button-primary-inverted-background-color-hover: #ffffff;
   --brk-button-primary-inverted-border-color-default: #1a1a1a;
   --brk-button-primary-inverted-border-color-focus: #1a1a1a;
@@ -64,16 +64,16 @@
   --brk-button-primary-sm-label-text-case: none;
   --brk-button-primary-sm-label-text-decoration: none;
   --brk-button-primary-standard-background-color-default: #fdfe8b;
-  --brk-button-primary-standard-background-color-focus: #fdfe8b;
+  --brk-button-primary-standard-background-color-focus: #1a1a1a;
   --brk-button-primary-standard-background-color-hover: #1a1a1a;
   --brk-button-primary-standard-border-color-default: #1a1a1a;
   --brk-button-primary-standard-border-color-focus: #1a1a1a;
   --brk-button-primary-standard-border-color-hover: #1a1a1a;
   --brk-button-primary-standard-font-color-default: #1a1a1a;
-  --brk-button-primary-standard-font-color-focus: #1a1a1a;
+  --brk-button-primary-standard-font-color-focus: #fdfe8b;
   --brk-button-primary-standard-font-color-hover: #fdfe8b;
   --brk-button-primary-standard-icon-fill-default: #1a1a1a;
-  --brk-button-primary-standard-icon-fill-focus: #1a1a1a;
+  --brk-button-primary-standard-icon-fill-focus: #fdfe8b;
   --brk-button-primary-standard-icon-fill-hover: #fdfe8b;
   --brk-button-primary-xl-label-font-family: Arial;
   --brk-button-primary-xl-label-font-size: 26px;
@@ -89,16 +89,16 @@
   --brk-button-secondary-icon-gap: 8px;
   --brk-button-secondary-icon-size: 16px;
   --brk-button-secondary-inverted-background-color-default: transparent;
-  --brk-button-secondary-inverted-background-color-focus: transparent;
+  --brk-button-secondary-inverted-background-color-focus: #ffffff;
   --brk-button-secondary-inverted-background-color-hover: #ffffff;
   --brk-button-secondary-inverted-border-color-default: #ffffff;
   --brk-button-secondary-inverted-border-color-focus: #ffffff;
   --brk-button-secondary-inverted-border-color-hover: #ffffff;
   --brk-button-secondary-inverted-font-color-default: #ffffff;
-  --brk-button-secondary-inverted-font-color-focus: #ffffff;
+  --brk-button-secondary-inverted-font-color-focus: #1a1a1a;
   --brk-button-secondary-inverted-font-color-hover: #1a1a1a;
   --brk-button-secondary-inverted-icon-fill-default: #ffffff;
-  --brk-button-secondary-inverted-icon-fill-focus: #ffffff;
+  --brk-button-secondary-inverted-icon-fill-focus: #1a1a1a;
   --brk-button-secondary-inverted-icon-fill-hover: #1a1a1a;
   --brk-button-secondary-lg-label-font-family: Arial;
   --brk-button-secondary-lg-label-font-size: 22px;
@@ -126,16 +126,16 @@
   --brk-button-secondary-sm-label-text-case: none;
   --brk-button-secondary-sm-label-text-decoration: none;
   --brk-button-secondary-standard-background-color-default: transparent;
-  --brk-button-secondary-standard-background-color-focus: transparent;
+  --brk-button-secondary-standard-background-color-focus: #1a1a1a;
   --brk-button-secondary-standard-background-color-hover: #1a1a1a;
   --brk-button-secondary-standard-border-color-default: #1a1a1a;
   --brk-button-secondary-standard-border-color-focus: #000000;
   --brk-button-secondary-standard-border-color-hover: #1a1a1a;
   --brk-button-secondary-standard-font-color-default: #1a1a1a;
-  --brk-button-secondary-standard-font-color-focus: #000000;
+  --brk-button-secondary-standard-font-color-focus: #ffffff;
   --brk-button-secondary-standard-font-color-hover: #ffffff;
   --brk-button-secondary-standard-icon-fill-default: #1a1a1a;
-  --brk-button-secondary-standard-icon-fill-focus: #000000;
+  --brk-button-secondary-standard-icon-fill-focus: #ffffff;
   --brk-button-secondary-standard-icon-fill-hover: #ffffff;
   --brk-button-secondary-xl-label-font-family: Arial;
   --brk-button-secondary-xl-label-font-size: 26px;
@@ -154,13 +154,13 @@
   --brk-button-tertiary-inverted-background-color-focus: #1a1a1a;
   --brk-button-tertiary-inverted-background-color-hover: #1a1a1a;
   --brk-button-tertiary-inverted-border-color-default: #535353;
-  --brk-button-tertiary-inverted-border-color-focus: #535353;
-  --brk-button-tertiary-inverted-border-color-hover: #f2f2f2;
+  --brk-button-tertiary-inverted-border-color-focus: #ffffff;
+  --brk-button-tertiary-inverted-border-color-hover: #ffffff;
   --brk-button-tertiary-inverted-font-color-default: #e6e6e6;
-  --brk-button-tertiary-inverted-font-color-focus: #e6e6e6;
+  --brk-button-tertiary-inverted-font-color-focus: #ffffff;
   --brk-button-tertiary-inverted-font-color-hover: #ffffff;
   --brk-button-tertiary-inverted-icon-fill-default: #e6e6e6;
-  --brk-button-tertiary-inverted-icon-fill-focus: #e6e6e6;
+  --brk-button-tertiary-inverted-icon-fill-focus: #ffffff;
   --brk-button-tertiary-inverted-icon-fill-hover: #ffffff;
   --brk-button-tertiary-lg-label-font-family: Graphik;
   --brk-button-tertiary-lg-label-font-size: 18px;
@@ -191,13 +191,13 @@
   --brk-button-tertiary-standard-background-color-focus: #ffffff;
   --brk-button-tertiary-standard-background-color-hover: #ffffff;
   --brk-button-tertiary-standard-border-color-default: #e6e6e6;
-  --brk-button-tertiary-standard-border-color-focus: #e6e6e6;
-  --brk-button-tertiary-standard-border-color-hover: #535353;
+  --brk-button-tertiary-standard-border-color-focus: #1a1a1a;
+  --brk-button-tertiary-standard-border-color-hover: #1a1a1a;
   --brk-button-tertiary-standard-font-color-default: #535353;
-  --brk-button-tertiary-standard-font-color-focus: #535353;
+  --brk-button-tertiary-standard-font-color-focus: #1a1a1a;
   --brk-button-tertiary-standard-font-color-hover: #1a1a1a;
   --brk-button-tertiary-standard-icon-fill-default: #535353;
-  --brk-button-tertiary-standard-icon-fill-focus: #535353;
+  --brk-button-tertiary-standard-icon-fill-focus: #1a1a1a;
   --brk-button-tertiary-standard-icon-fill-hover: #1a1a1a;
   --brk-button-tertiary-xl-label-font-family: Graphik;
   --brk-button-tertiary-xl-label-font-size: 22px;
@@ -209,7 +209,7 @@
   --brk-button-tertiary-xl-label-text-decoration: none;
   --brk-button-text-border-radius: 24px;
   --brk-button-text-border-width: 2px;
-  --brk-button-text-height: 36px;
+  --brk-button-text-height: 16px;
   --brk-button-text-icon-gap: 8px;
   --brk-button-text-icon-size: 12px;
   --brk-button-text-inverted-background-color-default: transparent;
@@ -240,7 +240,7 @@
   --brk-button-text-md-label-paragraph-spacing: ;
   --brk-button-text-md-label-text-case: none;
   --brk-button-text-md-label-text-decoration: underline;
-  --brk-button-text-padding-horizontal: 24px;
+  --brk-button-text-padding-horizontal: 0px;
   --brk-button-text-sm-label-font-family: Graphik;
   --brk-button-text-sm-label-font-size: 10px;
   --brk-button-text-sm-label-font-weight: 700;
@@ -596,11 +596,11 @@
   --brk-info-product-standard-body-font-color: #000000;
   --brk-info-product-standard-heading-font-color: #1a1a1a;
   --brk-info-product-standard-separator-color: #e6e6e6;
-  --brk-interactive-inverted-outline-color-focus: #24c1ff;
+  --brk-interactive-inverted-outline-color-focus: #ffffff;
   --brk-interactive-outline-border-radius: 24px;
   --brk-interactive-outline-offset: 2px;
   --brk-interactive-outline-width: 2px;
-  --brk-interactive-standard-outline-color-focus: #0b5db7;
+  --brk-interactive-standard-outline-color-focus: #1a1a1a;
   --brk-jackpot-hero-amount-digit-border-radius: 4px;
   --brk-jackpot-hero-amount-digit-border-width: 0px;
   --brk-jackpot-hero-lg-amount-digit-height: 40px;
@@ -704,10 +704,10 @@
   --brk-link-text-default: underline;
   --brk-link-text-hover: none;
   --brk-link-text-inverted-body-font-color-default: #a6ecff;
-  --brk-link-text-inverted-body-font-color-focus: #24c1ff;
+  --brk-link-text-inverted-body-font-color-focus: #ffffff;
   --brk-link-text-inverted-body-font-color-hover: #a6ecff;
   --brk-link-text-standard-body-font-color-default: #0b5db7;
-  --brk-link-text-standard-body-font-color-focus: #0b5db7;
+  --brk-link-text-standard-body-font-color-focus: #1a1a1a;
   --brk-link-text-standard-body-font-color-hover: #0b5db7;
   --brk-promo-primary-border-radius: 0px;
   --brk-promo-primary-border-width: 1px;
@@ -1179,11 +1179,11 @@
   --brk-text-ratio-lg: 1.28px;
   --brk-text-ratio-md: 1.24px;
   --brk-text-ratio-sm: 1.2px;
-  --brk-text-standard-body-2-font-color: #060606;
-  --brk-text-standard-body-base-font-color: #060606;
-  --brk-text-standard-caption-font-color: #060606;
-  --brk-text-standard-display-1-font-color: #060606;
-  --brk-text-standard-display-2-font-color: #060606;
+  --brk-text-standard-body-2-font-color: #1a1a1a;
+  --brk-text-standard-body-base-font-color: #1a1a1a;
+  --brk-text-standard-caption-font-color: #1a1a1a;
+  --brk-text-standard-display-1-font-color: #1a1a1a;
+  --brk-text-standard-display-2-font-color: #1a1a1a;
   --brk-text-standard-heading-1-font-color: #192872;
   --brk-text-standard-heading-2-font-color: #192872;
   --brk-text-standard-heading-3-font-color: #192872;
