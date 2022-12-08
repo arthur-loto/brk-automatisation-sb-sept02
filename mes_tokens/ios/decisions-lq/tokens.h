@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Tue, 06 Dec 2022 16:41:46 GMT
+// Generated on Thu, 08 Dec 2022 15:30:21 GMT
 
 
 #import <Foundation/Foundation.h>
@@ -12,6 +12,12 @@
 
 #define BrkAccordionSmHorizontalPadding 8
 #define BrkAccordionSmVerticalPadding 16
+#define BrkAccordionSmContentGap 16
+#define BrkAccordionMdHorizontalPadding 16
+#define BrkAccordionMdVerticalPadding 16
+#define BrkAccordionMdContentGap 16
+#define BrkAccordionMdIconPaddingLeft 8
+#define BrkAccordionIconSize 16
 #define BrkAccordionStandardBorderColor #f2f2f2
 #define BrkAccordionStandardBackgroundColorDefault #ffffff
 #define BrkAccordionStandardBackgroundColorHover #f2f2f2
@@ -960,43 +966,21 @@
 #define BrkButtonSecondaryBorderWidth 2
 #define BrkButtonTertiaryBorderWidth 0
 #define BrkButtonTextBorderWidth 0
-#define BrkButtonPrimarySmLabelFontFamily Arial
-#define BrkButtonPrimarySmLabelFontWeight 700
-#define BrkButtonPrimarySmLabelLineHeight 100%
-#define BrkButtonPrimarySmLabelFontSize 13
-#define BrkButtonPrimarySmLabelLetterSpacing 2%
-#define BrkButtonPrimarySmLabelParagraphSpacing 
-#define BrkButtonPrimarySmLabelTextCase none
-#define BrkButtonPrimarySmLabelTextDecoration none
-#define BrkButtonPrimaryMdLabelFontFamily Arial
-#define BrkButtonPrimaryMdLabelFontWeight 700
-#define BrkButtonPrimaryMdLabelLineHeight 100%
-#define BrkButtonPrimaryMdLabelFontSize 18
-#define BrkButtonPrimaryMdLabelLetterSpacing 2%
-#define BrkButtonPrimaryMdLabelParagraphSpacing 
-#define BrkButtonPrimaryMdLabelTextCase none
-#define BrkButtonPrimaryMdLabelTextDecoration none
-#define BrkButtonPrimaryLgLabelFontFamily Arial
-#define BrkButtonPrimaryLgLabelFontWeight 700
-#define BrkButtonPrimaryLgLabelLineHeight 100%
-#define BrkButtonPrimaryLgLabelFontSize 22
-#define BrkButtonPrimaryLgLabelLetterSpacing 2%
-#define BrkButtonPrimaryLgLabelParagraphSpacing 
-#define BrkButtonPrimaryLgLabelTextCase none
-#define BrkButtonPrimaryLgLabelTextDecoration none
-#define BrkButtonPrimaryXlLabelFontFamily Arial
-#define BrkButtonPrimaryXlLabelFontWeight 700
-#define BrkButtonPrimaryXlLabelLineHeight 100%
-#define BrkButtonPrimaryXlLabelFontSize 26
-#define BrkButtonPrimaryXlLabelLetterSpacing 2%
-#define BrkButtonPrimaryXlLabelParagraphSpacing 
-#define BrkButtonPrimaryXlLabelTextCase none
-#define BrkButtonPrimaryXlLabelTextDecoration none
-#define BrkButtonPrimaryHeight 36
-#define BrkButtonPrimaryIconSize 16
+#define BrkButtonPrimaryHeight 2.667
+#define BrkButtonPrimaryIconSize 0.889
 #define BrkButtonPrimaryPaddingHorizontal 16
 #define BrkButtonPrimaryIconGap 8
 #define BrkButtonPrimaryBorderRadius 4
+#define BrkButtonPrimaryFontFamily Arial
+#define BrkButtonPrimaryFontWeight 700
+#define BrkButtonPrimaryLineHeight 100%
+#define BrkButtonPrimarySmFontSize 13
+#define BrkButtonPrimaryMdFontSize 18
+#define BrkButtonPrimaryLgFontSize 22
+#define BrkButtonPrimaryXlFontSize 26
+#define BrkButtonPrimaryLetterSpacing 2%
+#define BrkButtonPrimaryTextDecoration none
+#define BrkButtonPrimaryTextTransform none
 #define BrkButtonPrimaryStandardFontColorDefault #ffffff
 #define BrkButtonPrimaryStandardIconFillDefault #ffffff
 #define BrkButtonPrimaryStandardBackgroundColorDefault #192872
@@ -1022,42 +1006,20 @@
 #define BrkButtonPrimaryInvertedBackgroundColorFocus #2e49d1
 #define BrkButtonPrimaryInvertedBorderColorFocus transparent
 #define BrkButtonSecondaryPaddingHorizontal 16
-#define BrkButtonSecondaryHeight 36
-#define BrkButtonSecondaryIconSize 16
+#define BrkButtonSecondaryHeight 2.667
+#define BrkButtonSecondaryIconSize 0.889
 #define BrkButtonSecondaryIconGap 8
-#define BrkButtonSecondarySmLabelFontFamily Arial
-#define BrkButtonSecondarySmLabelFontWeight 700
-#define BrkButtonSecondarySmLabelLineHeight 100%
-#define BrkButtonSecondarySmLabelFontSize 13
-#define BrkButtonSecondarySmLabelLetterSpacing 2%
-#define BrkButtonSecondarySmLabelParagraphSpacing 
-#define BrkButtonSecondarySmLabelTextCase none
-#define BrkButtonSecondarySmLabelTextDecoration none
-#define BrkButtonSecondaryMdLabelFontFamily Arial
-#define BrkButtonSecondaryMdLabelFontWeight 700
-#define BrkButtonSecondaryMdLabelLineHeight 100%
-#define BrkButtonSecondaryMdLabelFontSize 18
-#define BrkButtonSecondaryMdLabelLetterSpacing 2%
-#define BrkButtonSecondaryMdLabelParagraphSpacing 
-#define BrkButtonSecondaryMdLabelTextCase none
-#define BrkButtonSecondaryMdLabelTextDecoration none
-#define BrkButtonSecondaryLgLabelFontFamily Arial
-#define BrkButtonSecondaryLgLabelFontWeight 700
-#define BrkButtonSecondaryLgLabelLineHeight 100%
-#define BrkButtonSecondaryLgLabelFontSize 22
-#define BrkButtonSecondaryLgLabelLetterSpacing 2%
-#define BrkButtonSecondaryLgLabelParagraphSpacing 
-#define BrkButtonSecondaryLgLabelTextCase none
-#define BrkButtonSecondaryLgLabelTextDecoration none
-#define BrkButtonSecondaryXlLabelFontFamily Arial
-#define BrkButtonSecondaryXlLabelFontWeight 700
-#define BrkButtonSecondaryXlLabelLineHeight 100%
-#define BrkButtonSecondaryXlLabelFontSize 26
-#define BrkButtonSecondaryXlLabelLetterSpacing 2%
-#define BrkButtonSecondaryXlLabelParagraphSpacing 
-#define BrkButtonSecondaryXlLabelTextCase none
-#define BrkButtonSecondaryXlLabelTextDecoration none
 #define BrkButtonSecondaryBorderRadius 4
+#define BrkButtonSecondaryFontFamily Arial
+#define BrkButtonSecondaryFontWeight 700
+#define BrkButtonSecondaryLineHeight 100%
+#define BrkButtonSecondarySmFontSize 13
+#define BrkButtonSecondaryMdFontSize 18
+#define BrkButtonSecondaryLgFontSize 22
+#define BrkButtonSecondaryXlFontSize 26
+#define BrkButtonSecondaryLetterSpacing 2%
+#define BrkButtonSecondaryTextTransform none
+#define BrkButtonSecondaryTextDecoration none
 #define BrkButtonSecondaryStandardFontColorDefault #192872
 #define BrkButtonSecondaryStandardIconFillDefault #192872
 #define BrkButtonSecondaryStandardBackgroundColorDefault transparent
@@ -1082,43 +1044,21 @@
 #define BrkButtonSecondaryInvertedIconFillFocus #253aa7
 #define BrkButtonSecondaryInvertedBackgroundColorFocus #eaedfa
 #define BrkButtonSecondaryInvertedBorderColorFocus #253aa7
-#define BrkButtonTertiarySmLabelFontFamily Arial
-#define BrkButtonTertiarySmLabelFontWeight 700
-#define BrkButtonTertiarySmLabelLineHeight 85%
-#define BrkButtonTertiarySmLabelFontSize 10
-#define BrkButtonTertiarySmLabelLetterSpacing 2%
-#define BrkButtonTertiarySmLabelParagraphSpacing 
-#define BrkButtonTertiarySmLabelTextCase uppercase
-#define BrkButtonTertiarySmLabelTextDecoration none
-#define BrkButtonTertiaryMdLabelFontFamily Arial
-#define BrkButtonTertiaryMdLabelFontWeight 700
-#define BrkButtonTertiaryMdLabelLineHeight 85%
-#define BrkButtonTertiaryMdLabelFontSize 14
-#define BrkButtonTertiaryMdLabelLetterSpacing 2%
-#define BrkButtonTertiaryMdLabelParagraphSpacing 
-#define BrkButtonTertiaryMdLabelTextCase uppercase
-#define BrkButtonTertiaryMdLabelTextDecoration none
-#define BrkButtonTertiaryLgLabelFontFamily Arial
-#define BrkButtonTertiaryLgLabelFontWeight 700
-#define BrkButtonTertiaryLgLabelLineHeight 85%
-#define BrkButtonTertiaryLgLabelFontSize 18
-#define BrkButtonTertiaryLgLabelLetterSpacing 2%
-#define BrkButtonTertiaryLgLabelParagraphSpacing 
-#define BrkButtonTertiaryLgLabelTextCase uppercase
-#define BrkButtonTertiaryLgLabelTextDecoration none
-#define BrkButtonTertiaryXlLabelFontFamily Arial
-#define BrkButtonTertiaryXlLabelFontWeight 700
-#define BrkButtonTertiaryXlLabelLineHeight 85%
-#define BrkButtonTertiaryXlLabelFontSize 22
-#define BrkButtonTertiaryXlLabelLetterSpacing 2%
-#define BrkButtonTertiaryXlLabelParagraphSpacing 
-#define BrkButtonTertiaryXlLabelTextCase uppercase
-#define BrkButtonTertiaryXlLabelTextDecoration none
 #define BrkButtonTertiaryPaddingHorizontal 16
-#define BrkButtonTertiaryHeight 36
-#define BrkButtonTertiaryIconSize 12
+#define BrkButtonTertiaryHeight 2.667
+#define BrkButtonTertiaryIconSize 0.889
 #define BrkButtonTertiaryIconGap 8
 #define BrkButtonTertiaryBorderRadius 4
+#define BrkButtonTertiaryFontFamily Arial
+#define BrkButtonTertiaryFontWeight 700
+#define BrkButtonTertiaryLineHeight 85%
+#define BrkButtonTertiarySmFontSize 10
+#define BrkButtonTertiaryMdFontSize 14
+#define BrkButtonTertiaryLgFontSize 18
+#define BrkButtonTertiaryXlFontSize 22
+#define BrkButtonTertiaryLetterSpacing 2%
+#define BrkButtonTertiaryTextTransform none
+#define BrkButtonTertiaryTextDecoration none
 #define BrkButtonTertiaryStandardFontColorDefault #253aa7
 #define BrkButtonTertiaryStandardIconFillDefault #253aa7
 #define BrkButtonTertiaryStandardBackgroundColorDefault #eaedfa
@@ -1143,43 +1083,21 @@
 #define BrkButtonTertiaryInvertedIconFillFocus #ffffff
 #define BrkButtonTertiaryInvertedBackgroundColorFocus #2e49d1
 #define BrkButtonTertiaryInvertedBorderColorFocus transparent
-#define BrkButtonTextSmLabelFontFamily Arial
-#define BrkButtonTextSmLabelFontWeight 700
-#define BrkButtonTextSmLabelLineHeight 85%
-#define BrkButtonTextSmLabelFontSize 10
-#define BrkButtonTextSmLabelLetterSpacing 2%
-#define BrkButtonTextSmLabelParagraphSpacing 
-#define BrkButtonTextSmLabelTextCase none
-#define BrkButtonTextSmLabelTextDecoration underline
-#define BrkButtonTextMdLabelFontFamily Arial
-#define BrkButtonTextMdLabelFontWeight 700
-#define BrkButtonTextMdLabelLineHeight 85%
-#define BrkButtonTextMdLabelFontSize 14
-#define BrkButtonTextMdLabelLetterSpacing 2%
-#define BrkButtonTextMdLabelParagraphSpacing 
-#define BrkButtonTextMdLabelTextCase none
-#define BrkButtonTextMdLabelTextDecoration underline
-#define BrkButtonTextLgLabelFontFamily Arial
-#define BrkButtonTextLgLabelFontWeight 700
-#define BrkButtonTextLgLabelLineHeight 85%
-#define BrkButtonTextLgLabelFontSize 18
-#define BrkButtonTextLgLabelLetterSpacing 2%
-#define BrkButtonTextLgLabelParagraphSpacing 
-#define BrkButtonTextLgLabelTextCase none
-#define BrkButtonTextLgLabelTextDecoration underline
-#define BrkButtonTextXlLabelFontFamily Arial
-#define BrkButtonTextXlLabelFontWeight 700
-#define BrkButtonTextXlLabelLineHeight 85%
-#define BrkButtonTextXlLabelFontSize 22
-#define BrkButtonTextXlLabelLetterSpacing 2%
-#define BrkButtonTextXlLabelParagraphSpacing 
-#define BrkButtonTextXlLabelTextCase none
-#define BrkButtonTextXlLabelTextDecoration underline
-#define BrkButtonTextHeight 16
-#define BrkButtonTextIconSize 12
+#define BrkButtonTextHeight 2.667
+#define BrkButtonTextIconSize 0.889
 #define BrkButtonTextPaddingHorizontal 0
 #define BrkButtonTextIconGap 8
 #define BrkButtonTextBorderRadius 4
+#define BrkButtonTextFontFamily Arial
+#define BrkButtonTextFontWeight 700
+#define BrkButtonTextLineHeight 85%
+#define BrkButtonTextSmFontSize 10
+#define BrkButtonTextMdFontSize 14
+#define BrkButtonTextLgFontSize 18
+#define BrkButtonTextXlFontSize 22
+#define BrkButtonTextLetterSpacing 2%
+#define BrkButtonTextTextTransform none
+#define BrkButtonTextTextDecoration underline
 #define BrkButtonTextStandardFontColorDefault #253aa7
 #define BrkButtonTextStandardIconFillDefault #253aa7
 #define BrkButtonTextStandardBackgroundColorDefault transparent
@@ -1204,4 +1122,36 @@
 #define BrkButtonTextInvertedIconFillFocus #ffffff
 #define BrkButtonTextInvertedBackgroundColorFocus transparent
 #define BrkButtonTextInvertedBorderColorFocus transparent
+#define BrkFigButtonPrimarySmHeight 34.671
+#define BrkFigButtonPrimarySmIconSize 11.557
+#define BrkFigButtonPrimaryMdHeight 48.006
+#define BrkFigButtonPrimaryMdIconSize 16.002
+#define BrkFigButtonPrimaryLgHeight 58.674
+#define BrkFigButtonPrimaryLgIconSize 19.558
+#define BrkFigButtonPrimaryXlHeight 69.342
+#define BrkFigButtonPrimaryXlIconSize 23.114
+#define BrkFigButtonSecondarySmHeight 34.671
+#define BrkFigButtonSecondarySmIconSize 11.557
+#define BrkFigButtonSecondaryMdHeight 48.006
+#define BrkFigButtonSecondaryMdIconSize 16.002
+#define BrkFigButtonSecondaryLgHeight 58.674
+#define BrkFigButtonSecondaryLgIconSize 19.558
+#define BrkFigButtonSecondaryXlHeight 69.342
+#define BrkFigButtonSecondaryXlIconSize 23.114
+#define BrkFigButtonTertiarySmHeight 26.67
+#define BrkFigButtonTertiarySmIconSize 8.89
+#define BrkFigButtonTertiaryMdHeight 37.338
+#define BrkFigButtonTertiaryMdIconSize 12.446
+#define BrkFigButtonTertiaryLgHeight 48.006
+#define BrkFigButtonTertiaryLgIconSize 16.002
+#define BrkFigButtonTertiaryXlHeight 58.674
+#define BrkFigButtonTertiaryXlIconSize 19.558
+#define BrkFigButtonTextSmHeight 26.67
+#define BrkFigButtonTextSmIconSize 8.89
+#define BrkFigButtonTextMdHeight 37.338
+#define BrkFigButtonTextMdIconSize 12.446
+#define BrkFigButtonTextLgHeight 48.006
+#define BrkFigButtonTextLgIconSize 16.002
+#define BrkFigButtonTextXlHeight 58.674
+#define BrkFigButtonTextXlIconSize 19.558
 
