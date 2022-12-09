@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Fri, 09 Dec 2022 16:06:11 GMT
+ * Generated on Fri, 09 Dec 2022 17:33:03 GMT
  */
 
 :root {
@@ -21,13 +21,13 @@
   --brk-accordion-standard-border-color: #e6e6e6;
   --brk-accordion-standard-icon-fill: #0b5db7;
   --brk-button-opacity-disabled: 50%;
-  --brk-button-primary-border-radius: 22.152px;
+  --brk-button-primary-border-radius: 22.152;
   --brk-button-primary-border-width: 2px;
   --brk-button-primary-font-family: Arial;
   --brk-button-primary-font-weight: 700;
-  --brk-button-primary-height: 2.769px;
-  --brk-button-primary-icon-gap: 0.615px;
-  --brk-button-primary-icon-size: 1.231px;
+  --brk-button-primary-height: 2.769;
+  --brk-button-primary-icon-gap: 0.615;
+  --brk-button-primary-icon-size: 1.231;
   --brk-button-primary-inverted-background-color-default: #fdfe8b;
   --brk-button-primary-inverted-background-color-focus: #ffffff;
   --brk-button-primary-inverted-background-color-hover: #ffffff;
@@ -44,7 +44,7 @@
   --brk-button-primary-lg-font-size: 22px;
   --brk-button-primary-line-height: 100%;
   --brk-button-primary-md-font-size: 18px;
-  --brk-button-primary-padding-horizontal: 1.231px;
+  --brk-button-primary-padding-horizontal: 1.231;
   --brk-button-primary-sm-font-size: 13px;
   --brk-button-primary-standard-background-color-default: #fdfe8b;
   --brk-button-primary-standard-background-color-focus: #1a1a1a;
@@ -61,13 +61,13 @@
   --brk-button-primary-text-decoration: none;
   --brk-button-primary-text-transform: none;
   --brk-button-primary-xl-font-size: 26px;
-  --brk-button-secondary-border-radius: 22.152px;
+  --brk-button-secondary-border-radius: 22.152;
   --brk-button-secondary-border-width: 2px;
   --brk-button-secondary-font-family: Arial;
   --brk-button-secondary-font-weight: 700;
-  --brk-button-secondary-height: 2.769px;
-  --brk-button-secondary-icon-gap: 0.615px;
-  --brk-button-secondary-icon-size: 1.231px;
+  --brk-button-secondary-height: 2.769;
+  --brk-button-secondary-icon-gap: 0.615;
+  --brk-button-secondary-icon-size: 1.231;
   --brk-button-secondary-inverted-background-color-default: transparent;
   --brk-button-secondary-inverted-background-color-focus: #ffffff;
   --brk-button-secondary-inverted-background-color-hover: #ffffff;
@@ -84,7 +84,7 @@
   --brk-button-secondary-lg-font-size: 22px;
   --brk-button-secondary-line-height: 100%;
   --brk-button-secondary-md-font-size: 18px;
-  --brk-button-secondary-padding-horizontal: 1.231px;
+  --brk-button-secondary-padding-horizontal: 1.231;
   --brk-button-secondary-sm-font-size: 13px;
   --brk-button-secondary-standard-background-color-default: transparent;
   --brk-button-secondary-standard-background-color-focus: #1a1a1a;
@@ -101,13 +101,13 @@
   --brk-button-secondary-text-decoration: none;
   --brk-button-secondary-text-transform: none;
   --brk-button-secondary-xl-font-size: 26px;
-  --brk-button-tertiary-border-radius: 22.152px;
+  --brk-button-tertiary-border-radius: 22.152;
   --brk-button-tertiary-border-width: 2px;
   --brk-button-tertiary-font-family: Arial;
   --brk-button-tertiary-font-weight: 700;
-  --brk-button-tertiary-height: 2.769px;
-  --brk-button-tertiary-icon-gap: 0.615px;
-  --brk-button-tertiary-icon-size: 1.231px;
+  --brk-button-tertiary-height: 2.769;
+  --brk-button-tertiary-icon-gap: 0.615;
+  --brk-button-tertiary-icon-size: 1.231;
   --brk-button-tertiary-inverted-background-color-default: #1a1a1a;
   --brk-button-tertiary-inverted-background-color-focus: #1a1a1a;
   --brk-button-tertiary-inverted-background-color-hover: #1a1a1a;
@@ -124,7 +124,7 @@
   --brk-button-tertiary-lg-font-size: 18px;
   --brk-button-tertiary-line-height: 100%;
   --brk-button-tertiary-md-font-size: 14px;
-  --brk-button-tertiary-padding-horizontal: 1.231px;
+  --brk-button-tertiary-padding-horizontal: 1.231;
   --brk-button-tertiary-sm-font-size: 10px;
   --brk-button-tertiary-standard-background-color-default: #ffffff;
   --brk-button-tertiary-standard-background-color-focus: #ffffff;
@@ -141,13 +141,13 @@
   --brk-button-tertiary-text-decoration: none;
   --brk-button-tertiary-text-transform: none;
   --brk-button-tertiary-xl-font-size: 22px;
-  --brk-button-text-border-radius: 9.848px;
+  --brk-button-text-border-radius: 9.848;
   --brk-button-text-border-width: 2px;
   --brk-button-text-font-family: Arial;
   --brk-button-text-font-weight: 700;
-  --brk-button-text-height: 1.231px;
-  --brk-button-text-icon-gap: 0.615px;
-  --brk-button-text-icon-size: 1.231px;
+  --brk-button-text-height: 1.231;
+  --brk-button-text-icon-gap: 0.615;
+  --brk-button-text-icon-size: 1.231;
   --brk-button-text-inverted-background-color-default: transparent;
   --brk-button-text-inverted-background-color-focus: transparent;
   --brk-button-text-inverted-background-color-hover: transparent;
@@ -164,7 +164,7 @@
   --brk-button-text-lg-font-size: 18px;
   --brk-button-text-line-height: 100%;
   --brk-button-text-md-font-size: 14px;
-  --brk-button-text-padding-horizontal: 0px;
+  --brk-button-text-padding-horizontal: 0;
   --brk-button-text-sm-font-size: 10px;
   --brk-button-text-standard-background-color-default: transparent;
   --brk-button-text-standard-background-color-focus: transparent;
@@ -516,7 +516,7 @@
   --brk-interactive-outline-width: 2px;
   --brk-interactive-standard-outline-color-focus: #1a1a1a;
   --brk-jackpot-hero-amount-digit-border-radius: 4px;
-  --brk-jackpot-hero-amount-digit-border-width: 0px;
+  --brk-jackpot-hero-amount-digit-border-width: 0;
   --brk-jackpot-hero-lg-amount-digit-height: 40px;
   --brk-jackpot-hero-lg-amount-digit-margin: 3px;
   --brk-jackpot-hero-lg-amount-digit-width: 30px;
@@ -615,7 +615,7 @@
   --brk-jackpot-hero-xl-heading-text-decoration: none;
   --brk-jackpot-hero-xl-height: 72px;
   --brk-jackpot-hero-xl-padding-horizontal: 24px;
-  --brk-promo-primary-border-radius: 0px;
+  --brk-promo-primary-border-radius: 0;
   --brk-promo-primary-border-width: 1px;
   --brk-promo-primary-content-vertical-align: center;
   --brk-promo-primary-frame-border-radius: 16px;
@@ -737,7 +737,7 @@
   --brk-promo-primary-xl-body-text-decoration: none;
   --brk-promo-primary-xl-content-gap: 16px;
   --brk-promo-primary-xl-content-max-width: 470px;
-  --brk-promo-primary-xl-content-width: 40%;
+  --brk-promo-primary-xl-content-width: 40px%;
   --brk-promo-primary-xl-gradient-height: 142px;
   --brk-promo-primary-xl-heading-font-family: Graphik;
   --brk-promo-primary-xl-heading-font-size: 42px;
@@ -846,7 +846,7 @@
   --brk-promo-secondary-standard-heading-font-color: #000000;
   --brk-promo-secondary-standard-pretitle-font-color: #000000;
   --brk-promo-secondary-xl-content-gap: 32px;
-  --brk-promo-secondary-xl-content-width: 50%;
+  --brk-promo-secondary-xl-content-width: 50px%;
   --brk-promo-secondary-xl-gradient-height: 142px;
   --brk-promo-secondary-xl-heading-font-family: Graphik;
   --brk-promo-secondary-xl-heading-font-size: 42px;
@@ -868,7 +868,7 @@
   --brk-promo-secondary-xl-pretitle-paragraph-spacing: ;
   --brk-promo-secondary-xl-pretitle-text-case: none;
   --brk-promo-secondary-xl-pretitle-text-decoration: none;
-  --brk-promo-tertiary-border-radius: 0px;
+  --brk-promo-tertiary-border-radius: 0;
   --brk-promo-tertiary-border-width: 1px;
   --brk-promo-tertiary-content-vertical-align: flex-end;
   --brk-promo-tertiary-frame-border-radius: 16px;
@@ -960,7 +960,7 @@
   --brk-promo-tertiary-standard-pretitle-font-color: #000000;
   --brk-promo-tertiary-xl-content-gap: 32px;
   --brk-promo-tertiary-xl-content-max-width: 470px;
-  --brk-promo-tertiary-xl-content-width: 40%;
+  --brk-promo-tertiary-xl-content-width: 40px%;
   --brk-promo-tertiary-xl-frame-padding-horizontal: 10px;
   --brk-promo-tertiary-xl-frame-padding-vertical: 10px;
   --brk-promo-tertiary-xl-gradient-height: 142px;
@@ -984,7 +984,7 @@
   --brk-promo-tertiary-xl-pretitle-paragraph-spacing: ;
   --brk-promo-tertiary-xl-pretitle-text-case: none;
   --brk-promo-tertiary-xl-pretitle-text-decoration: none;
-  --brk-ref-button-primary-lg-height: 60.918px;
+  --brk-ref-button-primary-lg-height: 60.918000000000006px;
   --brk-ref-button-primary-lg-icon-size: 27.082px;
   --brk-ref-button-primary-md-height: 49.842px;
   --brk-ref-button-primary-md-icon-size: 22.158px;
@@ -992,7 +992,7 @@
   --brk-ref-button-primary-sm-icon-size: 16.003px;
   --brk-ref-button-primary-xl-height: 71.994px;
   --brk-ref-button-primary-xl-icon-size: 32.006px;
-  --brk-ref-button-secondary-lg-height: 60.918px;
+  --brk-ref-button-secondary-lg-height: 60.918000000000006px;
   --brk-ref-button-secondary-lg-icon-size: 27.082px;
   --brk-ref-button-secondary-md-height: 49.842px;
   --brk-ref-button-secondary-md-icon-size: 22.158px;
@@ -1002,11 +1002,11 @@
   --brk-ref-button-secondary-xl-icon-size: 32.006px;
   --brk-ref-button-tertiary-lg-height: 49.842px;
   --brk-ref-button-tertiary-lg-icon-size: 22.158px;
-  --brk-ref-button-tertiary-md-height: 38.766px;
+  --brk-ref-button-tertiary-md-height: 38.766000000000005px;
   --brk-ref-button-tertiary-md-icon-size: 17.234px;
   --brk-ref-button-tertiary-sm-height: 27.69px;
   --brk-ref-button-tertiary-sm-icon-size: 12.31px;
-  --brk-ref-button-tertiary-xl-height: 60.918px;
+  --brk-ref-button-tertiary-xl-height: 60.918000000000006px;
   --brk-ref-button-tertiary-xl-icon-size: 27.082px;
   --brk-ref-button-text-lg-height: 22.158px;
   --brk-ref-button-text-lg-icon-size: 22.158px;
@@ -1021,19 +1021,19 @@
   --brk-template-lg-content-gap-vertical: 40px;
   --brk-template-lg-margin-bottom: 64px;
   --brk-template-lg-margin-horizontal: 32px;
-  --brk-template-lg-margin-top: 0px;
+  --brk-template-lg-margin-top: 0;
   --brk-template-md-content-gap-horizontal: 24px;
   --brk-template-md-content-gap-vertical: 32px;
   --brk-template-md-margin-bottom: 48px;
   --brk-template-md-margin-horizontal: 24px;
-  --brk-template-md-margin-top: 0px;
+  --brk-template-md-margin-top: 0;
   --brk-template-sm-content-gap-horizontal: 16px;
   --brk-template-sm-content-gap-vertical: 24px;
   --brk-template-sm-margin-bottom: 40px;
   --brk-template-sm-margin-horizontal: 16px;
-  --brk-template-sm-margin-top: 0px;
+  --brk-template-sm-margin-top: 0;
   --brk-text-body-2-font-family: Arial;
-  --brk-text-body-2-font-size: px;
+  --brk-text-body-2-font-size: ;
   --brk-text-body-2-font-weight: 400;
   --brk-text-body-2-letter-spacing: 0%;
   --brk-text-body-2-line-height: 150%;
@@ -1053,7 +1053,7 @@
   --brk-text-body-base-text-case: none;
   --brk-text-body-base-text-decoration: none;
   --brk-text-caption-font-family: Arial;
-  --brk-text-caption-font-size: px;
+  --brk-text-caption-font-size: ;
   --brk-text-caption-font-weight: 400;
   --brk-text-caption-letter-spacing: 0%;
   --brk-text-caption-line-height: 150%;
@@ -1063,7 +1063,7 @@
   --brk-text-caption-text-case: none;
   --brk-text-caption-text-decoration: none;
   --brk-text-display-1-font-family: Graphik;
-  --brk-text-display-1-font-size: px;
+  --brk-text-display-1-font-size: ;
   --brk-text-display-1-font-weight: 950;
   --brk-text-display-1-letter-spacing: -2%;
   --brk-text-display-1-line-height: 110%;
@@ -1071,7 +1071,7 @@
   --brk-text-display-1-text-case: none;
   --brk-text-display-1-text-decoration: none;
   --brk-text-display-2-font-family: Graphik;
-  --brk-text-display-2-font-size: px;
+  --brk-text-display-2-font-size: ;
   --brk-text-display-2-font-weight: 950;
   --brk-text-display-2-letter-spacing: -2%;
   --brk-text-display-2-line-height: 110%;
@@ -1079,7 +1079,7 @@
   --brk-text-display-2-text-case: none;
   --brk-text-display-2-text-decoration: none;
   --brk-text-display-3-font-family: Graphik;
-  --brk-text-display-3-font-size: px;
+  --brk-text-display-3-font-size: ;
   --brk-text-display-3-font-weight: 950;
   --brk-text-display-3-letter-spacing: -2%;
   --brk-text-display-3-line-height: 115%;
@@ -1089,7 +1089,7 @@
   --brk-text-display-margin-bottom: 1.5em;
   --brk-text-display-margin-top: 2.5em;
   --brk-text-heading-1-font-family: Graphik;
-  --brk-text-heading-1-font-size: px;
+  --brk-text-heading-1-font-size: ;
   --brk-text-heading-1-font-weight: 950;
   --brk-text-heading-1-letter-spacing: 0%;
   --brk-text-heading-1-line-height: 120%;
@@ -1097,7 +1097,7 @@
   --brk-text-heading-1-text-case: none;
   --brk-text-heading-1-text-decoration: none;
   --brk-text-heading-2-font-family: Graphik;
-  --brk-text-heading-2-font-size: px;
+  --brk-text-heading-2-font-size: ;
   --brk-text-heading-2-font-weight: 700;
   --brk-text-heading-2-letter-spacing: 0%;
   --brk-text-heading-2-line-height: 120%;
@@ -1105,7 +1105,7 @@
   --brk-text-heading-2-text-case: none;
   --brk-text-heading-2-text-decoration: none;
   --brk-text-heading-3-font-family: Graphik;
-  --brk-text-heading-3-font-size: px;
+  --brk-text-heading-3-font-size: ;
   --brk-text-heading-3-font-weight: 700;
   --brk-text-heading-3-letter-spacing: 0%;
   --brk-text-heading-3-line-height: 130%;
@@ -1135,9 +1135,9 @@
   --brk-text-list-margin-bottom: 1.5em;
   --brk-text-list-margin-top: 1em;
   --brk-text-list-padding-left: 1.5em;
-  --brk-text-ratio-lg: 1.28px;
-  --brk-text-ratio-md: 1.24px;
-  --brk-text-ratio-sm: 1.2px;
+  --brk-text-ratio-lg: 1.28;
+  --brk-text-ratio-md: 1.24;
+  --brk-text-ratio-sm: 1.2;
   --brk-text-standard-body-2-font-color: #1a1a1a;
   --brk-text-standard-body-base-font-color: #1a1a1a;
   --brk-text-standard-caption-font-color: #1a1a1a;
