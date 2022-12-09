@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Fri, 09 Dec 2022 17:33:03 GMT
+// Generated on Fri, 09 Dec 2022 20:04:29 GMT
 
 
 #import <Foundation/Foundation.h>
@@ -972,11 +972,11 @@
 #define BrkButtonTertiaryBorderWidth 2px
 #define BrkButtonTextBorderWidth 2px
 #define BrkButtonOpacityDisabled 50%
-#define BrkButtonPrimaryHeight 2.769
-#define BrkButtonPrimaryIconSize 1.231
-#define BrkButtonPrimaryPaddingHorizontal 1.231
-#define BrkButtonPrimaryIconGap 0.615
-#define BrkButtonPrimaryBorderRadius 22.152
+#define BrkButtonPrimaryHeight 2.7692em
+#define BrkButtonPrimaryIconSize 1.2307em
+#define BrkButtonPrimaryPaddingHorizontal 1.2307em
+#define BrkButtonPrimaryIconGap 0.6153em
+#define BrkButtonPrimaryBorderRadius 22.1536em
 #define BrkButtonPrimaryFontFamily Arial
 #define BrkButtonPrimaryFontWeight 700
 #define BrkButtonPrimaryLineHeight 100%
@@ -1011,11 +1011,11 @@
 #define BrkButtonPrimaryInvertedIconFillFocus #1a1a1a
 #define BrkButtonPrimaryInvertedBackgroundColorFocus #ffffff
 #define BrkButtonPrimaryInvertedBorderColorFocus #1a1a1a
-#define BrkButtonSecondaryPaddingHorizontal 1.231
-#define BrkButtonSecondaryHeight 2.769
-#define BrkButtonSecondaryIconSize 1.231
-#define BrkButtonSecondaryIconGap 0.615
-#define BrkButtonSecondaryBorderRadius 22.152
+#define BrkButtonSecondaryPaddingHorizontal 1.2307em
+#define BrkButtonSecondaryHeight 2.7692em
+#define BrkButtonSecondaryIconSize 1.2307em
+#define BrkButtonSecondaryIconGap 0.6153em
+#define BrkButtonSecondaryBorderRadius 22.1536em
 #define BrkButtonSecondaryFontFamily Arial
 #define BrkButtonSecondaryFontWeight 700
 #define BrkButtonSecondaryLineHeight 100%
@@ -1050,11 +1050,11 @@
 #define BrkButtonSecondaryInvertedIconFillFocus #1a1a1a
 #define BrkButtonSecondaryInvertedBackgroundColorFocus #ffffff
 #define BrkButtonSecondaryInvertedBorderColorFocus #ffffff
-#define BrkButtonTertiaryPaddingHorizontal 1.231
-#define BrkButtonTertiaryHeight 2.769
-#define BrkButtonTertiaryIconSize 1.231
-#define BrkButtonTertiaryIconGap 0.615
-#define BrkButtonTertiaryBorderRadius 22.152
+#define BrkButtonTertiaryPaddingHorizontal 1.2307em
+#define BrkButtonTertiaryHeight 2.7692em
+#define BrkButtonTertiaryIconSize 1.2307em
+#define BrkButtonTertiaryIconGap 0.6153em
+#define BrkButtonTertiaryBorderRadius 22.1536em
 #define BrkButtonTertiaryFontFamily Arial
 #define BrkButtonTertiaryFontWeight 700
 #define BrkButtonTertiaryLineHeight 100%
@@ -1089,11 +1089,11 @@
 #define BrkButtonTertiaryInvertedIconFillFocus #ffffff
 #define BrkButtonTertiaryInvertedBackgroundColorFocus #1a1a1a
 #define BrkButtonTertiaryInvertedBorderColorFocus #ffffff
-#define BrkButtonTextHeight 1.231
-#define BrkButtonTextIconSize 1.231
+#define BrkButtonTextHeight 1.2307em
+#define BrkButtonTextIconSize 1.2307em
 #define BrkButtonTextPaddingHorizontal 0
-#define BrkButtonTextIconGap 0.615
-#define BrkButtonTextBorderRadius 9.848
+#define BrkButtonTextIconGap 0.6153em
+#define BrkButtonTextBorderRadius 9.8456em
 #define BrkButtonTextFontFamily Arial
 #define BrkButtonTextFontWeight 700
 #define BrkButtonTextLineHeight 100%
@@ -1130,36 +1130,36 @@
 #define BrkButtonTextInvertedIconFillFocus #ffffff
 #define BrkButtonTextInvertedBackgroundColorFocus transparent
 #define BrkButtonTextInvertedBorderColorFocus transparent
-#define BrkRefButtonPrimarySmHeight 35.997px
-#define BrkRefButtonPrimarySmIconSize 16.003px
-#define BrkRefButtonPrimaryMdHeight 49.842px
-#define BrkRefButtonPrimaryMdIconSize 22.158px
-#define BrkRefButtonPrimaryLgHeight 60.918000000000006px
-#define BrkRefButtonPrimaryLgIconSize 27.082px
-#define BrkRefButtonPrimaryXlHeight 71.994px
-#define BrkRefButtonPrimaryXlIconSize 32.006px
-#define BrkRefButtonSecondarySmHeight 35.997px
-#define BrkRefButtonSecondarySmIconSize 16.003px
-#define BrkRefButtonSecondaryMdHeight 49.842px
-#define BrkRefButtonSecondaryMdIconSize 22.158px
-#define BrkRefButtonSecondaryLgHeight 60.918000000000006px
-#define BrkRefButtonSecondaryLgIconSize 27.082px
-#define BrkRefButtonSecondaryXlHeight 71.994px
-#define BrkRefButtonSecondaryXlIconSize 32.006px
-#define BrkRefButtonTertiarySmHeight 27.69px
-#define BrkRefButtonTertiarySmIconSize 12.31px
-#define BrkRefButtonTertiaryMdHeight 38.766000000000005px
-#define BrkRefButtonTertiaryMdIconSize 17.234px
-#define BrkRefButtonTertiaryLgHeight 49.842px
-#define BrkRefButtonTertiaryLgIconSize 22.158px
-#define BrkRefButtonTertiaryXlHeight 60.918000000000006px
-#define BrkRefButtonTertiaryXlIconSize 27.082px
-#define BrkRefButtonTextSmHeight 12.31px
-#define BrkRefButtonTextSmIconSize 12.31px
-#define BrkRefButtonTextMdHeight 17.234px
-#define BrkRefButtonTextMdIconSize 17.234px
-#define BrkRefButtonTextLgHeight 22.158px
-#define BrkRefButtonTextLgIconSize 22.158px
-#define BrkRefButtonTextXlHeight 27.082px
-#define BrkRefButtonTextXlIconSize 27.082px
+#define BrkRefButtonPrimarySmHeight 13px*2.7692em
+#define BrkRefButtonPrimarySmIconSize 13px*1.2307em
+#define BrkRefButtonPrimaryMdHeight 18px*2.7692em
+#define BrkRefButtonPrimaryMdIconSize 18px*1.2307em
+#define BrkRefButtonPrimaryLgHeight 22px*2.7692em
+#define BrkRefButtonPrimaryLgIconSize 22px*1.2307em
+#define BrkRefButtonPrimaryXlHeight 26px*2.7692em
+#define BrkRefButtonPrimaryXlIconSize 26px*1.2307em
+#define BrkRefButtonSecondarySmHeight 13px*2.7692em
+#define BrkRefButtonSecondarySmIconSize 13px*1.2307em
+#define BrkRefButtonSecondaryMdHeight 18px*2.7692em
+#define BrkRefButtonSecondaryMdIconSize 18px*1.2307em
+#define BrkRefButtonSecondaryLgHeight 22px*2.7692em
+#define BrkRefButtonSecondaryLgIconSize 22px*1.2307em
+#define BrkRefButtonSecondaryXlHeight 26px*2.7692em
+#define BrkRefButtonSecondaryXlIconSize 26px*1.2307em
+#define BrkRefButtonTertiarySmHeight 10px*2.7692em
+#define BrkRefButtonTertiarySmIconSize 10px*1.2307em
+#define BrkRefButtonTertiaryMdHeight 14px*2.7692em
+#define BrkRefButtonTertiaryMdIconSize 14px*1.2307em
+#define BrkRefButtonTertiaryLgHeight 18px*2.7692em
+#define BrkRefButtonTertiaryLgIconSize 18px*1.2307em
+#define BrkRefButtonTertiaryXlHeight 22px*2.7692em
+#define BrkRefButtonTertiaryXlIconSize 22px*1.2307em
+#define BrkRefButtonTextSmHeight 10px*1.2307em
+#define BrkRefButtonTextSmIconSize 10px*1.2307em
+#define BrkRefButtonTextMdHeight 14px*1.2307em
+#define BrkRefButtonTextMdIconSize 14px*1.2307em
+#define BrkRefButtonTextLgHeight 18px*1.2307em
+#define BrkRefButtonTextLgIconSize 18px*1.2307em
+#define BrkRefButtonTextXlHeight 22px*1.2307em
+#define BrkRefButtonTextXlIconSize 22px*1.2307em
 
