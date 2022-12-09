@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Thu, 08 Dec 2022 15:30:21 GMT
+// Generated on Fri, 09 Dec 2022 15:55:51 GMT
 
 
 #import <Foundation/Foundation.h>
@@ -97,11 +97,12 @@
 #define BrkTemplateLgMarginHorizontal 32
 #define BrkTemplateLgMarginTop 0
 #define BrkTemplateLgMarginBottom 64
-#define BrkThumbnailProductSmImageHeight 196
-#define BrkThumbnailProductSmContentGap 16
+#define BrkThumbnailProductSmImageHeight 180
+#define BrkThumbnailProductSmMarginBottom 16
+#define BrkThumbnailProductSmImageWidth 320
 #define BrkThumbnailProductMdImageHeight 270
-#define BrkThumbnailProductMdContentGap 16
-#define BrkThumbnailProductImageBackgroundColorStandard #060606
+#define BrkThumbnailProductMdMarginBottom 16
+#define BrkThumbnailProductMdImageWidth 480
 #define BrkTextDisplay1FontFamily Graphik
 #define BrkTextDisplay1FontWeight 950
 #define BrkTextDisplay1LineHeight 110%
@@ -112,12 +113,20 @@
 #define BrkTextDisplay1TextCase none
 #define BrkTextDisplay2FontFamily Graphik
 #define BrkTextDisplay2FontWeight 950
-#define BrkTextDisplay2LineHeight 115%
+#define BrkTextDisplay2LineHeight 110%
 #define BrkTextDisplay2FontSize 
 #define BrkTextDisplay2LetterSpacing -2%
 #define BrkTextDisplay2ParagraphSpacing 1.1em
 #define BrkTextDisplay2TextDecoration none
 #define BrkTextDisplay2TextCase none
+#define BrkTextDisplay3FontFamily Graphik
+#define BrkTextDisplay3FontWeight 950
+#define BrkTextDisplay3LineHeight 115%
+#define BrkTextDisplay3FontSize 
+#define BrkTextDisplay3LetterSpacing -2%
+#define BrkTextDisplay3ParagraphSpacing 1.1em
+#define BrkTextDisplay3TextDecoration none
+#define BrkTextDisplay3TextCase none
 #define BrkTextHeading1FontFamily Graphik
 #define BrkTextHeading1FontWeight 950
 #define BrkTextHeading1LineHeight 120%
@@ -170,14 +179,19 @@
 #define BrkTextDisplayMarginBottom 1.5em
 #define BrkTextHeadingMarginTop 2.25em
 #define BrkTextHeadingMarginBottom 1em
-#define BrkTextBodyMarginTop 1em
-#define BrkTextBodyMarginBottom 1.5em
+#define BrkTextBodyBaseMarginTop 1em
+#define BrkTextBody2MarginTop 1em
+#define BrkTextBodyBaseMarginBottom 1.5em
+#define BrkTextBody2MarginBottom 1.5em
 #define BrkTextListMarginTop 1em
+#define BrkTextListElementPaddingLeft 1em
 #define BrkTextListMarginBottom 1.5em
+#define BrkTextListPaddingLeft 1.5em
 #define BrkTextCaptionMarginTop 1em
 #define BrkTextCaptionMarginBottom 1.5em
 #define BrkTextStandardDisplay1FontColor #1a1a1a
 #define BrkTextStandardDisplay2FontColor #1a1a1a
+#define BrkTextStandardDisplay3FontColor #1a1a1a
 #define BrkTextStandardHeading1FontColor #192872
 #define BrkTextStandardHeading2FontColor #192872
 #define BrkTextStandardHeading3FontColor #192872
@@ -186,6 +200,7 @@
 #define BrkTextStandardCaptionFontColor #1a1a1a
 #define BrkTextInvertedDisplay1FontColor #ffffff
 #define BrkTextInvertedDisplay2FontColor #ffffff
+#define BrkTextInvertedDisplay3FontColor #ffffff
 #define BrkTextInvertedHeading1FontColor #24c1ff
 #define BrkTextInvertedHeading2FontColor #24c1ff
 #define BrkTextInvertedHeading3FontColor #24c1ff
@@ -198,14 +213,14 @@
 #define BrkTextRatioSm 1.2
 #define BrkTextRatioMd 1.24
 #define BrkTextRatioLg 1.28
-#define BrkLinkTextDefault underline
-#define BrkLinkTextHover none
-#define BrkLinkTextStandardBodyFontColorDefault #0b5db7
-#define BrkLinkTextStandardBodyFontColorHover #0b5db7
-#define BrkLinkTextStandardBodyFontColorFocus #1a1a1a
-#define BrkLinkTextInvertedBodyFontColorDefault #a6ecff
-#define BrkLinkTextInvertedBodyFontColorHover #a6ecff
-#define BrkLinkTextInvertedBodyFontColorFocus #ffffff
+#define BrkTextLinkTextDecorationDefault underline
+#define BrkTextLinkTextDecorationHover none
+#define BrkTextLinkStandardBodyFontColorDefault #0b5db7
+#define BrkTextLinkStandardBodyFontColorHover #0b5db7
+#define BrkTextLinkStandardBodyFontColorFocus #1a1a1a
+#define BrkTextLinkInvertedBodyFontColorUnderline #a6ecff
+#define BrkTextLinkInvertedBodyFontColorHover #a6ecff
+#define BrkTextLinkInvertedBodyFontColorFocus #ffffff
 #define BrkCardHeroBorderRadius 16
 #define BrkCardHeroBorderWidth 1
 #define BrkCardHeroSmPaddingHorizontal 10

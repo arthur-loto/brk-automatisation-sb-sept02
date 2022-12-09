@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Thu, 08 Dec 2022 15:30:21 GMT
+ * Generated on Fri, 09 Dec 2022 15:55:51 GMT
  */
 
 :root {
@@ -643,14 +643,6 @@
   --brk-jackpot-hero-xl-heading-text-decoration: none;
   --brk-jackpot-hero-xl-height: 72px;
   --brk-jackpot-hero-xl-padding-horizontal: 24px;
-  --brk-link-text-default: underline;
-  --brk-link-text-hover: none;
-  --brk-link-text-inverted-body-font-color-default: #a6ecff;
-  --brk-link-text-inverted-body-font-color-focus: #ffffff;
-  --brk-link-text-inverted-body-font-color-hover: #a6ecff;
-  --brk-link-text-standard-body-font-color-default: #0b5db7;
-  --brk-link-text-standard-body-font-color-focus: #1a1a1a;
-  --brk-link-text-standard-body-font-color-hover: #0b5db7;
   --brk-promo-primary-border-radius: 0px;
   --brk-promo-primary-border-width: 1px;
   --brk-promo-primary-content-vertical-align: center;
@@ -1041,6 +1033,8 @@
   --brk-text-body-2-font-weight: 400;
   --brk-text-body-2-letter-spacing: 0%;
   --brk-text-body-2-line-height: 150%;
+  --brk-text-body-2-margin-bottom: 1.5em;
+  --brk-text-body-2-margin-top: 1em;
   --brk-text-body-2-paragraph-spacing: 0.8em;
   --brk-text-body-2-text-case: none;
   --brk-text-body-2-text-decoration: none;
@@ -1049,11 +1043,11 @@
   --brk-text-body-base-font-weight: 400;
   --brk-text-body-base-letter-spacing: 0%;
   --brk-text-body-base-line-height: 150%;
+  --brk-text-body-base-margin-bottom: 1.5em;
+  --brk-text-body-base-margin-top: 1em;
   --brk-text-body-base-paragraph-spacing: 1em;
   --brk-text-body-base-text-case: none;
   --brk-text-body-base-text-decoration: none;
-  --brk-text-body-margin-bottom: 1.5em;
-  --brk-text-body-margin-top: 1em;
   --brk-text-caption-font-family: Arial;
   --brk-text-caption-font-size: px;
   --brk-text-caption-font-weight: 400;
@@ -1076,10 +1070,18 @@
   --brk-text-display-2-font-size: px;
   --brk-text-display-2-font-weight: 950;
   --brk-text-display-2-letter-spacing: -2%;
-  --brk-text-display-2-line-height: 115%;
+  --brk-text-display-2-line-height: 110%;
   --brk-text-display-2-paragraph-spacing: 1.1em;
   --brk-text-display-2-text-case: none;
   --brk-text-display-2-text-decoration: none;
+  --brk-text-display-3-font-family: Graphik;
+  --brk-text-display-3-font-size: px;
+  --brk-text-display-3-font-weight: 950;
+  --brk-text-display-3-letter-spacing: -2%;
+  --brk-text-display-3-line-height: 115%;
+  --brk-text-display-3-paragraph-spacing: 1.1em;
+  --brk-text-display-3-text-case: none;
+  --brk-text-display-3-text-decoration: none;
   --brk-text-display-margin-bottom: 1.5em;
   --brk-text-display-margin-top: 2.5em;
   --brk-text-heading-1-font-family: Graphik;
@@ -1113,11 +1115,22 @@
   --brk-text-inverted-caption-font-color: #ffffff;
   --brk-text-inverted-display-1-font-color: #ffffff;
   --brk-text-inverted-display2-font-color: #ffffff;
+  --brk-text-inverted-display3-font-color: #ffffff;
   --brk-text-inverted-heading-1-font-color: #24c1ff;
   --brk-text-inverted-heading-2-font-color: #24c1ff;
   --brk-text-inverted-heading-3-font-color: #24c1ff;
+  --brk-text-link-inverted-body-font-color-focus: #ffffff;
+  --brk-text-link-inverted-body-font-color-hover: #a6ecff;
+  --brk-text-link-inverted-body-font-color-underline: #a6ecff;
+  --brk-text-link-standard-body-font-color-default: #0b5db7;
+  --brk-text-link-standard-body-font-color-focus: #1a1a1a;
+  --brk-text-link-standard-body-font-color-hover: #0b5db7;
+  --brk-text-link-text-decoration-default: underline;
+  --brk-text-link-text-decoration-hover: none;
+  --brk-text-list-element-padding-left: 1em;
   --brk-text-list-margin-bottom: 1.5em;
   --brk-text-list-margin-top: 1em;
+  --brk-text-list-padding-left: 1.5em;
   --brk-text-ratio-lg: 1.28px;
   --brk-text-ratio-md: 1.24px;
   --brk-text-ratio-sm: 1.2px;
@@ -1126,15 +1139,17 @@
   --brk-text-standard-caption-font-color: #1a1a1a;
   --brk-text-standard-display-1-font-color: #1a1a1a;
   --brk-text-standard-display-2-font-color: #1a1a1a;
+  --brk-text-standard-display-3-font-color: #1a1a1a;
   --brk-text-standard-heading-1-font-color: #192872;
   --brk-text-standard-heading-2-font-color: #192872;
   --brk-text-standard-heading-3-font-color: #192872;
   --brk-text-style-brand-main-emphasis: oblique;
   --brk-text-style-webfont-emphasis: italic;
   --brk-text-style-webfont-strong: 700;
-  --brk-thumbnail-product-image-background-color-standard: #060606;
-  --brk-thumbnail-product-md-content-gap: 16px;
   --brk-thumbnail-product-md-image-height: 270px;
-  --brk-thumbnail-product-sm-content-gap: 16px;
-  --brk-thumbnail-product-sm-image-height: 196px;
+  --brk-thumbnail-product-md-image-width: 480px;
+  --brk-thumbnail-product-md-margin-bottom: 16px;
+  --brk-thumbnail-product-sm-image-height: 180px;
+  --brk-thumbnail-product-sm-image-width: 320px;
+  --brk-thumbnail-product-sm-margin-bottom: 16px;
 }

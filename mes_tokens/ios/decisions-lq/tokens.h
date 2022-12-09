@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Thu, 08 Dec 2022 15:30:21 GMT
+// Generated on Fri, 09 Dec 2022 15:55:51 GMT
 
 
 #import <Foundation/Foundation.h>
@@ -18,6 +18,7 @@
 #define BrkAccordionMdContentGap 16
 #define BrkAccordionMdIconPaddingLeft 8
 #define BrkAccordionIconSize 16
+#define BrkAccordionBorderWidth 1
 #define BrkAccordionStandardBorderColor #f2f2f2
 #define BrkAccordionStandardBackgroundColorDefault #ffffff
 #define BrkAccordionStandardBackgroundColorHover #f2f2f2
@@ -101,10 +102,10 @@
 #define BrkTemplateLgMarginTop 0
 #define BrkTemplateLgMarginBottom 64
 #define BrkThumbnailProductSmImageHeight 180
-#define BrkThumbnailProductSmContentGap 16
+#define BrkThumbnailProductSmMarginBottom 16
 #define BrkThumbnailProductSmImageWidth 320
 #define BrkThumbnailProductMdImageHeight 270
-#define BrkThumbnailProductMdContentGap 16
+#define BrkThumbnailProductMdMarginBottom 16
 #define BrkThumbnailProductMdImageWidth 480
 #define BrkTextDisplay1FontFamily Graphik
 #define BrkTextDisplay1FontWeight 700
@@ -116,12 +117,20 @@
 #define BrkTextDisplay1TextCase none
 #define BrkTextDisplay2FontFamily Graphik
 #define BrkTextDisplay2FontWeight 700
-#define BrkTextDisplay2LineHeight 120%
+#define BrkTextDisplay2LineHeight 115%
 #define BrkTextDisplay2FontSize 
 #define BrkTextDisplay2LetterSpacing -2%
 #define BrkTextDisplay2ParagraphSpacing 1.1em
 #define BrkTextDisplay2TextDecoration none
 #define BrkTextDisplay2TextCase none
+#define BrkTextDisplay3FontFamily Graphik
+#define BrkTextDisplay3FontWeight 700
+#define BrkTextDisplay3LineHeight 120%
+#define BrkTextDisplay3FontSize 
+#define BrkTextDisplay3LetterSpacing -2%
+#define BrkTextDisplay3ParagraphSpacing 1.1em
+#define BrkTextDisplay3TextDecoration none
+#define BrkTextDisplay3TextCase none
 #define BrkTextHeading1FontFamily Graphik
 #define BrkTextHeading1FontWeight 700
 #define BrkTextHeading1LineHeight 130%
@@ -130,7 +139,7 @@
 #define BrkTextHeading1ParagraphSpacing 1em
 #define BrkTextHeading1TextDecoration none
 #define BrkTextHeading1TextCase none
-#define BrkTextHeading2FontFamily Graphik
+#define BrkTextHeading2FontFamily Arial
 #define BrkTextHeading2FontWeight 700
 #define BrkTextHeading2LineHeight 130%
 #define BrkTextHeading2FontSize 
@@ -174,14 +183,20 @@
 #define BrkTextDisplayMarginBottom 1.5em
 #define BrkTextHeadingMarginTop 2.25em
 #define BrkTextHeadingMarginBottom 1em
-#define BrkTextBodyMarginTop 1em
-#define BrkTextBodyMarginBottom 1.5em
+#define BrkTextBodyBaseMarginTop 1em
+#define BrkTextBody2MarginTop 1em
+#define BrkTextBodyBaseMarginBottom 1.5em
+#define BrkTextBody2MarginBottom 1.5em
 #define BrkTextListMarginTop 1em
+#define BrkTextListElementPaddingLeft 1em
+#define BrkTextListElementMargin 1em
 #define BrkTextListMarginBottom 1.5em
+#define BrkTextListPaddingLeft 0.5em
 #define BrkTextCaptionMarginTop 1em
 #define BrkTextCaptionMarginBottom 1.5em
 #define BrkTextStandardDisplay1FontColor #203392
 #define BrkTextStandardDisplay2FontColor #203392
+#define BrkTextStandardDisplay3FontColor #203392
 #define BrkTextStandardHeading1FontColor #586dda
 #define BrkTextStandardHeading2FontColor #586dda
 #define BrkTextStandardHeading3FontColor #586dda
@@ -190,6 +205,7 @@
 #define BrkTextStandardCaptionFontColor #090f2a
 #define BrkTextInvertedDisplay1FontColor #f9f9f9
 #define BrkTextInvertedDisplay2FontColor #f9f9f9
+#define BrkTextInvertedDisplay3FontColor #f9f9f9
 #define BrkTextInvertedHeading1FontColor #abb6ed
 #define BrkTextInvertedHeading2FontColor #abb6ed
 #define BrkTextInvertedHeading3FontColor #abb6ed
@@ -202,14 +218,14 @@
 #define BrkTextRatioSm 1.2
 #define BrkTextRatioMd 1.24
 #define BrkTextRatioLg 1.28
-#define BrkLinkTextDefault underline
-#define BrkLinkTextHover none
-#define BrkLinkTextStandardBodyFontColorDefault #253aa7
-#define BrkLinkTextStandardBodyFontColorHover #253aa7
-#define BrkLinkTextStandardBodyFontColorFocus #192872
-#define BrkLinkTextInvertedBodyFontColorDefault #f9f9f9
-#define BrkLinkTextInvertedBodyFontColorHover #f9f9f9
-#define BrkLinkTextInvertedBodyFontColorFocus #abb6ed
+#define BrkTextLinkTextDecorationDefault underline
+#define BrkTextLinkTextDecorationHover none
+#define BrkTextLinkStandardBodyFontColorDefault #253aa7
+#define BrkTextLinkStandardBodyFontColorHover #253aa7
+#define BrkTextLinkStandardBodyFontColorFocus #192872
+#define BrkTextLinkInvertedBodyFontColorDefault #f9f9f9
+#define BrkTextLinkInvertedBodyFontColorHover #f9f9f9
+#define BrkTextLinkInvertedBodyFontColorFocus #abb6ed
 #define BrkCardHeroSmPretitleFontFamily Graphik
 #define BrkCardHeroSmPretitleFontWeight 700
 #define BrkCardHeroSmPretitleLineHeight 8
