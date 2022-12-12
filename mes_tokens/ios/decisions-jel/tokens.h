@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Mon, 12 Dec 2022 20:29:47 GMT
+// Generated on Mon, 12 Dec 2022 21:02:01 GMT
 
 
 #import <Foundation/Foundation.h>
@@ -190,6 +190,14 @@
 #define BrkTextListPaddingLeft 2em
 #define BrkTextCaptionMarginTop 1em
 #define BrkTextCaptionMarginBottom 1.5em
+#define BrkTextDisplay1StrongFontWeight 950
+#define BrkTextDisplay3StrongFontWeight 950
+#define BrkTextDisplay2StrongFontWeight 950
+#define BrkTextHeading2StrongFontWeight 950
+#define BrkTextHeading1StrongFontWeight 950
+#define BrkTextHeading3StrongFontWeight 700
+#define BrkTextBodyBaseStrongFontWeight 700
+#define BrkTextCaptionStrongFontWeight 700
 #define BrkTextStandardDisplay1FontColor #1a1a1a
 #define BrkTextStandardDisplay2FontColor #1a1a1a
 #define BrkTextStandardDisplay3FontColor #1a1a1a
@@ -208,9 +216,6 @@
 #define BrkTextInvertedBodyBaseFontColor #ffffff
 #define BrkTextInvertedBody2FontColor #ffffff
 #define BrkTextInvertedCaptionFontColor #ffffff
-#define BrkTextStyleBrandMainEmphasis oblique
-#define BrkTextStyleWebfontStrong 700
-#define BrkTextStyleWebfontEmphasis italic
 #define BrkTextRatioSm 1.2
 #define BrkTextRatioMd 1.24
 #define BrkTextRatioLg 1.28
@@ -556,7 +561,7 @@
 #define BrkPromoPrimaryLgBodyMarginTop 10px
 #define BrkPromoPrimaryXlImageHeight 568px
 #define BrkPromoPrimaryXlGradientHeight 142px
-#define BrkPromoPrimaryXlContentWidth 40px%
+#define BrkPromoPrimaryXlContentWidth 40%
 #define BrkPromoPrimaryXlContentMaxWidth 470px
 #define BrkPromoPrimaryXlPretitleFontFamily Arial
 #define BrkPromoPrimaryXlPretitleFontWeight 700
@@ -669,7 +674,7 @@
 #define BrkPromoSecondaryLgPretitleMarginBottom 4px
 #define BrkPromoSecondaryXlImageHeight 568px
 #define BrkPromoSecondaryXlGradientHeight 142px
-#define BrkPromoSecondaryXlContentWidth 50px%
+#define BrkPromoSecondaryXlContentWidth 50%
 #define BrkPromoSecondaryXlPaddingHorizontal 32px
 #define BrkPromoSecondaryXlPaddingVertical 32px
 #define BrkPromoSecondaryXlContentGap 32px
@@ -780,7 +785,7 @@
 #define BrkPromoTertiaryLgHeadingTextDecoration none
 #define BrkPromoTertiaryXlImageHeight 568px
 #define BrkPromoTertiaryXlGradientHeight 142px
-#define BrkPromoTertiaryXlContentWidth 40px%
+#define BrkPromoTertiaryXlContentWidth 40%
 #define BrkPromoTertiaryXlContentMaxWidth 470px
 #define BrkPromoTertiaryXlPaddingHorizontal 32px
 #define BrkPromoTertiaryXlPaddingVertical 32px

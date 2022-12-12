@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Mon, 12 Dec 2022 20:29:47 GMT
+// Generated on Mon, 12 Dec 2022 21:02:00 GMT
 
 
 #import <Foundation/Foundation.h>
@@ -589,7 +589,7 @@
 #define BrkPromoPrimaryXlBodyTextCase none
 #define BrkPromoPrimaryXlBodyTextDecoration none
 #define BrkPromoPrimaryXlGradientHeight 142
-#define BrkPromoPrimaryXlContentWidth 40px%
+#define BrkPromoPrimaryXlContentWidth 40%
 #define BrkPromoPrimaryXlContentMaxWidth 470px
 #define BrkPromoPrimary2xlPaddingHorizontal 32px
 #define BrkPromoPrimary2xlPaddingVertical 32px
@@ -698,7 +698,7 @@
 #define BrkPromoSecondaryXlHeadingParagraphSpacing 
 #define BrkPromoSecondaryXlHeadingTextCase none
 #define BrkPromoSecondaryXlHeadingTextDecoration none
-#define BrkPromoSecondaryXlContentWidth 50px%
+#define BrkPromoSecondaryXlContentWidth 50%
 #define BrkPromoSecondaryStandardHeadingFontColor #2e49d1
 #define BrkPromoSecondaryStandardPretitleFontColor #192872
 #define BrkPromoSecondaryStandardBodyFontColor #192872
@@ -811,7 +811,7 @@
 #define BrkPromoTertiaryXlPretitleMarginBottom 6px
 #define BrkPromoTertiaryXlGradientHeight 142px
 #define BrkPromoTertiaryXlImageHeight 568px
-#define BrkPromoTertiaryXlContentWidth 40px%
+#define BrkPromoTertiaryXlContentWidth 40%
 #define BrkPromoTertiaryXlContentMaxWidth 470px
 #define BrkPromoTertiaryStandardHeadingFontColor #2e49d1
 #define BrkPromoTertiaryStandardPretitleFontColor #192872
