@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Mon, 12 Dec 2022 21:02:00 GMT
+ * Generated on Tue, 13 Dec 2022 16:03:39 GMT
  */
 
 :root {
@@ -993,70 +993,6 @@
   --brk-promo-tertiary-xl-pretitle-paragraph-spacing: ;
   --brk-promo-tertiary-xl-pretitle-text-case: uppercase;
   --brk-promo-tertiary-xl-pretitle-text-decoration: none;
-  --brk-ref-button-primary-lg-height: 22px*2.7692em;
-  --brk-ref-button-primary-lg-icon-gap: 22px*0.6153em;
-  --brk-ref-button-primary-lg-icon-size: 22px*1.2307em;
-  --brk-ref-button-primary-lg-padding-horizontal: 22px*1.2307em;
-  --brk-ref-button-primary-md-height: 18px*2.7692em;
-  --brk-ref-button-primary-md-icon-gap: 18px*0.6153em;
-  --brk-ref-button-primary-md-icon-size: 18px*1.2307em;
-  --brk-ref-button-primary-md-padding-horizontal: 18px*1.2307em;
-  --brk-ref-button-primary-sm-height: 13px*2.7692em;
-  --brk-ref-button-primary-sm-icon-gap: 13px*0.6153em;
-  --brk-ref-button-primary-sm-icon-size: 13px*1.2307em;
-  --brk-ref-button-primary-sm-padding-horizontal: 13px*1.2307em;
-  --brk-ref-button-primary-xl-height: 26px*2.7692em;
-  --brk-ref-button-primary-xl-icon-gap: 26px*0.6153em;
-  --brk-ref-button-primary-xl-icon-size: 26px*1.2307em;
-  --brk-ref-button-primary-xl-padding-horizontal: 26px*1.2307em;
-  --brk-ref-button-secondary-lg-height: 22px*2.7692em;
-  --brk-ref-button-secondary-lg-icon-gap: 22px*0.6153em;
-  --brk-ref-button-secondary-lg-icon-size: 22px*1.2307em;
-  --brk-ref-button-secondary-lg-padding-horizontal: 22px*1.2307em;
-  --brk-ref-button-secondary-md-height: 18px*2.7692em;
-  --brk-ref-button-secondary-md-icon-gap: 18px*0.6153em;
-  --brk-ref-button-secondary-md-icon-size: 18px*1.2307em;
-  --brk-ref-button-secondary-md-padding-horizontal: 18px*1.2307em;
-  --brk-ref-button-secondary-sm-height: 13px*2.7692em;
-  --brk-ref-button-secondary-sm-icon-gap: 13px*0.6153em;
-  --brk-ref-button-secondary-sm-icon-size: 13px*1.2307em;
-  --brk-ref-button-secondary-sm-padding-horizontal: 13px*1.2307em;
-  --brk-ref-button-secondary-xl-height: 26px*2.7692em;
-  --brk-ref-button-secondary-xl-icon-gap: 26px*0.6153em;
-  --brk-ref-button-secondary-xl-icon-size: 26px*1.2307em;
-  --brk-ref-button-secondary-xl-padding-horizontal: 26px*1.2307em;
-  --brk-ref-button-tertiary-lg-height: 18px*2.7692em;
-  --brk-ref-button-tertiary-lg-icon-gap: 18px*0.6153em;
-  --brk-ref-button-tertiary-lg-icon-size: 18px*1.2307em;
-  --brk-ref-button-tertiary-lg-padding-horizontal: 18px*1.2307em;
-  --brk-ref-button-tertiary-md-height: 14px*2.7692em;
-  --brk-ref-button-tertiary-md-icon-gap: 14px*0.6153em;
-  --brk-ref-button-tertiary-md-icon-size: 14px*1.2307em;
-  --brk-ref-button-tertiary-md-padding-horizontal: 14px*1.2307em;
-  --brk-ref-button-tertiary-sm-height: 10px*2.7692em;
-  --brk-ref-button-tertiary-sm-icon-gap: 10px*0.6153em;
-  --brk-ref-button-tertiary-sm-icon-size: 10px*1.2307em;
-  --brk-ref-button-tertiary-sm-padding-horizontal: 10px*1.2307em;
-  --brk-ref-button-tertiary-xl-height: 22px*2.7692em;
-  --brk-ref-button-tertiary-xl-icon-gap: 22px*0.6153em;
-  --brk-ref-button-tertiary-xl-icon-size: 22px*1.2307em;
-  --brk-ref-button-tertiary-xl-padding-horizontal: 22px*1.2307em;
-  --brk-ref-button-text-lg-height: 18px*1.2307em;
-  --brk-ref-button-text-lg-icon-gap: 18px*0.6153em;
-  --brk-ref-button-text-lg-icon-size: 18px*1.2307em;
-  --brk-ref-button-text-lg-padding-horizontal: 0px;
-  --brk-ref-button-text-md-height: 14px*1.2307em;
-  --brk-ref-button-text-md-icon-gap: 14px*0.6153em;
-  --brk-ref-button-text-md-icon-size: 14px*1.2307em;
-  --brk-ref-button-text-md-padding-horizontal: 0px;
-  --brk-ref-button-text-sm-height: 10px*1.2307em;
-  --brk-ref-button-text-sm-icon-gap: 10px*0.6153em;
-  --brk-ref-button-text-sm-icon-size: 10px*1.2307em;
-  --brk-ref-button-text-sm-padding-horizontal: 0px;
-  --brk-ref-button-text-xl-height: 22px*1.2307em;
-  --brk-ref-button-text-xl-icon-gap: 22px*0.6153em;
-  --brk-ref-button-text-xl-icon-size: 22px*1.2307em;
-  --brk-ref-button-text-xl-padding-horizontal: 0px;
   --brk-template-content-max-width: 1600px;
   --brk-template-lg-content-gap-horizontal: 32px;
   --brk-template-lg-content-gap-vertical: 40px;
