@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Thu, 22 Dec 2022 16:15:22 GMT
+// Generated on Thu, 22 Dec 2022 16:26:38 GMT
 
 
 #import <Foundation/Foundation.h>
@@ -102,12 +102,9 @@
 #define BrkTemplateLgMarginHorizontal 32px
 #define BrkTemplateLgMarginTop 0
 #define BrkTemplateLgMarginBottom 64px
-#define BrkThumbnailProductSmImageHeight 180px
-#define BrkThumbnailProductSmMarginBottom 16px
-#define BrkThumbnailProductSmImageWidth 320px
-#define BrkThumbnailProductMdImageHeight 270px
-#define BrkThumbnailProductMdMarginBottom 16px
-#define BrkThumbnailProductMdImageWidth 480px
+#define BrkThumbnailProductImageWidth 100%
+#define BrkThumbnailProductImageHeight 56.25%
+#define BrkThumbnailProductContentGap 16px
 #define BrkTextDisplay1FontFamily Graphik
 #define BrkTextDisplay1FontWeight 950
 #define BrkTextDisplay1LineHeight 110%
