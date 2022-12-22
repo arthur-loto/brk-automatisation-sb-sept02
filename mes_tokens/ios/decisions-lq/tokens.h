@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Thu, 22 Dec 2022 16:26:38 GMT
+// Generated on Thu, 22 Dec 2022 17:07:21 GMT
 
 
 #import <Foundation/Foundation.h>
@@ -592,8 +592,12 @@
 #define BrkPromoSecondarySmHeadingTextCase none
 #define BrkPromoSecondarySmHeadingTextDecoration none
 #define BrkPromoSecondarySmGradientHeight 64px
+#define BrkPromoSecondarySmContentWidth 100%
+#define BrkPromoSecondarySmContentMaxWidth 1600px
 #define BrkPromoSecondaryMdImageHeight 320px
 #define BrkPromoSecondaryMdGradientHeight 80px
+#define BrkPromoSecondaryMdContentWidth 100%
+#define BrkPromoSecondaryMdContentMaxWidth 1600px
 #define BrkPromoSecondaryMdPaddingHorizontal 24px
 #define BrkPromoSecondaryMdPaddingVertical 24px
 #define BrkPromoSecondaryMdContentGap 12px
@@ -615,8 +619,9 @@
 #define BrkPromoSecondaryMdHeadingTextCase none
 #define BrkPromoSecondaryMdHeadingTextDecoration none
 #define BrkPromoSecondaryLgImageHeight 676px
-#define BrkPromoSecondaryLgContentWidth 50%
 #define BrkPromoSecondaryLgGradientHeight 169px
+#define BrkPromoSecondaryLgContentWidth 50%
+#define BrkPromoSecondaryLgContentMaxWidth 1600px
 #define BrkPromoSecondaryLgPaddingHorizontal 32px
 #define BrkPromoSecondaryLgPaddingVertical 32px
 #define BrkPromoSecondaryLgContentGap 24px

@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Thu, 22 Dec 2022 16:26:38 GMT
+// Generated on Thu, 22 Dec 2022 17:07:22 GMT
 
 
 #import <Foundation/Foundation.h>
@@ -606,6 +606,8 @@
 #define BrkPromoPrimaryInvertedFrameColor transparent
 #define BrkPromoSecondarySmImageHeight 256px
 #define BrkPromoSecondarySmGradientHeight 64px
+#define BrkPromoSecondarySmContentMaxWidth 1600px
+#define BrkPromoSecondarySmContentWidth 100%
 #define BrkPromoSecondarySmPretitleFontFamily Arial
 #define BrkPromoSecondarySmPretitleFontWeight 700
 #define BrkPromoSecondarySmPretitleLineHeight 110%
@@ -628,6 +630,8 @@
 #define BrkPromoSecondarySmPretitleMarginBottom 8px
 #define BrkPromoSecondaryMdImageHeight 320px
 #define BrkPromoSecondaryMdGradientHeight 80px
+#define BrkPromoSecondaryMdContentMaxWidth 1600px
+#define BrkPromoSecondaryMdContentWidth 100%
 #define BrkPromoSecondaryMdPretitleFontFamily Arial
 #define BrkPromoSecondaryMdPretitleFontWeight 700
 #define BrkPromoSecondaryMdPretitleLineHeight 110%
@@ -649,8 +653,9 @@
 #define BrkPromoSecondaryMdContentGap 12px
 #define BrkPromoSecondaryMdPretitleMarginBottom 8px
 #define BrkPromoSecondaryLgImageHeight 676px
-#define BrkPromoSecondaryLgContentWidth 50%
 #define BrkPromoSecondaryLgGradientHeight 169px
+#define BrkPromoSecondaryLgContentWidth 50%
+#define BrkPromoSecondaryLgContentMaxWidth 1600px
 #define BrkPromoSecondaryLgPretitleFontFamily Arial
 #define BrkPromoSecondaryLgPretitleFontWeight 700
 #define BrkPromoSecondaryLgPretitleLineHeight 110%
