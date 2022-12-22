@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Wed, 21 Dec 2022 18:59:59 GMT
+ * Generated on Thu, 22 Dec 2022 15:38:29 GMT
  */
 
 :root {
@@ -787,43 +787,44 @@
   --brk-promo-secondary-inverted-gradient-color: linear-gradient(180deg, #1a1a1a00 0%, #1a1a1a 100%);
   --brk-promo-secondary-inverted-heading-font-color: #ffffff;
   --brk-promo-secondary-inverted-pretitle-font-color: #ffffff;
-  --brk-promo-secondary-lg-content-gap: 16px;
-  --brk-promo-secondary-lg-gradient-height: 90px;
+  --brk-promo-secondary-lg-content-gap: 20px;
+  --brk-promo-secondary-lg-content-width: 50%;
+  --brk-promo-secondary-lg-gradient-height: 169px;
   --brk-promo-secondary-lg-heading-font-family: Graphik;
-  --brk-promo-secondary-lg-heading-font-size: 48px;
+  --brk-promo-secondary-lg-heading-font-size: 40px;
   --brk-promo-secondary-lg-heading-font-weight: 950;
   --brk-promo-secondary-lg-heading-letter-spacing: -2%;
-  --brk-promo-secondary-lg-heading-line-height: 110%;
+  --brk-promo-secondary-lg-heading-line-height: 120%;
   --brk-promo-secondary-lg-heading-paragraph-spacing: ;
   --brk-promo-secondary-lg-heading-text-case: none;
   --brk-promo-secondary-lg-heading-text-decoration: none;
-  --brk-promo-secondary-lg-image-height: 360px;
-  --brk-promo-secondary-lg-padding-horizontal: 24px;
-  --brk-promo-secondary-lg-padding-vertical: 20px;
+  --brk-promo-secondary-lg-image-height: 676px;
+  --brk-promo-secondary-lg-padding-horizontal: 32px;
+  --brk-promo-secondary-lg-padding-vertical: 32px;
   --brk-promo-secondary-lg-pretitle-font-family: Arial;
-  --brk-promo-secondary-lg-pretitle-font-size: 24px;
+  --brk-promo-secondary-lg-pretitle-font-size: 20px;
   --brk-promo-secondary-lg-pretitle-font-weight: 700;
   --brk-promo-secondary-lg-pretitle-letter-spacing: 0%;
   --brk-promo-secondary-lg-pretitle-line-height: 110%;
-  --brk-promo-secondary-lg-pretitle-margin-bottom: 4px;
+  --brk-promo-secondary-lg-pretitle-margin-bottom: 8px;
   --brk-promo-secondary-lg-pretitle-paragraph-spacing: ;
   --brk-promo-secondary-lg-pretitle-text-case: none;
   --brk-promo-secondary-lg-pretitle-text-decoration: none;
-  --brk-promo-secondary-md-content-gap: 16px;
-  --brk-promo-secondary-md-gradient-height: 90px;
+  --brk-promo-secondary-md-content-gap: 12px;
+  --brk-promo-secondary-md-gradient-height: 80px;
   --brk-promo-secondary-md-heading-font-family: Graphik;
-  --brk-promo-secondary-md-heading-font-size: 36px;
+  --brk-promo-secondary-md-heading-font-size: 32px;
   --brk-promo-secondary-md-heading-font-weight: 950;
   --brk-promo-secondary-md-heading-letter-spacing: -2%;
-  --brk-promo-secondary-md-heading-line-height: 110%;
+  --brk-promo-secondary-md-heading-line-height: 120%;
   --brk-promo-secondary-md-heading-paragraph-spacing: ;
   --brk-promo-secondary-md-heading-text-case: none;
   --brk-promo-secondary-md-heading-text-decoration: none;
-  --brk-promo-secondary-md-image-height: 360px;
+  --brk-promo-secondary-md-image-height: 320px;
   --brk-promo-secondary-md-padding-horizontal: 24px;
-  --brk-promo-secondary-md-padding-vertical: 20px;
+  --brk-promo-secondary-md-padding-vertical: 24px;
   --brk-promo-secondary-md-pretitle-font-family: Arial;
-  --brk-promo-secondary-md-pretitle-font-size: 20px;
+  --brk-promo-secondary-md-pretitle-font-size: 16px;
   --brk-promo-secondary-md-pretitle-font-weight: 700;
   --brk-promo-secondary-md-pretitle-letter-spacing: 0%;
   --brk-promo-secondary-md-pretitle-line-height: 110%;
@@ -832,16 +833,16 @@
   --brk-promo-secondary-md-pretitle-text-case: none;
   --brk-promo-secondary-md-pretitle-text-decoration: none;
   --brk-promo-secondary-sm-content-gap: 16px;
-  --brk-promo-secondary-sm-gradient-height: 66px;
+  --brk-promo-secondary-sm-gradient-height: 64px;
   --brk-promo-secondary-sm-heading-font-family: Graphik;
-  --brk-promo-secondary-sm-heading-font-size: 24px;
+  --brk-promo-secondary-sm-heading-font-size: 28px;
   --brk-promo-secondary-sm-heading-font-weight: 950;
   --brk-promo-secondary-sm-heading-letter-spacing: -2%;
-  --brk-promo-secondary-sm-heading-line-height: 120%;
+  --brk-promo-secondary-sm-heading-line-height: 115%;
   --brk-promo-secondary-sm-heading-paragraph-spacing: ;
   --brk-promo-secondary-sm-heading-text-case: none;
   --brk-promo-secondary-sm-heading-text-decoration: none;
-  --brk-promo-secondary-sm-image-height: 264px;
+  --brk-promo-secondary-sm-image-height: 256px;
   --brk-promo-secondary-sm-padding-horizontal: 16px;
   --brk-promo-secondary-sm-padding-vertical: 16px;
   --brk-promo-secondary-sm-pretitle-font-family: Arial;
@@ -849,7 +850,7 @@
   --brk-promo-secondary-sm-pretitle-font-weight: 700;
   --brk-promo-secondary-sm-pretitle-letter-spacing: 0%;
   --brk-promo-secondary-sm-pretitle-line-height: 110%;
-  --brk-promo-secondary-sm-pretitle-margin-bottom: 4px;
+  --brk-promo-secondary-sm-pretitle-margin-bottom: 8px;
   --brk-promo-secondary-sm-pretitle-paragraph-spacing: ;
   --brk-promo-secondary-sm-pretitle-text-case: none;
   --brk-promo-secondary-sm-pretitle-text-decoration: none;
@@ -876,7 +877,7 @@
   --brk-promo-tertiary-lg-content-gap: 16px;
   --brk-promo-tertiary-lg-frame-padding-horizontal: 20px;
   --brk-promo-tertiary-lg-frame-padding-vertical: 20px;
-  --brk-promo-tertiary-lg-gradient-height: 90px;
+  --brk-promo-tertiary-lg-gradient-height: 169px;
   --brk-promo-tertiary-lg-heading-font-family: Graphik;
   --brk-promo-tertiary-lg-heading-font-size: 32px;
   --brk-promo-tertiary-lg-heading-font-weight: 950;
@@ -900,7 +901,7 @@
   --brk-promo-tertiary-md-content-gap: 16px;
   --brk-promo-tertiary-md-frame-padding-horizontal: 20px;
   --brk-promo-tertiary-md-frame-padding-vertical: 20px;
-  --brk-promo-tertiary-md-gradient-height: 90px;
+  --brk-promo-tertiary-md-gradient-height: 80px;
   --brk-promo-tertiary-md-heading-font-family: Graphik;
   --brk-promo-tertiary-md-heading-font-size: 28px;
   --brk-promo-tertiary-md-heading-font-weight: 950;
@@ -924,7 +925,7 @@
   --brk-promo-tertiary-sm-content-gap: 16px;
   --brk-promo-tertiary-sm-frame-padding-horizontal: 16px;
   --brk-promo-tertiary-sm-frame-padding-vertical: 16px;
-  --brk-promo-tertiary-sm-gradient-height: 66px;
+  --brk-promo-tertiary-sm-gradient-height: 64px;
   --brk-promo-tertiary-sm-heading-font-family: Graphik;
   --brk-promo-tertiary-sm-heading-font-size: 28px;
   --brk-promo-tertiary-sm-heading-font-weight: 950;
