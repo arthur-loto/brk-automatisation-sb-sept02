@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Thu, 22 Dec 2022 17:07:22 GMT
+// Generated on Thu, 22 Dec 2022 19:36:31 GMT
 
 
 #import <Foundation/Foundation.h>
@@ -26,13 +26,15 @@
 #define BrkAccordionInvertedBackgroundColorDefault #ffffff
 #define BrkAccordionInvertedBackgroundColorHover #f2f2f2
 #define BrkAccordionInvertedIconFill #0b5db7
-#define BrkHeaderMainSmHeight 180px
+#define BrkHeaderMainSmHeight 184px
 #define BrkHeaderMainSmPadding 16px
 #define BrkHeaderMainSmContentGap 8px
-#define BrkHeaderMainMdHeight 264px
+#define BrkHeaderMainSmIconSize 16px
+#define BrkHeaderMainMdHeight 200px
 #define BrkHeaderMainMdPadding 24px
 #define BrkHeaderMainMdContentGap 16px
-#define BrkHeaderMainLgHeight 245px
+#define BrkHeaderMainMdIconSize 16px
+#define BrkHeaderMainLgHeight 240px
 #define BrkHeaderMainLgPadding 32px
 #define BrkHeaderMainLgContentGap 16px
 #define BrkHeaderMainStandardBackgroundColor #a6ecff
