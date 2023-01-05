@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Thu, 22 Dec 2022 19:36:31 GMT
+// Generated on Thu, 05 Jan 2023 16:52:34 GMT
 
 
 #import <Foundation/Foundation.h>
@@ -769,7 +769,7 @@
 #define BrkCardHighDensitySmSubtitleMarginBottom 4px
 #define BrkCardHighDensitySmImageBorderRadius 16px
 #define BrkCardHighDensitySmHeadingFontFamily Arial
-#define BrkCardHighDensitySmHeadingFontWeight 400
+#define BrkCardHighDensitySmHeadingFontWeight 700
 #define BrkCardHighDensitySmHeadingLineHeight 100%
 #define BrkCardHighDensitySmHeadingFontSize 20px
 #define BrkCardHighDensitySmHeadingLetterSpacing -2%
@@ -916,7 +916,7 @@
 #define BrkCardHighDensityListStandardSeparatorColor #eaedfa
 #define BrkCardHighDensityListStandardHeadingFontColor #203392
 #define BrkCardHighDensityListStandardHeadingIconFillDefault #192872
-#define BrkCardHighDensityListStandardHadeingIconFillHover #2e49d1
+#define BrkCardHighDensityListStandardHeadingIconFillHover #2e49d1
 #define BrkCardHighDensityListStandardHeadingIconFillFocus #192872
 #define BrkCardHighDensityListInvertedBackgroundColor #090f2a
 #define BrkCardHighDensityListInvertedBorderColor #d5dbf6
@@ -937,8 +937,6 @@
 #define BrkCardHighDensityListTitleLgHeadingFontWeight 700
 #define BrkCardHighDensityListTitleLgHeadingLineHeight 130%
 #define BrkCardHighDensityListTitleLgHeadingFontSize 40px
-#define BrkCardHighDensityListInvertedBoxShadowDefault [object Object]
-#define BrkCardHighDensityListInvertedBoxShadowHover [object Object]
 #define BrkCardSecondaryInfoLogoSmLogoHeight 48px
 #define BrkCardSecondaryInfoLogoSmPaddingHorizontal 16px
 #define BrkCardSecondaryInfoLogoMdLogoHeight 72px

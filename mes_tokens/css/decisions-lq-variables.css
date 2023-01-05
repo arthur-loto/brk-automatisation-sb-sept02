@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Thu, 22 Dec 2022 19:36:31 GMT
+ * Generated on Thu, 05 Jan 2023 16:52:34 GMT
  */
 
 :root {
@@ -336,8 +336,6 @@
   --brk-card-high-density-list-border-width: 1px;
   --brk-card-high-density-list-inverted-background-color: #090f2a;
   --brk-card-high-density-list-inverted-border-color: #d5dbf6;
-  --brk-card-high-density-list-inverted-box-shadow-default: 0 0 0 0 #000000;
-  --brk-card-high-density-list-inverted-box-shadow-hover: 0 2 8 0 #e6e6e6;
   --brk-card-high-density-list-inverted-hadeing-icon-fill-hover: #586dda;
   --brk-card-high-density-list-inverted-heading-font-color: #ffffff;
   --brk-card-high-density-list-inverted-heading-icon-fill-default: #d5dbf6;
@@ -367,10 +365,10 @@
   --brk-card-high-density-list-sm-separator-padding-vertical: 16px;
   --brk-card-high-density-list-standard-background-color: #ffffff;
   --brk-card-high-density-list-standard-border-color: #eaedfa;
-  --brk-card-high-density-list-standard-hadeing-icon-fill-hover: #2e49d1;
   --brk-card-high-density-list-standard-heading-font-color: #203392;
   --brk-card-high-density-list-standard-heading-icon-fill-default: #192872;
   --brk-card-high-density-list-standard-heading-icon-fill-focus: #192872;
+  --brk-card-high-density-list-standard-heading-icon-fill-hover: #2e49d1;
   --brk-card-high-density-list-standard-separator-color: #eaedfa;
   --brk-card-high-density-list-title-lg-heading-font-family: Graphik;
   --brk-card-high-density-list-title-lg-heading-font-size: 40px;
@@ -435,7 +433,7 @@
   --brk-card-high-density-sm-content-gap: 16px;
   --brk-card-high-density-sm-heading-font-family: Arial;
   --brk-card-high-density-sm-heading-font-size: 20px;
-  --brk-card-high-density-sm-heading-font-weight: 400;
+  --brk-card-high-density-sm-heading-font-weight: 700;
   --brk-card-high-density-sm-heading-letter-spacing: -2%;
   --brk-card-high-density-sm-heading-line-height: 100%;
   --brk-card-high-density-sm-heading-margin-bottom: 4px;

@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Thu, 22 Dec 2022 19:36:31 GMT
+// Generated on Thu, 05 Jan 2023 16:52:35 GMT
 
 
 #import <Foundation/Foundation.h>
@@ -940,8 +940,6 @@
 #define BrkCardHighDensityListInvertedHeadingIconFillDefault #e6e6e6
 #define BrkCardHighDensityListInvertedHeadingIconFillHover #808080
 #define BrkCardHighDensityListInvertedHeadingIconFillFocus #e6e6e6
-#define BrkCardHighDensityListInvertedBoxShadowDefault [object Object]
-#define BrkCardHighDensityListInvertedBoxShadowHover [object Object]
 #define BrkInteractiveStandardOutlineColorFocus #1a1a1a
 #define BrkInteractiveInvertedOutlineColorFocus #ffffff
 #define BrkInteractiveOutlineWidth 2px

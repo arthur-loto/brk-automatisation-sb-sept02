@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Thu, 22 Dec 2022 19:36:31 GMT
+ * Generated on Thu, 05 Jan 2023 16:52:35 GMT
  */
 
 :root {
@@ -334,8 +334,6 @@
   --brk-card-high-density-list-border-width: 1px;
   --brk-card-high-density-list-inverted-background-color: #535353;
   --brk-card-high-density-list-inverted-border-color: #1a1a1a;
-  --brk-card-high-density-list-inverted-box-shadow-default: 0 0 0 0 #000000;
-  --brk-card-high-density-list-inverted-box-shadow-hover: 0 2 8 0 #e6e6e6;
   --brk-card-high-density-list-inverted-heading-font-color: #ffffff;
   --brk-card-high-density-list-inverted-heading-icon-fill-default: #e6e6e6;
   --brk-card-high-density-list-inverted-heading-icon-fill-focus: #e6e6e6;
