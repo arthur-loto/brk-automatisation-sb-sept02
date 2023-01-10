@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Thu, 05 Jan 2023 16:52:35 GMT
+// Generated on Tue, 10 Jan 2023 15:30:03 GMT
 
 
 #import <Foundation/Foundation.h>
@@ -39,10 +39,8 @@
 #define BrkHeaderMainLgContentGap 16px
 #define BrkHeaderMainStandardBackgroundColor #a6ecff
 #define BrkHeaderMainInvertedBackgroundColor #0b5db7
-#define BrkInfoProductSmHeight 32px
-#define BrkInfoProductSmTextHorizontalPadding 8px
-#define BrkInfoProductSmHeadingPaddingBottom 4px
-#define BrkInfoProductSmSeparatorHeight 32px
+#define BrkInfoProductSmContentGap 8px
+#define BrkInfoProductSmTextContentGap 4px
 #define BrkInfoProductSmHeadingFontFamily Arial
 #define BrkInfoProductSmHeadingFontWeight 400
 #define BrkInfoProductSmHeadingLineHeight 100%
@@ -53,10 +51,8 @@
 #define BrkInfoProductSmBodyLineHeight 100%
 #define BrkInfoProductSmBodyFontSize 13px
 #define BrkInfoProductSmBodyLetterSpacing -2%
-#define BrkInfoProductMdHeight 40px
-#define BrkInfoProductMdSeparatorHeight 40px
-#define BrkInfoProductMdTextHorizontalPadding 12px
-#define BrkInfoProductMdHeadingPaddingBottom 8px
+#define BrkInfoProductMdContentGap 12px
+#define BrkInfoProductMdTextContentGap 8px
 #define BrkInfoProductMdHeadingFontFamily Arial
 #define BrkInfoProductMdHeadingFontWeight 400
 #define BrkInfoProductMdHeadingLineHeight 100%
@@ -67,10 +63,8 @@
 #define BrkInfoProductMdBodyLineHeight 100%
 #define BrkInfoProductMdBodyFontSize 15px
 #define BrkInfoProductMdBodyLetterSpacing -2%
-#define BrkInfoProductLgHeight 40px
-#define BrkInfoProductLgSeparatorHeight 40px
-#define BrkInfoProductLgTextHorizontalPadding 24px
-#define BrkInfoProductLgHeadingPaddingBottom 8px
+#define BrkInfoProductLgContentGap 24px
+#define BrkInfoProductLgTextContentGap 8px
 #define BrkInfoProductLgHeadingFontFamily Arial
 #define BrkInfoProductLgHeadingFontWeight 400
 #define BrkInfoProductLgHeadingLineHeight 100%
@@ -82,11 +76,12 @@
 #define BrkInfoProductLgBodyFontSize 15px
 #define BrkInfoProductLgBodyLetterSpacing -2%
 #define BrkInfoProductSeparatorWidth 1px
+#define BrkInfoProductSeparatorHeight 100%
 #define BrkInfoProductStandardHeadingFontColor #1a1a1a
-#define BrkInfoProductStandardBodyFontColor #060606
+#define BrkInfoProductStandardBodyFontColor #0b5db7
 #define BrkInfoProductStandardSeparatorColor #e6e6e6
 #define BrkInfoProductInvertedHeadingFontColor #1a1a1a
-#define BrkInfoProductInvertedBodyFontColor #060606
+#define BrkInfoProductInvertedBodyFontColor #0b5db7
 #define BrkInfoProductInvertedSeparatorColor #e6e6e6
 #define BrkTemplateSmContentGapHorizontal 16px
 #define BrkTemplateSmContentGapVertical 24px
